@@ -2,7 +2,14 @@
 
 /* 2. Import Google Font for Mongolian Script
    This ensures users without local fonts see the script correctly. */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mongolian&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mongolian&display=swap'); */
+@font-face {
+  font-family: 'Cmdashitseden';
+  src: url('/public/cmdashitseden.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 /* 3. Global Body Settings */
 body {
@@ -37,7 +44,7 @@ body {
 .vertical-script {
   writing-mode: vertical-lr;
   text-orientation: mixed;
-  font-family: "Noto Sans Mongolian";
+  font-family: "Mongolian Baiti", "Noto Sans Mongolian", serif;
   
   /* 1. Remove white-space: nowrap; */
   /* 2. Allow the text to wrap to the next column */

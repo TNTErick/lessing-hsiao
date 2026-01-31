@@ -6,7 +6,7 @@ export interface DictionaryItem {
   pronunciation: string;
   definition: string;
   category: string;
-  // [key: string]: any;
+  // [key: string]: any; // Allow loose typing for other imported fields if necessary
 }
 
 export interface NotificationState {

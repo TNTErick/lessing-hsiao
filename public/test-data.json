@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "cyrillic": "Сайн байна уу",
+        "traditional": "ᠰᠠᠶᠢᠨ ᠪᠠᠶᠢᠨ᠎ᠠ ᠤᠤ",
+        "romanization": "Sain baina uu",
+        "pronunciation": "/sæe̯n pæe̯n ʊː/",
+        "definition": "Hello / How are you?",
+        "category": "Greetings"
+    },
+    {
+        "id": "2",
+        "cyrillic": "Баярлалаа",
+        "traditional": "ᠪᠠᠶᠠᠷᠯᠠᠯᠠ",
+        "romanization": "Bayarlalaa",
+        "pronunciation": "/bajr̩ɮaː/",
+        "definition": "Thank you",
+        "category": "Greetings"
+    },
+    {
+        "id": "3",
+        "cyrillic": "Ном",
+        "traditional": "ᠨᠣᠮ",
+        "romanization": "Nom",
+        "pronunciation": "/nɔm/",
+        "definition": "Book",
+        "category": "Nouns"
+    },
+    {
+        "id": "4",
+        "cyrillic": "Сургууль",
+        "traditional": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ",
+        "romanization": "Surguuli",
+        "pronunciation": "/sʊrɡʊːlʲ/",
+        "definition": "School",
+        "category": "Nouns"
+    },
+    {
+        "id": "5",
+        "cyrillic": "Ус",
+        "traditional": "ᠤᠰᠤ",
+        "romanization": "Us",
+        "pronunciation": "/ʊs/",
+        "definition": "Water",
+        "category": "Nouns"
+    },
+    {
+        "id": "6",
+        "cyrillic": "Тэнгэр",
+        "traditional": "ᠲᠩᠷᠢ",
+        "romanization": "Tenger",
+        "pronunciation": "/tʰeŋɡer/",
+        "definition": "Sky / Heaven",
+        "category": "Nature"
+    },
+    {
+        "id": "7",
+        "cyrillic": "Морь",
+        "traditional": "ᠮᠣᠷᠢ",
+        "romanization": "Mori",
+        "pronunciation": "/mɔrʲ/",
+        "definition": "Horse",
+        "category": "Animals"
+    },
+    {
+        "id": "8",
+        "cyrillic": "Гэр",
+        "traditional": "ᠭᠡᠷ",
+        "romanization": "Ger",
+        "pronunciation": "/ɡer/",
+        "definition": "Home / Yurt",
+        "category": "Culture"
+    }
+]
