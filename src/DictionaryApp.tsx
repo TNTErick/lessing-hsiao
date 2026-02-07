@@ -1,12 +1,13 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Search, X, Upload, Star, ChevronRight, Info, Volume2, Globe } from 'lucide-react';
-import type { DictionaryItem, NotificationState } from './interface';
+import { Search } from 'lucide-react';
+import type { DictionaryItem, langType, NotificationState } from './interface';
 import { Header } from './components/Header';
 
-import untypedDefaultData from '../public/test-data.json';
+import untypedDefaultData from './data/test-data.json';
 import { DetailModal } from './components/DetailModal';
 import { NotificationToast } from './components/NotificationToast';
 import DictionaryCard from './components/DictionaryCard';
+import InfoModal from './components/InfoModal';
 const DEFAULT_DATA = untypedDefaultData as DictionaryItem[];
 
 export default function DictionaryApp() {
@@ -18,7 +19,10 @@ export default function DictionaryApp() {
   const [selectedTerm, setSelectedTerm] = useState<DictionaryItem | null>(null); // For the modal
   const [favorites, setFavorites] = useState<string[]>([]);
   const [showFavoritesOnly, setShowFavoritesOnly] = useState<boolean>(false);
+  // ts-expect-error ts(2322)
   const [notification, setNotification] = useState<NotificationState | null>(null);
+  const [isInfoOpen, setIsInfoOpen] = useState<boolean>(false);
+  const [language, setLanguage] = useState<langType>('en');
 
   // --- EFFECTS ---
 
@@ -144,13 +148,15 @@ export default function DictionaryApp() {
     <div className="min-h-screen bg-slate-50 text-slate-800 font-sans flex flex-col">
 
       <Header
-        handleFileUpload={()=>{}}
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
         selectedLetter={selectedLetter}
         setSelectedLetter={setSelectedLetter}
         showFavoritesOnly={showFavoritesOnly}
         setShowFavoritesOnly={setShowFavoritesOnly}
+        language={language}
+        setLanguage={setLanguage}
+        setIsInfoOpen={setIsInfoOpen}
       />
 
       {/* MAIN CONTENT */}
@@ -185,12 +191,17 @@ export default function DictionaryApp() {
         </div>
       </main>
 
+
+      {/* Pop-up things that are invisible by default */}
+
       <DetailModal
         selectedTerm={selectedTerm}
         setSelectedTerm={setSelectedTerm}
         favorites={favorites}
         toggleFavorite={toggleFavorite}
       />
+
+      <InfoModal isInfoOpen={isInfoOpen} setIsInfoOpen={setIsInfoOpen} language={language} />
 
       <NotificationToast notification={notification} />
     </div>

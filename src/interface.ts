@@ -13,3 +13,11 @@ export interface NotificationState {
   message: string;
   type: 'success' | 'error';
 }
+
+export const LANGUAGES = [
+  'en',
+  'mn',
+  'jp',
+  'zh'
+] as const;
+export type langType = typeof LANGUAGES[number];
