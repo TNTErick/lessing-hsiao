@@ -6,11 +6,16 @@ import type { JSX } from "react";
 interface DetailModalProps {
   selectedTerm: DictionaryItem | null;
   setSelectedTerm: (term: DictionaryItem | null) => void;
-  favorites: string[];
-  toggleFavorite: (id: string, e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void;
+  // favorites: string[];
+  // toggleFavorite: (id: string, e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void;
 };
 
-export function DetailModal({ selectedTerm, setSelectedTerm, favorites, toggleFavorite }: DetailModalProps): JSX.Element {
+export function DetailModal({ 
+  selectedTerm,
+  setSelectedTerm,
+  // favorites,
+  // toggleFavorite
+}: DetailModalProps): JSX.Element {
     return (
       <>
       {selectedTerm && (
@@ -71,7 +76,7 @@ export function DetailModal({ selectedTerm, setSelectedTerm, favorites, toggleFa
 
               {/* Footer Actions */}
               <div className="p-4 bg-slate-50 border-t border-slate-100 flex space-x-3">
-                <button
+                {/* <button
                   onClick={() => {
                     const utterance = new SpeechSynthesisUtterance(selectedTerm.cyrillic);
                     utterance.lang = 'mn-MN';
@@ -91,7 +96,7 @@ export function DetailModal({ selectedTerm, setSelectedTerm, favorites, toggleFa
                 >
                   <Star className={`w-4 h-4 ${favorites.includes(selectedTerm.id) ? 'fill-current' : ''}`} />
                   <span>{favorites.includes(selectedTerm.id) ? 'Saved' : 'Save'}</span>
-                </button>
+                </button> */}
               </div>
             </div>
           </div>

@@ -6,11 +6,17 @@ interface DictionaryCardProps {
   item: DictionaryItem;
   setSelectedTerm: (term: DictionaryItem | null) => void;
   speakTerm: (text: string, e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void;
-  toggleFavorite: (id: string, e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void;
-  favorites: string[];
+  // toggleFavorite: (id: string, e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void;
+  // favorites: string[];
 }
 
-export default function DictionaryCard({ item, setSelectedTerm, speakTerm, toggleFavorite, favorites }: DictionaryCardProps): JSX.Element {
+export default function DictionaryCard({ 
+  item,
+  setSelectedTerm,
+  speakTerm,
+  // toggleFavorite,
+  // favorites
+  }: DictionaryCardProps): JSX.Element {
   return (
     <div
       key={item.id}
@@ -38,8 +44,8 @@ export default function DictionaryCard({ item, setSelectedTerm, speakTerm, toggl
           {/* Horizontal Text Stack */}
           <div className="flex flex-col justify-center">
             <div className="flex items-baseline space-x-2">
-              <h2 className="text-xl font-bold text-slate-900">{item.cyrillic}</h2>
-              <span className="text-sm text-slate-500 font-medium">({item.romanization})</span>
+              <h2 className="text-xl font-bold text-slate-900">{item.romanisation}</h2>
+              <span className="text-sm text-slate-500 font-medium">({item.cyrillic ?? ""})</span>
             </div>
 
             <div className="flex items-center space-x-2 text-sm text-slate-400 mt-1">
@@ -57,7 +63,7 @@ export default function DictionaryCard({ item, setSelectedTerm, speakTerm, toggl
 
       {/* Actions */}
       <div className="flex items-center space-x-2 opacity-0 group-hover:opacity-100 transition-opacity self-end sm:self-center">
-        <button
+        {/* <button
           onClick={(e) => speakTerm(item.cyrillic, e)}
           className="p-2 text-gray-400 hover:text-blue-600 hover:bg-blue-50 rounded-full transition"
           title="Pronounce"
@@ -72,7 +78,7 @@ export default function DictionaryCard({ item, setSelectedTerm, speakTerm, toggl
             }`}
         >
           <Star className={`w-5 h-5 ${favorites.includes(item.id) ? 'fill-current' : ''}`} />
-        </button>
+        </button> */}
         <ChevronRight className="w-5 h-5 text-gray-300" />
       </div>
     </div>

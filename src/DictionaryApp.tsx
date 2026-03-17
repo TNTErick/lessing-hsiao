@@ -17,8 +17,11 @@ export default function DictionaryApp() {
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [selectedLetter, setSelectedLetter] = useState<string>('All');
   const [selectedTerm, setSelectedTerm] = useState<DictionaryItem | null>(null); // For the modal
-  const [favorites, setFavorites] = useState<string[]>([]);
-  const [showFavoritesOnly, setShowFavoritesOnly] = useState<boolean>(false);
+  // const [favorites, setFavorites] = useState<string[]>([]);
+  // const [showFavoritesOnly, setShowFavoritesOnly] = useState<boolean>(false);
+  const showFavoritesOnly = false; // Temporarily disable favorites filter
+  // const favorites: string[] = [] as const; // Temporarily disable favorites feature
+  const setShowFavoritesOnly = () => {}; // Placeholder function to avoid errors
   // ts-expect-error ts(2322)
   const [notification, setNotification] = useState<NotificationState | null>(null);
   const [isInfoOpen, setIsInfoOpen] = useState<boolean>(false);
@@ -27,73 +30,28 @@ export default function DictionaryApp() {
   // --- EFFECTS ---
 
   // Load favorites from local storage on boot
-  useEffect(() => {
-    const savedFavs = localStorage.getItem('dict_favorites');
-    if (savedFavs) {
-      setFavorites(JSON.parse(savedFavs));
-    }
-  }, []);
+  // useEffect(() => {
+  //   const savedFavs = localStorage.getItem('dict_favorites');
+  //   if (savedFavs) {
+  //     setFavorites(JSON.parse(savedFavs));
+  //   }
+  // }, []);
 
   // Save favorites whenever they change
   useEffect(() => {
     localStorage.setItem('dict_favorites', JSON.stringify(favorites));
   }, [favorites]);
 
-  // --- HANDLERS ---
 
-  // const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
-  //   const file = event.target.files?.[0];
-  //   if (!file) return;
 
-  //   const reader = new FileReader();
-  //   reader.onload = (e) => {
-  //     try {
-  //       const result = e.target?.result as string;
-  //       const json = JSON.parse(result);
-
-  //       if (Array.isArray(json)) {
-  //         // Map FileMaker export fields to our internal schema
-  //         const normalizedData: DictionaryItem[] = json.map((item: any, index: number) => {
-  //           // Helper to find field ignoring case
-  //           const getField = (obj: any, key: string) => {
-  //             const foundKey = Object.keys(obj).find(k => k.toLowerCase() === key.toLowerCase());
-  //             return foundKey ? obj[foundKey] : null;
-  //           };
-
-  //           // Check standard object or fieldData (FileMaker XML/JSON format often uses fieldData)
-  //           const src = item.fieldData || item;
-
-  //           return {
-  //             id: item.id || item.ID || `imported-${index}`,
-  //             cyrillic: getField(src, 'cyrillic') || getField(src, 'term') || "Untitled",
-  //             traditional: getField(src, 'traditional') || "",
-  //             romanization: getField(src, 'romanization') || getField(src, 'latin') || "",
-  //             pronunciation: getField(src, 'pronunciation') || getField(src, 'ipa') || "",
-  //             definition: getField(src, 'definition') || getField(src, 'meaning') || "No definition",
-  //             category: getField(src, 'category') || "General"
-  //           };
-  //         });
-
-  //         setData(normalizedData);
-  //         showNotification(`Successfully imported ${normalizedData.length} terms!`, 'success');
-  //       } else {
-  //         showNotification('Invalid JSON format. Expected an array of records.', 'error');
-  //       }
-  //     } catch (err) {
-  //       showNotification('Error parsing JSON file.', 'error');
-  //     }
-  //   };
-  //   reader.readAsText(file);
+  // const toggleFavorite = (id: string, e: React.MouseEvent) => {
+  //   e.stopPropagation();
+  //   if (favorites.includes(id)) {
+  //     setFavorites(favorites.filter(favId => favId !== id));
+  //   } else {
+  //     setFavorites([...favorites, id]);
+  //   }
   // };
-
-  const toggleFavorite = (id: string, e: React.MouseEvent) => {
-    e.stopPropagation();
-    if (favorites.includes(id)) {
-      setFavorites(favorites.filter(favId => favId !== id));
-    } else {
-      setFavorites([...favorites, id]);
-    }
-  };
 
   // const showNotification = (message: string, type: 'success' | 'error') => {
   //   setNotification({ message, type });
@@ -123,8 +81,8 @@ export default function DictionaryApp() {
     if (searchQuery) {
       const lowerQuery = searchQuery.toLowerCase();
       result = result.filter(item =>
-        item.cyrillic.toLowerCase().includes(lowerQuery) ||
-        item.romanization.toLowerCase().includes(lowerQuery) ||
+        item.cyrillic?.toLowerCase().includes(lowerQuery) ||
+        item.romanisation.toLowerCase().includes(lowerQuery) ||
         item.definition.toLowerCase().includes(lowerQuery)
       );
     }
@@ -132,14 +90,13 @@ export default function DictionaryApp() {
     // 3. Filter by Letter (Based on Romanization for easier sorting, or Cyrillic if preferred)
     if (selectedLetter !== 'All' && !searchQuery) {
       result = result.filter(item =>
-        // Using Cyrillic for alphabet filtering usually makes sense for Mongolian dictionaries,
-        // but can be switched to romanization.charAt(0) if preferred.
-        item.cyrillic.charAt(0).toUpperCase() === selectedLetter
+        // Using romanisation for alphabet filtering
+        item.romanisation.charAt(0).toUpperCase() === selectedLetter
       );
     }
 
     // 4. Sort Alphabetically (by Cyrillic)
-    return result.sort((a, b) => a.cyrillic.localeCompare(b.cyrillic));
+    return result.sort((a, b) => a.romanisation.localeCompare(b.romanisation));
   }, [data, searchQuery, selectedLetter, showFavoritesOnly, favorites]);
 
   // --- RENDER ---
@@ -176,8 +133,8 @@ export default function DictionaryApp() {
               item={item}
               setSelectedTerm={setSelectedTerm}
               speakTerm={speakTerm}
-              toggleFavorite={toggleFavorite}
-              favorites={favorites}
+              // toggleFavorite={toggleFavorite}
+              // favorites={favorites}
             />)
           ) : (
             <div className="text-center py-20">
@@ -197,8 +154,8 @@ export default function DictionaryApp() {
       <DetailModal
         selectedTerm={selectedTerm}
         setSelectedTerm={setSelectedTerm}
-        favorites={favorites}
-        toggleFavorite={toggleFavorite}
+        // favorites={favorites}
+        // toggleFavorite={toggleFavorite}
       />
 
       <InfoModal isInfoOpen={isInfoOpen} setIsInfoOpen={setIsInfoOpen} language={language} />

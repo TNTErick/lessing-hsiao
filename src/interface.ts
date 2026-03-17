@@ -1,11 +1,12 @@
 export interface DictionaryItem {
   id: string;
-  cyrillic: string;
+  main_word: string;
   traditional: string;
-  romanization: string;
-  pronunciation: string;
+  romanisation: string;
+  cyrillic?: string;
+  pronunciation?: string;
   definition: string;
-  category: string;
+  category?: string;
   // [key: string]: any; // Allow loose typing for other imported fields if necessary
 }
 
