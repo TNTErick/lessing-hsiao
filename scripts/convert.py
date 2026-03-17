@@ -145,76 +145,62 @@ def page2col(colour: cv2.Mat, binary: cv2.Mat) -> cv2.Mat[4]:
     
     return col_left, col_right, bin_left, bin_right
 
-
-def segment_entries(col_img: np.ndarray, bin_img: np.ndarray = None) -> list[np.ndarray]:
-    """
-    Slices a column image into individual dictionary entries based on the 
-    vertical Mongolian script on the left.
-    """
-    # 1. Prepare Binary Image (if not provided)
-    if bin_img is None:
-        gray = cv2.cvtColor(col_img, cv2.COLOR_BGR2GRAY)
-        _, bin_img = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)
-
+def segment_entries(col_img: cv2.Mat, bin_img: cv2.Mat) -> tuple[cv2.Mat]:
     h, w = bin_img.shape
     
-    # 2. Define the "Script Strip" (Leftmost 18% of the column)
-    # We restrict detection to this zone to avoid picking up English text.
-    strip_width = int(w * 0.18)
+    # 1. Get the Left Strip (Vertical Script Zone)
+    # We only care about the ink in this region
+    strip_width = int(w * 0.15)
     script_strip = bin_img[:, :strip_width]
     
-    # 3. Aggressive Vertical Dilation
-    # The vertical script often has small gaps (broken ink, separate suffixes).
-    # We use a tall kernel to fuse them into one solid "blob" per entry.
-    # Kernel size (1, 15) means "look 15 pixels down".
-    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 20)) 
-    dilated_strip = cv2.dilate(script_strip, kernel, iterations=1)
+    # 2. Aggressive Dilation (The "Smear")
+    # We use a vertical kernel (1 pixel wide, 5 pixels tall)
+    # We apply it 6 times (or just use a (1, 30) kernel once, which is cleaner)
+    # This turns "dotted lines" into one solid black bar.
+    # kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 30)) 
+    dilated_mask = cv2.dilate(script_strip, None, iterations=3)
     
-    # 4. Find Contours (The Headwords)
-    contours, _ = cv2.findContours(dilated_strip, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    # 3. Find Blocks
+    # Now we find contours on this "smeared" mask.
+    contours, _ = cv2.findContours(dilated_mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
     
-    # 5. Extract Candidate Y-Coordinates
-    candidates = []
+    # 4. Extract Cut Points
+    cut_points = []
     for c in contours:
         x, y, w_c, h_c = cv2.boundingRect(c)
         
-        # Filter Noise: 
-        # A real vertical headword in Lessing is usually at least 25px tall.
-        if h_c > 25: 
-            candidates.append(y)
+        # Filter: Ignore tiny noise specks (e.g., dust < 30px tall)
+        if h_c > 30:
+            cut_points.append(y)
             
-    # Sort top-to-bottom so we slice in reading order
-    candidates.sort()
+    cut_points.sort()
     
-    # 6. Filter "Too Close" Starts (Debouncing)
-    # Sometimes a single word still breaks into two contours. 
-    # If two start points are within ~30px, ignore the second one.
-    if not candidates:
-        return []
-
-    final_starts = [candidates[0]]
-    for y in candidates[1:]:
-        if (y - final_starts[-1]) > 30: # Minimum entry height threshold
-            final_starts.append(y)
-    
-    # 7. Generate Slices
+    # 5. Slice the Original Image
     entries = []
-    for i in range(len(final_starts)):
-        y_start = final_starts[i]
+    for i in range(len(cut_points)):
+        y_start = cut_points[i]
         
         # The end of this entry is the start of the next one
-        if i < len(final_starts) - 1:
-            y_end = final_starts[i+1]
+        if i < len(cut_points) - 1:
+            y_end = cut_points[i+1]
         else:
-            y_end = h # The last entry goes to the bottom
+            y_end = h 
+        
+        # Optional: Add a tiny buffer (-5) to y_start to include top serifs
+        safe_y = max(0, y_start - 5)
+        
+        sliced = col_img[safe_y:y_end, :]
+        if sliced.shape[0] > 0:
+            # check if the area is empty
             
-        # Safety check: Ensure valid slice height
-        if y_end - y_start > 10:
-            # We treat the Y-coordinate as a hard cut across the whole column
-            entry_slice = col_img[y_start:y_end, :]
-            entries.append(entry_slice)
+            entries.append(sliced)
+        else:
+            print("No entry found!")
+        # entries.append()
         
     return entries
+
+
 # --- USAGE ---
 # col_left, col_right, col_left_bin, col_right_bin = page2col(imColour, imBinary)
 
