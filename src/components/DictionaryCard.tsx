@@ -1,4 +1,4 @@
-import { ChevronRight, Star, Volume2 } from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import type { DictionaryItem } from "../interface";
 import type { JSX } from "react";
 
@@ -13,7 +13,7 @@ interface DictionaryCardProps {
 export default function DictionaryCard({ 
   item,
   setSelectedTerm,
-  speakTerm,
+  // speakTerm,
   // toggleFavorite,
   // favorites
   }: DictionaryCardProps): JSX.Element {
@@ -28,7 +28,7 @@ export default function DictionaryCard({
         <div className="flex items-center space-x-4 mb-2">
 
           {/* Vertical Script Display (with fixed height to prevent massive expansion) */}
-          <div className="h-16 flex items-center bg-slate-50 px-2 rounded border border-slate-100">
+          <div className="flex items-center bg-slate-50 px-2 rounded border border-slate-100">
             <h2
               className="text-3xl text-slate-800 font-serif leading-none"
               style={{

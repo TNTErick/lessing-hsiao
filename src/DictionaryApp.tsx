@@ -1,6 +1,6 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useMemo } from 'react';
 import { Search } from 'lucide-react';
-import type { DictionaryItem, langType, NotificationState } from './interface';
+import type { DictionaryItem, langType } from './interface';
 import { Header } from './components/Header';
 
 import untypedDefaultData from './data/test-data.json';
@@ -22,8 +22,9 @@ export default function DictionaryApp() {
   const showFavoritesOnly = false; // Temporarily disable favorites filter
   // const favorites: string[] = [] as const; // Temporarily disable favorites feature
   const setShowFavoritesOnly = () => {}; // Placeholder function to avoid errors
-  // ts-expect-error ts(2322)
-  const [notification, setNotification] = useState<NotificationState | null>(null);
+  
+  const notification = null; // Temporarily disable notifications
+  // const [notification, setNotification] = useState<NotificationState | null>(null);
   const [isInfoOpen, setIsInfoOpen] = useState<boolean>(false);
   const [language, setLanguage] = useState<langType>('en');
 
@@ -38,9 +39,9 @@ export default function DictionaryApp() {
   // }, []);
 
   // Save favorites whenever they change
-  useEffect(() => {
-    localStorage.setItem('dict_favorites', JSON.stringify(favorites));
-  }, [favorites]);
+  // useEffect(() => {
+  //   localStorage.setItem('dict_favorites', JSON.stringify(favorites));
+  // }, [favorites]);
 
 
 
@@ -73,9 +74,9 @@ export default function DictionaryApp() {
     let result = data;
 
     // 1. Filter by Favorites
-    if (showFavoritesOnly) {
-      result = result.filter(item => favorites.includes(item.id));
-    }
+    // if (showFavoritesOnly) {
+    //   result = result.filter(item => favorites.includes(item.id));
+    // }
 
     // 2. Filter by Search Query (Cyrillic, Romanization, or Definition)
     if (searchQuery) {
@@ -97,7 +98,9 @@ export default function DictionaryApp() {
 
     // 4. Sort Alphabetically (by Cyrillic)
     return result.sort((a, b) => a.romanisation.localeCompare(b.romanisation));
-  }, [data, searchQuery, selectedLetter, showFavoritesOnly, favorites]);
+  }, [data, searchQuery, selectedLetter
+    // , showFavoritesOnly, favorites
+  ]);
 
   // --- RENDER ---
 
@@ -158,7 +161,7 @@ export default function DictionaryApp() {
         // toggleFavorite={toggleFavorite}
       />
 
-      <InfoModal isInfoOpen={isInfoOpen} setIsInfoOpen={setIsInfoOpen} language={language} />
+      <InfoModal isInfoOpen={isInfoOpen} setIsInfoOpen={setIsInfoOpen} />
 
       <NotificationToast notification={notification} />
     </div>

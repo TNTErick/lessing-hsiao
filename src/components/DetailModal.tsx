@@ -1,4 +1,4 @@
-import { Info, Star, Volume2, X } from "lucide-react";
+import { Info, X } from "lucide-react";
 import type { DictionaryItem } from "../interface";
 import type { JSX } from "react";
 

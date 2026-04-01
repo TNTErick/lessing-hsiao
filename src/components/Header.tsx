@@ -1,4 +1,4 @@
-import { Globe, Search, Star, Info, ChevronDown, X } from "lucide-react";
+import { Globe, Search, Info, ChevronDown, X } from "lucide-react";
 import { useState, type JSX } from "react";
 import { LANGUAGES, type langType } from "../interface";
 
@@ -7,8 +7,7 @@ export interface HeaderProps {
     setSearchQuery: (query: string) => void;
     selectedLetter: string;
     setSelectedLetter: (letter: string) => void;
-    showFavoritesOnly: boolean;
-    setShowFavoritesOnly: (show: boolean) => void;
+
     language: langType;
     setLanguage: (lang: langType) => void;
     setIsInfoOpen: (isOpen: boolean) => void;
@@ -19,15 +18,14 @@ export function Header({
     setSearchQuery, 
     selectedLetter, 
     setSelectedLetter, 
-    showFavoritesOnly, 
-    setShowFavoritesOnly,
+
     language,
     setLanguage,
     setIsInfoOpen
 }: HeaderProps): JSX.Element {
     
     const [isLangOpen, setIsLangOpen] = useState(false);
-    const alphabet = ['All', ...'АБВГДЕЁЖЗИЙКЛМНОӨПРСТУҮФХЦЧШЩЪЫЬЭЮЯ'.split('')];
+    const alphabet = ['All', ...'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')];
 
     return (
         <header className="bg-blue-800 text-white shadow-lg sticky top-0 z-30">
@@ -111,16 +109,6 @@ export function Header({
             {/* Alphabet Filter Bar */}
             <div className="bg-white border-b border-gray-200 text-gray-600 overflow-x-auto">
                 <div className="max-w-4xl mx-auto flex items-center space-x-1 px-4 py-2 min-w-max">
-                    <button
-                        onClick={() => setShowFavoritesOnly(!showFavoritesOnly)}
-                        className={`flex items-center space-x-1 px-3 py-1 rounded-full text-sm font-medium transition mr-4 ${
-                            showFavoritesOnly ? 'bg-amber-100 text-amber-700' : 'hover:bg-gray-100'
-                        }`}
-                    >
-                        <Star className={`w-4 h-4 ${showFavoritesOnly ? 'fill-current' : ''}`} />
-                        <span>Saved</span>
-                    </button>
-
                     <div className="h-6 w-px bg-gray-300 mx-2"></div>
 
                     {alphabet.map((letter) => (
