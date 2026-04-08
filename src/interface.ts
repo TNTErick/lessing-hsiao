@@ -22,3 +22,10 @@ export const LANGUAGES = [
   'zh'
 ] as const;
 export type langType = typeof LANGUAGES[number];
+
+export type SearchField = 'romanisation' | 'cyrillic' | 'english';
+export const SEARCH_FIELD_LABELS: Record<SearchField, string> = {
+  romanisation: 'Romanisation',
+  cyrillic: 'Cyrillic',
+  english: 'English',
+};

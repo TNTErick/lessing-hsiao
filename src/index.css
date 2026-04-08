@@ -5,14 +5,14 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mongolian&display=swap'); */
 @font-face {
   font-family: 'Cmdashitseden';
-  src: url('/public/cmdashitseden.ttf') format('truetype');
+  src: url('/cmdashitseden.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Mongolian Baiti';
-  src: url('/public/mnglwritingotf.ttf') format('truetype');
+  src: url('/mnglwritingotf.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
