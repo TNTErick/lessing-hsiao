@@ -1,73 +1,63 @@
-# React + TypeScript + Vite
+# Lessing's Mongolian-English Dictionary — Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web interface for **Lessing's Mongolian-English Dictionary** (1960), supporting romanised, Cyrillic, and traditional Mongolian script.
 
-Currently, two official plugins are available:
+Live at: **https://tnterick.github.io/lessing-hsiao/**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+- **Search** by romanisation, Cyrillic, or explanation text
+- **Alphabet filter** for quick browsing by initial letter
+- **Romanisation scheme switcher** (multiple schemes supported)
+- **Traditional Mongolian script** displayed vertically alongside each entry
+- **Detail modal** with the original scanned dictionary page, zoom and pan controls
+- Romanisation rendered in Noto Sans for correct display of characters like γ
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Development
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+**Prerequisites:** Node.js, Yarn
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+yarn install
+yarn dev        # start dev server at http://localhost:5173
+yarn build      # type-check + production build
+yarn preview    # preview production build locally
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Deployment
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+The app deploys to GitHub Pages under the [`gh-pages` branch](https://github.com/TNTErick/lessing-hsiao/tree/gh-pages).
+
+```bash
+yarn deploy
 ```
+
+This runs `yarn build` then publishes the `dist/` folder to the `gh-pages` branch via the `gh-pages` package.
+
+> Make sure you have push access to the repository and that GitHub Pages is configured to serve from the `gh-pages` branch in the repository settings.
+
+---
+
+## Tech Stack
+
+| Tool | Purpose |
+|---|---|
+| React 19 + TypeScript | UI framework |
+| rolldown-vite | Build tool |
+| Tailwind CSS v4 | Styling |
+| react-window | Virtualised list for large entry count |
+| Noto Sans (Google Fonts) | Romanisation display font |
+| gh-pages | GitHub Pages deployment |
+
+---
+
+## Fonts
+
+- **Romanised text** — Noto Sans (loaded from Google Fonts)
+- **Traditional Mongolian script** — `Mongolian Baiti` / `Cmdashitseden` (bundled in `/public`)

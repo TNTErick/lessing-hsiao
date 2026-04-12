@@ -41,7 +41,7 @@ export default function DictionaryCard({
           {/* Horizontal Text Stack */}
           <div className="flex flex-col justify-center">
             <div className="flex items-baseline space-x-2">
-              <h2 className="text-xl font-bold text-slate-900">{displayRomanisation}</h2>
+              <h2 className="text-xl font-bold text-slate-900 romanised">{displayRomanisation}</h2>
               {item.cyrillic && <span className="text-sm text-slate-500 font-medium">({item.cyrillic})</span>}
             </div>
 

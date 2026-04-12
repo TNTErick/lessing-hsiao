@@ -15,7 +15,7 @@ export default function InfoModal({ isInfoOpen, setIsInfoOpen }: InfoModalProps)
           <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm">
             <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full overflow-hidden transform transition-all animate-in fade-in zoom-in duration-200">
               {/* Modal Header */}
-              <div className="bg-blue-800 p-6 text-white flex justify-between items-center">
+              <div className="bg-gradient-to-r from-indigo-950 via-indigo-900 to-slate-900 p-6 text-white flex justify-between items-center border-b border-indigo-800/50">
                 <div className="flex items-center space-x-3">
                   <Info className="w-6 h-6" />
                   <h2 className="text-xl font-bold">About the Dictionary</h2>

@@ -82,11 +82,11 @@ export function DetailModal({
               {/* Modal Header */}
               <div className="px-6 py-4 flex justify-between items-start border-b border-slate-100">
                 <div className="pt-2">
-                  {selectedTerm.cyrillic && (
-                    <h2 className="text-3xl font-bold text-slate-900 mb-1">{selectedTerm.cyrillic}</h2>
-                  )}
                   <div className="flex flex-col space-y-1">
-                    <span className="text-xl text-slate-600 font-medium">{convertToRomanised(selectedTerm.dicForm, romanisationScheme)}</span>
+                    <h2 className="text-3xl font-bold text-slate-900 mb-1 romanised">{convertToRomanised(selectedTerm.dicForm, romanisationScheme)}</h2>
+                    {selectedTerm.cyrillic && (
+                      <span className="text-xl text-slate-600 font-medium">{selectedTerm.cyrillic}</span>
+                    )}
                     <span className="font-mono text-xs text-slate-400">({selectedTerm.sourceId})</span>
                   </div>
                 </div>
@@ -148,7 +148,7 @@ export function DetailModal({
                     onWheel={onWheel}
                   >
                     <img
-                      src={`/lessing-images/${selectedTerm.imageName}`}
+                      src={`https://raw.githubusercontent.com/TNTErick/lessing-hsiao/assets/lessing-images/${selectedTerm.imageName}`}
                       alt={`Dictionary page for ${selectedTerm.dicForm}`}
                       className="block"
                       style={{ width: `${imageZoom * 100}%`, maxWidth: 'none' }}
