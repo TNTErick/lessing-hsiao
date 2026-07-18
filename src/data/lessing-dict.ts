@@ -253763,14 +253763,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1180-1-02",
     "tradRom": "oir_a",
     "imageName": "LessingDict_Page_1180.jpg",
-    "explain": "baraysan; T. su zad pa; S. parikshīņa. Completely exhausted. bytygsen; T. yongs su grub pa; S. pari-nishpanna. Perfected absolute. ED 325-6. bytygsen belge cinar; T. yongs su grub pa nyid; S. parnishpanna-lakshaa. (Marks of) perfection, absoluteness. ED 325-6. -- irygeky; T. yongs su bsngo ba; S. parināmana. To devote or transfer one's own merits completely to the benefit of others. ED 323 b. kereglekyi; T. yongs su spyod pa; S. paribhoga. Complete enjoyment or usufruct. ED 328 a. øcigsen; T. yongs su zhus pa; S. pariprcchā. Question, interrogation. ED 327. -- talbixu; T. yongs su gtong ba; S. parityāga. Com- plete abandonment, renunciation. tegysygsen; T. yongs su rdzogs pa; S. parinishpatti. Complete(n ess); perfection ( of Bus. or Bos.), etc. zorixu. To transfer completely (one's own bujan u coyca to one's fellow creatures) OIR -A; T. nye bar. The M. and T. adverbs substitute for the S. pref. upa-. sedkil i -- ayulxu; T. nye bar bzhag pa, nyer bzhag; S. upasthāna. Application (of one's mind). See duradxui.",
+    "explain": "nye bar. The M. and T. adverbs substitute for the S. pref. upa-. sedkil i -- ayulxu; T. nye bar bzhag pa, nyer bzhag; S. upasthāna. Application (of one's mind). See duradxui.",
     "cyrillic": "А",
-    "lessingForm": "OIUTATA",
+    "lessingForm": "OIR -A; T.",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -253778,12 +253775,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1180-1-03",
     "tradRom": "oyutu",
     "imageName": "LessingDict_Page_1180.jpg",
-    "explain": "tikshnendriya. A keen sense organ; an extra-sensitive sense.",
+    "explain": "masi xurca --; T. dbang po in tu rno ba; S. tikshnendriya. A keen sense organ; an extra-sensitive sense.",
     "cyrillic": "masi xurca --; T. dbang po in tu rno ba; S.",
     "lessingForm": "OJUTU",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -253791,101 +253787,140 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1180-1-04",
     "tradRom": "olan",
     "imageName": "LessingDict_Page_1180.jpg",
-    "explain": "OLAN sonusuysan; T. mang po thos pa; S. bahuçruta. Of much hearing, i.e. learning. One of the erdem of the sivarag and of the nøkyr sadun. ED 399 b.",
+    "explain": "sonusuysan; T. mang po thos pa; S. bahuçruta. Of much hearing, i.e. learning. One of the erdem of the sivarag and of the nøkyr sadun. ED 399 b.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OLAN"
   },
   {
     "index": 23602,
     "sourceId": "L1180-1-05",
     "tradRom": "olangki",
     "imageName": "LessingDict_Page_1180.jpg",
-    "explain": "OLANGKI ; T. phal po che; S. avatamsaka. A large number. -- burxan; T. sangs rgyas phal po che; S. Buddha-avatam- saka. A \"collection of Buddhas\", also a group of Scriptures. ED 7la.",
+    "explain": "phal po che; S. avatamsaka. A large number. -- burxan; T. sangs rgyas phal po che; S. Buddha-avatam- saka. A \"collection of Buddhas\", also a group of Scriptures. ED 7la.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OLANGKI ; T."
   },
   {
     "index": 23603,
     "sourceId": "L1180-1-06",
     "tradRom": "olqu",
     "imageName": "LessingDict_Page_1180.jpg",
-    "explain": "OLXU; T. hthob pa; S. prāpti. \"Reach', the force which regulates the cooperation of the nom ud (\"data\") at any given gsan (moment in the con- tinuum). See nom ud. ygei; T. hthob pa med pa; S. a-prapti. The force which excludes incompatible nom ud from appear- ing at a given moment. ORUXUI ONUL ; T. rtog pa; S. kalpa. (False) thought. ED l72 b yneker -- : Right thought. See mør.",
+    "explain": "hthob pa; S. prāpti. \"Reach', the force which regulates the cooperation of the nom ud (\"data\") at any given gsan (moment in the con- tinuum). See nom ud. ygei; T. hthob pa med pa; S. a-prapti. The force which excludes incompatible nom ud from appear- ing at a given moment. ( usually nazalized \"o\"). This mystic syllbable is",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OLXU; T."
   },
   {
     "index": 23604,
     "sourceId": "L1180-1-07",
     "tradRom": "om",
     "imageName": "LessingDict_Page_1180.jpg",
-    "explain": "the beginning of mumerous tarni. MANI BADME HUM; T. and S. OM MANI PADME HUM . OM Jewel in the Lotus HUM. The most frequently used tarni in the sense of a prayer, an exclamation and an apotropaeic expression. It refers to Nidyber ysegci. See arabazana.",
+    "explain": "the beginning of mumerous tarni.",
     "cyrillic": "( usually nazalized \"o\"). This mystic syllbable is",
     "lessingForm": "OM",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 23605,
     "sourceId": "L1180-2-01",
     "tradRom": "onul",
-    "imageName": "LessingDict_Page_1180.jpg"
+    "imageName": "LessingDict_Page_1180.jpg",
+    "explain": "rtog pa; S. kalpa. (False) thought. ED l72 b yneker -- : Right thought. See mør.",
+    "lessingForm": "ONUL ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23606,
     "sourceId": "L1180-2-02",
     "tradRom": "orun",
     "wIndex": "1",
-    "imageName": "LessingDict_Page_1180.jpg"
+    "imageName": "LessingDict_Page_1180.jpg",
+    "explain": "sa, Place. γarxui jin --; T.hbung gnas; S. ākara. (Place of) origin, source.",
+    "lessingForm": "ORUN, 1.; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23607,
     "sourceId": "L1180-2-03",
     "tradRom": "orun",
     "wIndex": "2",
-    "imageName": "LessingDict_Page_1180.jpg"
+    "imageName": "LessingDict_Page_1180.jpg",
+    "explain": "khams; S. dhātu. Plane of existence. amitan u --; T.sems can gyi khams; S. sattva- dhātu. The plane of existence of the amitan. birid yn --; T. yi dvags kyi khams; S. preta-vishaya. The sphere of the starveling ghosts. yurban --; T. khams gsum; S. traidhatuka. The triple universe, namely the kyseky orun, øngge jin orun, øngge ygei jin orun.",
+    "lessingForm": "ORUN, 2; T",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23608,
     "sourceId": "L1180-2-04",
     "tradRom": "orun",
     "wIndex": "3",
-    "imageName": "LessingDict_Page_1180.jpg"
+    "imageName": "LessingDict_Page_1180.jpg",
+    "explain": "yu; S. vishaya. Sphere, range, scope. See višai. nidyn y -- . The range of the eye or vision.",
+    "lessingForm": "ORUN, 3; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23609,
     "sourceId": "L1180-2-05",
     "tradRom": "orun",
     "wIndex": "4",
-    "imageName": "LessingDict_Page_1180.jpg"
+    "imageName": "LessingDict_Page_1180.jpg",
+    "explain": "zhing ; S. kshetra. The \"field\" of a Buddha, his (mystical) country over which he,surrounded by by his nøkyd, is the spiritual ruler.",
+    "lessingForm": "ORUN, 4 ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23610,
     "sourceId": "L1180-2-06",
     "tradRom": "orun",
     "wIndex": "5",
-    "imageName": "LessingDict_Page_1180.jpg"
+    "imageName": "LessingDict_Page_1180.jpg",
+    "explain": "gzhi; S.ālaya. Base. See ED l06 under ālaya-vijnāna.",
+    "lessingForm": "ORUN, 5; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23611,
     "sourceId": "L1180-2-07",
     "tradRom": "orun",
     "wIndex": "6",
-    "imageName": "LessingDict_Page_1180.jpg"
+    "imageName": "LessingDict_Page_1180.jpg",
+    "explain": "gnas; S. sthāna. Scientific discipline. uxayan u --; T. rig (pahi) gnas; S. vidyā-sthāna. Science, usuallyfive branches; grammar, logic, metaphysics, medicine, and craftsmanshift (art).",
+    "lessingForm": "ORUN, 6; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23612,
     "sourceId": "L1180-2-08",
     "tradRom": "orun",
     "wIndex": "7",
-    "imageName": "LessingDict_Page_1180.jpg"
+    "imageName": "LessingDict_Page_1180.jpg",
+    "explain": "sa; S. bhūmi. Any or all of the stages in the spiritual developme nt; ED 4ll a. bodisaduv-a jin -- ; T. byang chub sems dpahi sa; S. bodhisattva-bhumi. The ten stages( in the career) of a Bo. burxan u --; T. sangs rgyas kyi sa; S. buddha-bhūmi. The stages which lead to Buddhahood. sivaray un --; T. nyan thos kyi sa; S. crāvaka-bhūmi. Stations in the career of a siravay.",
+    "lessingForm": "ORUN,7 ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23613,
@@ -253893,12 +253928,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "orun",
     "wIndex": "8",
     "imageName": "LessingDict_Page_1180.jpg",
-    "explain": "γarxui jin --; T.hbung gnas; S. ākara. (Place of) origin, source. ORUN, 2; T khams; S. dhātu. Plane of existence. amitan u --; T.sems can gyi khams; S. sattva- dhātu. The plane of existence of the amitan. birid yn --; T. yi dvags kyi khams; S. preta-vishaya. The sphere of the starveling ghosts. yurban --; T. khams gsum; S. traidhatuka. The triple universe, namely the kyseky orun, øngge jin orun, øngge ygei jin orun.",
-    "lessingForm": "ORUN, 1.; T. sa, Place.",
+    "explain": "khams; S. dhatu. Any or all of the 18 divisions of the continuum of the personality (yrgylzi, T. rgyud, S. samtāna) consisting of the six erketen, the six visai, and the six tein medekyi.",
+    "lessingForm": "ORUN, 8; T.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -253906,157 +253939,253 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1180-2-10",
     "tradRom": "oruqui",
     "imageName": "LessingDict_Page_1180.jpg",
-    "explain": "ORUN, 3; T. yu; S. vishaya. Sphere, range, scope. See višai. nidyn y -- . The range of the eye or vision. ORUN, 4 ; T. zhing ; S. kshetra. The \"field\" of a Buddha, his (mystical) country over which he,surrounded by by his nøkyd, is the spiritual ruler. ORUN, 5; T. gzhi; S.ālaya. Base. See ED l06 under ālaya-vijnāna. ORUN, 6; T. gnas; S. sthāna. Scientific discipline. uxayan u --; T. rig (pahi) gnas; S. vidyā-sthāna. Science, usuallyfive branches; grammar, logic, metaphysics, medicine, and craftsmanshift (art). ORUN,7 ; T. sa; S. bhūmi. Any or all of the stages in the spiritual developme nt; ED 4ll a. bodisaduv-a jin -- ; T. byang chub sems dpahi sa; S. bodhisattva-bhumi. The ten stages( in the career) of a Bo. burxan u --; T. sangs rgyas kyi sa; S. buddha-bhūmi. The stages which lead to Buddhahood. sivaray un --; T. nyan thos kyi sa; S. crāvaka-bhūmi. Stations in the career of a siravay. ORUN, 8; T. khams; S. dhatu. Any or all of the 18 divisions of the continuum of the personality (yrgylzi, T. rgyud, S. samtāna) consisting of the six erketen, the six visai, and the six tein medekyi. ED 282. ORUXUI; T. hjug pa; S. anupraveça. Entrance into full realization, intellectual penetration. ED 3l b.",
+    "explain": "hjug pa; S. anupraveça. Entrance into full realization, intellectual penetration. ED 3l b.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORUXUI; T."
   },
   {
     "index": 23615,
     "sourceId": "L1181-1-01",
     "tradRom": "öber",
-    "explain": "self, own.",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "explain": "rang; S. ātman, sva. Self, own. φBER (φBER-E); T. so so, translates the S. prefix prati- in a distributive or singularizing meaning; each taken individually, singly. See øber-e, below. -- ijen burxan ( = bradigabud); T. rang sangs rgyas; S. pratyeka-buddha. A Buddha who has found enlighten- ment for himself but does not reveal it. ijen γaruysan; T. rang hbyung; S. svayambhū. \"Self-originated\" (as the øber ijen burxan). ijen ilayuysan; T. rang rgyal; S. praty-eka-buddha. Pratyekabuddha. See øber ijen burxan. ijen nirvan i egeregci; T. rang zhi don gnyer. One who hopes to reach nirvana by himself (without a spiritual guide), a Prätyeka-buddha. -- yn cinar; T. rang gi mtshan nyid; S. svalakshana. Individual characteristic (contrasts with jery jin belge cinar; S. sāmānya-lakshana, general or universal characteristics. -- yn kereg; T. rang don; S. svārtha. One's own aim or purpose or advantage (as opposed to the aim of others).",
+    "imageName": "LessingDict_Page_1181.jpg",
+    "lessingForm": "∅BER; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23616,
     "sourceId": "L1181-1-02",
     "tradRom": "öbere",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "bratiga); T. so sor; S. pratyeka, prthaktva, prati- . Singly, separately. namancilaxu; T. so sor bçag pa; S. prati-deçanã . Originally: to confess (each sin) individually; to confess (in general). ED 363 a. øber-e; T. so so ba; S. prthaktva. Separation, __ singleness, independence, as of the nom ud. øber-e = tus tus; T. so sohi; S. prthag. Single, independent. -- tørylkiten = tus tus un tørylkity; T. so sohi skye bo; S. prthag-jana. Ordinary man, vulgar person (contrasted to the xutuxtu = arij-a).",
+    "lessingForm": "ØBERE, ØBERIJEN ( =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23617,
     "sourceId": "L1181-1-03",
     "tradRom": "öbermiče",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "bye brag; S. viçesha. Difference, distinction. ygylegci, øbermicecin; T. bye bra smra ba; S. vaiceshika. The Vaiceshika school (one of the six darçanas [M. yzel] schools of thought of Hinduism)",
+    "lessingForm": "QBERMICE ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23618,
     "sourceId": "L1181-1-04",
     "tradRom": "parčin",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "(fr. T. phar phyin); T. pha rol tu phyin pa. See belge bilig yn cinadu kizayar-a kyrygsen. R",
+    "lessingForm": "PARCIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23619,
     "sourceId": "L1181-1-05",
     "tradRom": "rabnai",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "(fr. T.); T. rab gnas; S. pratishthā. Benediction, consecration of an image, temple, etc. See saitur orusiyulxui. -- orusiyulxu. To consecrate an image, book, talisman, etc.",
+    "lessingForm": "RABNAI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23620,
     "sourceId": "L1181-1-06",
     "tradRom": "rabsal",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "gegegen; T. rab gsal. Textbook of minor rites, prayers, benedictions used in daily services. -1181-",
+    "lessingForm": "RABSAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23621,
     "sourceId": "L1181-2-01",
     "tradRom": "öbesüben",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "bytygsen; T. lhun grub; S. anābhoga. Effort- lessly produced, for example as the samadi no longer requiring effort to induce.",
+    "lessingForm": "ØBESYBEN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23622,
     "sourceId": "L1181-2-02",
     "tradRom": "öčigsen",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "zhus pa; S. pariprchā . (The book of) questions (by) -- (in book titles).",
+    "lessingForm": "ØCIGSEN; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23623,
     "sourceId": "L1181-2-03",
     "tradRom": "öčikü",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "zhu ba . To pray for, receive.",
+    "lessingForm": "ØCIKY ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23624,
     "sourceId": "L1181-2-04",
     "tradRom": "öčlige",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "gtong ba; S. dāna-tyāga. Renunciation (giving of gifts as part of the preparation for yoga); abandonment of worldly goods.",
+    "lessingForm": "ØGLIGE ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23625,
     "sourceId": "L1181-2-05",
     "tradRom": "ölǰei",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "bkra cis; S. mangala . Blessing; a farewell wish found at the end of religious books. naiman -- ; T. bkra cis brgyad; S. ashtā-mangalāni. Eight objects permanently placed on altar tables. See takil. ygyleky; T. cis brjod; S. mangala . Wish of good luck, blessing spoken in chorus by all the lamas present at the conclusion of a zang yile.",
+    "lessingForm": "ØLZEI; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23626,
     "sourceId": "L1181-2-06",
     "tradRom": "ölǰeitü",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "silyg ; T. Bkra cis kyi tshigs su bead pa; S. mangala -gāthā. The text used for Ølzei ygyleky.",
+    "lessingForm": "ØLZEITY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23627,
     "sourceId": "L1181-2-07",
     "tradRom": "öngge",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "gzugs; S. rūpa. Shape or form (and color) as the external \"base\" of vision. See tøryn tygeky. coyca; T. gzugs kyi phung po; S. rūpa-skandha. The aggregate of forms or visible things. -- jin orun; T. gzugs kyi khams; S. rūpa-dhatu. The world of forms. See yurban orun. ygei jin orun; T. gzugs med khams; S. ārūpya, ārupa-dhātu. The world without forms. See yurban orun. ED 104 a.",
+    "lessingForm": "ØNGGE ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23628,
     "sourceId": "L1181-2-08",
     "tradRom": "ötelkü",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "rgan pa; S. jarā. Decay. P",
+    "lessingForm": "ØTELKY ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23629,
     "sourceId": "L1181-2-09",
     "tradRom": "radn_a",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "ratna. Same as erdeni, q.v.",
+    "lessingForm": "RADN-A ; S.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23630,
     "sourceId": "L1181-2-10",
     "tradRom": "ridi",
-    "imageName": "LessingDict_Page_1181.jpg"
+    "imageName": "LessingDict_Page_1181.jpg",
+    "explain": "xubilyan; T. rdzu hphrul; S. nirmāna rddhi. Miracle, magic, sorcery. køl; T. rdzu hphrul gyi rkang pa; S. rddhi-pāda. The bases of magic power, ED 151-2.",
+    "lessingForm": "RIDI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23631,
     "sourceId": "L1182-1-01",
     "tradRom": "sačaγu",
-    "imageName": "LessingDict_Page_1182.jpg"
+    "imageName": "LessingDict_Page_1182.jpg",
+    "explain": "cinar; T. mnyam pa nyid; S. samatã; Absolute equality, equilibrium, sameness, identity. - ygei ba -- ; T. mi mnyam pa dang mnyam pa; S. a-sama-sama. Same as adali ba adali ygei.",
+    "lessingForm": "SACAIU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23632,
     "sourceId": "L1182-1-02",
     "tradRom": "sayibar",
-    "imageName": "LessingDict_Page_1182.jpg"
+    "imageName": "LessingDict_Page_1182.jpg",
+    "explain": "aziraysan , or oduysan; T. bde bar gçegs pa; S. sugata. \"One who has attained bliss, \" ep. of a Bu. According to Asanga: anyone having achieved, with- out remainder, the extirpation of lust, hatred, and delusion. ED 597 b.",
+    "lessingForm": "SAIBAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23633,
     "sourceId": "L1182-1-03",
     "tradRom": "sayin",
-    "imageName": "LessingDict_Page_1182.jpg"
+    "imageName": "LessingDict_Page_1182.jpg",
+    "explain": "legs rab. Stands frequently for S. intensifying prefix su-, \"well\". amuyulang; T. bde legs; S. svasti. Bless, beatitude. nairay; T. dpe byad bzang po; S. anuvyanjana. Any or all of the eighty minor physical marks of a Bu. ojutu; T. blo bzang; S. sumati. Of good intelligence; also a name. yge; T. gsung rab, lung rab; S. pravacana. \"Well- (spoken) words.\" Certain groups of sacred texts (nine or, mostly, 12). ED 384 b. ygety = subasida; T. legs par gsung ba; S. subhā- shita, Well-spoken sermon. yiles; T. las dkar; S. cukla-karma. \"White, \" i. e., good deeds or conduct. zarliy. Same as sain yge.",
+    "lessingForm": "SAIN; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23634,
     "sourceId": "L1182-1-04",
     "tradRom": "sayisiyan",
-    "imageName": "LessingDict_Page_1182.jpg"
+    "imageName": "LessingDict_Page_1182.jpg",
+    "explain": "ygyleky; T. ched du brjod pa; 3. udāna.\"Solemn utterance, \" a branch of Scriptures.",
+    "lessingForm": "SAISIJAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23635,
     "sourceId": "L1182-1-05",
     "tradRom": "sayitur",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "S uxaxu; T. rnam par rig pa; S. vijnapti. Repre- sentation, esp. in the term vijnapti-mātra (re- presentation only). Different : ED 485 b. yzegylygci; T. nye bar bstan pa; S. upadeça. Explanation, exegesis; a branch of Scripture. EDl35a",
+    "explain": "rnam par, nye bar, rab (tu). Translates often the S. prefixes vi-, upa-, pra~in an intensify- ing. meaning. -- bisilyaxu; T. rab tu sgom ba; S. prabhāvanā . Pro- found concentration. bolbasuraysan; T. rnam par smin pa; S. vipāka. Maturation (of deeds), fruition, the arrival of just deserts. daruyci; T. rab tu hjoms pa; S. pramardana. De- struction. yaryaxu; T. rab tu hbyin pa; To admit into the clerical order. γaruysan; T. rab (tu) byung(ba); S. pravrajyā . Going forth (to the religious life). ED 387 b. pravrājayati. nomlaysan; T. legs (par) bçad (pa), legs (par) gsung (ba); S. subhāshita. Well-explained, well-stated (a characteristic of Buddhist doctrine). -- orusiyuluysan; T. rab tu gnas pa;. S. supratishthita. \"Well established,\" consecrated (as an image). See rabnai. usambad boluysan; T. legs par bsnyen pa rdzogs pa; S. supasampanna. Fully ordained.",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAITUR; T."
   },
   {
     "index": 23636,
     "sourceId": "L1182-2-01",
     "tradRom": "sakiγči",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "The (four) Guardians of the World; See xayan (dørben jeke) and jirtincy (ji tedkygci).",
+    "explain": "jirtincy ji -- ; T. hjig rten skyong; S. lokapāla. The (four) Guardians of the World; See xayan (dørben jeke) and jirtincy (ji tedkygci).",
     "cyrillic": "jirtincy ji -- ; T. hjig rten skyong; S. lokapāla.",
     "lessingForm": "SAKITCI",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254064,23 +254193,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1182-2-02",
     "tradRom": "sakiγulsun",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "SAKIIULSUN (pl. sakiyulsud); T. srung ma; S. pāla. Protector, genius protector, a class of deities.",
+    "explain": "(pl. sakiyulsud); T. srung ma; S. pāla. Protector, genius protector, a class of deities.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAKIIULSUN"
   },
   {
     "index": 23638,
     "sourceId": "L1182-2-03",
     "tradRom": "sakilta",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "SAKILTA ; T. bsrung ba; S. arakshya ( ārakshya). The three (four) points which with a Buddha need not be especially guarded, namely bej-e, kelen, amidural. ED 64 b.",
+    "explain": "bsrung ba; S. arakshya ( ārakshya). The three (four) points which with a Buddha need not be especially guarded, namely bej-e, kelen, amidural. ED 64 b.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAKILTA ; T."
   },
   {
     "index": 23639,
@@ -254088,11 +254216,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "samadi",
     "wIndex": "1",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "SAMADI (=samadhi) ; T. ting nge hdzin; S. samādhi. Concentration, also a particular kind of such con- centration. ED 568-9.",
+    "explain": "(=samadhi) ; T. ting nge hdzin; S. samādhi. Concentration, also a particular kind of such con- centration. ED 568-9.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAMADI"
   },
   {
     "index": 23640,
@@ -254100,23 +254228,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "samadi",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "SAMADI, 2.; T. bsam gtan; S. dhyāna. Meditation on four levels. The S. term samadhi has a somewhat dif- ferent meaning. First level: separation from evil; second level: ceasing of discursive thinking; third level: psychic joy fades, rising to the state of in- difference (tegsi ayulxu,tegsi neigel); fourth level: indifference vanishes completely with reaching nirvana.",
+    "explain": "bsam gtan; S. dhyāna. Meditation on four levels. The S. term samadhi has a somewhat dif- ferent meaning. First level: separation from evil; second level: ceasing of discursive thinking; third level: psychic joy fades, rising to the state of in- difference (tegsi ayulxu,tegsi neigel); fourth level: indifference vanishes completely with reaching nirvana.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAMADI, 2.; T."
   },
   {
     "index": 23641,
     "sourceId": "L1182-2-06",
     "tradRom": "samanta-bhadra",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "bhadra. The \"Throughout Good One, \" one of the Eight Great Bos. ED 563 a.",
-    "lessingForm": "SAMANTA-BHADRA; T. Kun tu bzang po; S. Samanta-",
+    "explain": "Kun tu bzang po; S. Samanta- bhadra. The \"Throughout Good One, \" one of the Eight Great Bos. ED 563 a.",
+    "lessingForm": "SAMANTA-BHADRA; T.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254124,23 +254250,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1182-2-07",
     "tradRom": "sambaγ_a",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "SAMBAΓ-A ; T. spobs pa; S. pratibhāna. Presence of mind; readiness in speech . ED 366 b.",
+    "explain": "spobs pa; S. pratibhāna. Presence of mind; readiness in speech .",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAMBAΓ-A ; T."
   },
   {
     "index": 23643,
     "sourceId": "L1182-2-08",
     "tradRom": "sanaqui",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "SANAXUI ; T. sems pa; S. cetanā . Activity of volition; \"thinking\" SANG, 1; T. sang. Burning of incense, incense offering.",
+    "explain": "sems pa; S. cetanā . Activity of volition; \"thinking\"",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SANAXUI ; T."
   },
   {
     "index": 23644,
@@ -254148,11 +254273,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sang",
     "wIndex": "1",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "SANG, 2; T. mdzod, gter; S. (-)koça. Treasure house (Frequent as last part of cpds).",
+    "explain": "sang. Burning of incense, incense offering.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SANG, 1; T."
   },
   {
     "index": 23645,
@@ -254160,51 +254285,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sang",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "SANGGA (fr. S.) = xuvaray ; T. dge hdun; S. sangha. Congregation of monks, monkhood, clergy.",
+    "explain": "mdzod, gter; S. (-)koça. Treasure house (Frequent as last part of cpds).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SANG, 2; T."
   },
   {
     "index": 23646,
     "sourceId": "L1182-2-11",
     "tradRom": "sangga",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "SANSAR (fr. S., this term is more frequent than its M. translation orcilang); T. hkhor ba, srid pa; S. samsara, bhava. The circle or cycle of trans- migrations or existences, samsara. It contrasts",
+    "explain": "(fr. S.) = xuvaray ; T. dge hdun; S. sangha. Congregation of monks, monkhood, clergy.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SANGGA"
   },
   {
     "index": 23647,
     "sourceId": "L1182-2-12",
     "tradRom": "sansar",
     "imageName": "LessingDict_Page_1182.jpg",
-    "explain": "with nirvana. yn kyrdyn; T. srid pahi hkhor lo; S. bhavacakra. The \"revolving world, \" often applied to a pictorial representation of the cicle of reincarnations showing",
+    "explain": "(fr. S., this term is more frequent than its M. translation orcilang); T. hkhor ba, srid pa; S. samsara, bhava. The circle or cycle of trans- migrations or existences, samsara. It contrasts with nirvana. yn kyrdyn; T. srid pahi hkhor lo; S. bhavacakra. The \"revolving world, \" often applied to a pictorial representation of the cicle of reincarnations showing -1182-",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SANSAR"
   },
   {
     "index": 23648,
     "sourceId": "L1183-1-01",
     "tradRom": "sansgrida",
-    "imageName": "LessingDict_Page_1183.jpg"
+    "imageName": "LessingDict_Page_1183.jpg",
+    "explain": "legs sbyar; S. sanskrta. Sanskrit translated as saitur neilegylygsen.",
+    "lessingForm": "SANSGRIDA ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23649,
     "sourceId": "L1183-1-02",
     "tradRom": "sanvar",
-    "imageName": "LessingDict_Page_1183.jpg"
+    "imageName": "LessingDict_Page_1183.jpg",
+    "explain": "sdom pa; S. savara. Vow. ED 539b-40. øgky . To ordain.",
+    "lessingForm": "SANVAR; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23650,
     "sourceId": "L1183-1-03",
     "tradRom": "sedkiküi",
-    "imageName": "LessingDict_Page_1183.jpg"
+    "imageName": "LessingDict_Page_1183.jpg",
+    "explain": "hdu es; S. sajnā. Ideation ( the naming faculty), the third of the five aggregates. See coyca. ygegyn; T. hdu es med pa; S. asamjnā. Uncon- sciousness; lack of ideation.",
+    "lessingForm": "SEDKIKYI ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23651,
@@ -254212,14 +254352,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sedkil",
     "wIndex": "1",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "the six kinds of amitan,tngri, asuri tørylkiten, aduyusun ,birid, tamu, in five or six panels arranged between the spokes of a wheel, the rim of which has twelve symbolic pictures of the sityn baridulγ-a. yurban--; T. srid pa gsum; S. tri - bhava. The triple world of kysel øngge, and øngge ygei. ED258b. SANSGRIDA ; T. legs sbyar; S. sanskrta. Sanskrit translated as saitur neilegylygsen.",
+    "explain": "bsam pa; S. abhiprāya. Aim, purport.",
     "cyrillic": "ь",
-    "lessingForm": "DAINDAN",
+    "lessingForm": "SEDKIL, 1.; T.",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254228,52 +254365,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sedkil",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SANVAR; T. sdom pa; S. savara. Vow. ED 539b-40. øgky . To ordain.",
+    "explain": "a)T. sems; S. citta. Polysemantic term; \"mind, thought,\" pure consciousness, i. e., consciousness emptied of its contents. b) T. yid; S. manas. Intellect or \"mind\" as the internal \" base\" of ideation.\" See tøryn tygeky. -- alzij-a: T. snyom las sems; S. tandrā . Sloth. -- dyr yiledkyi; T. yid la byed pa; S. manas(i)-kāra. Attention, application of the mind in aparticular direction . ED 418 a. egyskeky; T. sems bskyed ba; S. cittotpāda. Aspira- tion or decision (literally \"generation of mind,\"), namely towards enlightenment, one of the important parts of the framework of liturgies. xanyayci erdeni; T. yid bzhin nor bu; S. cintāmani. Wish-granting gem = cindamani. -- yn gšān; T. sems kyi skad cig; S. citta-kshana . The (16) consecutive moments in the process of illumination. ED 229 b. Moment of thought. yn tedyiken y yzel; T. sems tsam pahi lta ba; S. vijnana-mātra-darçana. The \"mind-only-view\" or school which holds that nothing exists but mind. It was founded by Asanga and popularized by Vasuban- dhu in the 4th to 5th centuries AD. See nom ud. yn tein medekyi; T. yid kyi rnam par çes pa; S. mano-vijnāna. Perception by the thought-conscious- ness (sometimes improperly called the \"inner organ\") the last of the tein byged medekyi. ED 418-9. nisvanistu --; T. nyon mons pa can gyi yid; S.klishta- manas. The defiled mind, i. e. the mind affected or stained by mixed (good, bad, and neutral) nisvanis.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEDKIL, 2"
   },
   {
     "index": 23653,
     "sourceId": "L1183-1-06",
     "tradRom": "sedkisi",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SEDKIKYI ; T. hdu es; S. sajnā. Ideation ( the naming faculty), the third of the five aggregates. See coyca. ygegyn; T. hdu es med pa; S. asamjnā. Uncon- sciousness; lack of ideation. SEDKIL, 1.; T. bsam pa; S. abhiprāya. Aim, purport. SEDKIL, 2 a)T. sems; S. citta. Polysemantic term; \"mind, thought,\" pure consciousness, i. e., consciousness emptied of its contents. b) T. yid; S. manas. Intellect or \"mind\" as the internal \" base\" of ideation.\" See tøryn tygeky. -- alzij-a: T. snyom las sems; S. tandrā . Sloth. -- dyr yiledkyi; T. yid la byed pa; S. manas(i)-kāra. Attention, application of the mind in aparticular direction . ED 418 a. egyskeky; T. sems bskyed ba; S. cittotpāda. Aspira- tion or decision (literally \"generation of mind,\"), namely towards enlightenment, one of the important parts of the framework of liturgies. xanyayci erdeni; T. yid bzhin nor bu; S. cintāmani. Wish-granting gem = cindamani. -- yn gšān; T. sems kyi skad cig; S. citta-kshana . The (16) consecutive moments in the process of illumination. ED 229 b. Moment of thought. yn tedyiken y yzel; T. sems tsam pahi lta ba; S. vijnana-mātra-darçana. The \"mind-only-view\" or school which holds that nothing exists but mind. It was founded by Asanga and popularized by Vasuban- dhu in the 4th to 5th centuries AD. See nom ud. yn tein medekyi; T. yid kyi rnam par çes pa; S. mano-vijnāna. Perception by the thought-conscious- ness (sometimes improperly called the \"inner organ\") the last of the tein byged medekyi. ED 418-9. nisvanistu --; T. nyon mons pa can gyi yid; S.klishta- manas. The defiled mind, i. e. the mind affected or stained by mixed (good, bad, and neutral) nisvanis.",
+    "explain": "ygei; T. bsam gyis mi khyab pa; S. acintya. Unthinkable, unimaginable, wonderful, ED 6b.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEDKISI"
   },
   {
     "index": 23654,
     "sourceId": "L1183-1-07",
     "tradRom": "segül",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SEDKISI ygei; T. bsam gyis mi khyab pa; S. acintya. Unthinkable, unimaginable, wonderful, ED 6b. SEGYL ; T. mjug; S. visarga. Conclusion of a rite. SITYN SELBIN arilyaxu; T. gso sbyong ba ( short for nyes par gso ba dang sbyong ba). To confess and be ab- solved from one's sins.",
+    "explain": "mjug; S. visarga. Conclusion of a rite. -1183-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEGYL ; T."
   },
   {
     "index": 23655,
     "sourceId": "L1183-2-01",
     "tradRom": "selbin",
-    "imageName": "LessingDict_Page_1183.jpg"
+    "imageName": "LessingDict_Page_1183.jpg",
+    "explain": "arilyaxu; T. gso sbyong ba ( short for nyes par gso ba dang sbyong ba). To confess and be ab- solved from one's sins.",
+    "lessingForm": "SELBIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23656,
     "sourceId": "L1183-2-02",
     "tradRom": "serege",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "γurban --; T. rtse gsum; S. triçula. Trident, a symbolic weapon in the hands of certain doysid; also seen on temple roofs where it is supposed to protect from Indra's vacir, q. v.; also is taken as a symbol of the yurban erdeni.",
+    "explain": "or SERIGE γurban --; T. rtse gsum; S. triçula. Trident, a symbolic weapon in the hands of certain doysid; also seen on temple roofs where it is supposed to protect from Indra's vacir, q. v.; also is taken as a symbol of the yurban erdeni.",
     "cyrillic": "е",
-    "lessingForm": "SEREGE or SERIGE",
+    "lessingForm": "SEREGE",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254281,135 +254421,132 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1183-2-03",
     "tradRom": "sereküi",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SEREKYI, SERIKYI; T. tshor ba; S. vedanā. Feelings",
+    "explain": "tshor ba; S. vedanā. Feelings of zobalang, ziryalang. Second of the five coyca.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEREKYI, SERIKYI; T."
   },
   {
     "index": 23658,
     "sourceId": "L1183-2-04",
     "tradRom": "serel",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "of zobalang, ziryalang. Second of the five coyca.",
+    "explain": "ygei, SERIL ygei; T. bag med; S. pramāda. Indolence.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEREL"
   },
   {
     "index": 23659,
     "sourceId": "L1183-2-05",
     "tradRom": "seremǰi",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SEREL ygei, SERIL ygei; T. bag med; S. pramāda. Indolence.",
+    "explain": "bag yod; S. pramāda. Watchfulness, alertness. ygei; T. bag med; S. apramāda. Carelessness; indolence",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEREMZI; T."
   },
   {
     "index": 23660,
     "sourceId": "L1183-2-06",
     "tradRom": "sibaraγ",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SEREMZI; T. bag yod; S. pramāda. Watchfulness, alertness. ygei; T. bag med; S. apramāda. Carelessness;",
+    "explain": "See sivaray.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIBARAΓ"
   },
   {
     "index": 23661,
     "sourceId": "L1183-2-07",
     "tradRom": "silγadaγ",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "indolence SIBARAΓ See sivaray. SILΓADAΓ tørylkity; T. tshad mahi skyes bu; S. pramāna- purusha, The person who is the \"measure, \" the authority, 1.e., the Buddha. ED 383 a.",
+    "explain": "tørylkity; T. tshad mahi skyes bu; S. pramāna- purusha, The person who is the \"measure, \" the authority, 1.e., the Buddha. ED 383 a.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILΓADAΓ"
   },
   {
     "index": 23662,
     "sourceId": "L1183-2-08",
     "tradRom": "siltaγan",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SILTATAN; a)T. rkyen; S. pratyaya. Condition, environ- mental cause. ED 375-6. b) T. rgyu; S. hetu. Basic cause. ED 69l a.",
+    "explain": "a)T. rkyen; S. pratyaya. Condition, environ- mental cause. ED 375-6. b) T. rgyu; S. hetu. Basic cause. ED 69l a.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILTATAN;"
   },
   {
     "index": 23663,
     "sourceId": "L1183-2-09",
     "tradRom": "silüg",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SILYG (fr. S. loka); T. tshigs su bcad pa; S. gāthā. Verses, fourth of the twelve degedy nom .",
+    "explain": "(fr. S. loka); T. tshigs su bcad pa; S. gāthā. Verses, fourth of the twelve degedy nom .",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILYG"
   },
   {
     "index": 23664,
     "sourceId": "L1183-2-10",
     "tradRom": "simdaqu",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SIMDAXU ; T. nan tan; S. pratipatti. (Religiously good) behavior or exertion. ED 364 a-b.",
+    "explain": "nan tan; S. pratipatti. (Religiously good) behavior or exertion. ED 364 a-b.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIMDAXU ; T."
   },
   {
     "index": 23665,
     "sourceId": "L1183-2-11",
     "tradRom": "simnus",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SIMNUS ; T. Bdud; S. Māra. The Evil One, the Tempter. See Pt.I.",
+    "explain": "Bdud; S. Māra. The Evil One, the Tempter. See Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIMNUS ; T."
   },
   {
     "index": 23666,
     "sourceId": "L1183-2-12",
     "tradRom": "sirui",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SIRUI jin maxabud; T. sahi khams; S. prthivi-đhātu. The element earth, its quality: hardness. See maxabud.",
+    "explain": "jin maxabud; T. sahi khams; S. prthivi-đhātu. The element earth, its quality: hardness. See maxabud.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIRUI"
   },
   {
     "index": 23667,
     "sourceId": "L1183-2-13",
     "tradRom": "sitügen",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SITYGEN; T. gzhi; S. ādhāra. Basis, foundation; \"potentiality.\"",
+    "explain": "gzhi; S. ādhāra. Basis, foundation; \"potentiality.\"",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SITYGEN; T."
   },
   {
     "index": 23668,
     "sourceId": "L1183-2-14",
     "tradRom": "sitün",
     "imageName": "LessingDict_Page_1183.jpg",
-    "explain": "SITYN barilduly-a; T. rten cing hbrel ba; S. pratitya- samutpāda. Dependent or (cor-)relational origina- tion, or chain of twelve links of causes (as intuited in meditative concentration). Oue of the most controversional terms of Buddhist doctrine possibly originally a set of 12 more or less loosely connected subjects for meditation which gradually grew into a whole. The twelve items, beginning with non-knowledge as the point of departure of all originations are: l. mungxay, 2. xuran yiledkyi, 3. tein medekyi, 4. ner-e øngge, 5. tøryn tygekyi, 6. kyrtekyi, 7. serekyi, 8. xuricaxui, 9.cixula abxui, 10 sansar, 1l. tøryl, 12. øtelkyi, ykyky.",
+    "explain": "barilduly-a; T. rten cing hbrel ba; S. pratitya- samutpāda. Dependent or (cor-)relational origina- tion, or chain of twelve links of causes (as intuited in meditative concentration). Oue of the most controversional terms of Buddhist doctrine possibly originally a set of 12 more or less loosely connected subjects for meditation which gradually grew into a whole. The twelve items, beginning with non-knowledge as the point of departure of all originations are: l. mungxay, 2. xuran yiledkyi, 3. tein medekyi, 4. ner-e øngge, 5. tøryn tygekyi, 6. kyrtekyi, 7. serekyi, 8. xuricaxui, 9.cixula abxui, 10 sansar, 1l. tøryl, 12. øtelkyi, ykyky.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SITYN"
   },
   {
     "index": 23669,
@@ -254419,7 +254556,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "SIBARAΓ, SIVARAG; T. nyan thos pa; S. crāvaka. Hearer, disciple . (In Jeke Kølgen only used with reference to followers of the Bay-a Kølgen. ED 535 a.",
     "lessingForm": "SIVARAG,",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254430,7 +254567,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "SIBARAΓ, SIVARAG; T. nyan thos pa; S. crāvaka. Hearer, disciple . (In Jeke Kølgen only used with reference to followers of the Bay-a Kølgen. ED 535 a.",
     "lessingForm": "SIVARAG,",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254438,79 +254575,77 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1184-1-02",
     "tradRom": "suburγan",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "SUBURΓAN ; T. mchod rten; S. stupa, caitya. Stupa, pagoda, object of veneration. ED 133b. See Pt.I.",
+    "explain": "mchod rten; S. stupa, caitya. Stupa, pagoda, object of veneration. ED 133b. See Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SUBURΓAN ; T."
   },
   {
     "index": 23672,
     "sourceId": "L1184-1-03",
     "tradRom": "suduluγsan",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "SUDULUISAN erdem; T. sbyangs pahi yon tan; S. dhuta- guna. \"The 12 or 13 qualities of a purified man, ascetic.\" According to Asanga: the (12 or 13) prac- tices that purify or shake off the strand ( of bad habit). ED 286 a.",
+    "explain": "erdem; T. sbyangs pahi yon tan; S. dhuta- guna. \"The 12 or 13 qualities of a purified man, ascetic.\" According to Asanga: the (12 or 13) prac- tices that purify or shake off the strand ( of bad habit). ED 286 a.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SUDULUISAN"
   },
   {
     "index": 23673,
     "sourceId": "L1184-1-04",
     "tradRom": "sudur",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "SUDUR; T. mdo; S. sutra. Variously defined; in the Bud- dhist sense, esp. a work in whichthe Bu!s utterances are arranged in appropriate form, discourse. ED 604 b.",
+    "explain": "mdo; S. sutra. Variously defined; in the Bud- dhist sense, esp. a work in whichthe Bu!s utterances are arranged in appropriate form, discourse. ED 604 b.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SUDUR; T."
   },
   {
     "index": 23674,
     "sourceId": "L1184-1-05",
     "tradRom": "sugavadi",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "SUGAVADI; T. Bde ba can; S. sukhāvati ; The Western paradise presided over by the Buddha Abida.",
+    "explain": "Bde ba can; S. sukhāvati ; The Western paradise presided over by the Buddha Abida. š",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SUGAVADI; T."
   },
   {
     "index": 23675,
     "sourceId": "L1184-1-06",
     "tradRom": "šaγšabad",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "š",
+    "explain": "(fr. S. cikshā-pada \"moral command\"); T. tshul khrims; S. cila. Monk's discipline. -- tegylder; T. tshul khrims ldan, tshul khrims can. One who keeps the precepts perfectly; perfectly virtuous.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ŠAΓŠABAD"
   },
   {
     "index": 23676,
     "sourceId": "L1184-1-07",
     "tradRom": "šagiy_a",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "ŠAΓŠABAD (fr. S. cikshā-pada \"moral command\"); T. tshul khrims; S. cila. Monk's discipline. -- tegylder; T. tshul khrims ldan, tshul khrims can. One who keeps the precepts perfectly; perfectly virtuous. ŠAGIJ-A jin izayur. The Çākya clan to which the Bu. Gautama belonged.",
+    "explain": "jin izayur. The Çākya clan to which the Bu. Gautama belonged.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ŠAGIJ-A"
   },
   {
     "index": 23677,
     "sourceId": "L1184-1-08",
     "tradRom": "šasin",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "sudur un -- i bariyci; T. Mdo sde pa; S. Sautrā- ntika. Follower of a Buddhist school which takes its authority from the sudur.",
+    "explain": "sudur un -- i bariyci; T. Mdo sde pa; S. Sautrā- ntika. Follower of a Buddhist school which takes its authority from the sudur. T",
     "cyrillic": "б Хаода на Я ний",
     "lessingForm": "ŠASIN",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254518,68 +254653,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1184-1-09",
     "tradRom": "tabčang",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "T",
+    "explain": "debisker; T. gdan; S. asana. Seat, manner of sitting.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TABCANG, TABSANG ="
   },
   {
     "index": 23679,
     "sourceId": "L1184-1-09",
     "tradRom": "tabsang",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "T",
+    "explain": "debisker; T. gdan; S. asana. Seat, manner of sitting.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TABCANG, TABSANG ="
   },
   {
     "index": 23680,
     "sourceId": "L1184-1-10",
     "tradRom": "tabiγ",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "TABCANG, TABSANG = debisker; T. gdan; S. asana. Seat, manner of sitting. TABIΓ un usun; T. mchod yon; S. argham. Water for washing the face, the first of the naiman takil, q. v.",
+    "explain": "un usun; T. mchod yon; S. argham. Water for washing the face, the first of the naiman takil, q. v.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TABIΓ"
   },
   {
     "index": 23681,
     "sourceId": "L1184-1-11",
     "tradRom": "tačiyangγui",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "TACIJANGIUI; T. chags pa; S. räga. Passion, Iust (one of the three poisons).",
+    "explain": "chags pa; S. räga. Passion, Iust (one of the three poisons).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TACIJANGIUI; T."
   },
   {
     "index": 23682,
     "sourceId": "L1184-1-12",
     "tradRom": "tačiyaqui",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "TACIJAXUI urilaxui; T. chags sdang; S. rāga-dvesha. (Carnal) desire and anger.",
+    "explain": "urilaxui; T. chags sdang; S. rāga-dvesha. (Carnal) desire and anger.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TACIJAXUI"
   },
   {
     "index": 23683,
     "sourceId": "L1184-1-13",
     "tradRom": "taduru",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "TADURU; T. phyin ci log pa; S. viparyāsa. Error, de- lusion.",
+    "explain": "phyin ci log pa; S. viparyāsa. Error, de- lusion. TArALAL;a)T. grub mthah; S. siddhānta. Tenet, set of tenets of a school. Buddh. schools apply the term to the differentiated doctrines beyond the commonly accepted Buddh. base. b) T. dgongs pa; S. sandhi, sandhā. Esoteric meaning. ED 557 b. c) T. dgongs pa; S. abhi-prāya. Cogitation, re- flection, intention. ED 54 a. -1184-",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TADURU; T."
   },
   {
     "index": 23684,
@@ -254588,23 +254721,20 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1184.jpg",
     "explain": "TArALAL;a)T. grub mthah; S. siddhānta. Tenet, set of tenets of a school. Buddh. schools apply the term to the differentiated doctrines beyond the commonly accepted Buddh. base. b) T. dgongs pa; S. sandhi, sandhā. Esoteric meaning. ED 557 b. c) T. dgongs pa; S. abhi-prāya. Cogitation, re- flection, intention. ED 54 a. TAKIL",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 23685,
     "sourceId": "L1184-2-01",
     "tradRom": "sumbumsumgbum",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "hundred thousand sayings,\" generic title of the collected works of ecclesiastical writers.",
-    "lessingForm": "SUMBUM, SUNGBUM (fr. T.); T. gsung hbum .\"The",
+    "explain": "(fr. T.); T. gsung hbum .\"The hundred thousand sayings,\" generic title of the collected works of ecclesiastical writers.",
+    "lessingForm": "SUMBUM, SUNGBUM",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254612,58 +254742,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1184-2-02",
     "tradRom": "surulčaqui",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "SURULCAXUI sitygen; T. bslab pahi-gzhi; S. ikshā- pada. \"Basis of study, \" i. e. discipline (vinai). See šayšabad. SYSYG; T. dad pa; S. çraddhā . Faith, trust in the Bu. -- yn xoina day ayci; T. dad pahi rjes su hbrang ba; S. craddhānusārin. A follower of faith (con- trasts with a follower of doctrine, dharmānusarin).",
+    "explain": "sitygen; T. bslab pahi-gzhi; S. ikshā- pada. \"Basis of study, \" i. e. discipline (vinai). See šayšabad.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SURULCAXUI"
   },
   {
     "index": 23687,
     "sourceId": "L1184-2-03",
     "tradRom": "süsüg",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "SASTIR (fr. S.); T. bstan bcos; S. çāstra. Textbook. See Pt.I.",
+    "explain": "dad pa; S. çraddhā . Faith, trust in the Bu. -- yn xoina day ayci; T. dad pahi rjes su hbrang ba; S. craddhānusārin. A follower of faith (con- trasts with a follower of doctrine, dharmānusarin).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYSYG; T."
   },
   {
     "index": 23688,
     "sourceId": "L1184-2-04",
     "tradRom": "šastir",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "ŠERCIN (fr. the T. contracted of es rab kyi pha rol tu phyin pa) = belge bilig yn cinadu kizayar a kyrygsen = prajna-pāramitā.",
+    "explain": "(fr. S.); T. bstan bcos; S. çāstra. Textbook. See Pt.I.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SASTIR"
   },
   {
     "index": 23689,
     "sourceId": "L1184-2-05",
     "tradRom": "šerčin",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "ŠIGEMUNI = Šagjamuni. See Pt.I.",
+    "explain": "(fr. the T. contracted of es rab kyi pha rol tu phyin pa) = belge bilig yn cinadu kizayar a kyrygsen = prajna-pāramitā.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ŠERCIN"
   },
   {
     "index": 23690,
     "sourceId": "L1184-2-06",
     "tradRom": "šigemuni",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "- un mayad tailburi; T. dgons pa nges par hgrel ba; S. samdhi-nirmocana. Name of the basic sudur of the Yogācārà school: \" Unravelling of knots.\" ED 557 b.",
+    "explain": "Šagjamuni. See Pt.I. - un mayad tailburi; T. dgons pa nges par hgrel ba; S. samdhi-nirmocana. Name of the basic sudur of the Yogācārà school: \" Unravelling of knots.\" ED 557 b.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ŠIGEMUNI ="
   },
   {
     "index": 23691,
@@ -254673,7 +254800,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "sakil ijen -- . To renounce one's vows (of a celibate monk who marries).",
     "lessingForm": "TAILXU",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254681,46 +254808,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1184-2-08",
     "tradRom": "takil",
     "imageName": "LessingDict_Page_1184.jpg",
-    "explain": "TAKIL; T. mchod (pa); S. pūjā. Offerings, liturgical oblation, worship. -- naiman; Tmchod bryad. The eight offerings made to the deity invoked. They are: tabiy (un) usun, T. mchod yon; S. argha, water for washing the face; køl seregylky usun; T. zhabs bsil; S. pādya, water for cooling the feet; ceceg; T. me tog; S. pushpa, flowers; kyzi ; T. spos; S. dhūpa, incense; zula; T.snang gsal; S. āloka, lamp ; ynyr; T. dri; S. gandha, perfume; aman u idegen; T. zhal zas ; S. naivedya, food; køgzim; T. rol mo; S. çabda, music. un ed; T. mchod rdzas. Ingredients needed for oblations.",
+    "explain": "mchod (pa); S. pūjā. Offerings, liturgical oblation, worship. -- naiman; Tmchod bryad. The eight offerings made to the deity invoked. They are: tabiy (un) usun, T. mchod yon; S. argha, water for washing the face; køl seregylky usun; T. zhabs bsil; S. pādya, water for cooling the feet; ceceg; T. me tog; S. pushpa, flowers; kyzi ; T. spos; S. dhūpa, incense; zula; T.snang gsal; S. āloka, lamp ; ynyr; T. dri; S. gandha, perfume; aman u idegen; T. zhal zas ; S. naivedya, food; køgzim; T. rol mo; S. çabda, music. un ed; T. mchod rdzas. Ingredients needed for oblations.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TAKIL; T."
   },
   {
     "index": 23693,
     "sourceId": "L1185-1-02",
     "tradRom": "talbiqu",
-    "imageName": "LessingDict_Page_1185.jpg"
+    "imageName": "LessingDict_Page_1185.jpg",
+    "explain": "See ouyata talbixu.",
+    "lessingForm": "TALBIXU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23694,
     "sourceId": "L1185-1-03",
     "tradRom": "tamu",
-    "imageName": "LessingDict_Page_1185.jpg"
+    "imageName": "LessingDict_Page_1185.jpg",
+    "explain": "dmyal khams, dmyal ba; S. naraka. Purgatory (not \"hell\"). ajus --; T. mnar med dmyal ba; S. avici. Last of the hot purgatories designed for the punishment of the most heinous sins. ED 78b. arban naiman --; T. dmyal ba bco brgyad; S. ashtā - daça-naraka. The eighteen hells assumed by Bsm. kyiten --; grang dmyal. The eight cold hells. xalayun --; T. tsha dmyal ; S. tāpana. The eight hot hells. ED 249 b.",
+    "lessingForm": "TAMU; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23695,
     "sourceId": "L1185-1-04",
     "tradRom": "tangγariγ",
-    "imageName": "LessingDict_Page_1185.jpg"
+    "imageName": "LessingDict_Page_1185.jpg",
+    "explain": "dam tshig; S. samaya. Pledge, vow.",
+    "lessingForm": "TANGΓARIT; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23696,
     "sourceId": "L1185-1-05",
     "tradRom": "tangsuγ",
-    "imageName": "LessingDict_Page_1185.jpg"
+    "imageName": "LessingDict_Page_1185.jpg",
+    "explain": "(boluysan); T. rmad du byung ba; S. adbhuta. wondrous, marvellous.",
+    "lessingForm": "TAIIGSUΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23697,
     "sourceId": "L1185-1-06",
     "tradRom": "tarni",
     "imageName": "LessingDict_Page_1185.jpg",
-    "explain": "-- un egylen; T. mchod pahi sprin; S. pūjā-megha. Clouds of offerings (freq. fig of seepch). -- un orun; T. mchod gnas. Place of offering; object(s) offered. TALBIXU See ouyata talbixu. TAMU; T. dmyal khams, dmyal ba; S. naraka. Purgatory (not \"hell\"). ajus --; T. mnar med dmyal ba; S. avici. Last of the hot purgatories designed for the punishment of the most heinous sins. ED 78b. arban naiman --; T. dmyal ba bco brgyad; S. ashtā - daça-naraka. The eighteen hells assumed by Bsm. kyiten --; grang dmyal. The eight cold hells. xalayun --; T. tsha dmyal ; S. tāpana. The eight hot hells. ED 249 b. TANGΓARIT; T. dam tshig; S. samaya. Pledge, vow. TAIIGSUΓ (boluysan); T. rmad du byung ba; S. adbhuta. wondrous, marvellous.",
-    "lessingForm": "TAKIL",
+    "explain": "snags; S. mantra. Mantra, \"magic\" formula or spell. jin kyrydn; T. sngags hkhor; S. dhāraņi-cakra. A tarni whose syllables are arranged in form of a wheel or circle, esp, for magic purposes and prayer wheels; the vision of tarni syllables arranged TEIN, TEIN BYGED; T. rnam par. Most frequently re- in two circles of which one is moving clockwise and the other counterclockwise before the eyes of the bytygelcin engaged in performing the act of bytygel yn ary-a.. amurlingyui jin --; T. zhi bahi sngags. Spell of pro- pitiation. delgerengyyi jin --; T. rgyas pahi sngags; S. paushtika- dhārani. Spell to insure prosperity. doysin --; T. drag pohi sngags; S. abhi-cāruka. Coercing spell. erke jin --; T. dbang gi sngags; S. vaçikāra-mantra. Overpowering spell. niyuca --; T. gsang sngags; S. guhya-mantra. Secret spells.",
+    "lessingForm": "TARNI ; T.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254728,48 +254874,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1185-1-07",
     "tradRom": "tarniči",
     "imageName": "LessingDict_Page_1185.jpg",
-    "explain": "TARNI ; T. snags; S. mantra. Mantra, \"magic\" formula or spell. jin kyrydn; T. sngags hkhor; S. dhāraņi-cakra. A tarni whose syllables are arranged in form of a wheel or circle, esp, for magic purposes and prayer wheels; the vision of tarni syllables arranged TEIN, TEIN BYGED; T. rnam par. Most frequently re- in two circles of which one is moving clockwise and the other counterclockwise before the eyes of the bytygelcin engaged in performing the act of bytygel yn ary-a.. amurlingyui jin --; T. zhi bahi sngags. Spell of pro- pitiation. delgerengyyi jin --; T. rgyas pahi sngags; S. paushtika- dhārani. Spell to insure prosperity. doysin --; T. drag pohi sngags; S. abhi-cāruka. Coercing spell. erke jin --; T. dbang gi sngags; S. vaçikāra-mantra. Overpowering spell. niyuca --; T. gsang sngags; S. guhya-mantra. Secret spells.",
+    "explain": "sngags pa; S. mantrin. One versed in the mantras, or magical formulas; sorcerer.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TARNICI; T."
   },
   {
     "index": 23699,
     "sourceId": "L1185-1-08",
     "tradRom": "tasuraqui",
     "imageName": "LessingDict_Page_1185.jpg",
-    "explain": "TARNICI; T. sngags pa; S. mantrin. One versed in the mantras, or magical formulas; sorcerer. TASURAXUI ygei; T. chad med pa; S. anuccheda. \"Being without interruption,\" eternity.",
+    "explain": "ygei; T. chad med pa; S. anuccheda. \"Being without interruption,\" eternity.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TASURAXUI"
   },
   {
     "index": 23700,
     "sourceId": "L1185-1-09",
     "tradRom": "tavar",
     "imageName": "LessingDict_Page_1185.jpg",
-    "explain": "TAVAR un takil; T. zang zing mchod sbyin; S. amisha- pūjā . Offerings made in kind. ED l00 a",
+    "explain": "un takil; T. zang zing mchod sbyin; S. amisha- pūjā . Offerings made in kind. ED l00 a",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TAVAR"
   },
   {
     "index": 23701,
     "sourceId": "L1185-1-10",
     "tradRom": "tegsi",
     "imageName": "LessingDict_Page_1185.jpg",
-    "explain": "TEGSI = -- ayulxu = --neigem; T, btang snyoms; S. upekshā . \"Holy indifference\" towards joy and suffering, permeation of the universe with the power of absolute equanimity. Fourth of the four boundless states (caylasi ygei). neigem . See tegsi ayulxu. TEIN sedkil; T. btan snyoms;. S. upekshā . Equanimity, mental equilibrium. ED 147 b.",
+    "explain": "ayulxu = --neigem; T, btang snyoms; S. upekshā . \"Holy indifference\" towards joy and suffering, permeation of the universe with the power of absolute equanimity. Fourth of the four boundless states (caylasi ygei). neigem . See tegsi ayulxu. -1185-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TEGSI = --"
   },
   {
     "index": 23702,
@@ -254779,8 +254921,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "sedkil -- ayulxu; T. mnyam par hjog pa; S. samapadyate. To put one's mind in concentration (samadi).",
     "lessingForm": "TEGSIDE",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254788,45 +254929,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1185-2-02",
     "tradRom": "tegülder",
     "imageName": "LessingDict_Page_1185.jpg",
-    "explain": "TEGYLDER ; T. ldan, dang ldan pa. Stands for S. suffixes indicating possession,such as -vat, etc. See tegysy-",
+    "explain": "ldan, dang ldan pa. Stands for S. suffixes indicating possession,such as -vat, etc. See tegysy- gsen.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TEGYLDER ; T."
   },
   {
     "index": 23704,
     "sourceId": "L1185-2-03",
     "tradRom": "tegünčilen",
     "imageName": "LessingDict_Page_1185.jpg",
-    "explain": "gsen. TEGYNCILEN; T. de bzhin; S. tathā. Thus. cinar; T. de bzhin nyid; S. tathatā . Suchness, ultimate reality. See tere mety cinar. ED 248 a-b. iregsen; T. de bzhin gçegs pa; S. tathāgata. Thus come (so the M, transl.), ep. of a Bu. ED 248 b.",
+    "explain": "de bzhin; S. tathā. Thus. cinar; T. de bzhin nyid; S. tathatā . Suchness, ultimate reality. See tere mety cinar. ED 248 a-b. iregsen; T. de bzhin gçegs pa; S. tathāgata. Thus come (so the M, transl.), ep. of a Bu. ED 248 b.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TEGYNCILEN; T."
   },
   {
     "index": 23705,
     "sourceId": "L1185-2-04",
     "tradRom": "tegüs",
     "imageName": "LessingDict_Page_1185.jpg",
-    "explain": "TEGYS bajasxulangtu;T: Dgah ldan; S. Tushita. \"Pleasur- able, \" name of last abode of the Bus. before appearing on earth. uciraltu; T. rnal hbyor spyod pa; S. yogācāra = yogācārin. Practitioner of yoga. ED 448 b. ziryalantu; T. long spyod can. Enjoying, en- joyable.",
+    "explain": "bajasxulangtu;T: Dgah ldan; S. Tushita. \"Pleasur- able, \" name of last abode of the Bus. before appearing on earth. uciraltu; T. rnal hbyor spyod pa; S. yogācāra = yogācārin. Practitioner of yoga. ED 448 b. ziryalantu; T. long spyod can. Enjoying, en- joyable.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TEGYS"
   },
   {
     "index": 23706,
     "sourceId": "L1185-2-05",
     "tradRom": "tegüsügsen",
     "imageName": "LessingDict_Page_1185.jpg",
-    "explain": "TEGYSYGSEN; T. (dang) Idan (pa); S. sampanna, upeta. Possessing, having, complete with, furnished with.",
+    "explain": "(dang) Idan (pa); S. sampanna, upeta. Possessing, having, complete with, furnished with. presents the S. pref. vi- in its intensifying functions, but also in the sense of \"differently, especially.\" adxaylaxu; T. rnam par rtog pa; δ. vikalpa. Discursive thought. alyasangyui; T. rnam (par) gy'eng(ba); S. vikshepa. Distraction, confusion. bolbasuraxu; T. rnam par smin pa; S. vipāka Karmaic maturation, results of good and evil deeds (deciding our destiny). bolbasuraxu jin yr-e; T. rnam par smin pahi hbras bu; S vipāka-phala. Fruition-result. ED 395-6. byged = tin; T. rnam par. Stands for the S. prefix \"vi-\" in its various functions. byged adxay; T. rnam par rtog pa; S. vikalpa. False discrimination or perception. ED 480. byged ariluysan; T. rnam par byang ba; S. vyava- dānatva. (The state of) purity. byged geigylyn zokijayci; T. Rnam par snang mdzad; S. Vairocana. The central Bu. in the cosmic pentad. See izayurtu. byged ilayuysan; T. rnam par rgyal ba; S. vi- jaya. Victorious, also a type of flask (the vijaya-kalaça) used in ritual. byged ilyaxui; T. rnam par hbyed pa; S. vicaya. Analysis, having phenomenon as its object. (byged) medekyi; T. rnam par es pa, rnam ces; S. vijnāna. Perception as contrasting with know- ledge (belge bilig). Based on the five outer",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TEGYSYGSEN; T."
   },
   {
     "index": 23707,
@@ -254835,11 +254975,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1185.jpg",
     "explain": "presents the S. pref. vi- in its intensifying functions, but also in the sense of \"differently, especially.\" adxaylaxu; T. rnam par rtog pa; δ. vikalpa. Discursive thought. alyasangyui; T. rnam (par) gy'eng(ba); S. vikshepa. Distraction, confusion. bolbasuraxu; T. rnam par smin pa; S. vipāka Karmaic maturation, results of good and evil deeds (deciding our destiny). bolbasuraxu jin yr-e; T. rnam par smin pahi hbras bu; S vipāka-phala. Fruition-result. ED 395-6. byged = tin; T. rnam par. Stands for the S. prefix \"vi-\" in its various functions. byged adxay; T. rnam par rtog pa; S. vikalpa. False discrimination or perception. ED 480. byged ariluysan; T. rnam par byang ba; S. vyava- dānatva. (The state of) purity. byged geigylyn zokijayci; T. Rnam par snang mdzad; S. Vairocana. The central Bu. in the cosmic pentad. See izayurtu. byged ilayuysan; T. rnam par rgyal ba; S. vi- jaya. Victorious, also a type of flask (the vijaya-kalaça) used in ritual. byged ilyaxui; T. rnam par hbyed pa; S. vicaya. Analysis, having phenomenon as its object. (byged) medekyi; T. rnam par es pa, rnam ces; S. vijnāna. Perception as contrasting with know- ledge (belge bilig). Based on the five outer",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 23708,
@@ -254848,11 +254987,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1185.jpg",
     "explain": "presents the S. pref. vi- in its intensifying functions, but also in the sense of \"differently, especially.\" adxaylaxu; T. rnam par rtog pa; δ. vikalpa. Discursive thought. alyasangyui; T. rnam (par) gy'eng(ba); S. vikshepa. Distraction, confusion. bolbasuraxu; T. rnam par smin pa; S. vipāka Karmaic maturation, results of good and evil deeds (deciding our destiny). bolbasuraxu jin yr-e; T. rnam par smin pahi hbras bu; S vipāka-phala. Fruition-result. ED 395-6. byged = tin; T. rnam par. Stands for the S. prefix \"vi-\" in its various functions. byged adxay; T. rnam par rtog pa; S. vikalpa. False discrimination or perception. ED 480. byged ariluysan; T. rnam par byang ba; S. vyava- dānatva. (The state of) purity. byged geigylyn zokijayci; T. Rnam par snang mdzad; S. Vairocana. The central Bu. in the cosmic pentad. See izayurtu. byged ilayuysan; T. rnam par rgyal ba; S. vi- jaya. Victorious, also a type of flask (the vijaya-kalaça) used in ritual. byged ilyaxui; T. rnam par hbyed pa; S. vicaya. Analysis, having phenomenon as its object. (byged) medekyi; T. rnam par es pa, rnam ces; S. vijnāna. Perception as contrasting with know- ledge (belge bilig). Based on the five outer",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 23709,
@@ -254862,9 +255000,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "senses and a so-called inner sense or \"sensorium commune\" (sedkil; T. yid, S. manas) it is of six kinds to which the Yogacaras have added two more: mind affected by nisvanis (nisvanistu sedkil; T. nyon mongs can yid; S. klishta-manas) and finally the store-consciousnes (bykyn y sitygen y tein medekyi; T. kun gzhi rnam par çes pa; S. ālaya- vijnāna. Store consciousness so called because it stores the karma-seeds (yiles yn køryngge; T. las kyi sa bon; S. karma-bíja). -- byged nomlaysan; T. (rnam par) bçad pa; S. vikhyā- ta. Preached, explained. ED 482. byged tonilxui; T. rnam par grol ba; S. vimukti, vimoksha. Liberation, release from sansar. ED 497a. byged urbayci boluysan; T. yongs su gyur pa; S. parivtti. Complete change, transmutation. byged xubilxui; T. rnam par hphrul ba; S. vikurva- nā. Metamorphosis, miracle. -- ky cinar ; T. de (kho na) nyid; S. tattva. ( Meta- physical) reality. ED 481 b. sinzileky; T. rnam (par) dpyod pa; S. vicāra. Investigation, analysis. suduluysan; T. rnam ( par) sbyangs pa; S. viçuddha. Purified, trained, educated. tonilxu; T. rnam par thar pa; S. vimoksha. Libera- tion, release, salvation. urbayci (= tein byged urbayci boluysan); T. rnam gyur; S. vikrta. Changed, metamorphosed. -- uriduyci; T. rnam hdren, rnam par hdren pa; S. vināyaka. The best guide, ep. of the Bu. ED 489 b. uxaydaxu; T. rnam par rig byed; S. vijnapti. Com- munication, representation. ED 485 b.",
     "lessingForm": "TEIN",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -254872,23 +255008,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1186-1-02",
     "tradRom": "tengsil",
     "imageName": "LessingDict_Page_1186.jpg",
-    "explain": "TENGSIL ygei; T. bla na med; S. anuttara. Thatthan which there is nothing higher; highest, supreme. TER-E cinar; T. de bzhin nyid; S. tathatā, tathātā. \"Suchness = absolute reality\" (many synonyms). ED 248 b. jayun u tulada kemebesy (patterned after S.); T. de cihi phyir zhe na; S. tat kasmād dhetoh. For what reason? A formula frequently found in texts where English would simply say \"Why?' -- ky cinar; T. de kho na nyid; S. tattva. Metaphysi- cal reality. -- mety cinar = tegyncilen cinar; S. tathātā, tathatā, tathatva. \"Suchness, \" true essence, absolute reality.",
+    "explain": "ygei; T. bla na med; S. anuttara. Thatthan which there is nothing higher; highest, supreme.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TENGSIL"
   },
   {
     "index": 23711,
     "sourceId": "L1186-1-03",
     "tradRom": "ter_e",
     "imageName": "LessingDict_Page_1186.jpg",
-    "explain": "TERIGYI.ESi ygei, cay; T. thog (ma) med (pahi) dus; S. anādi-kāla, \"Beginningless\" time;(from) all",
-    "lessingForm": "ED 248 a.",
+    "explain": "cinar; T. de bzhin nyid; S. tathatā, tathātā. \"Suchness = absolute reality\" (many synonyms).",
+    "lessingForm": "TER-E",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254896,63 +255030,88 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1186-1-04",
     "tradRom": "terigülesi",
     "imageName": "LessingDict_Page_1186.jpg",
-    "explain": "eternity.",
+    "explain": "a. TERIGYI.ESi ygei, cay; T. thog (ma) med (pahi) dus; S. anādi-kāla, \"Beginningless\" time;(from) all eternity.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ],
+    "lessingForm": "ED 248"
   },
   {
     "index": 23713,
     "sourceId": "L1186-1-05",
     "tradRom": "terigüten",
     "imageName": "LessingDict_Page_1186.jpg",
-    "explain": "TERIGYTEN nygyd; T. la sogs pa; S. -ādi. And so forth, and others, and other things ( after enumerations). TORYKYI TIB (fr. S. dvípa) dørben --; T. gling; S. dvipa. The four continents surrounding Mt. Symer. TNGRI; T. lha; S. deva. Denizen of Heaven, god, See Pt.I, ED 270. -- busu; T. lha ma yin; S. asura. See asuri. -- jin erkety. The Mighty One of the tngri: Indra. TOBCILAN xurijagsan; T. mdor bsdus pa; S. sam- kshipta. Abbreviated; an abstract. TODXAR, TODXUR; T. bgegs; S. vighna. Hindrance, personified as demon. arilyayci; T. bgegs sel ba; S. vighna-vināyaka. Expeller of demons. ygei; T. bar chad med; S. ān-antarya. Free from interruption(s), immediate sequence. ED 95. TOITAΓAL; T. gzungs; S. dhāraņf. \" Magic spell,\" see tarni.",
+    "explain": "nygyd; T. la sogs pa; S. -ādi. And so forth, and others, and other things ( after enumerations). -1186-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TERIGYTEN"
   },
   {
     "index": 23714,
     "sourceId": "L1186-2-01",
     "tradRom": "tib",
-    "imageName": "LessingDict_Page_1186.jpg"
+    "imageName": "LessingDict_Page_1186.jpg",
+    "explain": "(fr. S. dvípa) dørben --; T. gling; S. dvipa. The four continents surrounding Mt. Symer.",
+    "lessingForm": "TIB",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23715,
     "sourceId": "L1186-2-02",
     "tradRom": "tngri",
-    "imageName": "LessingDict_Page_1186.jpg"
+    "imageName": "LessingDict_Page_1186.jpg",
+    "explain": "lha; S. deva. Denizen of Heaven, god, See Pt.I, ED 270. -- busu; T. lha ma yin; S. asura. See asuri. -- jin erkety. The Mighty One of the tngri: Indra.",
+    "lessingForm": "TNGRI; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23716,
     "sourceId": "L1186-2-03",
     "tradRom": "tobčilan",
-    "imageName": "LessingDict_Page_1186.jpg"
+    "imageName": "LessingDict_Page_1186.jpg",
+    "explain": "xurijagsan; T. mdor bsdus pa; S. sam- kshipta. Abbreviated; an abstract.",
+    "lessingForm": "TOBCILAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23717,
     "sourceId": "L1186-2-04",
     "tradRom": "todqar",
-    "imageName": "LessingDict_Page_1186.jpg"
+    "imageName": "LessingDict_Page_1186.jpg",
+    "explain": "bgegs; S. vighna. Hindrance, personified as demon. arilyayci; T. bgegs sel ba; S. vighna-vināyaka. Expeller of demons. ygei; T. bar chad med; S. ān-antarya. Free from interruption(s), immediate sequence. ED 95.",
+    "lessingForm": "TODXAR, TODXUR; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23718,
     "sourceId": "L1186-2-05",
     "tradRom": "toγtaγal",
-    "imageName": "LessingDict_Page_1186.jpg"
+    "imageName": "LessingDict_Page_1186.jpg",
+    "explain": "gzungs; S. dhāraņf. \" Magic spell,\" see tarni.",
+    "lessingForm": "TOITAΓAL; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23719,
     "sourceId": "L1186-2-06",
     "tradRom": "toγtaγaqu",
     "imageName": "LessingDict_Page_1186.jpg",
-    "explain": "sedkil degen --; T. yid la hdzin pa; S. manas(i)- kāra. Fixing in one's mind, concentration. ED 418",
-    "lessingForm": "TOITAΓAXU sedkil",
+    "explain": "sedkil sedkil degen --; T. yid la hdzin pa; S. manas(i)- kāra. Fixing in one's mind, concentration. ED 418",
+    "lessingForm": "TOITAΓAXU",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -254960,23 +255119,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1186-2-07",
     "tradRom": "toγuluγsan",
     "imageName": "LessingDict_Page_1186.jpg",
-    "explain": "TORULUΓSAN See iledte toyuluysan.",
+    "explain": "See iledte toyuluysan.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TORULUΓSAN"
   },
   {
     "index": 23721,
     "sourceId": "L1186-2-08",
     "tradRom": "toγuriqu",
     "imageName": "LessingDict_Page_1186.jpg",
-    "explain": "TOΓURIXU ; T. (b)skor ba; S. pradakshinā. Reverential circumambulation (of a saintly person or sacred object from left to right so that the object so honored is always on one's right side.",
+    "explain": "(b)skor ba; S. pradakshinā. Reverential circumambulation (of a saintly person or sacred object from left to right so that the object so honored is always on one's right side. TOrUS See Jeke toyus.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TOΓURIXU ; T."
   },
   {
     "index": 23722,
@@ -254985,10 +255143,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1186.jpg",
     "explain": "TOrUS See Jeke toyus.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 23723,
@@ -254996,7 +255154,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "toγusun",
     "imageName": "LessingDict_Page_1186.jpg",
     "explain": "narin --; T. rdul phra mo; S. anu. Particle, \"atom.\"",
-    "lessingForm": "TOTUSUN"
+    "lessingForm": "TOTUSUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23724,
@@ -255004,7 +255165,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "töb",
     "imageName": "LessingDict_Page_1186.jpg",
     "explain": "nom un --; T. chos kyi dbyings; S. dharma-dhātu. The sphere of religion; the sphere or, with others, \"center\" or nucleus of the nom ud, i. e., the absolute. ED 278 b.",
-    "lessingForm": "TQB"
+    "lessingForm": "TQB",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23725,
@@ -255014,7 +255178,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "xamtu -- ; T. lhan skyes; S. sahaja. Connate, congenital. Originally applied to amitan which were born simultaneously with the Buddha (friends, teachers, a horse, etc.). In the Vacir Kølgen the term acquired an esoteric meaning. xojar --; T. gnyis skyes; S. dvija. Originally one belonging to the uppermost caste of the Hindus (brāhmana); oviparous.",
     "lessingForm": "TORYGSEN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255022,23 +255186,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1186-2-13",
     "tradRom": "törükü",
     "imageName": "LessingDict_Page_1186.jpg",
-    "explain": "TØRYKY ygei; T. skye med pa; S. anutpāda. Not born, without origination.",
+    "explain": "ygei; T. skye med pa; S. anutpāda. Not born, without origination.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TØRYKY"
   },
   {
     "index": 23727,
     "sourceId": "L1186-2-14",
     "tradRom": "törüküi",
     "imageName": "LessingDict_Page_1186.jpg",
-    "explain": "TØRYKYI; T. skye ba; S. jāti. One of the eight zobalang mentioned in the first sermon of the Bu. dyr erke; T. skye ba la dbang ba; S. upapatti- vaçitā-utpatti-vaçitā.Mastery of reincarnation, the freedom of choosing the class of beings de- sirable for one's rebirth, 5th mastery of Bo. ED 138b.",
+    "explain": "skye ba; S. jāti. One of the eight zobalang mentioned in the first sermon of the Bu. dyr erke; T. skye ba la dbang ba; S. upapatti- vaçitā-utpatti-vaçitā.Mastery of reincarnation, the freedom of choosing the class of beings de- sirable for one's rebirth, 5th mastery of Bo. ED 138b.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TØRYKYI; T."
   },
   {
     "index": 23728,
@@ -255048,7 +255211,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "TØRYL; T. skye ba; S. jāti. Birth or life ( in reference",
     "lessingForm": "TORYL",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255056,11 +255219,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1187-1-02",
     "tradRom": "törülkiten",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "to sansar). -- orun; T. yul; S. gati. Any of the six classes of",
+    "explain": "skye ba; S. jāti. Birth or life ( in reference to sansar). -- orun; T. yul; S. gati. Any of the six classes of amitan in the sansar. TøRYLKITEN; T. skyes bu; S. purusha. Man of three kinds (inferior (øcyken --), average (dumdadu--), great (boyda); T. skyes bu dam pa; S. satpurusha. Worthy or illustrious person (jeke --) who knows the saddharma and practices accordingly. TøRYN tygekyi; T. skye mched; S. ayatana.\"Organs of sense,\" \"bases of cognition; l2 mentioned, six internal, \"subjective\" (nidyn, cikin, xabar, kelen, bej-e, sedkil), six external, \"objective\" (øngge, dayun, ynyr, amtan, kyrtekyi, nom ud). The term can- not be rendered by a single English word to cover both meanings, sense-organs (the mind being re- garded as 6th sense) and sense objects. ED 101.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TØRYL; T."
   },
   {
     "index": 23730,
@@ -255069,110 +255232,109 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1187.jpg",
     "explain": "amitan in the sansar. TøRYLKITEN; T. skyes bu; S. purusha. Man of three kinds (inferior (øcyken --), average (dumdadu--), great (boyda); T. skyes bu dam pa; S. satpurusha. Worthy or illustrious person (jeke --) who knows the saddharma and practices accordingly.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 23731,
     "sourceId": "L1187-1-04",
     "tradRom": "tuγurbil",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "TøRYN tygekyi; T. skye mched; S. ayatana.\"Organs of sense,\" \"bases of cognition; l2 mentioned, six internal, \"subjective\" (nidyn, cikin, xabar, kelen, bej-e, sedkil), six external, \"objective\" (øngge, dayun, ynyr, amtan, kyrtekyi, nom ud). The term can- not be rendered by a single English word to cover both meanings, sense-organs (the mind being re- garded as 6th sense) and sense objects. ED 101.",
+    "explain": "ece anggiziraysan; T. spros bral; S.nishpra- panca. Free from phenomenalization or constructive imagination. EB 380.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TUΓURBIL"
   },
   {
     "index": 23732,
     "sourceId": "L1187-1-05",
     "tradRom": "tudam",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "TUΓURBIL ece anggiziraysan; T. spros bral; S.nishpra- panca. Free from phenomenalization or constructive imagination. EB 380. TUDAM; T. thugs dam, ji dam. Vow, solemn promise.",
+    "explain": "thugs dam, ji dam. Vow, solemn promise.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TUDAM; T."
   },
   {
     "index": 23733,
     "sourceId": "L1187-1-06",
     "tradRom": "tus",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "TUS tus un tørylkity. See øber-e øber-e tørylkiten.",
+    "explain": "tus un tørylkity. See øber-e øber-e tørylkiten.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TUS"
   },
   {
     "index": 23734,
     "sourceId": "L1187-1-07",
     "tradRom": "tusa",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "TUSA bytygsen; T. Don grub; S. Siddhārtha. \"Whose goal is reached \", first name given to Šagjamuni when living in his father's house.",
+    "explain": "bytygsen; T. Don grub; S. Siddhārtha. \"Whose goal is reached \", first name given to Šagjamuni when living in his father's house.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TUSA"
   },
   {
     "index": 23735,
     "sourceId": "L1187-1-08",
     "tradRom": "ubadi",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "UBADI, ubadij-a, ubadini (fr. S.); T. mkhan po; S. upādhāya . Religious teacher or instructor.",
+    "explain": "ubadij-a, ubadini (fr. S.); T. mkhan po; S. upādhāya . Religious teacher or instructor.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UBADI,"
   },
   {
     "index": 23736,
     "sourceId": "L1187-1-09",
     "tradRom": "ubadis",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "UBADIS; T. gdams ngag; S. anuçāsanā. Religlous instruction or advice. aman u --; T. zhal gdams, man ngag; S. upadeça. Instructions, admonition by the Bu., etc. ED 135 a. Here the word aman, T. zhal is merely honorific.",
+    "explain": "gdams ngag; S. anuçāsanā. Religlous instruction or advice. aman u --; T. zhal gdams, man ngag; S. upadeça. Instructions, admonition by the Bu., etc. ED 135 a. Here the word aman, T. zhal is merely honorific.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UBADIS; T."
   },
   {
     "index": 23737,
     "sourceId": "L1187-1-10",
     "tradRom": "ubasi",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "UBASI; T. dge bsnyen; S. upāsaka. Male lay-disciple.",
+    "explain": "dge bsnyen; S. upāsaka. Male lay-disciple.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UBASI; T."
   },
   {
     "index": 23738,
     "sourceId": "L1187-1-11",
     "tradRom": "učir",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "UCIR siltayan; T. rgyu mtshan, gtan tshig; S. hetu. Reason, motive.",
+    "explain": "siltayan; T. rgyu mtshan, gtan tshig; S. hetu. Reason, motive.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UCIR"
   },
   {
     "index": 23739,
     "sourceId": "L1187-1-12",
     "tradRom": "udqa",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "\"Transcendent\" truth.",
+    "explain": "mayad -- ; T. don dam pa; S. paramārtha. \"Transcendent\" truth.",
     "cyrillic": "mayad -- ; T. don dam pa; S. paramārtha.",
     "lessingForm": "UDXA",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255180,130 +255342,198 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1187-1-13",
     "tradRom": "uγ",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "UΓ; T. gzhi; S. ādhāra. Foundation, basis. -- ucir; T. rgyu mtshan. Principal cause; reason. -- un siltayan; T. rgyuhi rkyen; S. hetu-pratyaya. Basic or primary cause. xola yin --; T. ring bahi rgyu: The remote cause.",
+    "explain": "gzhi; S. ādhāra. Foundation, basis. -- ucir; T. rgyu mtshan. Principal cause; reason. -- un siltayan; T. rgyuhi rkyen; S. hetu-pratyaya. Basic or primary cause. xola yin --; T. ring bahi rgyu: The remote cause.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UΓ; T."
   },
   {
     "index": 23741,
     "sourceId": "L1187-1-14",
     "tradRom": "umai",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "UMAI a oruxui; T. mngal na gnas pa; S. garbhāvakrānti. Entering the womb (in the shape of an elephant, referring to the conception of the Bu.).",
+    "explain": "a oruxui; T. mngal na gnas pa; S. garbhāvakrānti. Entering the womb (in the shape of an elephant, referring to the conception of the Bu.). -1187-",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UMAI"
   },
   {
     "index": 23742,
     "sourceId": "L1187-2-01",
     "tradRom": "tusatu",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "salm-a (calm-a); T. Don yod zhags pa; S. Amogha-pāça. \"Infallible lasso\" (for catching demons), a. weapon of certain doysid.",
+    "lessingForm": "TUSATU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23743,
     "sourceId": "L1187-2-02",
     "tradRom": "tusburi",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "tørylkiten; T. so sohi skye bo; S. prthag-jana. Ordinary (not saintly) person(s); contrasts with arij-a = xutuxtu.",
+    "lessingForm": "TUSBURI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23744,
     "sourceId": "L1187-2-03",
     "tradRom": "tusqayilan",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "ygylekyi; T. ched du brjod pa; S. udāna. Fifth of the 12 degedy nom. \"Solemn, joyous utterance, \" ED 128 a.",
+    "lessingForm": "TUSXAILAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23745,
     "sourceId": "L1187-2-04",
     "tradRom": "tüidker",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "sgrib pa; S. nivarana, nivarana. Hindrance, interference. See xamuy ED 3ll a. tabun --; T. sgrib pa lnga; S. panca-avarana. The five obstacles : anger, wickedness, ignorance, sensuality, doubt. ED 107 a.",
+    "lessingForm": "TYIDKER; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23746,
     "sourceId": "L1187-2-05",
     "tradRom": "tülesi",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "jin øglyge; T. sbyin sreg; S. homa. Fire offering. See Yhk, I 150-161.",
+    "lessingForm": "TYLESI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23747,
     "sourceId": "L1187-2-06",
     "tradRom": "türidküi",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "hgog pa; S. nirodha. Cessation of suffer- ing . See ynen (4).",
+    "lessingForm": "TYRIDKYI ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23748,
     "sourceId": "L1187-2-07",
     "tradRom": "tüsid",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "yn orun (fr. S.); T. Dgah ldan gyi gnas; S. Tushitāh :The place of the Tushitas.\" Descent from this place is the first of the famous twelve acts of a Bu. -- yn tngri; T. dgah Idan; S. Tushitāh. \"The gods of the Tushita paradise\" ED 255 b. U",
+    "lessingForm": "TYSID",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23749,
     "sourceId": "L1187-2-08",
     "tradRom": "umǰad",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "rumzad.",
+    "lessingForm": "UMZAD =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23750,
     "sourceId": "L1187-2-09",
     "tradRom": "ungsilaqu",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "zhal hdon pa. To recite, as sacred texts.",
+    "lessingForm": "UNGSILAXU; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23751,
     "sourceId": "L1187-2-10",
     "tradRom": "urida",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "jabuyulxu; T. sngon hgro; S. purvam-gamana. Introduction or preface to a ritual.",
+    "lessingForm": "URIDA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23752,
     "sourceId": "L1187-2-11",
     "tradRom": "urin",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "zalaxu; T. spyan hdren pa ( where spyan \"eye\" functions as honorific); S. ākarshana, āvahana. Invitation made to a deity (to reveal itself to the bytygelcin ) See xoyusun ayar.",
+    "lessingForm": "URIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23753,
     "sourceId": "L1187-2-12",
     "tradRom": "uruγ",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "barildaxu; T. nying mtshams sbyor ba; S. pratisamdhi. Reincarnation.",
+    "lessingForm": "URUΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23754,
     "sourceId": "L1187-2-13",
     "tradRom": "usun",
-    "imageName": "LessingDict_Page_1187.jpg"
+    "imageName": "LessingDict_Page_1187.jpg",
+    "explain": "u maxabud; T. chuhi khams; S. abdhātu. The element water (which represents the quality of suppleness). xojar --; T. chu gnyis. Two kinds of water as offered in cult. See takil, naiman.",
+    "lessingForm": "USUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23755,
     "sourceId": "L1187-2-14",
     "tradRom": "uqaγan",
     "imageName": "LessingDict_Page_1187.jpg",
-    "explain": "TUSATU salm-a (calm-a); T. Don yod zhags pa; S. Amogha-pāça. \"Infallible lasso\" (for catching demons), a. weapon of certain doysid. TUSBURI tørylkiten; T. so sohi skye bo; S. prthag-jana. Ordinary (not saintly) person(s); contrasts with arij-a = xutuxtu. TUSXAILAN ygylekyi; T. ched du brjod pa; S. udāna. Fifth of the 12 degedy nom. \"Solemn, joyous utterance, \" ED 128 a. TYIDKER; T. sgrib pa; S. nivarana, nivarana. Hindrance, interference. See xamuy ED 3ll a. tabun --; T. sgrib pa lnga; S. panca-avarana. The five obstacles : anger, wickedness, ignorance, sensuality, doubt. ED 107 a. TYLESI jin øglyge; T. sbyin sreg; S. homa. Fire offering. See Yhk, I 150-161. TYRIDKYI ; T. hgog pa; S. nirodha. Cessation of suffer- ing . See ynen (4). TYSID yn orun (fr. S.); T. Dgah ldan gyi gnas; S. Tushitāh :The place of the Tushitas.\" Descent from this place is the first of the famous twelve acts of a Bu. -- yn tngri; T. dgah Idan; S. Tushitāh. \"The gods of the Tushita paradise\" ED 255 b. U UMZAD = rumzad. UNGSILAXU; T. zhal hdon pa. To recite, as sacred texts. URIDA jabuyulxu; T. sngon hgro; S. purvam-gamana. Introduction or preface to a ritual. URIN zalaxu; T. spyan hdren pa ( where spyan \"eye\" functions as honorific); S. ākarshana, āvahana. Invitation made to a deity (to reveal itself to the bytygelcin ) See xoyusun ayar. URUΓ barildaxu; T. nying mtshams sbyor ba; S. pratisamdhi. Reincarnation. USUN u maxabud; T. chuhi khams; S. abdhātu. The element water (which represents the quality of suppleness). xojar --; T. chu gnyis. Two kinds of water as offered in cult. See takil, naiman. UXAΓAN; T. rig pa; S. vidyā. Science. -- (tabun); T. rig pahi gnas Inga; S. vidyā-sthāna (panca). Sciences (five). dayun u --; T.sgrahi rig pa; S. cabda-vidyā. The first of the five sciences: grammar.",
-    "lessingForm": "UXAFAN",
+    "explain": "rig pa; S. vidyā. Science. -- (tabun); T. rig pahi gnas Inga; S. vidyā-sthāna (panca). Sciences (five). dayun u --; T.sgrahi rig pa; S. cabda-vidyā. The first of the five sciences: grammar.",
+    "lessingForm": "UXAΓAN; T.",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 23756,
     "sourceId": "L1188-1-02",
     "tradRom": "vačir",
-    "imageName": "LessingDict_Page_1188.jpg"
+    "imageName": "LessingDict_Page_1188.jpg",
+    "explain": "dotuyadu -- ; T. nang gi rig pa; S. adhyānta -vidyā. Inner, i.e., Buddhistic science, philosophy, scolasticism.",
+    "lessingForm": "UXATAN",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 23757,
     "sourceId": "L1188-1-03",
     "tradRom": "vačirbani",
     "imageName": "LessingDict_Page_1188.jpg",
-    "explain": "dotuyadu -- ; T. nang gi rig pa; S. adhyānta -vidyā. Inner, i.e., Buddhistic science, philosophy, scolasticism. VACIR; T. rdo rje; S. vajra. Thunderbolt; diamond; the all-destroying, indestructible weapon of Xormusda (Indra) was early used metaphorically to suggest immutability, permanency, and the like. In late Buddhismit became the symbol of the absolute. See kølgen and bej-e. In the mystical sphere it assumed connotations of the linga (phallus) in Hinduism, its counterpart (the yoni) being the xongxu. As a ri- tualist implement it may have developed out of the serege. The vacir, made of metal, 4-5 inches long, resembles an open-worked dumbell . It and the xongxu symbolize the male deity and its female counterpart (T. nus pa, S. çakti). sayurin; T. Rdo rje gdan; S. Vajrāsana. Thunderbolt seat, name of the seat on which Šagjamuni, while medit ating, found enlightenment. xongxu; T. rdo rje dril bu, rdor dril; S. vajra- ghantā . Thunderbolt and bell . See under vajra. zabilal; T. rdo rjehi skyil krung; S. vajrāsana. The \"vajra\" posture (cross-legged) taken up by the Buddha on the vacir sayurin. VACIRBANI ; T. Phyag na rdo rje; S. Vajra pāni . See yar tegen vacirtu.",
-    "lessingForm": "UXATAN",
+    "explain": "rdo rje; S. vajra. Thunderbolt; diamond; the all-destroying, indestructible weapon of Xormusda (Indra) was early used metaphorically to suggest immutability, permanency, and the like. In late Buddhismit became the symbol of the absolute. See kølgen and bej-e. In the mystical sphere it assumed connotations of the linga (phallus) in Hinduism, its counterpart (the yoni) being the xongxu. As a ri- tualist implement it may have developed out of the serege. The vacir, made of metal, 4-5 inches long, resembles an open-worked dumbell . It and the xongxu symbolize the male deity and its female counterpart (T. nus pa, S. çakti). sayurin; T. Rdo rje gdan; S. Vajrāsana. Thunderbolt seat, name of the seat on which Šagjamuni, while medit ating, found enlightenment. xongxu; T. rdo rje dril bu, rdor dril; S. vajra- ghantā . Thunderbolt and bell . See under vajra. zabilal; T. rdo rjehi skyil krung; S. vajrāsana. The \"vajra\" posture (cross-legged) taken up by the Buddha on the vacir sayurin.",
+    "lessingForm": "VACIR; T.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -255311,11 +255541,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1188-1-04",
     "tradRom": "vačirdar_a",
     "imageName": "LessingDict_Page_1188.jpg",
-    "explain": "Vajra-dhara. \"Thunderbolt-holder,\" the supreme god of the vacir (un) kølgen. Superimposed on the cosmic pentad (see tabun burxan under burxan) he is the Angxan u Burxan (see angxan) from whom all the deities, and the whole cosmos emanate. His is the fourth, the vacirtu bej-e.",
-    "lessingForm": "VACiRDAR-A or OCIRDAR-A ; T. Rdo rje hchang; S.",
+    "explain": "Phyag na rdo rje; S. Vajra pāni . See yar tegen vacirtu. VACiRDAR-A or OCIRDAR-A ; T. Rdo rje hchang; S. Vajra-dhara. \"Thunderbolt-holder,\" the supreme god of the vacir (un) kølgen. Superimposed on the cosmic pentad (see tabun burxan under burxan) he is the Angxan u Burxan (see angxan) from whom all the deities, and the whole cosmos emanate. His is the fourth, the vacirtu bej-e.",
+    "lessingForm": "VACIRBANI ; T.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255323,22 +255552,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1188-1-05",
     "tradRom": "qabsurun",
     "imageName": "LessingDict_Page_1188.jpg",
-    "explain": "XABSURUN uciraxu; T. sbyor ba; S. yoga. (The practice of) meditation or yoga.",
+    "explain": "uciraxu; T. sbyor ba; S. yoga. (The practice of) meditation or yoga.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XABSURUN"
   },
   {
     "index": 23760,
     "sourceId": "L1188-1-06",
     "tradRom": "qaγačaγsan",
     "imageName": "LessingDict_Page_1188.jpg",
-    "explain": "vigata. Free(d) from ...",
+    "explain": "ece --; T. ... dang bral ba; S. vīta-, vigata. Free(d) from ...",
     "cyrillic": "ece --; T. ... dang bral ba; S. vīta-,",
     "lessingForm": "XAFACAFSAN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255346,92 +255575,131 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1188-1-07",
     "tradRom": "qaγan",
     "imageName": "LessingDict_Page_1188.jpg",
-    "explain": "XAΓAN; T. rgyal po; S. -rāja. At the end of book titles a laudatory ep. in the sense of \"King of ...\"",
+    "explain": "rgyal po; S. -rāja. At the end of book titles a laudatory ep. in the sense of \"King of ...\"",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAΓAN; T."
   },
   {
     "index": 23762,
     "sourceId": "L1188-1-08",
     "tradRom": "qaγurčaγ",
     "imageName": "LessingDict_Page_1188.jpg",
-    "explain": "XAΓURCAΓ; T. za ma tog; S. karanda. Basket (used in book titles).",
+    "explain": "za ma tog; S. karanda. Basket (used in book titles).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAΓURCAΓ; T."
   },
   {
     "index": 23763,
     "sourceId": "L1188-1-09",
     "tradRom": "qamtu",
     "imageName": "LessingDict_Page_1188.jpg",
-    "explain": "XAMTU; T. lhan cig; S. saha. Together, simultaneous. nige(n) boluysan; T. lhan cig (tu) byung ba; S. sahaja. Born simultaneously, coexistent. Especially applied to a genius protector supposed to be born and existing simultaneously with an exalted person, such as the Bu. and charged with accompanying him XAMUr UXAIUL un ygyleky; T. rtogs par brjod pa; S. avadāna. Edifying stories, section in the collection of Buddhist Scriptures. V VACIRTU baysi; T. rdo rje slob dpon; S. vajrācārya. The thunderbolt teacher, the hierophant of the Tantras, who can explain them to the proper candidates. VAIDURJA (various spellings); T. bai du rya; S. vaiurya Lapis lazuli, chrysolite, malachite. VCIR.Olderform of vacir, ocir. VI- Transcription of S. initial \"vi-\" or \"bi-\". VINAI; T. hdul ba; S. vinaya. Clerical discipline; one of the aimay saba. See also šayšabad. ED 98 a. bariyci; T. hdul ba hdzin pa; S. Vinaya-dhara. Master of the vinai. VISAI ( fr. S.); T. yul; S. vishaya. Scope, range (sense) object, objective domain of the six senses (including sedkil). nidyn y --; T. mig gi yul; S. cakshur-vishaya. Sphere, range, scope of vision. See orun. ED 502a. VIŠAITU, bisaitu; T. yul yod pa; S. viçayin. Being within or belonging to, the range of sense objects.",
+    "explain": "lhan cig; S. saha. Together, simultaneous. nige(n) boluysan; T. lhan cig (tu) byung ba; S. sahaja. Born simultaneously, coexistent. Especially applied to a genius protector supposed to be born and existing simultaneously with an exalted person, such as the Bu. and charged with accompanying him",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAMTU; T."
   },
   {
     "index": 23764,
     "sourceId": "L1188-2-01",
     "tradRom": "uqaγul",
-    "imageName": "LessingDict_Page_1188.jpg"
+    "imageName": "LessingDict_Page_1188.jpg",
+    "explain": "un ygyleky; T. rtogs par brjod pa; S. avadāna. Edifying stories, section in the collection of Buddhist Scriptures. V",
+    "lessingForm": "UXAIUL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23765,
     "sourceId": "L1188-2-02",
     "tradRom": "vačirtu",
-    "imageName": "LessingDict_Page_1188.jpg"
+    "imageName": "LessingDict_Page_1188.jpg",
+    "explain": "baysi; T. rdo rje slob dpon; S. vajrācārya. The thunderbolt teacher, the hierophant of the Tantras, who can explain them to the proper candidates.",
+    "lessingForm": "VACIRTU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23766,
     "sourceId": "L1188-2-03",
     "tradRom": "vayidurya",
-    "imageName": "LessingDict_Page_1188.jpg"
+    "imageName": "LessingDict_Page_1188.jpg",
+    "explain": "(various spellings); T. bai du rya; S. vaiurya Lapis lazuli, chrysolite, malachite. VCIR.Olderform of vacir, ocir.",
+    "lessingForm": "VAIDURJA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23767,
     "sourceId": "L1188-2-04",
     "tradRom": "včir",
-    "imageName": "LessingDict_Page_1188.jpg"
+    "imageName": "LessingDict_Page_1188.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 23768,
     "sourceId": "L1188-2-05",
     "tradRom": "vi-",
-    "imageName": "LessingDict_Page_1188.jpg"
+    "imageName": "LessingDict_Page_1188.jpg",
+    "explain": "Transcription of S. initial \"vi-\" or \"bi-\".",
+    "lessingForm": "VI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23769,
     "sourceId": "L1188-2-06",
     "tradRom": "vinai",
-    "imageName": "LessingDict_Page_1188.jpg"
+    "imageName": "LessingDict_Page_1188.jpg",
+    "explain": "hdul ba; S. vinaya. Clerical discipline; one of the aimay saba. See also šayšabad. ED 98 a. bariyci; T. hdul ba hdzin pa; S. Vinaya-dhara. Master of the vinai.",
+    "lessingForm": "VINAI; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23770,
     "sourceId": "L1188-2-07",
     "tradRom": "višai",
-    "imageName": "LessingDict_Page_1188.jpg"
+    "imageName": "LessingDict_Page_1188.jpg",
+    "explain": "fr. S.); T. yul; S. vishaya. Scope, range (sense) object, objective domain of the six senses (including sedkil). nidyn y --; T. mig gi yul; S. cakshur-vishaya. Sphere, range, scope of vision. See orun. ED 502a.",
+    "lessingForm": "VISAI (",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23771,
     "sourceId": "L1188-2-08",
     "tradRom": "višayitu",
-    "imageName": "LessingDict_Page_1188.jpg"
+    "imageName": "LessingDict_Page_1188.jpg",
+    "explain": "bisaitu; T. yul yod pa; S. viçayin. Being within or belonging to, the range of sense objects.",
+    "lessingForm": "VIŠAITU,",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23772,
     "sourceId": "L1188-2-09",
     "tradRom": "vivanggirid",
     "imageName": "LessingDict_Page_1188.jpg",
-    "explain": "vyākarana. Revelation, prediction.",
-    "lessingForm": "VIVANGGIRID, BIVANGGIRID ; T. lung bstan; S.",
+    "explain": "lung bstan; S. vyākarana. Revelation, prediction. See ridi.",
+    "lessingForm": "VIVANGGIRID, BIVANGGIRID ; T.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -255439,13 +255707,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1188-2-10",
     "tradRom": "vridi",
     "imageName": "LessingDict_Page_1188.jpg",
-    "explain": "X through all his life, according to popular belief. In India this belief was extended even to the certain exclusive possessions of such a person. Legend gave a genius protector also to Šagjamuni. Here he was later identified with Vacirbani (see Tar tegen vacirtu). For the objects co-existent with the Bu. see erdeni, doluyan. The idea expressed by xamtu nigen boluysan or tørygsen gained a deeper significance in esoterism where it is sometimes described as the mysterious realiza- tion of the ultimate innate \"it\" of the self and the nom ud. -- (nigen) tørygsen; T. Ihan cig (tu) skyes pa; S. sahaja. See xamtu nigen boluysan.",
+    "explain": "or BRIDI X through all his life, according to popular belief. In India this belief was extended even to the certain exclusive possessions of such a person. Legend gave a genius protector also to Šagjamuni. Here he was later identified with Vacirbani (see Tar tegen vacirtu). For the objects co-existent with the Bu. see erdeni, doluyan. The idea expressed by xamtu nigen boluysan or tørygsen gained a deeper significance in esoterism where it is sometimes described as the mysterious realiza- tion of the ultimate innate \"it\" of the self and the nom ud. -- (nigen) tørygsen; T. Ihan cig (tu) skyes pa; S. sahaja. See xamtu nigen boluysan.",
     "cyrillic": "See ridi.",
-    "lessingForm": "VRIDI or BRIDI",
+    "lessingForm": "VRIDI",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255453,30 +255719,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1188-2-11",
     "tradRom": "qamuγ",
     "imageName": "LessingDict_Page_1188.jpg",
-    "explain": "XAMUΓ ; T. thams cad, kun; S. sarva. All.",
+    "explain": "thams cad, kun; S. sarva. All. -1188-",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAMUΓ ; T."
   },
   {
     "index": 23775,
     "sourceId": "L1189-1-02",
     "tradRom": "qangγal",
-    "imageName": "LessingDict_Page_1189.jpg"
+    "imageName": "LessingDict_Page_1189.jpg",
+    "explain": "bskang gso; S. tarpana. \"Satisfaction\", a very solemn and elaborate offering (\"banquet\") made especially to doysid.",
+    "lessingForm": "XANGΓAL; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23776,
     "sourceId": "L1189-1-03",
     "tradRom": "qaram",
     "imageName": "LessingDict_Page_1189.jpg",
-    "explain": "-- a. Translates the T. kun tu which renders the S. pref. pari-, \"completely.\" Cf. oyuyata, xotala. -- a belgedegsen; T. kun tu brtags pa; S. parikalpita. Imaginary, figmental. -- a bitygci; T. kun tu rgyu ba; S. parivrājaka. Wandering monk. bytygegci; T. thams cad sgrub, kun byed; S. sarva- siddha. All-realizing, all-creating; also a name. ece tegygsen; T. kun las btus pa; S. camuccaya. Collection, compilation. - i ailaduyci; T. thams cad mkhyen pa, kun ces; S. sarvajna. All-knowing, omniscient, ep. of Bus. and other saintly persons. i medegci; T. kun mkhyen, kun çes; S. sarvajna. All-knowing, omniscient. sain * Masi sain; T. Kun tu bzang po; S. Samanta- bhadra. Name of one of the Eight Great Bos. sitygen 1 bui kemen ygylekyi (jin aimay); T. gzhi thams cad yod par smra ba(hi sde); S. mūla- -sarvāsti-vāda. \"Holding that all exists\"; name of a Buddh. school which claims tò represent the original teachings of the Bu. tusa (i) bytygegci; T. Thams cad grub pa; S. Sarvārtha-siddha. \"Completer of all benefits;\" name given to Šagjamuni in later times . ED 586 a. -- tyidker i mayad arilyayci; T. Sgrib pa thams cad rnam par sel ba; S. Sarva-nivarana-vishkambhin. \"Remover of all hindrances\", one of the Eight Great Bodhisattvas. ED 548-9. XANGΓAL; T. bskang gso; S. tarpana. \"Satisfaction\", a very solemn and elaborate offering (\"banquet\") made especially to doysid. XARAM; T. ser sna; S. mātsarya. Greed, jealousy.",
+    "explain": "ser sna; S. mātsarya. Greed, jealousy.",
     "cyrillic": "Г",
-    "lessingForm": "XAMUT",
+    "lessingForm": "XARAM; T.",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255484,23 +255753,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1189-1-04",
     "tradRom": "qariγulun",
     "imageName": "LessingDict_Page_1189.jpg",
-    "explain": "XARIIULUN yly cidaxu(i); T. phyir mi ldog ba; S. avinivartaniya. Not to be turned back, irreversible (said of certain Bos.) ED 78 a.",
+    "explain": "yly cidaxu(i); T. phyir mi ldog ba; S. avinivartaniya. Not to be turned back, irreversible (said of certain Bos.) ED 78 a.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XARIIULUN"
   },
   {
     "index": 23778,
     "sourceId": "L1189-1-05",
     "tradRom": "qarin",
     "imageName": "LessingDict_Page_1189.jpg",
-    "explain": "XARIN yly iregci; T. phyir me hong ba; S. anāgāmin. One who never returns (for reincarnation). ED 22a.",
+    "explain": "yly iregci; T. phyir me hong ba; S. anāgāmin. One who never returns (for reincarnation). ED 22a.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XARIN"
   },
   {
     "index": 23779,
@@ -255510,7 +255778,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "dabxucayuluysan-- ; T.khang pa brtsegs pa; S. kū- tāgāra. Many-storeyed building; more exactly: house with eaves at each storey. siltayan; T. hgal rkyen; S virodha.Hindrance, obstruction (on the road towards enlightenment).",
     "lessingForm": "XARSI",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -255521,7 +255789,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "jeke --; T. dray po chen po; S. mahā-rudra. Very fierce or terrible (appl.to doysid).",
     "lessingForm": "XATAIU",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255529,65 +255797,99 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1189-1-08",
     "tradRom": "qataγuǰil",
     "imageName": "LessingDict_Page_1189.jpg",
-    "explain": "XATAIUZIL ; T. dkah thub, dkah spyod; S. tapas,vrata. Self-mortification, penance. jabudal; T. brtul zhugs; S. tapaçcaryā. Penance, religious austerity, self-mortification. XOTALA XATAIUZIXU; T. dkah ba spyod pa; S. dushkara-caryā Practice of austerities, penance. XOCURLI ygei; T. ma lus; S. acesha. Without remain- der, all included, complete(ly), entire(ly). ygei ilayuysan; T. ma lus rgyal ba. All-victo- rious. XOI say un nomtu debel; T. phyag dar khrod kyi chos gos. Clothes made of rags picked up from dust-hills (S. pāmçu-kūla); such clothes should be worn by the monk who therefore is referred to as pāmçu-kulika. ED 338b. XOFUSUN; T. stong pa nyid; S. çūnya. Empty; the VOID, the doctrine that \"things\" have no substance, no essence, no independent existence of any kind, but \"exist\" only as aggregates of conditions and re- lations. This view may be roughly described as relationism. It was given its systematic form by famous Nagarjuna (M. Naganzuna, Nayanzuna, transl as Luus bytygsen, after T. Klu sgrubs, 2nd cent. A. D.) u ayar. The realm of the VOID from which the bytygelcin evokes (urin zalaxu) the deities. XOJAR ygei; T. gnyis su med pa; S. advaita, advaya. Non-duality, monism understood as the absence of the dualism of our ordinary way of thinking. XOLBUN nairayulxu; T. sdeb sbyor; S. chanda. Poetry. XOLICAL ygei; T. ma dres pa; S. avenika. \"Unmixed,\" i.e., peculiar characteristics, characteristics peculiar to a Bu. or other saintly person.",
+    "explain": "dkah thub, dkah spyod; S. tapas,vrata. Self-mortification, penance. jabudal; T. brtul zhugs; S. tapaçcaryā. Penance, religious austerity, self-mortification. -1189-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XATAIUZIL ; T."
   },
   {
     "index": 23782,
     "sourceId": "L1189-2-01",
     "tradRom": "qataγuǰiqu",
-    "imageName": "LessingDict_Page_1189.jpg"
+    "imageName": "LessingDict_Page_1189.jpg",
+    "explain": "dkah ba spyod pa; S. dushkara-caryā Practice of austerities, penance.",
+    "lessingForm": "XATAIUZIXU; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23783,
     "sourceId": "L1189-2-02",
     "tradRom": "qočurli",
-    "imageName": "LessingDict_Page_1189.jpg"
+    "imageName": "LessingDict_Page_1189.jpg",
+    "explain": "ygei; T. ma lus; S. acesha. Without remain- der, all included, complete(ly), entire(ly). ygei ilayuysan; T. ma lus rgyal ba. All-victo- rious.",
+    "lessingForm": "XOCURLI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23784,
     "sourceId": "L1189-2-03",
     "tradRom": "qoγ",
-    "imageName": "LessingDict_Page_1189.jpg"
+    "imageName": "LessingDict_Page_1189.jpg",
+    "explain": "say un nomtu debel; T. phyag dar khrod kyi chos gos. Clothes made of rags picked up from dust-hills (S. pāmçu-kūla); such clothes should be worn by the monk who therefore is referred to as pāmçu-kulika.",
+    "lessingForm": "XOI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23785,
     "sourceId": "L1189-2-04",
     "tradRom": "qoγusun",
-    "imageName": "LessingDict_Page_1189.jpg"
+    "imageName": "LessingDict_Page_1189.jpg",
+    "explain": "stong pa nyid; S. çūnya. Empty; the VOID, the doctrine that \"things\" have no substance, no essence, no independent existence of any kind, but \"exist\" only as aggregates of conditions and re- lations. This view may be roughly described as relationism. It was given its systematic form by famous Nagarjuna (M. Naganzuna, Nayanzuna, transl as Luus bytygsen, after T. Klu sgrubs, 2nd cent. A. D.) u ayar. The realm of the VOID from which the bytygelcin evokes (urin zalaxu) the deities.",
+    "lessingForm": "XOFUSUN; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23786,
     "sourceId": "L1189-2-05",
     "tradRom": "qoyar",
-    "imageName": "LessingDict_Page_1189.jpg"
+    "imageName": "LessingDict_Page_1189.jpg",
+    "explain": "ygei; T. gnyis su med pa; S. advaita, advaya. Non-duality, monism understood as the absence of the dualism of our ordinary way of thinking.",
+    "lessingForm": "XOJAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23787,
     "sourceId": "L1189-2-06",
     "tradRom": "qolbun",
-    "imageName": "LessingDict_Page_1189.jpg"
+    "imageName": "LessingDict_Page_1189.jpg",
+    "explain": "nairayulxu; T. sdeb sbyor; S. chanda. Poetry.",
+    "lessingForm": "XOLBUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23788,
     "sourceId": "L1189-2-07",
     "tradRom": "qoličal",
-    "imageName": "LessingDict_Page_1189.jpg"
+    "imageName": "LessingDict_Page_1189.jpg",
+    "explain": "ygei; T. ma dres pa; S. avenika. \"Unmixed,\" i.e., peculiar characteristics, characteristics peculiar to a Bu. or other saintly person.",
+    "lessingForm": "XOLICAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23789,
     "sourceId": "L1189-2-08",
     "tradRom": "qomsim",
     "imageName": "LessingDict_Page_1189.jpg",
-    "explain": "XOMXA ; T. bum pa; S. kalaça, Water jar, water vessel used in rituals.",
+    "explain": "Same as Xongsim.",
     "cyrillic": "Same as Xongsim.",
     "lessingForm": "XOMSIM",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255595,68 +255897,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1189-2-09",
     "tradRom": "qomqa",
     "imageName": "LessingDict_Page_1189.jpg",
-    "explain": "XONGSIM bodisadu-a; T. Spyan ras gzigs (pron. Chen- ray-si) See Nidyber yzegci.",
+    "explain": "bum pa; S. kalaça, Water jar, water vessel used in rituals.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XOMXA ; T."
   },
   {
     "index": 23791,
     "sourceId": "L1189-2-10",
     "tradRom": "qongsim",
     "imageName": "LessingDict_Page_1189.jpg",
-    "explain": "XONGXU ; T. dril bu; S. ghantã . Bell. For its symbolism",
+    "explain": "bodisadu-a; T. Spyan ras gzigs (pron. Chen- ray-si) See Nidyber yzegci.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XONGSIM"
   },
   {
     "index": 23792,
     "sourceId": "L1189-2-11",
     "tradRom": "qongqu",
     "imageName": "LessingDict_Page_1189.jpg",
-    "explain": "and role in cult see vacir.",
+    "explain": "dril bu; S. ghantã . Bell. For its symbolism and role in cult see vacir.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XONGXU ; T."
   },
   {
     "index": 23793,
     "sourceId": "L1189-2-12",
     "tradRom": "qormusda",
     "imageName": "LessingDict_Page_1189.jpg",
-    "explain": "XORMUSDA (fr. Pers. Ormuzd); T. Dbang po; S. Indra. The Hindu god Indra. jin numun; T. brgya byin gzhu; S. indra-cāpa. Indra's bow = rainbow.",
+    "explain": "(fr. Pers. Ormuzd); T. Dbang po; S. Indra. The Hindu god Indra. jin numun; T. brgya byin gzhu; S. indra-cāpa. Indra's bow = rainbow.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XORMUSDA"
   },
   {
     "index": 23794,
     "sourceId": "L1189-2-13",
     "tradRom": "qotala",
     "imageName": "LessingDict_Page_1189.jpg",
-    "explain": "XOTALA Translates the T. kun tu, kun nas or simply kun which represents the S. prefix \"pari- \" or \" a\" meaning completeness, inclusiveness. See xamuy-a, xotala. bajasxulang; T. Kun dgah ; S.Ánanda. \"Great joy, \" name of the most famous disciple and person- al attendant of the Buddha. bajaxulang un kyrij-e; T. Kun dgah ra ba; S. ārāma. Pleasure-ground; garden; name of a",
+    "explain": "Translates the T. kun tu, kun nas or simply kun which represents the S. prefix \"pari- \" or \" a\" meaning completeness, inclusiveness. See xamuy-a, xotala. bajasxulang; T. Kun dgah ; S.Ánanda. \"Great joy, \" name of the most famous disciple and person- al attendant of the Buddha. bajaxulang un kyrij-e; T. Kun dgah ra ba; S. ārāma. Pleasure-ground; garden; name of a",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XOTALA"
   },
   {
     "index": 23795,
     "sourceId": "L1190-1-02",
     "tradRom": "qour",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "park given to the Buddha for the benefit of his disciples. jin sitygen; T. kun gzhihi rnam par çes pa; S. ālaya-vijnāna. The \"general basis\" = ālaya-vijnāna (the eighth of the tein byged medekyi; it stores the seeds (køryngge, T. sa bon, S. bija) before they phenomenalize as karmaic acts. sain jabudaltu; T. kun tu spyod pa; S. samudācāra. Behaviour, practice, habit; familiarity. ED 572 b. tegysygsen; T. phun sum tshogs (pa); S. sampanna. Endowed with, all-possessing. tygemel; T. kun khyad; S. vyāpin. All-prevading, omnipresent. XOUR øgygci (Transl fr. T.); T.gnod sbyin, dug sbyin; S. yaksha. Harm-giver, a class of demons, yaksha.",
+    "explain": "øgygci (Transl fr. T.); T.gnod sbyin, dug sbyin; S. yaksha. Harm-giver, a class of demons, yaksha.",
     "cyrillic": "а",
-    "lessingForm": "XOTALA",
+    "lessingForm": "XOUR",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -255664,11 +255964,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1190-1-03",
     "tradRom": "qubi",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "XUBILΓAN See also ridi xubilyan. dur erke; T. rdzu hphrul dbang ba; S. rddhi-vaçitā. Mastery of magic power; the freedom to adopt any of the innumerable metamorphoses, ninth mastery of a Bo. ridi; T. cho hphrul; S. rddhi. Magic power. ED 15lb. u bej-e; T. sprul (pahi) sku; S. nirmāna-kāya. Metamorphic or docetic body in which the Bu. re- veals himself to the amitan. See bej-e, yurban. ED 302 a. zali --; T. cho hphrul; S. prātihārya. Miracle. ED 392 a.",
+    "explain": "mayu --; T. skal ngan; S. durbhaga. Misfortune.",
     "cyrillic": "mayu --; T. skal ngan; S. durbhaga. Misfortune.",
     "lessingForm": "XUBI",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255676,67 +255976,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1190-1-04",
     "tradRom": "qubilγan",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "XUBILZU tøryky; T. brdzus te skye ba; S. aupapāduka. To be born without visible cause or without parents, spontaneously. ED 139 (upapāda, upapāduka, aupa- pāduka) differs somewhat.",
+    "explain": "See also ridi xubilyan. dur erke; T. rdzu hphrul dbang ba; S. rddhi-vaçitā. Mastery of magic power; the freedom to adopt any of the innumerable metamorphoses, ninth mastery of a Bo. ridi; T. cho hphrul; S. rddhi. Magic power. ED 15lb. u bej-e; T. sprul (pahi) sku; S. nirmāna-kāya. Metamorphic or docetic body in which the Bu. re- veals himself to the amitan. See bej-e, yurban.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XUBILΓAN"
   },
   {
     "index": 23798,
     "sourceId": "L1190-1-05",
     "tradRom": "qubilǰu",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "XURAL; T. htshogs, tshogs. Assembly, group, set (of necessary) things.",
+    "explain": "tøryky; T. brdzus te skye ba; S. aupapāduka. To be born without visible cause or without parents, spontaneously. ED 139 (upapāda, upapāduka, aupa- pāduka) differs somewhat.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XUBILZU"
   },
   {
     "index": 23799,
     "sourceId": "L1190-1-06",
     "tradRom": "qural",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "XURAN; T. hdu(s). M. converb of xura- translates T.hdus. egydygsen; T. hdus byas; S. samskta. Compound, conditioned, produced by a combination of causes, as the phenomena of sansar. -- ese egydygsen; T. hdus ma byas; S. asamskyta. Uncompounded, unconditioned, as e.g. nirvana. See nom ud. -- medekyi; T. hdu çes; S. samjnā :Ideations, ideas. See coyca. yiledkyi; T. hdu-byed; S. samskāra. Constructive - conditioning force or aggregate. See coyca. ED 543a.",
+    "explain": "htshogs, tshogs. Assembly, group, set (of necessary) things.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XURAL; T."
   },
   {
     "index": 23800,
     "sourceId": "L1190-1-07",
     "tradRom": "quran",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "YGYLEGCI; T. smra ba; S. -vādin. Follower of a \"vāda\" or school of thinking (usually at end of cpd).",
+    "explain": "hdu(s). M. converb of xura- translates T.hdus. egydygsen; T. hdus byas; S. samskta. Compound, conditioned, produced by a combination of causes, as the phenomena of sansar. -- ese egydygsen; T. hdus ma byas; S. asamskyta. Uncompounded, unconditioned, as e.g. nirvana. See nom ud. -- medekyi; T. hdu çes; S. samjnā :Ideations, ideas. See coyca. yiledkyi; T. hdu-byed; S. samskāra. Constructive - conditioning force or aggregate. See coyca. ED 543a.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XURAN; T."
   },
   {
     "index": 23801,
     "sourceId": "L1190-2-01",
     "tradRom": "quričangγui",
-    "imageName": "LessingDict_Page_1190.jpg"
+    "imageName": "LessingDict_Page_1190.jpg",
+    "explain": "sred pa; S. trshnã . Thirst or craving for life or enjoyment. See sityn barilduly-a, zobalang.",
+    "lessingForm": "XURICANGIUI; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23802,
     "sourceId": "L1190-2-02",
     "tradRom": "quričaqui",
-    "imageName": "LessingDict_Page_1190.jpg"
+    "imageName": "LessingDict_Page_1190.jpg",
+    "explain": "sred pa; S. trshnã. See xuricangyui.",
+    "lessingForm": "XURICAXUI ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23803,
     "sourceId": "L1190-2-03",
     "tradRom": "quriyaγsan",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "XURICANGIUI; T. sred pa; S. trshnã . Thirst or craving for life or enjoyment. See sityn barilduly-a, zobalang.",
-    "lessingForm": "YGYLEKYI",
+    "explain": "hdus pa; S. samuccaya Accumulation, collection. tobcilan --; T mdor bsdus pa; S. samgraha. Ab- ridgment",
+    "lessingForm": "XURIJAISAN; T.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255744,68 +256053,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1190-2-04",
     "tradRom": "quriyan",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "XURICAXUI ; T. sred pa; S. trshnã. See xuricangyui.",
+    "explain": "(modal conv. of xurija-) may stand for the S. prefix sam-. -- kyrtekyi; T. reg pa; S. samsparça. Contact or impingement between sense faculties and sense objects. uxayulxui; T. mdor bstan pa; S. uddeça. Brief instruction, concise treatment.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XURIJAN"
   },
   {
     "index": 23805,
     "sourceId": "L1190-2-05",
     "tradRom": "quriyaqu",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "XURIJAISAN; T. hdus pa; S. samuccaya Accumulation, collection. tobcilan --; T mdor bsdus pa; S. samgraha. Ab- ridgment XURIJAN (modal conv. of xurija-) may stand for the S. prefix sam-. -- kyrtekyi; T. reg pa; S. samsparça. Contact or impingement between sense faculties and sense objects. uxayulxui; T. mdor bstan pa; S. uddeça. Brief instruction, concise treatment. XURIJAXU boda--; T bsdu bahi dngos po; S. samgraha- vastu. Means by which a Bo. collects, attracts, converts the amitan. ED 547 b. amitan i --; T. sems can sdud pa; S. sattva- samgraha. Gathering or attracting living beings towards oneself (said of Bos.). ED 548 h",
+    "explain": "boda--; T bsdu bahi dngos po; S. samgraha- vastu. Means by which a Bo. collects, attracts, converts the amitan. ED 547 b. amitan i --; T. sems can sdud pa; S. sattva- samgraha. Gathering or attracting living beings towards oneself (said of Bos.). ED 548 h",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XURIJAXU"
   },
   {
     "index": 23806,
     "sourceId": "L1190-2-06",
     "tradRom": "qutuγ",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "XUTUΓ ; T. go hphang; S. pada. Rank or dignity of a saintly person. XUTUITAN u orun; T. Hphags yul; S. Arya-deça. Arya-varta. Holy Land or Land of the Holy or Noble, mostly applied to ancient India between the Himalaya and the Vindhya Mountains. -- y ynen. See ynen. XUTUITU ; T. hphags pa; S. ārya. Holy, noble (as a title reserved for incarnate lamas).",
+    "explain": "go hphang; S. pada. Rank or dignity of a saintly person.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XUTUΓ ; T."
   },
   {
     "index": 23807,
     "sourceId": "L1190-2-07",
     "tradRom": "qutuγtan",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "XUVARAΓ; T. dge-hdun; S. sangha. Clergy, priest- hood.",
+    "explain": "u orun; T. Hphags yul; S. Arya-deça. Arya-varta. Holy Land or Land of the Holy or Noble, mostly applied to ancient India between the Himalaya and the Vindhya Mountains. -- y ynen. See ynen.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XUTUITAN"
   },
   {
     "index": 23808,
     "sourceId": "L1190-2-08",
     "tradRom": "qutuγtu",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "Y",
+    "explain": "hphags pa; S. ārya. Holy, noble (as a title reserved for incarnate lamas).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XUTUITU ; T."
   },
   {
     "index": 23809,
     "sourceId": "L1190-2-09",
     "tradRom": "quvaraγ",
     "imageName": "LessingDict_Page_1190.jpg",
-    "explain": "YGYLEKYI jin sitygen; T.gleng gzhi; S. nidāna. Intro- ductory phrase (at the beginning of a work setting forth the reasons which prompted the author to write",
+    "explain": "dge-hdun; S. sangha. Clergy, priest- hood. Y",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XUVARAΓ; T."
   },
   {
     "index": 23810,
@@ -255815,8 +256122,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "the book; a branch .of Scriptures. ED 296 b.",
     "lessingForm": "YGYLEKYI",
     "ocrFlags": [
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -255824,24 +256130,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1191-1-02",
     "tradRom": "ügülesi",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "YGYLESI ygei; T. brjod du med pa; S. anabhilāpya. Un- utterable, inexpressible, ineffable.",
+    "explain": "ygei; T. brjod du med pa; S. anabhilāpya. Un- utterable, inexpressible, ineffable.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YGYLESI"
   },
   {
     "index": 23812,
     "sourceId": "L1191-1-03",
     "tradRom": "üile",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "Austerities, penance. yadayadu --; T. phyihi bya ba. Outer rites, as opposed to inner samadi. yurban -- (or yiles) ; T. las gsum; S. trikarma. Three kinds of actions, as of body, speech and thought or good, bad, and neutral (adiaphora),etc. xar-a --; T. nag las; S. krshna-karma. Black or evil deeds. See yiles.",
+    "explain": "berke --; T. dkah spyod; S. duccaryā, dushkara. Austerities, penance. yadayadu --; T. phyihi bya ba. Outer rites, as opposed to inner samadi. yurban -- (or yiles) ; T. las gsum; S. trikarma. Three kinds of actions, as of body, speech and thought or good, bad, and neutral (adiaphora),etc. xar-a --; T. nag las; S. krshna-karma. Black or evil deeds. See yiles.",
     "cyrillic": "berke --; T. dkah spyod; S. duccaryā, dushkara.",
     "lessingForm": "YILE",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -255849,36 +256153,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1191-1-04",
     "tradRom": "üiledkü",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "YILEDKY ; T. hdu byed; S. samskāra. May stand for xuran yiledky.",
+    "explain": "hdu byed; S. samskāra. May stand for xuran yiledky.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YILEDKY ; T."
   },
   {
     "index": 23814,
     "sourceId": "L1191-1-05",
     "tradRom": "üiledküi",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "YILEDKYI ji yiledygsen; T. byed pa byas pa; S. krta- karaniya. One who has done what must be done, one of the erdem of a daisun i daruysan. jin coyca. See coyca.",
+    "explain": "ji yiledygsen; T. byed pa byas pa; S. krta- karaniya. One who has done what must be done, one of the erdem of a daisun i daruysan. jin coyca. See coyca.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YILEDKYI"
   },
   {
     "index": 23815,
     "sourceId": "L1191-1-06",
     "tradRom": "üiles",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "daçākuçalāni. The ten sinful acts. ED 2 a. arban xojar -- . 12 famous events in the life of the Bu. -- tyr vaçita; T. las la dbang ba; S. karma-vaçitā. Mastery of karma, the freedom to perform any ( karmic) action and acquiring the fruit of it. Fourth mastery of the Bu. -- yn ecys; T. las kyi mthah ; S. karmānta. Work, occupation. See also yneker.",
+    "explain": "arban nigylty --; T. mi dge bahi las bcu; S. daçākuçalāni. The ten sinful acts. ED 2 a. arban xojar -- . 12 famous events in the life of the Bu. -- tyr vaçita; T. las la dbang ba; S. karma-vaçitā. Mastery of karma, the freedom to perform any ( karmic) action and acquiring the fruit of it. Fourth mastery of the Bu. -- yn ecys; T. las kyi mthah ; S. karmānta. Work, occupation. See also yneker.",
     "cyrillic": "arban nigylty --; T. mi dge bahi las bcu; S.",
     "lessingForm": "YILES",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -255886,12 +256187,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1191-1-07",
     "tradRom": "üy_e",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "YKYGER un ezen; T. dur khrod kyi bdag po; S. maçāna- YNDYSYN, 5; T. rgyud; S. samtāna, samtati. Stream",
+    "explain": "doluyan --. Same as gesigyn, doluyan.",
     "cyrillic": "doluyan --. Same as gesigyn, doluyan.",
     "lessingForm": "YJ-E",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -255899,23 +256199,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1191-1-08",
     "tradRom": "üküger",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "pati. Lord(s) of the cremation ground ( represented as two dancing skeletons).",
+    "explain": "un ezen; T. dur khrod kyi bdag po; S. maçāna- YNDYSYN, 5; T. rgyud; S. samtāna, samtati. Stream pati. Lord(s) of the cremation ground ( represented as two dancing skeletons).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YKYGER"
   },
   {
     "index": 23818,
     "sourceId": "L1191-1-09",
     "tradRom": "ükül",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "YKYL un ezen; T. hchi bdag; S. mrtyu-pati. Lord of Death, Yama ≈ Erlig xayan.",
+    "explain": "un ezen; T. hchi bdag; S. mrtyu-pati. Lord of Death, Yama ≈ Erlig xayan.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YKYL"
   },
   {
     "index": 23819,
@@ -255923,11 +256222,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ülemǰi",
     "wIndex": "1",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "YLEMZI I; T. lhag par, lhag pahi . May stand for S. abhi- in the sense of \"excessive\" or for adhi-, \"over.\"",
+    "explain": "lhag par, lhag pahi . May stand for S. abhi- in the sense of \"excessive\" or for adhi-, \"over.\"",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YLEMZI I; T."
   },
   {
     "index": 23820,
@@ -255935,87 +256234,116 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ülemǰi",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "YLEMZI, 2; T. khyad par can; S. vicishta. Distinguished. -- omuy; T. lhag pahi nga rgyal; S. abhimāna. Ex- cessive pride, arrogance. ED 13b. -- sedkil; T. lhag pahi bsam pa; S. adhyāçaya. Strong religious intent, purpose, aspiration. ED 17b.  yzekyi; T. lhag mthong; S. vipaçyanā. Higher vision, virtually equivalent to S. prajnã . See belge bilig. ED 49l a-b.",
+    "explain": "khyad par can; S. vicishta. Distinguished. -- omuy; T. lhag pahi nga rgyal; S. abhimāna. Ex- cessive pride, arrogance. ED 13b. -- sedkil; T. lhag pahi bsam pa; S. adhyāçaya. Strong religious intent, purpose, aspiration.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YLEMZI, 2; T."
   },
   {
     "index": 23821,
     "sourceId": "L1191-1-12",
     "tradRom": "ülü",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "YLY ; T. mi; S. \"a-\", etc. Not, non- -- alzijaγ ci jirtincy; T. mi mjed pahi hjig rten; S. sahā-lokadhatu. The perishable (M.\"untiring\") world. ED 588 a. YNEKER -- kødelkyi; T. mi g'yo ba; S. acala. Unshakeable, firm steadfast, a frequent ep. , also one of the doysid ED 6b. kødelygci = kødelysi ygei, Agšubi (fr.S.) ;T. Mi hkhrugs pa; S. Akshobhya. One of the pentad of cosmic Buddhas. He presides over the east. See burxan and izayurtu: -- nicuxui; T. phyir mi ldog pa; S. ayinivartaníya, avaivartika. Irreversible (said of the Bodhisattva having reached the 8th stage ).ED 79 a. YNDYSYN, 1. ; T. brgyud pa; S. param-para . Succession, tradition. YNDYSYN, 2 ; T. rgyud; S. hetu. Cause. YNDYSYN, 3; T. rtsa ba; S. mūla. Root, base. See bujan. YNDYSYN, 4; T. rgyud; S. tantra. Yndysyn in its mean- ing of \"basis, origin\" is the translatinn of T. rgyud which renders S. tantra, transcribed in M. as dandr-a, dandris, etc. The tantras, of most diversified contents,set forth the latest, highly syncretistic phase of Buddhist thought. Théy are divided into four classes: yile jin -- ( T. bya bahi rgyud; S. kriyā-tantra ) which chiefly deal with magic rites; jabudal un -- (T.spyod pahi rgyud; S. caryā-tantra) which treat re- ligious practice; joga jin -- ( T. rnal hbyor rgyud; S. yoga-tantra) discussing yoga;tengsel ygei joga jin -- (T. rnal hbyor bamamed pahi rgyud; S. anuttara-yoga-tantra) setting forth supreme yoga. See vacir. of consciousness; mentality, p rson(ality). ED 555 b. YNEKER; T. yang dag pa(ritranslates the S. prefixes sam-, samyak-, pra-. General meaning: truly, really, completely, fully, in the right way. abxu; T. yang dag par len pa; S. samādāna. Re- ceiving fully; taking upon oneself, as a vow, etc.",
+    "explain": "mi; S. \"a-\", etc. Not, non- -- alzijaγ ci jirtincy; T. mi mjed pahi hjig rten; S. sahā-lokadhatu. The perishable (M.\"untiring\") world. ED 588 a. -1191-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ],
+    "lessingForm": "YLY ; T."
   },
   {
     "index": 23822,
     "sourceId": "L1191-2-01",
     "tradRom": "ündüsün",
     "wIndex": "1",
-    "imageName": "LessingDict_Page_1191.jpg"
+    "imageName": "LessingDict_Page_1191.jpg",
+    "explain": "kødelkyi; T. mi g'yo ba; S. acala. Unshakeable, firm steadfast, a frequent ep. , also one of the doysid ED 6b. kødelygci = kødelysi ygei, Agšubi (fr.S.) ;T. Mi hkhrugs pa; S. Akshobhya. One of the pentad of cosmic Buddhas. He presides over the east. See burxan and izayurtu: -- nicuxui; T. phyir mi ldog pa; S. ayinivartaníya, avaivartika. Irreversible (said of the Bodhisattva having reached the 8th stage ).ED 79 a.",
+    "lessingForm": "YNEKER --",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 23823,
     "sourceId": "L1191-2-02",
     "tradRom": "ündüsün",
     "wIndex": "2",
-    "imageName": "LessingDict_Page_1191.jpg"
+    "imageName": "LessingDict_Page_1191.jpg",
+    "explain": "brgyud pa; S. param-para . Succession, tradition.",
+    "lessingForm": "YNDYSYN, 1. ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23824,
     "sourceId": "L1191-2-03",
     "tradRom": "ündüsün",
     "wIndex": "3",
-    "imageName": "LessingDict_Page_1191.jpg"
+    "imageName": "LessingDict_Page_1191.jpg",
+    "explain": "rgyud; S. hetu. Cause.",
+    "lessingForm": "YNDYSYN, 2 ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23825,
     "sourceId": "L1191-2-04",
     "tradRom": "ündüsün",
     "wIndex": "4",
-    "imageName": "LessingDict_Page_1191.jpg"
+    "imageName": "LessingDict_Page_1191.jpg",
+    "explain": "rtsa ba; S. mūla. Root, base. See bujan.",
+    "lessingForm": "YNDYSYN, 3; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23826,
     "sourceId": "L1191-2-05",
     "tradRom": "ündüsün",
     "wIndex": "5",
-    "imageName": "LessingDict_Page_1191.jpg"
+    "imageName": "LessingDict_Page_1191.jpg",
+    "explain": "rgyud; S. tantra. Yndysyn in its mean- ing of \"basis, origin\" is the translatinn of T. rgyud which renders S. tantra, transcribed in M. as dandr-a, dandris, etc. The tantras, of most diversified contents,set forth the latest, highly syncretistic phase of Buddhist thought. Théy are divided into four classes: yile jin -- ( T. bya bahi rgyud; S. kriyā-tantra ) which chiefly deal with magic rites; jabudal un -- (T.spyod pahi rgyud; S. caryā-tantra) which treat re- ligious practice; joga jin -- ( T. rnal hbyor rgyud; S. yoga-tantra) discussing yoga;tengsel ygei joga jin -- (T. rnal hbyor bamamed pahi rgyud; S. anuttara-yoga-tantra) setting forth supreme yoga. See vacir. of consciousness; mentality, p rson(ality). ED 555 b.",
+    "lessingForm": "YNDYSYN, 4; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23827,
     "sourceId": "L1191-2-06",
     "tradRom": "üneker",
     "imageName": "LessingDict_Page_1191.jpg",
-    "explain": "amidural; T. yang dag pahi htsho ba; S. samyag- ājfva. Right livelihood. See mør. bodi xutuy un yj-e; T. yang dag byang chub kyi yan lag; S. (sam)bodhy-anga. Any or all of the seven members of enlightenment. duradxui; T. yang dag pahi dran pa; S. samyak- smrti. Right mindfulness. See mør. kelen ; T. yang dag pahi ngag; S. samyag-vāk. Right speech. See mør. onul; T. yang dag pahi rtogs pa; S. samyak- samkalpa. Right intentions. See mør.",
-    "lessingForm": "ED 567 b.",
+    "explain": "yang dag pa(ritranslates the S. prefixes sam-, samyak-, pra-. General meaning: truly, really, completely, fully, in the right way. abxu; T. yang dag par len pa; S. samādāna. Re- ceiving fully; taking upon oneself, as a vow, etc.",
+    "lessingForm": "YNEKER; T.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
     "index": 23828,
     "sourceId": "L1192-1-02",
     "tradRom": "ünemleküi",
-    "imageName": "LessingDict_Page_1192.jpg"
+    "imageName": "LessingDict_Page_1192.jpg",
+    "explain": "don dam pa; S. paramārtha. See under ynen.",
+    "lessingForm": "YNEMLEKYI; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23829,
     "sourceId": "L1192-1-03",
     "tradRom": "ünen",
     "imageName": "LessingDict_Page_1192.jpg",
-    "explain": "samadi; T. yang dag pahi ting nge hdzin; S. samyak- samādi. Right meditative concentration. See mør. simdal; T. yang dab pahi rtsol ba; S. samyag-vyā- yāma. Right effort. See mør. tebcikyi; T. yang dag par spong ba; S. prahāna. The getting rid of, abandonment. ED 389 b. tegysygsen; T. yang dag par Idan pa; S. samyukta. Possessing completely, being fully possessed of. toyuluysan bodicid; T. yang dag par rdzogs pahi byang chub; S. samyaksambodhi. The well perfected bodicid. -- udxaxui; T. so so yang dag pa rig pa; S. pratisamvid(ā). Special knowledge. ED 370 b. -~ ygylegci; T. yang dag par brjod pa; S. samgīti. Collective recitation of the Scriptures . -- yile jin ecys; T. yang dag pahi las mthah; S. samyak- karmānta. Right aims. See mør. yzel; T. yang dag pahi lta ba; S. samyag-drshti. Right views. See mør. YNEMLEKYI; T. don dam pa; S. paramārtha. See under ynen. YNEN y kizayar; T. yang dag pahi mthah; S. bhūta-koti. The (extreme) limit of truth, supreme truth (= ynemlekyi jin ynen). inayungi --;.T. kun rdzob bden pa; S. samvrti-satya. Conventional or esoteric truth. ED 54l a-b. See yáemlekyi ynen below. xutuytan u -- ; T. hphags pahi bden pa; S arya-satya. Noble or holy truths as proclaimed by the Bu. during his first sermon (enumerated under yneker above ) Z",
-    "lessingForm": "YNEKER",
+    "explain": "y kizayar; T. yang dag pahi mthah; S. bhūta-koti. The (extreme) limit of truth, supreme truth (= ynemlekyi jin ynen). inayungi --;.T. kun rdzob bden pa; S. samvrti-satya. Conventional or esoteric truth. ED 54l a-b. See yáemlekyi ynen below. xutuytan u -- ; T. hphags pahi bden pa; S arya-satya. Noble or holy truths as proclaimed by the Bu. during his first sermon (enumerated under yneker above ) Z",
+    "lessingForm": "YNEN",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -256024,7 +256352,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ǰabsar",
     "imageName": "LessingDict_Page_1192.jpg",
     "explain": "cay un --; T. dus mtshams; S. samdhyā . Inter- val of time, esp. time for meditation and rites of which four are mentioned: morning, noon, sunset, midnight.",
-    "lessingForm": "ZABSAR"
+    "lessingForm": "ZABSAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23831,
@@ -256032,18 +256363,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ǰaγan",
     "imageName": "LessingDict_Page_1192.jpg",
     "explain": "jeke --; T. glang po chen po; S. mahānāga. The great elephant, ep. of Bus. and Bos.",
-    "lessingForm": "ZATAN"
+    "lessingForm": "ZATAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23832,
     "sourceId": "L1192-1-06",
     "tradRom": "ǰaγuratu",
     "imageName": "LessingDict_Page_1192.jpg",
-    "explain": "bhavantra. The intermediate state between two incarnations. ZALAIU bejety, T. gzhon nur gyur pa; S. kumāra-bhūta. Ep. of the Bo. Zøgelen coytu \" He of a youthful body.\" (This is the traditional explanation reflected in many images, but see H. V. Guenther's \"Jewel Ornament of Liberation,\" London, 1959, p. 8). ED 187 a.",
+    "explain": "sansar un --; T. bar do; S. antarābhava, bhavantra. The intermediate state between two incarnations.",
     "cyrillic": "sansar un --; T. bar do; S. antarābhava,",
     "lessingForm": "ZATURATU",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256051,47 +256385,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1192-1-07",
     "tradRom": "ǰalaγu",
     "imageName": "LessingDict_Page_1192.jpg",
-    "explain": "ZALAXU; T. spyan hdren pa; S. ākarshana, āvahana. Invitation or evocation of a deity in a bytygel yn ary-a. youl --; T. gzhung hdren pa. To quote the Scriptures. orun --; T. zhing spyan hdren pa; S. kshetrākarshana.",
+    "explain": "bejety, T. gzhon nur gyur pa; S. kumāra-bhūta. Ep. of the Bo. Zøgelen coytu \" He of a youthful body.\" (This is the traditional explanation reflected in many images, but see H. V. Guenther's \"Jewel Ornament of Liberation,\" London, 1959, p. 8). ED 187 a.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZALAIU"
   },
   {
     "index": 23834,
     "sourceId": "L1192-1-08",
     "tradRom": "ǰalaqu",
     "imageName": "LessingDict_Page_1192.jpg",
-    "explain": "Evocation of a deity with his nøkyd. ZARLIT ynemlekyi yin --; T. don dam pahi bden pa; S. para- martha-saya. \"Absolute\" truth, supreme truth. Contrasts with inayungi ynen. YNYR ; T. dri; S. gandha. Odor as the external base of of olfaction. See tøryn tygeky. YR-E; T. hbras bu; S. phala. Fruition . See tein bolbasuraxu. ED 395-6. YRGYLZI; T. rgyun; S. santāna. \"Stream of conscious- ness\". The \"continuum\" as the totality of all the nom subdivided in 12 tøryn tygeky = 18 orun = 75 ( or l00 ) nom. de oruyci; T. rgyun du hjugs pa; S. crota- or srota-apanna. One who has entered the stream, metaph for one who has started upon the career of a Buddha. YZEL; T. lta ba; S. darcana. View, opinion, philoso- phical system. buruyu --; T. Ita ba log pa; S. mithyā-drshti. Wrong, perverted heretical views.",
+    "explain": "spyan hdren pa; S. ākarshana, āvahana. Invitation or evocation of a deity in a bytygel yn ary-a. youl --; T. gzhung hdren pa. To quote the Scriptures. orun --; T. zhing spyan hdren pa; S. kshetrākarshana. Evocation of a deity with his nøkyd. -1192-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZALAXU; T."
   },
   {
     "index": 23835,
     "sourceId": "L1192-2-01",
     "tradRom": "ünür",
-    "imageName": "LessingDict_Page_1192.jpg"
+    "imageName": "LessingDict_Page_1192.jpg",
+    "explain": "dri; S. gandha. Odor as the external base of of olfaction. See tøryn tygeky.",
+    "lessingForm": "YNYR ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23836,
     "sourceId": "L1192-2-02",
     "tradRom": "ür_e",
-    "imageName": "LessingDict_Page_1192.jpg"
+    "imageName": "LessingDict_Page_1192.jpg",
+    "explain": "hbras bu; S. phala. Fruition . See tein bolbasuraxu. ED 395-6.",
+    "lessingForm": "YR-E; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23837,
     "sourceId": "L1192-2-03",
     "tradRom": "ürgülǰi",
-    "imageName": "LessingDict_Page_1192.jpg"
+    "imageName": "LessingDict_Page_1192.jpg",
+    "explain": "rgyun; S. santāna. \"Stream of conscious- ness\". The \"continuum\" as the totality of all the nom subdivided in 12 tøryn tygeky = 18 orun = 75 ( or l00 ) nom. de oruyci; T. rgyun du hjugs pa; S. crota- or srota-apanna. One who has entered the stream, metaph for one who has started upon the career of a Buddha.",
+    "lessingForm": "YRGYLZI; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23838,
     "sourceId": "L1192-2-04",
     "tradRom": "üǰel",
-    "imageName": "LessingDict_Page_1192.jpg"
+    "imageName": "LessingDict_Page_1192.jpg",
+    "explain": "lta ba; S. darcana. View, opinion, philoso- phical system. buruyu --; T. Ita ba log pa; S. mithyā-drshti. Wrong, perverted heretical views.",
+    "lessingForm": "YZEL; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23839,
@@ -256101,8 +256454,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "nigen --; T. rtse gcig; S. ekāgra. Concentrated on one point, as the mind in meditative concentra- tion.",
     "lessingForm": "YZYRTY",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256110,11 +256462,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1192-2-06",
     "tradRom": "ǰalbariqu",
     "imageName": "LessingDict_Page_1192.jpg",
-    "explain": "ZALBARIXU ; T. gsol ba hdebs pa; S. adhyeshana. To pray.",
+    "explain": "gsol ba hdebs pa; S. adhyeshana. To pray.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZALBARIXU ; T."
   },
   {
     "index": 23841,
@@ -256124,7 +256476,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "tyidker yn -- ji tasulxu; T. sgrib rgyun gcod par; S. sambandhoparama. Break in the series of hindrances, liberation from samsar.",
     "lessingForm": "ZALΓAMZI",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256132,92 +256484,123 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1192-2-08",
     "tradRom": "ǰali",
     "imageName": "LessingDict_Page_1192.jpg",
-    "explain": "ZALI ; T. sgyu(ma); S. māyā. Illusion of senses, maya.",
+    "explain": "sgyu(ma); S. māyā. Illusion of senses, maya.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZALI ; T."
   },
   {
     "index": 23843,
     "sourceId": "L1192-2-09",
     "tradRom": "ǰang",
     "imageName": "LessingDict_Page_1192.jpg",
-    "explain": "ZANG yile; T. cho ga, chog; S. vidhi, vidhāna. (Tantric) ritual.",
+    "explain": "yile; T. cho ga, chog; S. vidhi, vidhāna. (Tantric) ritual.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZANG"
   },
   {
     "index": 23844,
     "sourceId": "L1192-2-10",
     "tradRom": "ǰarliγ",
     "imageName": "LessingDict_Page_1192.jpg",
-    "explain": "ZARLIΓ kiged šastir. Kanjur and Tanjur. Title of the two basic collections of Buddhist Scriptures in Tibetan or Mongolian, sastir being here = Tanjur, M. Danzur, fr. T. bstan gyur, \"Translated Teachings. -- un sitygen. Symbol of the word of the Bu., as a sacred book. sain yge --; T. gsung rab; S. pravacana. Preaching, sermon; ninth of the twelve divisions of Scriptures. ED 384 b. yndysyn --; T. bhah rgyud. The tradition of Buddhist",
+    "explain": "kiged šastir. Kanjur and Tanjur. Title of the two basic collections of Buddhist Scriptures in Tibetan or Mongolian, sastir being here = Tanjur, M. Danzur, fr. T. bstan gyur, \"Translated Teachings. -- un sitygen. Symbol of the word of the Bu., as a sacred book. sain yge --; T. gsung rab; S. pravacana. Preaching, sermon; ninth of the twelve divisions of Scriptures.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZARLIΓ"
   },
   {
     "index": 23845,
     "sourceId": "L1193-1-02",
     "tradRom": "ǰaqa",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "kizayar orun dur tøryky; T. yul mthah khob tu skye ba; S.pratyanta-janapada-j āti. To be born in the borderland (country of savages) Fifth of the eight cilyge ygei.",
+    "lessingForm": "ZAXA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23846,
     "sourceId": "L1193-1-03",
     "tradRom": "ǰedker",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "bar du gcod pa; S. antarāya, pratibandha. Interference, obstacle. ED 39 a.",
+    "lessingForm": "ZEDKER ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23847,
     "sourceId": "L1193-1-04",
     "tradRom": "ǰirγalang",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "bde ba; S. sukha. Enjoyment, pleasure as contrasted to zobalang. See also amuyulang.",
+    "lessingForm": "ZIRΓALANG , T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23848,
     "sourceId": "L1193-1-05",
     "tradRom": "ǰirγalangtu",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "bej-e; T.longs spyod (kyi) sku; S. sambhoga kāya. The body of bliss, enjoyment, Or beatific body of the Buddha. See bej-e (gsum). orun; T. Bde ba can; S. Sukhāvati. \"Country of Bliss\" the Paradise, presided over by the Bu. Abida.",
+    "lessingForm": "ZIRΓALANGTU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23849,
     "sourceId": "L1193-1-06",
     "tradRom": "ǰirüken",
     "wIndex": "1",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "l;T. snying po; S. manda. ( M. and T. heart, S. crea:n) fig. best part, essence.",
+    "lessingForm": "ZIRYKEN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23850,
     "sourceId": "L1193-1-07",
     "tradRom": "ǰirüken",
     "wIndex": "2",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "snying po; S. garbha. Matrix, metaph. origin, source from which all things evolve.",
+    "lessingForm": "ZIRYKEN, 2. ; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23851,
     "sourceId": "L1193-1-08",
     "tradRom": "ǰobalang",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "sdug bsngal; S. duhka. Usually translated as suffering, misery, understood as the permanent concomitant of all experiences (unpleasant, pleasant, and neutral). Antonymsamuyulang, ziryalang. ED 265 under duhkatā.",
+    "lessingForm": "ZOBALANG; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23852,
     "sourceId": "L1193-1-09",
     "tradRom": "ǰokiyal",
     "imageName": "LessingDict_Page_1193.jpg",
-    "explain": "teachings through the succession of the fathers of the church. ZAXA kizayar orun dur tøryky; T. yul mthah khob tu skye ba; S.pratyanta-janapada-j āti. To be born in the borderland (country of savages) Fifth of the eight cilyge ygei. ZEDKER ; T. bar du gcod pa; S. antarāya, pratibandha. Interference, obstacle. ED 39 a. ZIRΓALANG , T. bde ba; S. sukha. Enjoyment, pleasure as contrasted to zobalang. See also amuyulang. ZIRΓALANGTU bej-e; T.longs spyod (kyi) sku; S. sambhoga kāya. The body of bliss, enjoyment, Or beatific body of the Buddha. See bej-e (gsum). orun; T. Bde ba can; S. Sukhāvati. \"Country of Bliss\" the Paradise, presided over by the Bu. Abida. ZIRYKEN l;T. snying po; S. manda. ( M. and T. heart, S. crea:n) fig. best part, essence.",
+    "explain": "bkod pa; S. vyūha, viyūha. (Supernatural or wondrous) array or arrangement. ED 520. ziryalangtu orun u -- ; T. Bde ba can gyi bkod pa; S. Sukhāvati-vyūha. The \" Glory of the Paradise\" Name of a very famous sudur.",
     "cyrillic": "Г",
-    "lessingForm": "ZARLIF",
+    "lessingForm": "ZOKIJAL; T.",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256225,67 +256608,100 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1193-1-10",
     "tradRom": "ǰokilduγsan",
     "imageName": "LessingDict_Page_1193.jpg",
-    "explain": "ZIRYKEN, 2. ; T. snying po; S. garbha. Matrix, metaph. origin, source from which all things evolve. ZOBALANG; T. sdug bsngal; S. duhka. Usually translated as suffering, misery, understood as the permanent concomitant of all experiences (unpleasant, pleasant, and neutral). Antonymsamuyulang, ziryalang. ED 265 under duhkatā. ZOKIJAL; T. bkod pa; S. vyūha, viyūha. (Supernatural or wondrous) array or arrangement. ED 520. ziryalangtu orun u -- ; T. Bde ba can gyi bkod pa; S. Sukhāvati-vyūha. The \" Glory of the Paradise\" Name of a very famous sudur. ZOKILDUΓSAN, yndysyn e--; T. rgyun mthun pa; S. nishyan- da, nisyanda. Proportionate, commensurate. ED 309 b.",
+    "explain": "yndysyn e--; T. rgyun mthun pa; S. nishyan- da, nisyanda. Proportionate, commensurate. ED 309 b. -1193-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZOKILDUΓSAN,"
   },
   {
     "index": 23854,
     "sourceId": "L1193-2-01",
     "tradRom": "ǰokilduqu",
     "wIndex": "1",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "mthun pa; S. sārüpya. Similarity, compatibility, homogeneousness.",
+    "lessingForm": "ZOKILDUXU, 1; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23855,
     "sourceId": "L1193-2-02",
     "tradRom": "ǰokilduqu",
     "wIndex": "2",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "mthun pa; S. anukūla, anubhāva. Conformity, appropriateness.",
+    "lessingForm": "ZOKILDUXU, 2; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23856,
     "sourceId": "L1193-2-03",
     "tradRom": "ǰoriγ",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "dmigs pa; S. ālambana. Basis, point d'appuis; sense object, object of meditation. ED 103 a.",
+    "lessingForm": "ZORII; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23857,
     "sourceId": "L1193-2-04",
     "tradRom": "ǰoriγulqu",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "bsgnos pa; S. parināmanā. Turning over one's own merits to one's fellow-beings ( One of the prayers in rites). ED 323. ZøGELEN coytu; T. Hjam dpal; S. Manjuçrī. Translation of the S. name which is usually transcribed as Manzusiri. ZøNG bilig; T. mngon par es pa, mngon çes. Higher or supernatural knowledge or abilities, acquired by the daisun i daruyci. The all-seeing eye, all-hear- ing ear, uninhibited mobility, unlimited metamor- phosis, mind reading, memory of one's former incarnations. ED 50 b.",
+    "lessingForm": "ZORIIULXU; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23858,
     "sourceId": "L1193-2-05",
     "tradRom": "ǰögelen",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 23859,
     "sourceId": "L1193-2-06",
     "tradRom": "ǰöng",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 23860,
     "sourceId": "L1193-2-07",
     "tradRom": "ǰula",
-    "imageName": "LessingDict_Page_1193.jpg"
+    "imageName": "LessingDict_Page_1193.jpg",
+    "explain": "snang gsal; S. āloka (light). Lamp, fifth of the eight takil. -- jin zokijayci; T. Mar me mdzad; S. DÍpankara. Name of one of the most famous predecessors of Šagjamuni.",
+    "lessingForm": "ZULA; T.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23861,
     "sourceId": "L1193-2-08",
     "tradRom": "ǰüil",
     "imageName": "LessingDict_Page_1193.jpg",
-    "explain": "ZOKILDUXU, 1; T. mthun pa; S. sārüpya. Similarity, compatibility, homogeneousness. ZOKILDUXU, 2; T. mthun pa; S. anukūla, anubhāva. Conformity, appropriateness. ZORII; T. dmigs pa; S. ālambana. Basis, point d'appuis; sense object, object of meditation. ED 103 a. ZORIIULXU; T. bsgnos pa; S. parināmanā. Turning over one's own merits to one's fellow-beings ( One of the prayers in rites). ED 323. ZøGELEN coytu; T. Hjam dpal; S. Manjuçrī. Translation of the S. name which is usually transcribed as Manzusiri. ZøNG bilig; T. mngon par es pa, mngon çes. Higher or supernatural knowledge or abilities, acquired by the daisun i daruyci. The all-seeing eye, all-hear- ing ear, uninhibited mobility, unlimited metamor- phosis, mind reading, memory of one's former incarnations. ED 50 b. ZULA; T. snang gsal; S. āloka (light). Lamp, fifth of the eight takil. -- jin zokijayci; T. Mar me mdzad; S. DÍpankara. Name of one of the most famous predecessors of Šagjamuni. ZYIL; T. rnam pa; S. ākāra. Class, kind, aspect. ner-e jin --; T. ming rnam grangs; S. nāma - paryāya. Enumeration of names. nom un --; T. chos kyi rnam grangs; S. dharma- paryaya. Piece or chapter of text. For the various meanings of the S. word see ED 279 b..",
-    "lessingForm": "ZYIL",
+    "explain": "rnam pa; S. ākāra. Class, kind, aspect. ner-e jin --; T. ming rnam grangs; S. nāma - paryāya. Enumeration of names. nom un --; T. chos kyi rnam grangs; S. dharma- paryaya. Piece or chapter of text. For the various meanings of the S. word see ED 279 b..",
+    "lessingForm": "ZYIL; T.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -256296,7 +256712,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "yge --xu. To make inquiries [AT 99].",
     "lessingForm": "AB-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256304,22 +256720,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1197-1-02",
     "tradRom": "abaγaldai",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ABAΓALDAI Mask of a shaman.",
+    "explain": "Mask of a shaman.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ABAΓALDAI"
   },
   {
     "index": 23864,
     "sourceId": "L1197-1-03",
     "tradRom": "abaqa",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ABAXAI One of the titles of the daughter of a taizi [AT",
-    "lessingForm": "ABAXA Uncle.",
+    "explain": "Uncle.",
+    "lessingForm": "ABAXA",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256327,156 +256742,186 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1197-1-04",
     "tradRom": "abaqai",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "158].",
+    "explain": "One of the titles of the daughter of a taizi [AT 158].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ABAXAI"
   },
   {
     "index": 23866,
     "sourceId": "L1197-1-05",
     "tradRom": "abilda-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ABILDA- To prognosticate from the entrails (like an haurspex [SH/ Mo. 3-357].",
+    "explain": "To prognosticate from the entrails (like an haurspex [SH/ Mo. 3-357].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ABILDA-"
   },
   {
     "index": 23867,
     "sourceId": "L1197-1-06",
     "tradRom": "abiri",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ABIRI Wrong spelling for aburi, Pt. I.",
+    "explain": "Wrong spelling for aburi, Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ABIRI"
   },
   {
     "index": 23868,
     "sourceId": "L1197-1-07",
     "tradRom": "abul",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ABUL ygei. There was no receiving (of wounds in a battle ) = nobody was wounded [ AT 96].",
+    "explain": "ygei. There was no receiving (of wounds in a battle ) = nobody was wounded [ AT 96].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ABUL"
   },
   {
     "index": 23869,
     "sourceId": "L1197-1-08",
     "tradRom": "abqaγul-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ABXAΓUL- See abxuyul-, Pt.I.",
+    "explain": "See abxuyul-, Pt.I.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ABXAΓUL-"
   },
   {
     "index": 23870,
     "sourceId": "L1197-1-09",
     "tradRom": "ačinar",
-    "explain": "plural of aci. descendants.",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "explain": "(Pl. of aci). Descendants.",
+    "imageName": "LessingDict_Page_1197.jpg",
+    "lessingForm": "ACINAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23871,
     "sourceId": "L1197-1-10",
     "tradRom": "adali",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ADALI teng. Equal. bej-e degen -- teng. Equal to oneself.",
+    "explain": "teng. Equal. bej-e degen -- teng. Equal to oneself.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ADALI"
   },
   {
     "index": 23872,
     "sourceId": "L1197-1-11",
     "tradRom": "adar-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ADAR- To slander, calumniate [SH/Mo. 3-301].",
+    "explain": "To slander, calumniate [SH/Mo. 3-301].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ADAR-"
   },
   {
     "index": 23873,
     "sourceId": "L1197-1-12",
     "tradRom": "adaruγči",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ADISTID oruyulxu. To invoke blessings.",
-    "lessingForm": "ADARUΓCI Slanderer [SH",
+    "explain": "Slanderer [SH/Mo. 3-299].",
+    "lessingForm": "ADARUΓCI",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 23874,
     "sourceId": "L1197-1-13",
     "tradRom": "adistid",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "oruyulxu. To invoke blessings. ADUrULAΓULSUN Herdsman [SH/Mo. 2-336].",
+    "lessingForm": "ADISTID",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23875,
     "sourceId": "L1197-1-14",
     "tradRom": "aduγulaγulsun",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 23876,
     "sourceId": "L1197-1-15",
     "tradRom": "adqu",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "alay-a ben --xu. To clench one's fist [AT 76]. AΓ-A Wife [AT 109]; lady, Dame (a title ) [ ET 75]. AΓACI Ordinary, common.",
+    "explain": "alay-a ben --xu. To clench one's fist [AT 76].",
     "lessingForm": "ADXU",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 23877,
     "sourceId": "L1197-1-16",
     "tradRom": "aγ_a",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "Wife [AT 109]; lady, Dame (a title ) [ ET 75].",
+    "lessingForm": "AΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23878,
     "sourceId": "L1197-1-17",
     "tradRom": "aγači",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "Ordinary, common.",
+    "lessingForm": "AΓACI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23879,
     "sourceId": "L1197-1-18",
     "tradRom": "aγali",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "Virtue [SH/Mo.]",
+    "lessingForm": "AΓALI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23880,
     "sourceId": "L1197-1-19",
     "tradRom": "aγar",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "un kei. Atmosphere.",
+    "lessingForm": "AIAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23881,
     "sourceId": "L1197-1-20",
     "tradRom": "aγaru",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AIAR un kei. Atmosphere. AΓARU See agaru. Pt. I (S. agaru).",
-    "lessingForm": "AΓALI Virtue [SH",
+    "explain": "See agaru. Pt. I (S. agaru).",
+    "lessingForm": "AΓARU",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -256484,11 +256929,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1197-1-21",
     "tradRom": "aγasi",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "mayu",
+    "explain": "Evil customs [AT 34]. mayu",
     "cyrillic": "--. Evil customs [AT 34].",
-    "lessingForm": "ATASI",
+    "lessingForm": "ATASI --.",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -256496,46 +256941,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1197-1-22",
     "tradRom": "aγasilqa-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AΓDULA- To be short, wrinkled. AITACI Master of the horse [VI.]. AITAS Pl. of ayta. ArUL- To take prisoner [ET 73].",
-    "lessingForm": "ATASILXA- To move.",
+    "explain": "To move.",
+    "lessingForm": "ATASILXA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 23884,
     "sourceId": "L1197-1-23",
     "tradRom": "aγdula-",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "To be short, wrinkled.",
+    "lessingForm": "AΓDULA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23885,
     "sourceId": "L1197-1-24",
     "tradRom": "aγtači",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "Master of the horse [VI.].",
+    "lessingForm": "AITACI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23886,
     "sourceId": "L1197-1-25",
     "tradRom": "aγtas",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "Pl. of ayta. ArUL- To take prisoner [ET 73].",
+    "lessingForm": "AITAS",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23887,
     "sourceId": "L1197-1-26",
     "tradRom": "aγul-",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 23888,
     "sourceId": "L1197-1-27",
     "tradRom": "aγulγači",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "hAΓULUDXUN Throw yourself (yourselves) upon (him) [SH/Mo. 2-345].",
-    "lessingForm": "AΓULΓACI Vanguard [AT 82].",
+    "explain": "Vanguard [AT 82]. hAΓULUDXUN Throw yourself (yourselves) upon (him) [SH/Mo. 2-345]. ArULZARIN Gift (offered at meetings?) [SH/Mo. 3-353].",
+    "lessingForm": "AΓULΓACI",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256545,9 +257009,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1197.jpg",
     "explain": "ArULZARIN Gift (offered at meetings?) [SH/Mo. 3-353].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 23890,
@@ -256556,54 +257021,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1197.jpg",
     "explain": "AΓURASUTAI Having possessions, rich.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 23891,
     "sourceId": "L1197-1-30",
     "tradRom": "aγurasutai",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AΓUSTA- To smell, scent; to taste (?).",
+    "explain": "Having possessions, rich.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AΓURASUTAI"
   },
   {
     "index": 23892,
     "sourceId": "L1197-1-31",
     "tradRom": "aγusta-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AGARU See agaru, Pt. I (S. agaru).",
+    "explain": "To smell, scent; to taste (?).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AΓUSTA-"
   },
   {
     "index": 23893,
     "sourceId": "L1197-1-32",
     "tradRom": "agaru",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AGIRA- To turn yellow, dry (bones) [AT ll4]. See Pt. I.",
+    "explain": "See agaru, Pt. I (S. agaru).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AGARU"
   },
   {
     "index": 23894,
     "sourceId": "L1197-1-33",
     "tradRom": "agira-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AIBILΓ-A, 1. Diaphragm.",
+    "explain": "To turn yellow, dry (bones) [AT ll4]. See Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AGIRA-"
   },
   {
     "index": 23895,
@@ -256611,12 +257076,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "aibilγ_a",
     "wIndex": "1",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AIBILΓ-A, 2. Receding (of water) ?",
+    "explain": "Diaphragm.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AIBILΓ-A, 1."
   },
   {
     "index": 23896,
@@ -256624,34 +257088,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "aibilγ_a",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AIDUR baidur. Thievish, crafty, cunning (looks, be-",
+    "explain": "Receding (of water) ?",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AIBILΓ-A, 2."
   },
   {
     "index": 23897,
     "sourceId": "L1197-1-36",
     "tradRom": "ayidur",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "havior); in a thievish, cunning way. A",
+    "explain": "baidur. Thievish, crafty, cunning (looks, be- havior); in a thievish, cunning way. -1197-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AIDUR"
   },
   {
     "index": 23898,
     "sourceId": "L1197-2-01",
     "tradRom": "ayimaγ",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AIMAΓCI Belonging to a class, division, group, etc. ; versed in one or all of the three main divisions of the yurban aimay saba, corpus of authoritative Buddhist writings. See B. supplement under aimay.",
-    "lessingForm": "AIMAΓ Group.",
+    "explain": "Group.",
+    "lessingForm": "AIMAΓ",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256659,52 +257121,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1197-2-02",
     "tradRom": "ayimaγči",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AJAΓA barixu. To offer a ceremonial cup of wine to the",
+    "explain": "Belonging to a class, division, group, etc. ; versed in one or all of the three main divisions of the yurban aimay saba, corpus of authoritative Buddhist writings. See B. supplement under aimay.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AIMAΓCI"
   },
   {
     "index": 23900,
     "sourceId": "L1197-2-03",
     "tradRom": "ayaγa",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ruler at his enthronement.",
+    "explain": "barixu. To offer a ceremonial cup of wine to the ruler at his enthronement.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AJAΓA"
   },
   {
     "index": 23901,
     "sourceId": "L1197-2-04",
     "tradRom": "ayalγu",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AJUS Horrible, terrible. AJUXU amin. Fearful life [AT 104]. ALAΓCI Motley (bow).",
-    "lessingForm": "AJALIU Words [AT 32].",
+    "explain": "Words [AT 32].",
+    "lessingForm": "AJALIU",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 23902,
     "sourceId": "L1197-2-05",
     "tradRom": "ayus",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "Horrible, terrible.",
+    "lessingForm": "AJUS",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23903,
     "sourceId": "L1197-2-06",
     "tradRom": "ayuqu",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "amin. Fearful life [AT 104].",
+    "lessingForm": "AJUXU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23904,
     "sourceId": "L1197-2-07",
     "tradRom": "alaγči",
-    "imageName": "LessingDict_Page_1197.jpg"
+    "imageName": "LessingDict_Page_1197.jpg",
+    "explain": "Motley (bow).",
+    "lessingForm": "ALAΓCI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23905,
@@ -256714,7 +257190,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "aman ijer --zu. Being killed by the mouth (i. e. being almost killed by a report about the power of the enemy) [SH/Mo. 2-372].",
     "lessingForm": "ALAΓDA-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256722,89 +257198,87 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1197-2-09",
     "tradRom": "alaqu",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ALAXU kymyn. Killing man; man to be killed [AT 32].",
+    "explain": "kymyn. Killing man; man to be killed [AT 32].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ALAXU"
   },
   {
     "index": 23907,
     "sourceId": "L1197-2-10",
     "tradRom": "alba",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ALBA(N) ygei. Free from alban (official obligations, such as taxes, duties) [V1.].",
+    "explain": "ygei. Free from alban (official obligations, such as taxes, duties) [V1.].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ALBA(N)"
   },
   {
     "index": 23908,
     "sourceId": "L1197-2-10",
     "tradRom": "alban",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ALBA(N) ygei. Free from alban (official obligations, such as taxes, duties) [V1.].",
+    "explain": "ygei. Free from alban (official obligations, such as taxes, duties) [V1.].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ALBA(N)"
   },
   {
     "index": 23909,
     "sourceId": "L1197-2-11",
     "tradRom": "alγasaldu-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ALΓASALDU- To separate, part [SH/Mo. 2-375].",
+    "explain": "To separate, part [SH/Mo. 2-375].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ALΓASALDU-"
   },
   {
     "index": 23910,
     "sourceId": "L1197-2-12",
     "tradRom": "alγur",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ALΓUR Careful(ly). See Pt. I.",
+    "explain": "Careful(ly). See Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ALΓUR"
   },
   {
     "index": 23911,
     "sourceId": "L1197-2-13",
     "tradRom": "ali",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ALI ... ali... Either ... or. jayun. Anything.",
+    "explain": "ali... Either ... or. jayun. Anything.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ALI ..."
   },
   {
     "index": 23912,
     "sourceId": "L1197-2-14",
     "tradRom": "aliy_a",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ALIJ-A Evil customs [AT 33].",
+    "explain": "Evil customs [AT 33].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ALIJ-A"
   },
   {
     "index": 23913,
     "sourceId": "L1197-2-15",
     "tradRom": "alm_a",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ALURIΓSAN Downtrodden grass [AT 18].",
-    "lessingForm": "ALM-A Pot; bow.",
+    "explain": "Pot; bow.",
+    "lessingForm": "ALM-A",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256812,68 +257286,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1197-2-16",
     "tradRom": "aluriγsan",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ALURXAI Trace, vestige.",
+    "explain": "Downtrodden grass [AT 18].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ALURIΓSAN"
   },
   {
     "index": 23915,
     "sourceId": "L1197-2-17",
     "tradRom": "alurqai",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ALUS kety. More remote, further [AT 34]. kety sanaysan. Últerior thought or motive.",
+    "explain": "Trace, vestige.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ALURXAI"
   },
   {
     "index": 23916,
     "sourceId": "L1197-2-18",
     "tradRom": "alus",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AMAN abxu. To make a vow [AT 35]. See Pt. I.",
+    "explain": "kety. More remote, further [AT 34]. kety sanaysan. Últerior thought or motive.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ALUS"
   },
   {
     "index": 23917,
     "sourceId": "L1197-2-19",
     "tradRom": "aman",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ijen γarxu. To utter words [AT 34]. kyzygyn. The first two vertebrae of the neck [SH/Mo. 1-350 ]. -- niruyu. Atlas, first vertebra of the neck. jeke -- keleky. To brag [AT 85].",
+    "explain": "abxu. To make a vow [AT 35]. See Pt. I. ijen γarxu. To utter words [AT 34]. kyzygyn. The first two vertebrae of the neck [SH/Mo. 1-350 ]. -- niruyu. Atlas, first vertebra of the neck. jeke -- keleky. To brag [AT 85].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AMAN"
   },
   {
     "index": 23918,
     "sourceId": "L1197-2-20",
     "tradRom": "amara",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AMARA modun. Mango tree.",
+    "explain": "modun. Mango tree.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AMARA"
   },
   {
     "index": 23919,
     "sourceId": "L1197-2-21",
     "tradRom": "amara-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AMARALDU- To love each other [SH/Mo. 1-337].",
-    "lessingForm": "AMARA- To love [SH",
+    "explain": "To love [SH/Mo. 3-325].",
+    "lessingForm": "AMARA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256881,44 +257352,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1197-2-22",
     "tradRom": "amaraldu-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AMIDU See bailya-.",
+    "explain": "To love each other [SH/Mo. 1-337].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AMARALDU-"
   },
   {
     "index": 23921,
     "sourceId": "L1197-2-23",
     "tradRom": "amidu",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "γarxu. To get away with one's life [AT 81].",
+    "explain": "See bailya-. γarxu. To get away with one's life [AT 81].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AMIDU"
   },
   {
     "index": 23922,
     "sourceId": "L1197-2-24",
     "tradRom": "amiraldu-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AMIRALDU- To have friendly relations. See amaraldu-.",
+    "explain": "To have friendly relations. See amaraldu-.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AMIRALDU-"
   },
   {
     "index": 23923,
     "sourceId": "L1197-2-25",
     "tradRom": "amiri",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AMLIΓ Untamed horse [AT 32].",
-    "lessingForm": "AMIRI See amara, Pt.I.",
+    "explain": "See amara, Pt.I.",
+    "lessingForm": "AMIRI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256926,65 +257396,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1197-2-26",
     "tradRom": "amliγ",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AMTUIU nom. fut. + sixaxu. Nearly, almost.",
+    "explain": "Untamed horse [AT 32].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AMLIΓ"
   },
   {
     "index": 23925,
     "sourceId": "L1197-2-27",
     "tradRom": "amtuγu",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "unaxu sixaba. Almost fell. ykyky sixaba. Almost died. _1",
+    "explain": "nom. fut. + sixaxu. Nearly, almost. unaxu sixaba. Almost fell. ykyky sixaba. Almost died. _1",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AMTUIU"
   },
   {
     "index": 23926,
     "sourceId": "L1197-2-28",
     "tradRom": "amurči-",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AMURCI- To live peacefully, quietly.",
+    "explain": "To live peacefully, quietly.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AMURCI-"
   },
   {
     "index": 23927,
     "sourceId": "L1197-2-29",
     "tradRom": "amǰum",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "AM ZUM Leisured, idle; fortunate; quick nimble.",
+    "explain": "Leisured, idle; fortunate; quick nimble.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AM ZUM"
   },
   {
     "index": 23928,
     "sourceId": "L1197-2-30",
     "tradRom": "anda",
     "imageName": "LessingDict_Page_1197.jpg",
-    "explain": "ANDA boluysan = yaiday yaryasan. Per son who acts as substitute in taking upon himself the sufferings of another person (= amin zolig).",
+    "explain": "boluysan = yaiday yaryasan. Per son who acts as substitute in taking upon himself the sufferings of another person (= amin zolig).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ANDA"
   },
   {
     "index": 23929,
     "sourceId": "L1198-1-01",
     "tradRom": "andalda-",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ANDALDA- To change, exchange mutually.",
+    "explain": "To change, exchange mutually.",
     "lessingForm": "ANDALDA-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -256992,55 +257462,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-1-02",
     "tradRom": "ang",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ANG ece bayuxu. To stop hunting (?) [AT 39, 99].",
+    "explain": "ece bayuxu. To stop hunting (?) [AT 39, 99].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ANG"
   },
   {
     "index": 23931,
     "sourceId": "L1198-1-03",
     "tradRom": "anirad",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ANIRAD See anurad.",
+    "explain": "See anurad.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ANIRAD"
   },
   {
     "index": 23932,
     "sourceId": "L1198-1-04",
     "tradRom": "anurad",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ANURAD Sworn brothers who after exchange of presents come to a pact of friendship [AT 128].",
+    "explain": "Sworn brothers who after exchange of presents come to a pact of friendship [AT 128].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ANURAD"
   },
   {
     "index": 23933,
     "sourceId": "L1198-1-05",
     "tradRom": "aračaγul-",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ARACAΓUL- To help and save [SH/Mo. 1-342].",
+    "explain": "To help and save [SH/Mo. 1-342].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ARACAΓUL-"
   },
   {
     "index": 23934,
     "sourceId": "L1198-1-06",
     "tradRom": "arakitu",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ARAN, 1. Spirits, liquor [AT 32, 63].",
-    "lessingForm": "ARAKITU Drunk.",
+    "explain": "Drunk.",
+    "lessingForm": "ARAKITU",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257048,14 +257517,24 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-1-07",
     "tradRom": "aran",
     "wIndex": "1",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "Spirits, liquor [AT 32, 63].",
+    "lessingForm": "ARAN, 1.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23936,
     "sourceId": "L1198-1-08",
     "tradRom": "aran",
     "wIndex": "2",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "See arai, Pt. I.",
+    "lessingForm": "ARAN, 2.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23937,
@@ -257065,8 +257544,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "kymyn toluyai jin -- . Ten per head.",
     "lessingForm": "ARBATAD",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257074,23 +257552,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-1-10",
     "tradRom": "arbičiγul-",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ARBICIIUL- To increase, grow. See arbiciyul-, Pt.I.",
+    "explain": "To increase, grow. See arbiciyul-, Pt.I.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ARBICIIUL-"
   },
   {
     "index": 23939,
     "sourceId": "L1198-1-11",
     "tradRom": "arčilaγ",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ARCILAΓ Elm tree (?); willow (?).",
+    "explain": "Elm tree (?); willow (?).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ARCILAΓ"
   },
   {
     "index": 23940,
@@ -257100,7 +257577,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "torya ber --xu. To tie up a horse with silk [AT 80].",
     "lessingForm": "ARIAMZILA-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257108,23 +257585,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-1-13",
     "tradRom": "ariči",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ARICI Protection [SH/Mo1-342].",
+    "explain": "Protection [SH/Mo1-342].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ARICI"
   },
   {
     "index": 23942,
     "sourceId": "L1198-1-14",
     "tradRom": "ariγui",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ARILCA- To be removed, disappear (= aril-, Pt.I) [AT 85].",
-    "lessingForm": "ARIIUI Pure [ET 73].",
+    "explain": "Pure [ET 73].",
+    "lessingForm": "ARIIUI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -257132,80 +257607,109 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-1-15",
     "tradRom": "arilča-",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BAΓATUD Pl. of bayatur, Pt.I. BAISI Secretary, clerk [VI.].",
+    "explain": "To be removed, disappear (= aril-, Pt.I)",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ARILCA-"
   },
   {
     "index": 23944,
     "sourceId": "L1198-1-16",
     "tradRom": "baγatud",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BAISILAΓCI said. Counseling minister [AT 31]. BAITA aldaxu. To very nearly sink in (?) [SH/Mo. 3-345].",
+    "explain": "Pl. of bayatur, Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BAΓATUD"
   },
   {
     "index": 23945,
     "sourceId": "L1198-1-17",
     "tradRom": "baγsi",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BArTARA- To sink (into the mud); to penetrate [SH/Mo. 3-345].",
+    "explain": "Secretary, clerk [VI.].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BAISI"
   },
   {
     "index": 23946,
     "sourceId": "L1198-1-18",
     "tradRom": "baγsilaγči",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "said. Counseling minister [AT 31].",
+    "lessingForm": "BAISILAΓCI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23947,
     "sourceId": "L1198-1-19",
     "tradRom": "baγta",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "aldaxu. To very nearly sink in (?) [SH/Mo. 3-345]. BArTARA- To sink (into the mud); to penetrate [SH/Mo. 3-345].",
+    "lessingForm": "BAITA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23948,
     "sourceId": "L1198-1-20",
     "tradRom": "baγtara-",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 23949,
     "sourceId": "L1198-1-21",
     "tradRom": "baγu",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "Collar [AT 16].",
+    "lessingForm": "BAIU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23950,
     "sourceId": "L1198-1-22",
     "tradRom": "baγu",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "Z-zu øgky. To give.",
+    "lessingForm": "BAΓU-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23951,
     "sourceId": "L1198-1-23",
     "tradRom": "baγuču",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "See boyuzu.",
+    "lessingForm": "BAFUCU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23952,
     "sourceId": "L1198-1-24",
     "tradRom": "baγula-",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "Z-zu øgky. To give.",
-    "lessingForm": "BAΓU-",
+    "explain": "To put on a collar [AT 16].",
+    "lessingForm": "BAIULA-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257213,24 +257717,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-1-25",
     "tradRom": "baγuri",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BAFUCU See boyuzu. BAIULA- To put on a collar [AT 16].",
+    "explain": "Slope, incline.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BAFURI"
   },
   {
     "index": 23954,
     "sourceId": "L1198-1-26",
     "tradRom": "bayi-",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BAFURI Slope, incline. BAI- To abstain or refrain from, stop [AT 26 ]; to stand. --n xoyurundu. Continually [ET 55]. sayun --n jabuxu. To be now sitting, now stand- ing [AT 122].",
+    "explain": "To abstain or refrain from, stop [AT 26 ]; to stand. --n xoyurundu. Continually [ET 55]. sayun --n jabuxu. To be now sitting, now stand- ing [AT 122].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BAI-"
   },
   {
     "index": 23955,
@@ -257238,18 +257740,20 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bayildu-",
     "imageName": "LessingDict_Page_1198.jpg",
     "explain": "--n olxu. To conquer, occupy in battle.",
-    "lessingForm": "BAILDU-"
+    "lessingForm": "BAILDU-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23956,
     "sourceId": "L1198-1-28",
     "tradRom": "bayilγa-",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "amidu --xu. To allow to or let live, refrain or abstain from killing.",
-    "lessingForm": "BAILΓA- To stop [AT 73].",
+    "explain": "To stop [AT 73]. amidu --xu. To allow to or let live, refrain or abstain from killing.",
+    "lessingForm": "BAILΓA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257257,89 +257761,131 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-1-29",
     "tradRom": "bayiri",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BAIRI kiky. To draw up a battle position [AT 121]. BARUT ARUXAN Somewhat slow. ASAΓ geky. To demand [AT 73].",
+    "explain": "kiky. To draw up a battle position [AT 121].",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BAIRI"
   },
   {
     "index": 23958,
     "sourceId": "L1198-2-01",
     "tradRom": "aruqan",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "Somewhat slow.",
+    "lessingForm": "ARUXAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23959,
     "sourceId": "L1198-2-02",
     "tradRom": "asaγ",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "geky. To demand [AT 73].",
+    "lessingForm": "ASAΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23960,
     "sourceId": "L1198-2-03",
     "tradRom": "asaγatai",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "ASAΓUL Question. ASAIULCA- To question each other. AS[A]M-A GARBHI [S. açma-garbha] Emerald. ASARAN xairalaxu. To take care lovingly [AT 13]. ASIU Adv. or interj. descriptive of noise. ASXA- To empty by pouring [AT 108].",
-    "lessingForm": "ASAΓ ATAI Enviable [AT 92 ]",
+    "explain": "Enviable [AT 92 ]",
+    "lessingForm": "ASAΓ ATAI",
     "ocrFlags": [
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 23961,
     "sourceId": "L1198-2-04",
     "tradRom": "asaγul",
-    "explain": "question.",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "explain": "Question.",
+    "imageName": "LessingDict_Page_1198.jpg",
+    "lessingForm": "ASAΓUL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23962,
     "sourceId": "L1198-2-05",
     "tradRom": "asaγulča-",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "To question each other.",
+    "lessingForm": "ASAIULCA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23963,
     "sourceId": "L1198-2-06",
     "tradRom": "asm_agarbhi",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "açma-garbha] Emerald.",
+    "lessingForm": "AS[A]M-A GARBHI [S.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23964,
     "sourceId": "L1198-2-06",
     "tradRom": "asam_agarbhi",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "açma-garbha] Emerald.",
+    "lessingForm": "AS[A]M-A GARBHI [S.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23965,
     "sourceId": "L1198-2-07",
     "tradRom": "asaran",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "xairalaxu. To take care lovingly [AT 13].",
+    "lessingForm": "ASARAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23966,
     "sourceId": "L1198-2-08",
     "tradRom": "asiu",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "Adv. or interj. descriptive of noise.",
+    "lessingForm": "ASIU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23967,
     "sourceId": "L1198-2-09",
     "tradRom": "asqa-",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "imageName": "LessingDict_Page_1198.jpg",
+    "explain": "To empty by pouring [AT 108].",
+    "lessingForm": "ASXA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23968,
     "sourceId": "L1198-2-10",
     "tradRom": "ataγala-",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "bygyde ji --xu. To envy everything [AT 100].",
-    "lessingForm": "ATAΓALA- To envy.",
+    "explain": "To envy. bygyde ji --xu. To envy everything [AT 100].",
+    "lessingForm": "ATAΓALA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -257347,11 +257893,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-2-11",
     "tradRom": "ataγatu",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "AXATAI Having an elder brother. kymyn --, debel sixatai. A man has an elder brother even as a coat has a collar (both are mutual- ly indispensable). [AT 10].",
-    "lessingForm": "ATAΓATU Jealous of [AT 109].",
+    "explain": "Jealous of [AT 109].",
+    "lessingForm": "ATAΓATU",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257359,67 +257904,67 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-2-12",
     "tradRom": "aqatai",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "AZAGEJEN Particle expressing astonishment, clicking",
+    "explain": "Having an elder brother. kymyn --, debel sixatai. A man has an elder brother even as a coat has a collar (both are mutual- ly indispensable). [AT 10].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AXATAI"
   },
   {
     "index": 23971,
     "sourceId": "L1198-2-13",
     "tradRom": "aǰageyen",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "one's tongue in astonishment.",
+    "explain": "Particle expressing astonishment, clicking one's tongue in astonishment.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AZAGEJEN"
   },
   {
     "index": 23972,
     "sourceId": "L1198-2-14",
     "tradRom": "aǰai",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "AZAI (azai). See azuyu, Pt. I.",
+    "explain": "(azai). See azuyu, Pt. I.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AZAI"
   },
   {
     "index": 23973,
     "sourceId": "L1198-2-15",
     "tradRom": "aǰar",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "AZAR(I) [S. acārya ]. Teacher, preceptor; sorcerer; name of a mask in Cam (Cham) dance where they are often confused with the asuri).",
+    "explain": "acārya ]. Teacher, preceptor; sorcerer; name of a mask in Cam (Cham) dance where they are often confused with the asuri). (pronounced aji). See azuyu.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AZAR(I) [S."
   },
   {
     "index": 23974,
     "sourceId": "L1198-2-15",
     "tradRom": "aǰari",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "AZAR(I) [S. acārya ]. Teacher, preceptor; sorcerer; name of a mask in Cam (Cham) dance where they are often confused with the asuri).",
+    "explain": "acārya ]. Teacher, preceptor; sorcerer; name of a mask in Cam (Cham) dance where they are often confused with the asuri). (pronounced aji). See azuyu.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AZAR(I) [S."
   },
   {
     "index": 23975,
     "sourceId": "L1198-2-16",
     "tradRom": "aǰi",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "B",
+    "explain": "Having a bai (landmark) [ET ll4].",
     "cyrillic": "(pronounced aji). See azuyu.",
-    "lessingForm": "AZI"
+    "lessingForm": "AZI B",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23976,
@@ -257430,7 +257975,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "Having a bai (landmark) [ET ll4].",
     "lessingForm": "BAITU",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257438,44 +257983,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-2-18",
     "tradRom": "bayar",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BALA See next entry.",
+    "explain": "kyrgeky. To welcome.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BAJAR"
   },
   {
     "index": 23978,
     "sourceId": "L1198-2-19",
     "tradRom": "bala",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BALATU Having \"bala.\" (Coloring matter sticking to objects which have been in contact with lead, herbs, etc. ?).",
+    "explain": "See next entry.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BALA"
   },
   {
     "index": 23979,
     "sourceId": "L1198-2-20",
     "tradRom": "balatu",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BANDIDA [S. pandita]. Title of lamas, the daisun i",
+    "explain": "Having \"bala.\" (Coloring matter sticking to objects which have been in contact with lead, herbs, etc. ?).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BALATU"
   },
   {
     "index": 23980,
     "sourceId": "L1198-2-21",
     "tradRom": "bandida",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "daruyci, etc. See B. supplement and bancin in Pt.I.",
+    "explain": "pandita]. Title of lamas, the daisun i daruyci, etc. See B. supplement and bancin in Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BANDIDA [S."
   },
   {
     "index": 23981,
@@ -257486,45 +258031,51 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "т б б",
     "lessingForm": "BARA-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 23982,
     "sourceId": "L1198-2-23",
     "tradRom": "baraγan",
-    "explain": "dark (of the pupil of the eye)",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "explain": "Dark (of the pupil of the eye). bej-e Dark body [SH /Mo. 1-312].",
+    "imageName": "LessingDict_Page_1198.jpg",
+    "lessingForm": "BARAΓAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23983,
     "sourceId": "L1198-2-24",
     "tradRom": "baraγdatala",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BARAΓDATALA Completely [AT 56]. See barayda-,Pt.I.",
+    "explain": "Completely [AT 56]. See barayda-,Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BARAΓDATALA"
   },
   {
     "index": 23984,
     "sourceId": "L1198-2-25",
     "tradRom": "baraγun",
-    "explain": "baraγun qoisi, southwest",
-    "imageName": "LessingDict_Page_1198.jpg"
+    "explain": "xoisi. Southwest.",
+    "imageName": "LessingDict_Page_1198.jpg",
+    "lessingForm": "BARAIUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23985,
     "sourceId": "L1198-2-26",
     "tradRom": "baras",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "gertei. With tiger (skin) houses (tents covered with tiger skins ?) [AT 28].",
-    "lessingForm": "BARAS See bars, Pt. I.",
+    "explain": "See bars, Pt. I. gertei. With tiger (skin) houses (tents covered with tiger skins ?) [AT 28].",
+    "lessingForm": "BARAS",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257532,11 +258083,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-2-27",
     "tradRom": "bariγdal",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BARIΓDAL ygei. What can ( could) not be taken or caught [SH/Mo. 3-324].",
+    "explain": "ygei. What can ( could) not be taken or caught [SH/Mo. 3-324].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BARIΓDAL"
   },
   {
     "index": 23987,
@@ -257546,7 +258097,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "yge --xu. To speak as a mediator [AT 30].",
     "lessingForm": "BARILDU-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257554,39 +258105,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1198-2-29",
     "tradRom": "barkiraqu",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BARKIRAXU dayudaxu To shout loudly [AT 16].",
+    "explain": "dayudaxu To shout loudly [AT 16].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BARKIRAXU"
   },
   {
     "index": 23989,
     "sourceId": "L1198-2-30",
     "tradRom": "baruγ",
     "imageName": "LessingDict_Page_1198.jpg",
-    "explain": "BARUΓ A kind of dog [AT 15].",
+    "explain": "kind of dog [AT 15]. -1198-",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BARUΓ A"
   },
   {
     "index": 23990,
     "sourceId": "L1199-1-02",
     "tradRom": "barui-",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "To turn red with impatience [AT 15].",
+    "lessingForm": "BARUI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 23991,
     "sourceId": "L1199-1-03",
     "tradRom": "basar",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BARUΓ byryg. Dark and gloomy (hendiadys).",
-    "lessingForm": "BARUF",
+    "explain": "Market place [VI. } See Pt.I.",
+    "lessingForm": "BASAR",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257594,79 +258149,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-1-04",
     "tradRom": "bataki",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BARUI- To turn red with impatience [AT 15].",
+    "explain": "ebedcin. Sickness of the stomach [AT, p. 181, note 6].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BATAKI"
   },
   {
     "index": 23993,
     "sourceId": "L1199-1-05",
     "tradRom": "bečkegür",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BASAR Market place [VI. } See Pt.I.",
+    "explain": "Older spelling of biskigyr.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BEČKEGYR"
   },
   {
     "index": 23994,
     "sourceId": "L1199-1-06",
     "tradRom": "beiǰi",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BATAKI ebedcin. Sickness of the stomach [AT, p. 181, note 6]. BEČKEGYR Older spelling of biskigyr.",
+    "explain": "Title given to princesses [ET 11].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BEIZI"
   },
   {
     "index": 23995,
     "sourceId": "L1199-1-07",
     "tradRom": "bey_e",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BEIZI Title given to princesses [ET 11].",
+    "explain": "kyrgygsen. Marriageable (girl)[ AT 7]. -- amidural un uxayan. Physiology. -- xad. Body, stature [SH/Mo. 3-372].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BEJ-E"
   },
   {
     "index": 23996,
     "sourceId": "L1199-1-08",
     "tradRom": "bel",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BEJ-E kyrgygsen. Marriageable (girl)[ AT 7]. -- amidural un uxayan. Physiology. -- xad. Body, stature [SH/Mo. 3-372].",
+    "explain": "Even, although [ET 73].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BEL"
   },
   {
     "index": 23997,
     "sourceId": "L1199-1-09",
     "tradRom": "belbesüregül-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BEL Even, although [ET 73]. BELBESYREGYL- To cause to wear mourning [AT ll3].",
+    "explain": "To cause to wear mourning [AT ll3].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BELBESYREGYL-"
   },
   {
     "index": 23998,
     "sourceId": "L1199-1-10",
     "tradRom": "belbisün",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "bergen. Widow [SH/Mo. 1-297].",
-    "lessingForm": "BELBISYN See belbesyn, Pt.I.",
+    "explain": "See belbesyn, Pt.I. bergen. Widow [SH/Mo. 1-297].",
+    "lessingForm": "BELBISYN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257674,99 +258226,131 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-1-11",
     "tradRom": "belkenčeg",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BELKENCEG The small of the back.",
+    "explain": "The small of the back.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BELKENCEG"
   },
   {
     "index": 24000,
     "sourceId": "L1199-1-12",
     "tradRom": "ber",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BER An \"ergative\" particle [Grønbech].",
+    "explain": "An \"ergative\" particle [Grønbech].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BER"
   },
   {
     "index": 24001,
     "sourceId": "L1199-1-13",
     "tradRom": "berined",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BERKES Pl. of berke. See Pt.I. BILGE (= bilig). Sage, wise. BILIG The \"Sayings\" of Genghis Khan.",
-    "lessingForm": "BERINED See beriged, Pt.I [SH",
+    "explain": "See beriged, Pt.I [SH/Mo. 2-360 ].",
+    "lessingForm": "BERINED",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24002,
     "sourceId": "L1199-1-14",
     "tradRom": "berkes",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Pl. of berke. See Pt.I.",
+    "lessingForm": "BERKES",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24003,
     "sourceId": "L1199-1-15",
     "tradRom": "bilge",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "bilig). Sage, wise.",
+    "lessingForm": "BILGE (=",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24004,
     "sourceId": "L1199-1-16",
     "tradRom": "bilig",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "The \"Sayings\" of Genghis Khan.",
+    "lessingForm": "BILIG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24005,
     "sourceId": "L1199-1-17",
     "tradRom": "bilqu-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BIXARDAIUL- To exhaust, knock out [SH/Mo. 2-366].",
-    "lessingForm": "BILXU- = bilxa-. See Pt. I.",
+    "explain": "bilxa-. See Pt. I.",
+    "lessingForm": "BILXU- =",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24006,
     "sourceId": "L1199-1-18",
     "tradRom": "biqardaγul-",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "To exhaust, knock out [SH/Mo. 2-366].",
+    "lessingForm": "BIXARDAIUL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24007,
     "sourceId": "L1199-1-19",
     "tradRom": "boda-",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "bodu-. See Pt. I.",
+    "lessingForm": "BODA- =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24008,
     "sourceId": "L1199-1-20",
     "tradRom": "boγtaγ",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Headdress of married noblewomen (obs.) [SH/Mo. 3-333].",
+    "lessingForm": "BOITAΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24009,
     "sourceId": "L1199-1-21",
     "tradRom": "boγtala-",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "To put on the boytay, become married (of a noble woman) [SH/Mo. 3-334].",
+    "lessingForm": "BOITALA-, BOITULA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24010,
     "sourceId": "L1199-1-22",
     "tradRom": "boγtatu",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BOITAΓ Headdress of married noblewomen (obs.) [SH/Mo. 3-333]. BOITALA-, BOITULA- To put on the boytay, become married (of a noble woman) [SH/Mo. 3-334]. BOITATU Wearing a boytay [SH/Mo. 3-333].",
-    "lessingForm": "BODA- = bodu-. See Pt. I.",
+    "explain": "Wearing a boytay [SH/Mo. 3-333].",
+    "lessingForm": "BOITATU",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -257774,10 +258358,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-1-23",
     "tradRom": "boγul",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "eme --. Female slave . medel -- . Slave under someone's jurisdiction.",
+    "explain": "eme --. Female slave . medel -- . Slave under someone's jurisdiction. BOrUNID- To be abased [AT 44].",
     "lessingForm": "BOTUL",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257787,26 +258371,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1199.jpg",
     "explain": "BOrUNID- To be abased [AT 44].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24013,
     "sourceId": "L1199-1-25",
     "tradRom": "boγurǰi",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Milking pot [AT 18].",
+    "lessingForm": "BOTURZI, BOXURZI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24014,
     "sourceId": "L1199-1-26",
     "tradRom": "boγuǰu",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "[AT 121 ].",
+    "explain": "BOrUCU, BAΓUCU (?) One of two eyes",
     "cyrillic": "в",
-    "lessingForm": "BOIUZU, BOrUCU, BAΓUCU (?) One of two eyes",
+    "lessingForm": "BOIUZU,",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -257814,11 +258404,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-1-27",
     "tradRom": "bol",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "belonging to him or to me.",
+    "explain": "tegynygei ču --, minygei ču -- . Whether ... is belonging to him or to me.",
     "cyrillic": "tegynygei ču --, minygei ču -- . Whether ... is",
     "lessingForm": "BOL",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257826,55 +258416,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-1-28",
     "tradRom": "bol-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BOL- To change into. douradu ebygen --xu. To change into a lowly old man[ AT 25]. øgky -- usa. If (you) will give [AT 28].",
+    "explain": "To change into. douradu ebygen --xu. To change into a lowly old man[ AT 25]. øgky -- usa. If (you) will give [AT 28].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BOL-"
   },
   {
     "index": 24017,
     "sourceId": "L1199-1-29",
     "tradRom": "bolad",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BOLAD Obs. spelling for bolud.",
+    "explain": "Obs. spelling for bolud.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BOLAD"
   },
   {
     "index": 24018,
     "sourceId": "L1199-1-30",
     "tradRom": "bolγa-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BOLΓA- To consider or regard as [SH/Mo. 1-355].",
+    "explain": "To consider or regard as [SH/Mo. 1-355].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BOLΓA-"
   },
   {
     "index": 24019,
     "sourceId": "L1199-1-31",
     "tradRom": "bolγaγa-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BOLΓAΓA- To examine carefully [SH/Mo. 3-299 ].",
+    "explain": "To examine carefully [SH/Mo. 3-299 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BOLΓAΓA-"
   },
   {
     "index": 24020,
     "sourceId": "L1199-1-32",
     "tradRom": "boltari-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BOLUI Pres. - fut. of bol-. See bolai, Pt.I [SH/Mo.2-",
-    "lessingForm": "BOLTARI- To skulk [AT 19].",
+    "explain": "To skulk [AT 19].",
+    "lessingForm": "BOLTARI-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257882,13 +258471,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-1-33",
     "tradRom": "bolui",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "357]. BYGYTYR",
+    "explain": "Pres. - fut. of bol-. See bolai, Pt.I [SH/Mo.2- 357]. -1199-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BOLUI"
   },
   {
     "index": 24022,
@@ -257898,32 +258485,40 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "mayui --xu. To turn bad (siutation) [AT 24].",
     "lessingForm": "BOLULCA-",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 24023,
     "sourceId": "L1199-2-02",
     "tradRom": "bolulči-",
-    "explain": "= bolulča- Pt. I.",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "explain": "bolulca- Pt.I.",
+    "imageName": "LessingDict_Page_1199.jpg",
+    "lessingForm": "BOLULCI- =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24024,
     "sourceId": "L1199-2-03",
     "tradRom": "bolǰal",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Appointed time [SH/Mo. 3-341].",
+    "lessingForm": "BOLZAL, BOLZUR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24025,
     "sourceId": "L1199-2-04",
     "tradRom": "borbi",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BORCIN sonu. A kind of duck [SH/Mo. 2 -379 ].",
-    "lessingForm": "BORBI Gourd [AT 70].",
+    "explain": "Gourd [AT 70].",
+    "lessingForm": "BORBI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257931,50 +258526,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-2-05",
     "tradRom": "borčin",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BORI Declivity, slope [Kaz. 15].",
+    "explain": "sonu. A kind of duck [SH/Mo. 2 -379 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BORCIN"
   },
   {
     "index": 24027,
     "sourceId": "L1199-2-06",
     "tradRom": "bori",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BORU yazar. The brown earth [SH/Mo. 3-322].",
+    "explain": "Declivity, slope [Kaz. 15].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BORI"
   },
   {
     "index": 24028,
     "sourceId": "L1199-2-07",
     "tradRom": "boru",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "undur. Milk-wine cart.",
+    "explain": "yazar. The brown earth [SH/Mo. 3-322]. undur. Milk-wine cart. BORUrCIN Pheasant [AT 9 ]. See Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BORU"
   },
   {
     "index": 24029,
     "sourceId": "L1199-2-08",
     "tradRom": "boruγčin",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24030,
     "sourceId": "L1199-2-09",
     "tradRom": "bosaqa",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BOSU- (orig. BOSO-) . To close or obstruct a passage",
-    "lessingForm": "BOSAXA See bosuy-a Pt.I.",
+    "explain": "See bosuy-a Pt.I.",
+    "lessingForm": "BOSAXA",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -257982,11 +258581,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-2-10",
     "tradRom": "bosu-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "[SH/Mo. 3-292 ].",
+    "explain": "(orig. BOSO-) . To close or obstruct a passage [SH/Mo. 3-292 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BOSU-"
   },
   {
     "index": 24032,
@@ -257994,60 +258593,86 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bosuγatu",
     "imageName": "LessingDict_Page_1199.jpg",
     "explain": "altan -- . Those of the Golden Threshold = Sons of the Emperor.",
-    "lessingForm": "BOSUTATU"
+    "lessingForm": "BOSUTATU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24033,
     "sourceId": "L1199-2-12",
     "tradRom": "bosqa",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Tomb (?).",
+    "lessingForm": "BOSXA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24034,
     "sourceId": "L1199-2-13",
     "tradRom": "bosqaγuli",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BøGTYR- To tie on the saddle. BØGZI Scrapiron [NP]. BØLYGEDY- To quarrel with each other [AT 44]. BSANG Translit. of T. bsang. See sang \"incense,\"Pt.I.",
-    "lessingForm": "BOSXAIULI = bosxayul, Pt. I.",
+    "explain": "bosxayul, Pt. I. BøGTYR- To tie on the saddle.",
+    "lessingForm": "BOSXAIULI =",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24035,
     "sourceId": "L1199-2-14",
     "tradRom": "bögtür-",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24036,
     "sourceId": "L1199-2-15",
     "tradRom": "bögǰi",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Scrapiron [NP].",
+    "lessingForm": "BØGZI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24037,
     "sourceId": "L1199-2-16",
     "tradRom": "bölügedü-",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "To quarrel with each other [AT 44].",
+    "lessingForm": "BØLYGEDY-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24038,
     "sourceId": "L1199-2-17",
     "tradRom": "bsang",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Translit. of T. bsang. See sang \"incense,\"Pt.I.",
+    "lessingForm": "BSANG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24039,
     "sourceId": "L1199-2-18",
     "tradRom": "buduγtu",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BUGIJ-A Tether for the forelegs of a horse made with a",
-    "lessingForm": "BUDUITU Colored.",
+    "explain": "Colored.",
+    "lessingForm": "BUDUITU",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258055,51 +258680,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-2-19",
     "tradRom": "bugiy_a",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "loop in the leading rein [SH/Mo. 1-321].",
+    "explain": "Tether for the forelegs of a horse made with a loop in the leading rein [SH/Mo. 1-321].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BUGIJ-A"
   },
   {
     "index": 24041,
     "sourceId": "L1199-2-20",
     "tradRom": "bulaγ_a",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Marten [AT 21]. See Pt. I.",
+    "lessingForm": "BULAΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24042,
     "sourceId": "L1199-2-21",
     "tradRom": "bulqa",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Fight [AT 19, 59 ].",
+    "lessingForm": "BUL [A ]XA, BULΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24043,
     "sourceId": "L1199-2-21",
     "tradRom": "bulaqa",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Fight [AT 19, 59 ].",
+    "lessingForm": "BUL [A ]XA, BULΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24044,
     "sourceId": "L1199-2-21",
     "tradRom": "bulγ_a",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Fight [AT 19, 59 ].",
+    "lessingForm": "BUL [A ]XA, BULΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24045,
     "sourceId": "L1199-2-22",
     "tradRom": "bulčirqaida-",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "To harden, as pus in a gland. See bulcirxaita-, Pt. I.",
+    "lessingForm": "BULCIRXAIDA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24046,
     "sourceId": "L1199-2-23",
     "tradRom": "bulγa",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BULCIRXAIDA- To harden, as pus in a gland. See bulcirxaita-, Pt. I.",
-    "lessingForm": "BUL [A ]XA, BULΓ-A Fight [AT 19, 59 ].",
+    "explain": "Struggle [SH/Mo. 3-322]. sedkiky. To think of revolt [SH/Mo. 2- 345].",
+    "lessingForm": "BULΓA",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -258107,10 +258757,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-2-24",
     "tradRom": "bulγaldu-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "sedkiky. To think of revolt [SH/Mo. 2- 345]. BULΓALDU-* To fight with each other [SH/Mo. 3-323].",
-    "lessingForm": "BULΓA Struggle [SH",
+    "explain": "To fight with each other [SH/Mo. 3-323].",
+    "lessingForm": "BULΓALDU-*",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -258118,40 +258768,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-2-25",
     "tradRom": "buliya-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BURΓANIΓ casun. Whirling snow [AT 10]. BURUIULAΓULZU talbixu. To let escape [AT 84].",
-    "lessingForm": "BULIJA- To contend [AT 36]. See Pt. 1.",
+    "explain": "To contend [AT 36]. See Pt. 1.",
+    "lessingForm": "BULIJA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24049,
     "sourceId": "L1199-2-26",
     "tradRom": "burγaniγ",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "casun. Whirling snow [AT 10].",
+    "lessingForm": "BURΓANIΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24050,
     "sourceId": "L1199-2-27",
     "tradRom": "buruγulaγulǰu",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "talbixu. To let escape [AT 84].",
+    "lessingForm": "BURUIULAΓULZU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24051,
     "sourceId": "L1199-2-28",
     "tradRom": "busuγu",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Is it not? [ET 68 ].",
+    "lessingForm": "BUSUIU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24052,
     "sourceId": "L1199-2-29",
     "tradRom": "butung",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BUXA gørygesyn. Wild bull [AT 39] . See Pt. I.",
-    "lessingForm": "BUTUNG Barrel.",
+    "explain": "Barrel.",
+    "lessingForm": "BUTUNG",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258159,75 +258823,87 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1199-2-30",
     "tradRom": "buqa",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BUXUNA- To get excited; to hasten; to strive, make",
+    "explain": "gørygesyn. Wild bull [AT 39] . See Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BUXA"
   },
   {
     "index": 24054,
     "sourceId": "L1199-2-31",
     "tradRom": "buquna-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "efforts; to go.",
+    "explain": "To get excited; to hasten; to strive, make efforts; to go.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BUXUNA-"
   },
   {
     "index": 24055,
     "sourceId": "L1199-2-32",
     "tradRom": "buǰi-",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BUZI- To curl (of hair) = buzigirtu-, Pt.I.",
+    "explain": "To curl (of hair) = buzigirtu-, Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BUZI-"
   },
   {
     "index": 24056,
     "sourceId": "L1199-2-33",
     "tradRom": "büdün",
     "imageName": "LessingDict_Page_1199.jpg",
-    "explain": "BYDYN Achilles' tendon [SH/Mo. 1-321].",
+    "explain": "Achilles' tendon [SH/Mo. 1-321].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BYDYN"
   },
   {
     "index": 24057,
     "sourceId": "L1199-2-34",
     "tradRom": "bügüm",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "Globe (?).",
+    "lessingForm": "BYGYM",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24058,
     "sourceId": "L1199-2-35",
     "tradRom": "bügütür",
-    "imageName": "LessingDict_Page_1199.jpg"
+    "imageName": "LessingDict_Page_1199.jpg",
+    "explain": "See bøgtyr Pt.I.",
+    "lessingForm": "BYGYTYR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24059,
     "sourceId": "L1200-1-01",
     "tradRom": "bürdü",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "BYRDY Little lake, pool [ET 115].",
-    "lessingForm": "BYRDY"
+    "explain": "Little lake, pool [ET 115].",
+    "lessingForm": "BYRDY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24060,
     "sourceId": "L1200-1-02",
     "tradRom": "bürid-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "ygsen. Perfected.",
-    "lessingForm": "BYRID- See Pt.I.",
+    "explain": "See Pt.I. ygsen. Perfected.",
+    "lessingForm": "BYRID-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258235,27 +258911,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-1-03",
     "tradRom": "čabči-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CABCI - To perform swordplay [ET 69].",
+    "explain": "To perform swordplay [ET 69].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CABCI -"
   },
   {
     "index": 24062,
     "sourceId": "L1200-1-04",
     "tradRom": "čabčilγ_a",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "Swordplay [AT 66].",
+    "lessingForm": "CABCILΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24063,
     "sourceId": "L1200-1-05",
     "tradRom": "čačir",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CArCIN, 1, Pauper, beggar. See Pt. I. CARCIN, 2. White mare. CAΓAN mør. Favorable road (fig.) [AT 103]. CAΓATU, CAITU Ordinary man, commoner (opp. to nobleman [AT 103].",
-    "lessingForm": "CACIR Hut [AT 94].",
+    "explain": "Hut [AT 94]. CArCIN, 1, Pauper, beggar. See Pt. I.",
+    "lessingForm": "CACIR",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258263,43 +258944,67 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-1-06",
     "tradRom": "čaγčin",
     "wIndex": "1",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24065,
     "sourceId": "L1200-1-07",
     "tradRom": "čaγčin",
     "wIndex": "2",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "White mare.",
+    "lessingForm": "CARCIN, 2.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24066,
     "sourceId": "L1200-1-08",
     "tradRom": "čaγan",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "mør. Favorable road (fig.) [AT 103].",
+    "lessingForm": "CAΓAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24067,
     "sourceId": "L1200-1-09",
     "tradRom": "čaγatu",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "Ordinary man, commoner (opp. to nobleman [AT 103].",
+    "lessingForm": "CAΓATU, CAITU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24068,
     "sourceId": "L1200-1-10",
     "tradRom": "čaγun",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "'Sea gull.",
+    "lessingForm": "CAFUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24069,
     "sourceId": "L1200-1-11",
     "tradRom": "čaγur",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CAΓUR Military expedition (obs.) [SH /Mo. 3-311]. cerig --. Soldier, warrior (hend.).",
-    "lessingForm": "CAFUN 'Sea gull.",
+    "explain": "Military expedition (obs.) [SH /Mo. 3-311]. cerig --. Soldier, warrior (hend.).",
+    "lessingForm": "CAΓUR",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258307,44 +259012,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-1-12",
     "tradRom": "čaγura-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CAIURA- To set out for war.",
+    "explain": "To set out for war.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CAIURA-"
   },
   {
     "index": 24071,
     "sourceId": "L1200-1-13",
     "tradRom": "čaγuriyata-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CAIURIJATA- To resound, echo.",
+    "explain": "To resound, echo.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CAIURIJATA-"
   },
   {
     "index": 24072,
     "sourceId": "L1200-1-14",
     "tradRom": "čambudvib",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CAMBUDVIB (S. Jambudvipa). See Zambutib.",
+    "explain": "Jambudvipa). See Zambutib.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CAMBUDVIB (S."
   },
   {
     "index": 24073,
     "sourceId": "L1200-1-15",
     "tradRom": "čamqaγ",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CANDALI (S. candala) Person belonging to the lowest",
-    "lessingForm": "ČAMXAΓ Pavilion. See Pt. I [ ET 115].",
+    "explain": "Pavilion. See Pt. I [ ET 115].",
+    "lessingForm": "ČAMXAΓ",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258352,75 +259056,87 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-1-16",
     "tradRom": "čandali",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "caste; low-caste person.",
+    "explain": "candala) Person belonging to the lowest caste; low-caste person.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CANDALI (S."
   },
   {
     "index": 24075,
     "sourceId": "L1200-1-17",
     "tradRom": "čandana",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CANDANA = candan See zandan.",
+    "explain": "candan See zandan.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CANDANA ="
   },
   {
     "index": 24076,
     "sourceId": "L1200-1-18",
     "tradRom": "čar_a",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CAR-A Pot. See cara, Pt.I.",
+    "explain": "Pot. See cara, Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CAR-A"
   },
   {
     "index": 24077,
     "sourceId": "L1200-1-19",
     "tradRom": "čaškira-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CASUN møsyn. Snow (hend., poet.).",
-    "lessingForm": "CAŠKIRA- To cackle.",
+    "explain": "To cackle.",
+    "lessingForm": "CAŠKIRA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24078,
     "sourceId": "L1200-1-20",
     "tradRom": "časun",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "møsyn. Snow (hend., poet.).",
+    "lessingForm": "CASUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24079,
     "sourceId": "L1200-1-21",
     "tradRom": "čaqulai",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "Seagull.",
+    "lessingForm": "CAXULAI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24080,
     "sourceId": "L1200-1-22",
     "tradRom": "čeg",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "Hill [SH/Mo. 3-390 ].",
+    "lessingForm": "CEG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24081,
     "sourceId": "L1200-1-23",
     "tradRom": "čei-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CEI- To become white [SH/Mo. 1-360 ].",
-    "lessingForm": "CEG Hill [SH",
+    "explain": "To become white [SH/Mo. 1-360 ].",
+    "lessingForm": "CEI-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -258428,22 +259144,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-1-24",
     "tradRom": "čerbi",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CERBI A military command (obs.). See Pt.I under cerbi [SH/Mo. 2-395].",
+    "explain": "military command (obs.). See Pt.I under cerbi [SH/Mo. 2-395].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CERBI A"
   },
   {
     "index": 24083,
     "sourceId": "L1200-1-25",
     "tradRom": "čeregle-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CERIG cuur(a) Army; war; revolt. nemeky. To add one's forces to those of one's",
-    "lessingForm": "CEREGLE- See cerigle-, Pt. I.",
+    "explain": "See cerigle-, Pt. I.",
+    "lessingForm": "CEREGLE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258451,23 +259166,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-1-26",
     "tradRom": "čerig",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "ally [SH/Mo. 3-340].",
+    "explain": "cuur(a) Army; war; revolt. nemeky. To add one's forces to those of one's ally [SH/Mo. 3-340].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CERIG"
   },
   {
     "index": 24085,
     "sourceId": "L1200-1-27",
     "tradRom": "čeügen",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CI See cu, cy, Pt.I. jeke -- baya -- . Both the great and the small.",
-    "lessingForm": "CEYGEN See ciygen [AT 8].",
+    "explain": "See ciygen [AT 8].",
+    "lessingForm": "CEYGEN",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258475,59 +259188,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-1-28",
     "tradRom": "či",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CIBILTY The Evil One (S. pāpiman ). Ep. of Erlig Xayan. See Pt. I and B. supplement.",
+    "explain": "See cu, cy, Pt.I. jeke -- baya -- . Both the great and the small.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CI"
   },
   {
     "index": 24087,
     "sourceId": "L1200-1-29",
     "tradRom": "čibiltü",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CIBKI- To plunge in water, submerge, let fall in the",
+    "explain": "The Evil One (S. pāpiman ). Ep. of Erlig Xayan. See Pt. I and B. supplement.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CIBILTY"
   },
   {
     "index": 24088,
     "sourceId": "L1200-1-30",
     "tradRom": "čibki-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "water.",
+    "explain": "To plunge in water, submerge, let fall in the water.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CIBKI-"
   },
   {
     "index": 24089,
     "sourceId": "L1200-1-31",
     "tradRom": "čičegei",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CICEGEI Pupil of the eye [SH/Mo. 1-312].",
+    "explain": "Pupil of the eye [SH/Mo. 1-312].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CICEGEI"
   },
   {
     "index": 24090,
     "sourceId": "L1200-1-32",
     "tradRom": "čičin",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CICIN See secen. CU",
+    "explain": "See secen. -1200-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CICIN"
   },
   {
     "index": 24091,
@@ -258537,48 +259246,73 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "xalzin -- . Big conch shell used as trumpet [AT p. 185, note 3].",
     "lessingForm": "BYRIJ-E",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24092,
     "sourceId": "L1200-2-02",
     "tradRom": "bütü-",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "To grow up [AT 47 ] . See Pt. I. --gsen. Perfect (government). [AT 92]. C",
+    "lessingForm": "BYTY-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24093,
     "sourceId": "L1200-2-03",
     "tradRom": "čida",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "jadan. As best (I) can [AT 23].",
+    "lessingForm": "CIDA(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24094,
     "sourceId": "L1200-2-03",
     "tradRom": "čidan",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "jadan. As best (I) can [AT 23].",
+    "lessingForm": "CIDA(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24095,
     "sourceId": "L1200-2-04",
     "tradRom": "čidaγ",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "See cadiγ, Pt. I.",
+    "lessingForm": "CIDAΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24096,
     "sourceId": "L1200-2-05",
     "tradRom": "čidaqu",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "jadaxu ber. As best (I, etc.) can [AT 23].",
+    "lessingForm": "CIDAXU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24097,
     "sourceId": "L1200-2-06",
     "tradRom": "čiγatu",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "--gsen. Perfect (government). [AT 92]. C CIDA(N) jadan. As best (I) can [AT 23].",
-    "lessingForm": "BYTY- To grow up [AT 47 ] . See Pt. I.",
+    "explain": "See cayadu Pt.I.",
+    "lessingForm": "CIIATU",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -258586,34 +259320,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-2-07",
     "tradRom": "čiγulγaγči",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CIDAXU jadaxu ber. As best (I, etc.) can [AT 23].",
-    "lessingForm": "CIDAΓ See cadiγ, Pt. I.",
+    "explain": "Participant of a meeting [AT 73].",
+    "lessingForm": "CIIULΓAΓCI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24099,
     "sourceId": "L1200-2-08",
     "tradRom": "čig",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "Pigtail, queue [AT 22].",
+    "lessingForm": "CIG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24100,
     "sourceId": "L1200-2-09",
     "tradRom": "čigü",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "sumu. Palace guard consisting of Chinese soldiers.",
+    "lessingForm": "CIGY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24101,
     "sourceId": "L1200-2-10",
     "tradRom": "čigüd",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CIIULΓAΓCI Participant of a meeting [AT 73]. CIG Pigtail, queue [AT 22]. CIGY sumu. Palace guard consisting of Chinese soldiers.",
-    "lessingForm": "CIIATU See cayadu Pt.I.",
+    "explain": "See cøgyrsyn Pt.I [ET 73].",
+    "lessingForm": "CIGYD",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -258621,12 +259364,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-2-11",
     "tradRom": "čiketei",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CIKETEI Equus hemionus, dziggetai [ET 115].",
-    "lessingForm": "CIGYD See cøgyrsyn Pt.I [ET 73].",
+    "explain": "Equus hemionus, dziggetai [ET 115].",
+    "lessingForm": "CIKETEI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -258634,21 +259375,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-2-12",
     "tradRom": "čikinaγ",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CIKINAΓ Black ears of a horse [AT 67 ].",
+    "explain": "Black ears of a horse [AT 67 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CIKINAΓ"
   },
   {
     "index": 24104,
     "sourceId": "L1200-2-13",
     "tradRom": "čikravart",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "the whéels of whose (war) chariot roll everywhere without obstruction!' emperor, world ruler. See nom un kyrdyn in B. suppl.",
-    "lessingForm": "CIKRAVART, CAKRAVAR (S. cakravartin). \"A ruler",
+    "explain": "cakravartin). \"A ruler the whéels of whose (war) chariot roll everywhere without obstruction!' emperor, world ruler. See nom un kyrdyn in B. suppl.",
+    "lessingForm": "CIKRAVART, CAKRAVAR (S.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -258656,11 +259397,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-2-14",
     "tradRom": "čilabalǰi-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CILBUΓURDA- To seize the bridle [AT 100].",
-    "lessingForm": "CILABALZI- To lick [SH",
+    "explain": "To lick [SH/Mo. 3-359].",
+    "lessingForm": "CILABALZI-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258668,33 +259408,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-2-15",
     "tradRom": "čilbuγurda-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CILGE- To remove the skin or bark [Ko.].",
+    "explain": "To seize the bridle [AT 100].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CILBUΓURDA-"
   },
   {
     "index": 24107,
     "sourceId": "L1200-2-16",
     "tradRom": "čilge-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "--gsèn modun. Dry tree [Ko. 2166].",
+    "explain": "To remove the skin or bark [Ko.]. --gsèn modun. Dry tree [Ko. 2166].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CILGE-"
   },
   {
     "index": 24108,
     "sourceId": "L1200-2-17",
     "tradRom": "čim_a",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CIM-A (Sound of ) moaning; regret [AT 65].",
+    "explain": "(Sound of ) moaning; regret [AT 65]. CINAzu bucalxu. To boil [AT 108].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CIM-A"
   },
   {
     "index": 24109,
@@ -258703,29 +259443,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1200.jpg",
     "explain": "CINAzu bucalxu. To boil [AT 108].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24110,
     "sourceId": "L1200-2-19",
     "tradRom": "činaγun",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CINAΓUN On yonder side, beyond [SH/Mo. 375 ].",
+    "explain": "On yonder side, beyond [SH/Mo. 375 ].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CINAΓUN"
   },
   {
     "index": 24111,
     "sourceId": "L1200-2-20",
     "tradRom": "činegen",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "bulu --. Up to the nave [AT 46].",
-    "lessingForm": "CINEGEN"
+    "explain": "bulu --. Up to the nave [AT 46]. If matters stand so. [AT 81]. CINGGEkyle . --tele . Just then [AT 10].",
+    "lessingForm": "CINEGEN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24112,
@@ -258734,36 +259477,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1200.jpg",
     "explain": "--tele . Just then [AT 10]. CIRΓ-A Deep well.",
     "cyrillic": "If matters stand so. [AT 81].",
-    "lessingForm": "CINGGEkyle ."
+    "lessingForm": "CINGGEkyle .",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24113,
     "sourceId": "L1200-2-22",
     "tradRom": "čirγ_a",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "Deep well.",
+    "lessingForm": "CIRΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24114,
     "sourceId": "L1200-2-23",
     "tradRom": "čirüg",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "Plum.",
+    "lessingForm": "CIRYG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24115,
     "sourceId": "L1200-2-24",
     "tradRom": "čiügen",
-    "imageName": "LessingDict_Page_1200.jpg"
+    "imageName": "LessingDict_Page_1200.jpg",
+    "explain": "Shining [AT 8].",
+    "lessingForm": "CIYGEN, CEYGEN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24116,
     "sourceId": "L1200-2-25",
     "tradRom": "čodaγ",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "COKILA- To throw over, upset (a container) [AT 24].",
+    "explain": "zerlig -- .Wild parsnip [Go. 3-349a ].",
     "cyrillic": "zerlig -- .Wild parsnip [Go. 3-349a ].",
     "lessingForm": "CODAT",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258771,33 +259533,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1200-2-26",
     "tradRom": "čokila-",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "COLU abxu. To assume a title [ET 15].",
+    "explain": "To throw over, upset (a container) [AT 24].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "COKILA-"
   },
   {
     "index": 24118,
     "sourceId": "L1200-2-27",
     "tradRom": "čolu",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CØGEN bejes. A few persons, a small group [SH/Mo. 3-304, 306, 307 ].",
+    "explain": "abxu. To assume a title [ET 15].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "COLU"
   },
   {
     "index": 24119,
     "sourceId": "L1200-2-28",
     "tradRom": "čögen",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CøKYn jadaxu. To be at the end of one's wits, be in",
+    "explain": "bejes. A few persons, a small group [SH/Mo. 3-304, 306, 307 ]. CøKYn jadaxu. To be at the end of one's wits, be in a predicament. CψZAL (T. chos rgyal, S. dharma-rāja ). \"King of the (Buddhist) religion.\" Title of Erlig Khan. See nom un xayan. CψZI (T. chos rje , S. dharma-svamin) Master of the religion, a Tib- Mong. title.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CØGEN"
   },
   {
     "index": 24120,
@@ -258806,9 +259568,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1200.jpg",
     "explain": "a predicament.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24121,
@@ -258817,10 +259580,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1200.jpg",
     "explain": "CψZAL (T. chos rgyal, S. dharma-rāja ). \"King of the (Buddhist) religion.\" Title of Erlig Khan. See nom un xayan.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24122,
@@ -258829,30 +259592,31 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1200.jpg",
     "explain": "CψZI (T. chos rje , S. dharma-svamin) Master of the religion, a Tib- Mong. title.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24123,
     "sourceId": "L1200-2-32",
     "tradRom": "ču",
     "imageName": "LessingDict_Page_1200.jpg",
-    "explain": "CU See ci.",
+    "explain": "See ci.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CU"
   },
   {
     "index": 24124,
     "sourceId": "L1201-1-01",
     "tradRom": "čulbur",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "CULBUR, etc. See cilbuyur, etc., Pt.I.",
-    "lessingForm": "CULBUR",
+    "explain": "etc. See cilbuyur, etc., Pt.I.",
+    "lessingForm": "CULBUR,",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -258863,8 +259627,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "altan --. Young siskin. See curba, Pt.I and cuur, infra.",
     "lessingForm": "CURBATAI",
     "ocrFlags": [
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -258872,68 +259635,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1201-1-03",
     "tradRom": "čurda",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "CURDA A kind of fish.",
+    "explain": "kind of fish.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CURDA A"
   },
   {
     "index": 24127,
     "sourceId": "L1201-1-04",
     "tradRom": "da",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DA Emphatic particle.",
+    "explain": "Emphatic particle.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DA"
   },
   {
     "index": 24128,
     "sourceId": "L1201-1-05",
     "tradRom": "dabarqai",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DABARXAI See dabirxai.",
+    "explain": "See dabirxai.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DABARXAI"
   },
   {
     "index": 24129,
     "sourceId": "L1201-1-06",
     "tradRom": "dabčang",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DABIRXAI sil. Artificial amber, artificial jewel [Ko. ]. DABXUI Doubled, as a coat [AT 32].",
-    "lessingForm": "DABCANG, DABSANG See tabsang, Pt.I.",
+    "explain": "See tabsang, Pt.I.",
+    "lessingForm": "DABCANG, DABSANG",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24130,
     "sourceId": "L1201-1-07",
     "tradRom": "dabirqai",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "sil. Artificial amber, artificial jewel [Ko. ].",
+    "lessingForm": "DABIRXAI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24131,
     "sourceId": "L1201-1-08",
     "tradRom": "dabqui",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "Doubled, as a coat [AT 32].",
+    "lessingForm": "DABXUI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24132,
     "sourceId": "L1201-1-09",
     "tradRom": "dabqurla-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "xotu ji. --xu. To surround or besiege a fortress [AT 54].",
+    "explain": "xotu ji. --xu. To surround or besiege a fortress [AT 54]. DAΓA---n. Following; also. See Pt.I.",
     "lessingForm": "DABXURLA-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -258943,68 +259714,88 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1201.jpg",
     "explain": "DAΓA---n. Following; also. See Pt.I. DAΓA- To be wounded (?) [AT 87].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24134,
     "sourceId": "L1201-1-11",
     "tradRom": "daγa-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DAΓALA - To join somebody [AT 19].",
+    "explain": "To be wounded (?) [AT 87].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DAΓA-"
   },
   {
     "index": 24135,
     "sourceId": "L1201-1-12",
     "tradRom": "daγala-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DATARAIUL- To let a person suffer cold [AT 32].",
+    "explain": "To join somebody [AT 19].",
     "cyrillic": "yly --xu. To be impossible [AT 51].",
-    "lessingForm": "DAALA-",
+    "lessingForm": "DAΓALA -",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24136,
     "sourceId": "L1201-1-13",
     "tradRom": "daγalγa-",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "yly --xu. To be impossible [AT 51].",
+    "lessingForm": "DAALA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24137,
     "sourceId": "L1201-1-14",
     "tradRom": "daγaraγul-",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "To let a person suffer cold [AT 32].",
+    "lessingForm": "DATARAIUL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24138,
     "sourceId": "L1201-1-15",
     "tradRom": "daγari-",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "To meet. --zu yarxui. To encounter, meet, pass [AT 13].",
+    "lessingForm": "DAΓARI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24139,
     "sourceId": "L1201-1-16",
     "tradRom": "daγarila-",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "To knock against [AT 85].",
+    "lessingForm": "DAΓARILA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24140,
     "sourceId": "L1201-1-17",
     "tradRom": "daγarin",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "--zu yarxui. To encounter, meet, pass [AT 13]. DAΓARILA- To knock against [AT 85].",
+    "explain": "sore on the spine of a horse.",
     "cyrillic": "в",
-    "lessingForm": "DAΓARI- To meet.",
+    "lessingForm": "DAΓARIN A",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259012,23 +259803,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1201-1-18",
     "tradRom": "daγatai",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DAΓARIN A sore on the spine of a horse. DAΓATAI Two years old (horse) [AT 9 ].",
+    "explain": "Two years old (horse) [AT 9 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DAΓATAI"
   },
   {
     "index": 24142,
     "sourceId": "L1201-1-19",
     "tradRom": "daγuli-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DAIULI-, DAULI- To pillage, make prisoner [ET 74]. --zu/zi abxu. To seize, take possession of [ SH/Mo. 2-338].",
+    "explain": "To pillage, make prisoner [ET 74]. --zu/zi abxu. To seize, take possession of [ SH/Mo. 2-338].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DAIULI-, DAULI-"
   },
   {
     "index": 24143,
@@ -259039,7 +259829,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "вой",
     "lessingForm": "DAFURIJA-",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -259047,83 +259837,120 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1201-1-21",
     "tradRom": "daγurisqa-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DAGINI Goddess (pop. meaning). DAI darxad = darxad (pl.of darxan ) [VI. 64]. DAIBU [ fr. Ch. ta(i)-fu ] A title of nobility [V1. ].",
-    "lessingForm": "DAIURISXA- To proclaim.",
+    "explain": "To proclaim.",
+    "lessingForm": "DAIURISXA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24145,
     "sourceId": "L1201-1-22",
     "tradRom": "dagini",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "Goddess (pop. meaning).",
+    "lessingForm": "DAGINI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24146,
     "sourceId": "L1201-1-23",
     "tradRom": "dai",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "darxad = darxad (pl.of darxan ) [VI. 64].",
+    "lessingForm": "DAI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24147,
     "sourceId": "L1201-1-24",
     "tradRom": "dayibu",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "fr. Ch. ta(i)-fu ] A title of nobility [V1. ].",
+    "lessingForm": "DAIBU [",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24148,
     "sourceId": "L1201-1-25",
     "tradRom": "dayibučin",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DAICIN tngri. See daisun tngri. DAIDU See taidu. DAILALDU- To vie with each other. DAIR Chestnut-colored (horse) [AT 7]. DAIRLALDU- To draw up one's battle lines [AT 102].",
-    "lessingForm": "DAIBUCIN Wife of daibu [V1. 139].",
+    "explain": "Wife of daibu [V1. 139].",
+    "lessingForm": "DAIBUCIN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24149,
     "sourceId": "L1201-1-26",
     "tradRom": "dayičin",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "tngri. See daisun tngri.",
+    "lessingForm": "DAICIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24150,
     "sourceId": "L1201-1-27",
     "tradRom": "dayidu",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "See taidu.",
+    "lessingForm": "DAIDU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24151,
     "sourceId": "L1201-1-28",
     "tradRom": "dayilaldu-",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "To vie with each other.",
+    "lessingForm": "DAILALDU-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24152,
     "sourceId": "L1201-1-29",
     "tradRom": "dayir",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "Chestnut-colored (horse) [AT 7].",
+    "lessingForm": "DAIR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24153,
     "sourceId": "L1201-1-30",
     "tradRom": "dayirlaldu-",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "To draw up one's battle lines [AT 102].",
+    "lessingForm": "DAIRLALDU-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24154,
     "sourceId": "L1201-1-31",
     "tradRom": "dayiǰi-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DALAI øtygyn. The wide earth (poet.)",
-    "lessingForm": "DAIZI- To revolt [SH",
+    "explain": "To revolt [SH/Mo. 1-329 ].",
+    "lessingForm": "DAIZI-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259131,12 +259958,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1201-1-32",
     "tradRom": "dalai",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DIVANGAR",
+    "explain": "øtygyn. The wide earth (poet.)",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DALAI"
   },
   {
     "index": 24156,
@@ -259144,15 +259970,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "daldari-",
     "imageName": "LessingDict_Page_1201.jpg",
     "explain": "odxu. To escape [AT 13].",
-    "lessingForm": "DALDARI-"
+    "lessingForm": "DALDARI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24157,
     "sourceId": "L1201-1-34",
     "tradRom": "damǰiγul-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "--un . Through, by (somebody's help or mediation).",
-    "lessingForm": "DAMZITUL-"
+    "explain": "--un . Through, by (somebody's help or mediation). -1201-",
+    "lessingForm": "DAMZITUL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24158,
@@ -259160,7 +259992,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "čuru",
     "imageName": "LessingDict_Page_1201.jpg",
     "explain": "eligen y --. Membrane of the liver (?).",
-    "lessingForm": "CURU"
+    "lessingForm": "CURU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24159,
@@ -259170,7 +260005,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "altan -- . See curba, Pt.I and supra.",
     "lessingForm": "CUUR",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259178,91 +260013,120 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1201-2-03",
     "tradRom": "čü",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "CY See ci. CYMCIS Hill with a pointed top.",
+    "explain": "See ci.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CY"
   },
   {
     "index": 24161,
     "sourceId": "L1201-2-04",
     "tradRom": "čümčis",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "D",
+    "explain": "Hill with a pointed top. D",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CYMCIS"
   },
   {
     "index": 24162,
     "sourceId": "L1201-2-05",
     "tradRom": "dan",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DAN Very, quite, often.",
+    "explain": "Very, quite, often.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DAN"
   },
   {
     "index": 24163,
     "sourceId": "L1201-2-06",
     "tradRom": "danglasun",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DANGLASUN. Lump or clod of earth [SH/Mo. 3-292].",
+    "explain": "Lump or clod of earth [SH/Mo. 3-292].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DANGLASUN."
   },
   {
     "index": 24164,
     "sourceId": "L1201-2-07",
     "tradRom": "darbaγulγ_a",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "Flag, banner.",
+    "lessingForm": "DARBAIULΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24165,
     "sourceId": "L1201-2-08",
     "tradRom": "dargiraγ_a",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "Cascade. See dargira-, Pt. I [ET 90].",
+    "lessingForm": "DARGIRAΓ-A, DARKIRAΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24166,
     "sourceId": "L1201-2-08",
     "tradRom": "darkiraγ_a",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "Cascade. See dargira-, Pt. I [ET 90].",
+    "lessingForm": "DARGIRAΓ-A, DARKIRAΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24167,
     "sourceId": "L1201-2-09",
     "tradRom": "daru-",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "To block the door (from outside) [SH/Mo.3-298]. sang i --xu. To manage the treasury [AT 43].",
+    "lessingForm": "DARU-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24168,
     "sourceId": "L1201-2-10",
     "tradRom": "daruγačin",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "Governor of an appanage [V1. ].",
+    "lessingForm": "DARUΓACIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24169,
     "sourceId": "L1201-2-11",
     "tradRom": "darqa",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "Privileges granted by rulers in recognition of gifts presented or services rendered to them [Vl. ].",
+    "lessingForm": "DARXA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24170,
     "sourceId": "L1201-2-12",
     "tradRom": "darqala-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "Pt. I [ET 90]. DARU- To block the door (from outside) [SH/Mo.3-298]. sang i --xu. To manage the treasury [AT 43]. DARUΓACIN Governor of an appanage [V1. ].",
-    "lessingForm": "DARGIRAΓ-A, DARKIRAΓ-A Cascade. See dargira-,",
+    "explain": "To grant privileges [AT 24].",
+    "lessingForm": "DARXALA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259270,83 +260134,110 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1201-2-13",
     "tradRom": "darqan",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DARXA Privileges granted by rulers in recognition of gifts presented or services rendered to them [Vl. ]. DARXALA- To grant privileges [AT 24].",
+    "explain": "bayatur Noble Hero (title granted for valor in battle [ET 9 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DARXAN"
   },
   {
     "index": 24172,
     "sourceId": "L1201-2-14",
     "tradRom": "dauli-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DARXAN bayatur Noble Hero (title granted for valor in battle [ET 9 ]. DAULI- See dayuli-.",
+    "explain": "See dayuli-.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DAULI-"
   },
   {
     "index": 24173,
     "sourceId": "L1201-2-15",
     "tradRom": "debegen",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DEBIGYR Name of a musical instrument.",
-    "lessingForm": "DEBEGEN See debege, Pt. I [ET l15].",
+    "explain": "See debege, Pt. I [ET l15].",
+    "lessingForm": "DEBEGEN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24174,
     "sourceId": "L1201-2-16",
     "tradRom": "debigür",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "Name of a musical instrument.",
+    "lessingForm": "DEBIGYR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24175,
     "sourceId": "L1201-2-17",
     "tradRom": "debse-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DEBSI- To change one's seat, move on one's seat [ET 69]. DED inu, -- ni. Secondly. DEGEDEGEN Against the wind [AT 79]. DEGER-E More beautiful [AT 79]. DEGTY = degtyr. Terrace.",
-    "lessingForm": "DEBSE- To dance [SH",
+    "explain": "To dance [SH/Mo. 1-319].",
+    "lessingForm": "DEBSE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24176,
     "sourceId": "L1201-2-18",
     "tradRom": "debsi-",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "To change one's seat, move on one's seat [ET 69].",
+    "lessingForm": "DEBSI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24177,
     "sourceId": "L1201-2-19",
     "tradRom": "ded",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "inu, -- ni. Secondly.",
+    "lessingForm": "DED",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24178,
     "sourceId": "L1201-2-20",
     "tradRom": "degedegen",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "Against the wind [AT 79].",
+    "lessingForm": "DEGEDEGEN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24179,
     "sourceId": "L1201-2-21",
     "tradRom": "deger_e",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "More beautiful [AT 79].",
+    "lessingForm": "DEGER-E",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24180,
     "sourceId": "L1201-2-22",
     "tradRom": "degtü",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "degtyr. Terrace.",
+    "lessingForm": "DEGTY =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24181,
@@ -259356,15 +260247,19 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "kituya --ky. To manufacture a knife [SH/Mo. 3-385].",
     "lessingForm": "DELED-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24182,
     "sourceId": "L1201-2-24",
     "tradRom": "delgegül-",
-    "imageName": "LessingDict_Page_1201.jpg"
+    "imageName": "LessingDict_Page_1201.jpg",
+    "explain": "To let hear. DELGEREGYLyn jabuxu. To keep spreading, dissemi- nating [AT 57].",
+    "lessingForm": "DELGEGYL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24183,
@@ -259374,8 +260269,8 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "DELGEREGYLyn jabuxu. To keep spreading, dissemi- nating [AT 57].",
     "lessingForm": "DELGEGYL- To let hear.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL",
+      "NO_LINE"
     ]
   },
   {
@@ -259383,22 +260278,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1201-2-26",
     "tradRom": "delüre-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DELYRE- To come to oneself [Gu.].",
+    "explain": "To come to oneself [Gu.].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DELYRE-"
   },
   {
     "index": 24185,
     "sourceId": "L1201-2-27",
     "tradRom": "denggeče-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DERE abun ykyky. To die (i.e. be buried) having",
-    "lessingForm": "DENGGECE- See tengce-, Pt. I [SH",
+    "explain": "See tengce-, Pt. I [SH/Mo. 3-297].",
+    "lessingForm": "DENGGECE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259406,22 +260300,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1201-2-28",
     "tradRom": "dere",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "the corpse of one's enemy ) for a pillow [S H/Mo. 1-352 ].",
+    "explain": "abun ykyky. To die (i.e. be buried) having the corpse of one's enemy ) for a pillow [S H/Mo. 1-352 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DERE"
   },
   {
     "index": 24187,
     "sourceId": "L1201-2-29",
     "tradRom": "derelegül-",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "one of his younger brothers on the head (of the corpse) [AT 77 ].",
+    "explain": "terigyn dyr nigen degyy ber --be. \"Pillowed' one of his younger brothers on the head (of the corpse)",
     "cyrillic": "terigyn dyr nigen degyy ber --be. \"Pillowed'",
     "lessingForm": "DERELEGYL-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259429,19 +260323,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1201-2-30",
     "tradRom": "dergede",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "DERGEDE jabuxu. To be in somebody's service [SH/Mo. 3-374].",
+    "explain": "jabuxu. To be in somebody's service [SH/Mo. 3-374].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DERGEDE"
   },
   {
     "index": 24189,
     "sourceId": "L1201-2-31",
     "tradRom": "divangarduvangar",
     "imageName": "LessingDict_Page_1201.jpg",
-    "explain": "the Light-maker), one of the predecessors of the Buddha Çakyamuni.",
-    "lessingForm": "DIVANGAR, DUVANGAR The Buddha Dípankara (lit."
+    "explain": "The Buddha Dípankara (lit. the Light-maker), one of the predecessors of the Buddha Çakyamuni.",
+    "lessingForm": "DIVANGAR, DUVANGAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24190,
@@ -259451,7 +260348,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "DOKI- To bow one's head. --ysan. Honored (queen)[ AT 44].",
     "lessingForm": "DOKI-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259459,23 +260356,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-1-02",
     "tradRom": "dongγud",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DONGIUDun jabubai. The saying goes [AT 26].",
+    "explain": "To bow one's head. --ysan. Honored (queen)[ AT 44]. DONGIUDun jabubai. The saying goes [AT 26].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ],
+    "lessingForm": "DOKI-"
   },
   {
     "index": 24192,
     "sourceId": "L1202-1-03",
     "tradRom": "dongγudγal",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DORAMBA, DOREMBA [T. rdo rams pa]. The second",
-    "lessingForm": "DONGTUDTAL Shouting [AT 32].",
+    "explain": "Shouting [AT 32].",
+    "lessingForm": "DONGTUDTAL",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259483,76 +260379,78 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-1-04",
     "tradRom": "doramba",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "of the higher ecclesiastic ranks acquired through the study of canid. See rabzamba, laramba, Pt.I.",
+    "explain": "rdo rams pa]. The second of the higher ecclesiastic ranks acquired through the study of canid. See rabzamba, laramba, Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DORAMBA, DOREMBA [T."
   },
   {
     "index": 24194,
     "sourceId": "L1202-1-04",
     "tradRom": "doremba",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "of the higher ecclesiastic ranks acquired through the study of canid. See rabzamba, laramba, Pt.I.",
+    "explain": "rdo rams pa]. The second of the higher ecclesiastic ranks acquired through the study of canid. See rabzamba, laramba, Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DORAMBA, DOREMBA [T."
   },
   {
     "index": 24195,
     "sourceId": "L1202-1-05",
     "tradRom": "dorm_a",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DORM-A, DURMA See baling [T. gtor ma] .",
+    "explain": "See baling [T. gtor ma] .",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DORM-A, DURMA"
   },
   {
     "index": 24196,
     "sourceId": "L1202-1-05",
     "tradRom": "durma",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DORM-A, DURMA See baling [T. gtor ma] .",
+    "explain": "See baling [T. gtor ma] .",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DORM-A, DURMA"
   },
   {
     "index": 24197,
     "sourceId": "L1202-1-06",
     "tradRom": "doru",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DORU A Manchu word corresponding in meaning to a certain extent to M. josun and tøry; Ma. doro.",
+    "explain": "Manchu word corresponding in meaning to a certain extent to M. josun and tøry; Ma. doro.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DORU A"
   },
   {
     "index": 24198,
     "sourceId": "L1202-1-07",
     "tradRom": "doruita",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DORUITA. To be conquered. See doruida-, Pt.I.",
+    "explain": "To be conquered. See doruida-, Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DORUITA."
   },
   {
     "index": 24199,
     "sourceId": "L1202-1-08",
     "tradRom": "doruyitaγul-",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "[AT 25].",
+    "explain": "omuy --xu. To curb somebody's pride.",
     "cyrillic": "omuy --xu. To curb somebody's pride.",
-    "lessingForm": "DORUITAIUL-"
+    "lessingForm": "DORUITAIUL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24200,
@@ -259561,9 +260459,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1202.jpg",
     "explain": "[AT 38].",
     "cyrillic": "ben sanaba. (They) thought among themselves",
-    "lessingForm": "DOTUR-A",
+    "lessingForm": "[AT 25].",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL",
+      "SUPPL_MISMATCH"
     ]
   },
   {
@@ -259571,89 +260470,88 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-1-10",
     "tradRom": "dönggeǰü",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DφNGGEzy. Just about. See Pt.I.",
+    "explain": "ben sanaba. (They) thought among themselves",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DOTUR-A"
   },
   {
     "index": 24202,
     "sourceId": "L1202-1-11",
     "tradRom": "dörbelǰin",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DøRBELZIN kymyn. Squat man [AT l15].",
+    "explain": "DφNGGEzy. Just about. See Pt.I. DøRBELZIN kymyn. Squat man [AT l15].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ],
+    "lessingForm": "[AT 38]."
   },
   {
     "index": 24203,
     "sourceId": "L1202-1-12",
     "tradRom": "ebčigü",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EBCIGY(N) (in certain cpds.) Intelligence.",
+    "explain": "(in certain cpds.) Intelligence. -- nimgen. Clever, intelligent, penetrating (mind). --n y cimeg. Necklace, beads. --n y youl. The middle of the chest. --n y gegen. Clever, intelligent. --n xuruyu. Cartilage joining breastbone to ribs.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EBCIGY(N)"
   },
   {
     "index": 24204,
     "sourceId": "L1202-1-12",
     "tradRom": "ebčigün",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EBCIGY(N) (in certain cpds.) Intelligence.",
+    "explain": "(in certain cpds.) Intelligence. -- nimgen. Clever, intelligent, penetrating (mind). --n y cimeg. Necklace, beads. --n y youl. The middle of the chest. --n y gegen. Clever, intelligent. --n xuruyu. Cartilage joining breastbone to ribs.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EBCIGY(N)"
   },
   {
     "index": 24205,
     "sourceId": "L1202-1-13",
     "tradRom": "ebderki",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "-- nimgen. Clever, intelligent, penetrating (mind). --n y cimeg. Necklace, beads. --n y youl. The middle of the chest. --n y gegen. Clever, intelligent. --n xuruyu. Cartilage joining breastbone to ribs.",
+    "explain": "Broken, injured [ET l16].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EBDERKI"
   },
   {
     "index": 24206,
     "sourceId": "L1202-1-14",
     "tradRom": "ebin",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EBDERKI Broken, injured [ET l16].",
+    "explain": "abay-a. Great-uncle [ET 74].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EBIN"
   },
   {
     "index": 24207,
     "sourceId": "L1202-1-15",
     "tradRom": "ebkeni-",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EBIN abay-a. Great-uncle [ET 74].",
+    "explain": "To roll up [AT 22].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EBKENI-"
   },
   {
     "index": 24208,
     "sourceId": "L1202-1-16",
     "tradRom": "ebkesü",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EBKESY Spindle, spool [Ko.].",
-    "lessingForm": "EBKENI- To roll up [AT 22].",
+    "explain": "Spindle, spool [Ko.].",
+    "lessingForm": "EBKESY",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259661,22 +260559,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-1-17",
     "tradRom": "ebüdüg",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EBYDYG yn nidyn. Kneecap [AT 41].",
+    "explain": "yn nidyn. Kneecap [AT 41].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EBYDYG"
   },
   {
     "index": 24210,
     "sourceId": "L1202-1-18",
     "tradRom": "ebüge",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EBYGE ecige. Father's father [ET l16].",
+    "explain": "ecige. Father's father [ET l16].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EBYGE"
   },
   {
     "index": 24211,
@@ -259686,8 +260584,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "casun u cayan --. The Old White Snow Man ( a figure in folk-lore representing winter).",
     "lessingForm": "EBYGEN",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259695,122 +260592,164 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-1-20",
     "tradRom": "ebülči-",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EBYLCI- (?) = ebylziky.",
+    "explain": "ebylziky.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EBYLCI- (?) ="
   },
   {
     "index": 24213,
     "sourceId": "L1202-1-21",
     "tradRom": "ečüs",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ECYS See also kizayar.",
+    "explain": "See also kizayar.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ECYS"
   },
   {
     "index": 24214,
     "sourceId": "L1202-1-22",
     "tradRom": "ed",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ED Add. in Pt. I : [ an Uigur word].",
+    "explain": "Add. in Pt. I : [ an Uigur word].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ED"
   },
   {
     "index": 24215,
     "sourceId": "L1202-1-23",
     "tradRom": "edke-",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EDYI bykyi. To be alive [ET 73]. EDYN (pl. of edyi) These several, these many. EDYR Also written ydyr. EGEDE Spirit of good luck [SH/Mo. 1-330]. EGELTYRLE- To hang down (helmet from neck) [AT 101]. EGYD- To construct, make, manufacture. EGYNEI Belonging to him [ET 72]. EJ-E dyr oruyulxu. To pacify, subject (an enemy)[AT 86]. EJETY- To deliberate [ET 74].",
-    "lessingForm": "EDKE- To cut [SH",
+    "explain": "To cut [SH /Mo. 3-312].",
+    "lessingForm": "EDKE-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24216,
     "sourceId": "L1202-1-24",
     "tradRom": "edüi",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "bykyi. To be alive [ET 73].",
+    "lessingForm": "EDYI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24217,
     "sourceId": "L1202-1-25",
     "tradRom": "edün",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "(pl. of edyi) These several, these many.",
+    "lessingForm": "EDYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24218,
     "sourceId": "L1202-1-26",
     "tradRom": "edür",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "Also written ydyr.",
+    "lessingForm": "EDYR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24219,
     "sourceId": "L1202-1-27",
     "tradRom": "egede",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "Spirit of good luck [SH/Mo. 1-330].",
+    "lessingForm": "EGEDE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24220,
     "sourceId": "L1202-1-28",
     "tradRom": "egeltürle-",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "To hang down (helmet from neck) [AT 101].",
+    "lessingForm": "EGELTYRLE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24221,
     "sourceId": "L1202-1-29",
     "tradRom": "egüd-",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "To construct, make, manufacture.",
+    "lessingForm": "EGYD-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24222,
     "sourceId": "L1202-1-30",
     "tradRom": "egünei",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "Belonging to him [ET 72].",
+    "lessingForm": "EGYNEI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24223,
     "sourceId": "L1202-1-31",
     "tradRom": "ey_e",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "dyr oruyulxu. To pacify, subject (an enemy)[AT 86].",
+    "lessingForm": "EJ-E",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24224,
     "sourceId": "L1202-1-32",
     "tradRom": "eyetü-",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ENG DUMDA orun. Central India.",
+    "explain": "To deliberate [ET 74]. -1202-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EJETY-"
   },
   {
     "index": 24225,
     "sourceId": "L1202-2-01",
     "tradRom": "dumda",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "lessingForm": "ENG",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 24226,
     "sourceId": "L1202-2-02",
     "tradRom": "dura",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "øcyken --. Little desires [AT 45].",
-    "lessingForm": "DURA(N)",
+    "explain": "orun. Central India.",
+    "lessingForm": "DUMDA",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259818,10 +260757,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-2-02",
     "tradRom": "duran",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "øcyken --. Little desires [AT 45].",
-    "lessingForm": "DURA(N)",
+    "explain": "orun. Central India.",
+    "lessingForm": "DUMDA",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259829,57 +260768,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-2-03",
     "tradRom": "durbar",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DURbar = dura ber . See dura(n), Pt.I.",
+    "explain": "øcyken --. Little desires [AT 45]. DURbar = dura ber . See dura(n), Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DURA(N)"
   },
   {
     "index": 24229,
     "sourceId": "L1202-2-04",
     "tradRom": "duvaǰa",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DUVAZA [Skt. dhvaja] Flag, esp. temple flag.",
+    "explain": "[Skt. dhvaja] Flag, esp. temple flag.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DUVAZA"
   },
   {
     "index": 24230,
     "sourceId": "L1202-2-05",
     "tradRom": "dügang",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DYGANG Temple. See Pt.I dugang.",
+    "explain": "Temple. See Pt.I dugang.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DYGANG"
   },
   {
     "index": 24231,
     "sourceId": "L1202-2-06",
     "tradRom": "düi",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DYI Younger sister [ ET 74].",
+    "explain": "Younger sister [ ET 74].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DYI"
   },
   {
     "index": 24232,
     "sourceId": "L1202-2-07",
     "tradRom": "düleirem",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "DYRI Unoccupied, free. jin kybegyn. Son of ordinary people [SH/ Mo. mori. Ordinary horse [SH/Mo. 3-382].",
-    "lessingForm": "DYLEIREM Deafening.",
+    "explain": "Deafening.",
+    "lessingForm": "DYLEIREM",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -259887,21 +260823,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-2-08",
     "tradRom": "düri",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "E",
+    "explain": "Unoccupied, free. jin kybegyn. Son of ordinary people [SH/ Mo. mori. Ordinary horse [SH/Mo. 3-382]. E",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DYRI"
   },
   {
     "index": 24234,
     "sourceId": "L1202-2-09",
     "tradRom": "ekile-",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ezen --n bygyde. All, beginning with or including the lord [AT 42]. --n mordaxu. To set out in the lead [AT 121 ].",
-    "lessingForm": "EKILE- To lead.",
+    "explain": "To lead. ezen --n bygyde. All, beginning with or including the lord [AT 42]. --n mordaxu. To set out in the lead [AT 121 ].",
+    "lessingForm": "EKILE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -259909,11 +260845,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-2-10",
     "tradRom": "eki",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "sasin u or religion [AT 123].",
+    "explain": "Basis or foundation of the doctrine sasin u or religion [AT 123].",
     "cyrillic": "Basis or foundation of the doctrine",
     "lessingForm": "EKI(N)",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259921,11 +260857,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-2-10",
     "tradRom": "ekin",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "sasin u or religion [AT 123].",
+    "explain": "Basis or foundation of the doctrine sasin u or religion [AT 123].",
     "cyrillic": "Basis or foundation of the doctrine",
     "lessingForm": "EKI(N)",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259933,46 +260869,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-2-11",
     "tradRom": "ele",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ELE bøgesy. If, whatever it be.",
+    "explain": "bøgesy. If, whatever it be.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ELE"
   },
   {
     "index": 24238,
     "sourceId": "L1202-2-12",
     "tradRom": "elegür",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ELGI- See elgy-. ELGY- = ølgi-. To lift by a hook [AT 96].",
-    "lessingForm": "ELEGYR See eregyl, Pt. I [ET 72].",
+    "explain": "See eregyl, Pt. I [ET 72].",
+    "lessingForm": "ELEGYR",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24239,
     "sourceId": "L1202-2-13",
     "tradRom": "elgi-",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "See elgy-.",
+    "lessingForm": "ELGI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24240,
     "sourceId": "L1202-2-14",
     "tradRom": "elgü-",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "ølgi-. To lift by a hook [AT 96].",
+    "lessingForm": "ELGY- =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24241,
     "sourceId": "L1202-2-15",
     "tradRom": "elsegül-",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EMČY = ØMCI xubi. Personal part or portion [SH/Mo.",
-    "lessingForm": "ELSEGYL- To receive (7).",
+    "explain": "To receive (7).",
+    "lessingForm": "ELSEGYL-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -259980,39 +260924,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-2-16",
     "tradRom": "emčü",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "3-376].",
+    "explain": "xubi. Personal part or portion [SH/Mo. 3-376].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EMČY = ØMCI"
   },
   {
     "index": 24243,
     "sourceId": "L1202-2-17",
     "tradRom": "eme",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EME køgyn (orig. kø'yn). Woman [SH/Mo. 1-325].",
+    "explain": "køgyn (orig. kø'yn). Woman [SH/Mo. 1-325].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EME"
   },
   {
     "index": 24244,
     "sourceId": "L1202-2-18",
     "tradRom": "emegeldel",
-    "imageName": "LessingDict_Page_1202.jpg"
+    "imageName": "LessingDict_Page_1202.jpg",
+    "explain": "Old woman [ET 66].",
+    "lessingForm": "EMEGELDEL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24245,
     "sourceId": "L1202-2-19",
     "tradRom": "emlig",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EMYS- To put around (e.g. a snare around the neck) [AT 84].",
-    "lessingForm": "EMLIG See emneg [AT 112] See Pt.I.",
+    "explain": "See emneg [AT 112] See Pt.I.",
+    "lessingForm": "EMLIG",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260020,44 +260968,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1202-2-20",
     "tradRom": "emüs-",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "EMYSKEL Wedding present [SH /Mo. 1-316].",
+    "explain": "To put around (e.g. a snare around the neck)",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EMYS-"
   },
   {
     "index": 24247,
     "sourceId": "L1202-2-21",
     "tradRom": "emüskel",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ENDEGY- To be mistaken about something, let some- thing slip one's attention [SH/Mo. 2-377].",
+    "explain": "Wedding present [SH /Mo. 1-316].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EMYSKEL"
   },
   {
     "index": 24248,
     "sourceId": "L1202-2-22",
     "tradRom": "endegü-",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ENDEGYL- To bring into default [AT 102].",
+    "explain": "To be mistaken about something, let some- thing slip one's attention [SH/Mo. 2-377].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ENDEGY-"
   },
   {
     "index": 24249,
     "sourceId": "L1202-2-23",
     "tradRom": "endegül-",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ENDEGYREzy tasijaraxu. To err, make mistakes [ET 55].",
+    "explain": "To bring into default [AT 102]. ENDEGYREzy tasijaraxu. To err, make mistakes [ET 55].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ENDEGYL-"
   },
   {
     "index": 24250,
@@ -260066,31 +261014,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1202.jpg",
     "explain": "ENE doura. Here(under).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24251,
     "sourceId": "L1202-2-25",
     "tradRom": "ene",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ENELKYN amitan. The suffering creatures (precl.).",
+    "explain": "doura. Here(under).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ENE"
   },
   {
     "index": 24252,
     "sourceId": "L1202-2-26",
     "tradRom": "enelkün",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ENG, 1. The very (with superl.), the most.",
+    "explain": "amitan. The suffering creatures (precl.).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ENELKYN"
   },
   {
     "index": 24253,
@@ -260098,11 +261047,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "eng",
     "wIndex": "1",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "ENG, 2. Area, space.",
+    "explain": "The very (with superl.), the most.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ENG, 1."
   },
   {
     "index": 24254,
@@ -260110,29 +261059,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "eng",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1202.jpg",
-    "explain": "yn kymyn. Lowest class of people = xar-a kymyn. [V1. 168]. See Part I under ENG.",
+    "explain": "Area, space. yn kymyn. Lowest class of people = xar-a kymyn. [V1. 168]. See Part I under ENG.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ENG, 2."
   },
   {
     "index": 24255,
     "sourceId": "L1203-1-01",
     "tradRom": "enggüre",
-    "imageName": "LessingDict_Page_1203.jpg"
+    "imageName": "LessingDict_Page_1203.jpg",
+    "explain": "See engkyreg, Pt. I.",
+    "lessingForm": "ENGGYRE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24256,
     "sourceId": "L1203-1-02",
     "tradRom": "engke",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "yn xaraçu. Person belonging to the low est class [V1. 168]. ENGGYRE See engkyreg, Pt. I.",
+    "explain": "yje. Age of peace.",
     "cyrillic": "я",
-    "lessingForm": "ENG",
+    "lessingForm": "ENGKE",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260140,34 +261093,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1203-1-03",
     "tradRom": "erbengkei",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ENGKE yje. Age of peace.",
+    "explain": "Flitting, fluttering (?). See erbeng.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ERBENGKEI"
   },
   {
     "index": 24258,
     "sourceId": "L1203-1-04",
     "tradRom": "erdem",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ERBENGKEI Flitting, fluttering (?). See erbeng.",
+    "explain": "sinzilege. Scientific research.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ERDEM"
   },
   {
     "index": 24259,
     "sourceId": "L1203-1-05",
     "tradRom": "er_e",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ERDEM sinzilege. Scientific research.",
+    "explain": "ayta. \"Men-geldings,\" soldiers, troops [SH/Mo. 2-382]. -- boyda (ere boyda) The man-saint [AT 85]. hEREGEI Thumb. See erekei, Pt. I [SH/Mo. 2-373 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ER-E"
   },
   {
     "index": 24260,
@@ -260176,21 +261128,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1203.jpg",
     "explain": "ER-E ayta. \"Men-geldings,\" soldiers, troops [SH/Mo. 2-382]. -- boyda (ere boyda) The man-saint [AT 85].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24261,
     "sourceId": "L1203-1-07",
     "tradRom": "ergilge",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "hEREGEI Thumb. See erekei, Pt. I [SH/Mo. 2-373 ].",
+    "explain": "The circling of flying birds. ERGYn tegeky. To lift up, raise [AT 46].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ERGILGE"
   },
   {
     "index": 24262,
@@ -260199,53 +261151,53 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1203.jpg",
     "explain": "ERGILGE The circling of flying birds.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24263,
     "sourceId": "L1203-1-09",
     "tradRom": "eril",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ERGYn tegeky. To lift up, raise [AT 46].",
+    "explain": "Something sought or looked for, object of (re)search.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ERIL"
   },
   {
     "index": 24264,
     "sourceId": "L1203-1-10",
     "tradRom": "erildü-",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ERIL Something sought or looked for, object of (re)search.",
+    "explain": "To seek or ask together, take counsel.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ERILDY-"
   },
   {
     "index": 24265,
     "sourceId": "L1203-1-11",
     "tradRom": "erke",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ERILDY- To seek or ask together, take counsel.",
+    "explain": "Beloved [ET 22].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ERKE"
   },
   {
     "index": 24266,
     "sourceId": "L1203-1-12",
     "tradRom": "erketen",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ERKETEN The warriors and servants most close to the rulers at their headquarters.",
-    "lessingForm": "ERKE Beloved [ET 22].",
+    "explain": "The warriors and servants most close to the rulers at their headquarters.",
+    "lessingForm": "ERKETEN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260253,22 +261205,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1203-1-13",
     "tradRom": "erkim",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ERKIM axa. Good sir!",
+    "explain": "axa. Good sir!",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ERKIM"
   },
   {
     "index": 24268,
     "sourceId": "L1203-1-14",
     "tradRom": "ertege-",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ERTE(N) y bujan. Merits acquired in former incarna- tions [AT 36].",
-    "lessingForm": "ERTEGE- To trust [AT 71].",
+    "explain": "To trust [AT 71].",
+    "lessingForm": "ERTEGE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260276,67 +261227,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1203-1-15",
     "tradRom": "erte",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓADANASI That in front [Grøn. ].",
+    "explain": "y bujan. Merits acquired in former incarna- tions [AT 36].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ERTE(N)"
   },
   {
     "index": 24270,
     "sourceId": "L1203-1-15",
     "tradRom": "erten",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓADANASI That in front [Grøn. ].",
+    "explain": "y bujan. Merits acquired in former incarna- tions [AT 36].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ERTE(N)"
   },
   {
     "index": 24271,
     "sourceId": "L1203-1-16",
     "tradRom": "γadanasi",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓADARTAI Covered with material (of a) lambskin great-",
+    "explain": "That in front [Grøn. ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓADANASI"
   },
   {
     "index": 24272,
     "sourceId": "L1203-1-17",
     "tradRom": "γadartai",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "coat [Mo.].",
+    "explain": "Covered with material (of a) lambskin great- coat [Mo.].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓADARTAI"
   },
   {
     "index": 24273,
     "sourceId": "L1203-1-18",
     "tradRom": "γaγčaγčin",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓA.ΓCAΓCIN yzyg. Letters of the alphabet.",
+    "explain": "yzyg. Letters of the alphabet.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓA.ΓCAΓCIN"
   },
   {
     "index": 24274,
     "sourceId": "L1203-1-19",
     "tradRom": "γayimu",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "zerlig --. Shepherd's - purse, Capsella bursa- pastoris. ΓAL un sudur. Books dealing with the fire ritual. -- xayan, --un burxan, -- un tngri. The god of fire. -- xul. Fire (poet., hend.).",
+    "explain": "zerlig --. Shepherd's - purse, Capsella bursa- pastoris.",
     "lessingForm": "RAIMU",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260344,33 +261293,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1203-1-20",
     "tradRom": "γal",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "FALZIN See xalzan.",
+    "explain": "un sudur. Books dealing with the fire ritual. -- xayan, --un burxan, -- un tngri. The god of fire. -- xul. Fire (poet., hend.).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓAL"
   },
   {
     "index": 24276,
     "sourceId": "L1203-1-21",
     "tradRom": "γalǰin",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓAR køl. The hands (hend.).",
+    "explain": "See xalzan.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "FALZIN"
   },
   {
     "index": 24277,
     "sourceId": "L1203-1-22",
     "tradRom": "γar",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓARΓA-To dispatch (as a messenger, etc.); to let escape (as game, when hunting); to dismiss from office [AT 54]; to spit out [AT 54, 66, 99]. --n aldaxu. To cause to come out, lost [AT 17].",
+    "explain": "køl. The hands (hend.). ΓARΓA-To dispatch (as a messenger, etc.); to let escape (as game, when hunting); to dismiss from office [AT 54]; to spit out [AT 54, 66, 99]. --n aldaxu. To cause to come out, lost [AT 17]. I ARΓAIU Punished or fined person (?.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓAR"
   },
   {
     "index": 24278,
@@ -260379,9 +261328,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1203.jpg",
     "explain": "I ARΓAIU Punished or fined person (?.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24279,
@@ -260390,33 +261340,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1203.jpg",
     "explain": "ΓAUTUU kyrij-e. Enclosing trench [AT 86].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24280,
     "sourceId": "L1203-1-25",
     "tradRom": "γauγuu",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "G GEMYRIGY- ERY- To feel anxiety, worry [ET 68]. -gsen. Sad [AT'19]. --zy cøkyzy.\" Being depressed, despondent [AT 20].",
+    "explain": "kyrij-e. Enclosing trench [AT 86]. G",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓAUTUU"
   },
   {
     "index": 24281,
     "sourceId": "L1203-1-26",
     "tradRom": "gedergi",
-    "imageName": "LessingDict_Page_1203.jpg"
+    "imageName": "LessingDict_Page_1203.jpg",
+    "explain": "See gedergen, Pt. I [ET l16].",
+    "lessingForm": "GEDERGI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24282,
     "sourceId": "L1203-1-27",
     "tradRom": "gedülge-",
-    "imageName": "LessingDict_Page_1203.jpg"
+    "imageName": "LessingDict_Page_1203.jpg",
+    "explain": "See gødylge-",
+    "lessingForm": "GEDYLGE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24283,
@@ -260424,19 +261384,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "gege-",
     "imageName": "LessingDict_Page_1203.jpg",
     "explain": "--gsen em-e. Divorced women [V1.166].",
-    "lessingForm": "GEGE-"
+    "lessingForm": "GEGE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24284,
     "sourceId": "L1203-1-29",
     "tradRom": "gegetü",
-    "imageName": "LessingDict_Page_1203.jpg"
+    "imageName": "LessingDict_Page_1203.jpg",
+    "explain": "Bright [ET 116]. -1203-",
+    "lessingForm": "GEGETY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24285,
     "sourceId": "L1203-2-01",
     "tradRom": "erü-",
-    "imageName": "LessingDict_Page_1203.jpg"
+    "imageName": "LessingDict_Page_1203.jpg",
+    "explain": "To feel anxiety, worry [ET 68]. -gsen. Sad [AT'19]. --zy cøkyzy.\" Being depressed, despondent [AT 20].",
+    "lessingForm": "ERY-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24286,
@@ -260444,7 +261417,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "erüke",
     "imageName": "LessingDict_Page_1203.jpg",
     "explain": "ger yn -- zasayci. He or she who controls the tent flap [AT 108].",
-    "lessingForm": "ERYKE"
+    "lessingForm": "ERYKE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24287,
@@ -260454,8 +261430,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "zajayan-a --gsen. To be overcome by fate, i.e. to be dead [ET 18].",
     "lessingForm": "ERYS-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260463,62 +261438,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1203-2-04",
     "tradRom": "ese",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ESE bolxu. To be or act in vain, fail; to disagree [AT10].",
+    "explain": "bolxu. To be or act in vain, fail; to disagree [AT10]. yge dyr -- bolxu. Not to happen according to some- body's words [AT 41].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ESE"
   },
   {
     "index": 24289,
     "sourceId": "L1203-2-05",
     "tradRom": "esen",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "yge dyr -- bolxu. Not to happen according to some- body's words [AT 41]. ESEN Safe, prosperous. See Pt. I.",
+    "explain": "Safe, prosperous. See Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ESEN"
   },
   {
     "index": 24290,
     "sourceId": "L1203-2-06",
     "tradRom": "esergü",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ESERGY ... buruyu. (To) the one side ... (to the other side [AT 19]. tesergy. To and from; hither and yon [Grøn. ]: on this side and on the other side [AT 96]. xaran ... eteged xaran ... Turning the face aside.",
+    "explain": "buruyu. (To) the one side ... (to the other side [AT 19]. tesergy. To and from; hither and yon [Grøn. ]: on this side and on the other side [AT 96]. xaran ... eteged xaran ... Turning the face aside.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ESERGY ..."
   },
   {
     "index": 24291,
     "sourceId": "L1203-2-07",
     "tradRom": "esergülčin",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ESI xatun. Empress, queen [AT 104].",
-    "lessingForm": "ESERGYLCIN Opponent [AT 52].",
+    "explain": "Opponent [AT 52].",
+    "lessingForm": "ESERGYLCIN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24292,
     "sourceId": "L1203-2-08",
     "tradRom": "esi",
-    "imageName": "LessingDict_Page_1203.jpg"
+    "imageName": "LessingDict_Page_1203.jpg",
+    "explain": "xatun. Empress, queen [AT 104].",
+    "lessingForm": "ESI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24293,
     "sourceId": "L1203-2-09",
     "tradRom": "esiǰen",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "-- daxu. Goatskin cóat. ESYG = YSYG Mare's milk [AT 17]; Koumiss made of",
-    "lessingForm": "ESIZEN Goatskin [AT 21, 43].",
+    "explain": "Goatskin [AT 21, 43]. -- daxu. Goatskin cóat.",
+    "lessingForm": "ESIZEN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260526,27 +261504,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1203-2-10",
     "tradRom": "esüg",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "mare's milk [SH/Mo. 1-310].",
+    "explain": "Mare's milk [AT 17]; Koumiss made of mare's milk [SH/Mo. 1-310].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ESYG = YSYG"
   },
   {
     "index": 24295,
     "sourceId": "L1203-2-11",
     "tradRom": "esügčile-",
-    "imageName": "LessingDict_Page_1203.jpg"
+    "imageName": "LessingDict_Page_1203.jpg",
+    "explain": "To drink esyg [SH/Mo. 1-310].",
+    "lessingForm": "ESYGCILE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24296,
     "sourceId": "L1203-2-12",
     "tradRom": "eteged",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "tøry ece -- yile jabudal. Acts violating the law. EZELEGYL- To give into the power or put under the command of somebody.",
+    "explain": "tøry ece -- yile jabudal. Acts violating the law.",
     "lessingForm": "ETEGED",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260554,111 +261537,121 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1203-2-13",
     "tradRom": "eǰelegül-",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "r",
+    "explain": "To give into the power or put under the command of somebody. r",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EZELEGYL-"
   },
   {
     "index": 24298,
     "sourceId": "L1203-2-14",
     "tradRom": "γautu",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓAUTU Surrounded by a ditch. -- baising. Prison.",
+    "explain": "Surrounded by a ditch. -- baising. Prison.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓAUTU"
   },
   {
     "index": 24299,
     "sourceId": "L1203-2-15",
     "tradRom": "γaǰar",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓAZAR usun. Land and water [AT 47]. usun nutuy --. Lands, waters and pastures [ AT 48].",
+    "explain": "usun. Land and water [AT 47]. usun nutuy --. Lands, waters and pastures [ AT 48].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓAZAR"
   },
   {
     "index": 24300,
     "sourceId": "L1203-2-16",
     "tradRom": "γaǰaru",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓAZARU inery. Name of an offering [SH/Mo. 1-305].",
+    "explain": "inery. Name of an offering [SH/Mo. 1-305].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓAZARU"
   },
   {
     "index": 24301,
     "sourceId": "L1203-2-17",
     "tradRom": "γaǰarǰila-",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "TAZARZI LA- To show the way, guide [AT 101].",
+    "explain": "To show the way, guide [AT 101].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TAZARZI LA-"
   },
   {
     "index": 24302,
     "sourceId": "L1203-2-18",
     "tradRom": "γolumta",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "FOLUMTA eke. Mother of the hearth (a Shamanist deity).",
+    "explain": "eke. Mother of the hearth (a Shamanist deity).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "FOLUMTA"
   },
   {
     "index": 24303,
     "sourceId": "L1203-2-19",
     "tradRom": "γončin",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓONCIN Title of nobility [V1 ]. ΓOTU Paw of a wild animal [ SH/Mo, 2-371 ].",
+    "explain": "Title of nobility [V1 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓONCIN"
   },
   {
     "index": 24304,
     "sourceId": "L1203-2-20",
     "tradRom": "γotu",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "ΓURA Kind of hornless roebuck [SH/Mo. 3-292 ].",
+    "explain": "Paw of a wild animal [ SH/Mo, 2-371 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓOTU"
   },
   {
     "index": 24305,
     "sourceId": "L1203-2-21",
     "tradRom": "γura",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "TUTU- To trouble or bother oneself; to lose face.",
+    "explain": "Kind of hornless roebuck [SH/Mo. 3-292 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓURA"
   },
   {
     "index": 24306,
     "sourceId": "L1203-2-22",
     "tradRom": "γutu-",
-    "imageName": "LessingDict_Page_1203.jpg"
+    "imageName": "LessingDict_Page_1203.jpg",
+    "explain": "To trouble or bother oneself; to lose face.",
+    "lessingForm": "TUTU-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24307,
     "sourceId": "L1203-2-23",
     "tradRom": "γutusun",
-    "imageName": "LessingDict_Page_1203.jpg"
+    "imageName": "LessingDict_Page_1203.jpg",
+    "explain": "Boot [SH/Mo. 1-292 ].",
+    "lessingForm": "FUTUSUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24308,
@@ -260668,7 +261661,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "ere degen -- tygei. May they be abandoned by their husbands (curse) AT 41].",
     "lessingForm": "GEGEGDE-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260676,44 +261669,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1203-2-25",
     "tradRom": "gem",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "GEM cimar. Fault, misfortune (?).",
+    "explain": "cimar. Fault, misfortune (?).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GEM"
   },
   {
     "index": 24310,
     "sourceId": "L1203-2-26",
     "tradRom": "gemürigül-",
     "imageName": "LessingDict_Page_1203.jpg",
-    "explain": "GEMYRIGYL- To make dissati d, discontented [ SH/Mo. 3-327].",
+    "explain": "To make dissati d, discontented [ SH/Mo. 3-327].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GEMYRIGYL-"
   },
   {
     "index": 24311,
     "sourceId": "L1204-1-01",
     "tradRom": "gemǰile-",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "See gemsi-, Pt. I",
+    "lessingForm": "GEMZILE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24312,
     "sourceId": "L1204-1-02",
     "tradRom": "gened",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "Pl. of genen [SH/Mo. 1-354]",
+    "lessingForm": "GENED",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24313,
     "sourceId": "L1204-1-03",
     "tradRom": "gened-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "GENED- See genede-, Pt. I.",
-    "lessingForm": "GENED Pl. of genen [SH",
+    "explain": "See genede-, Pt. I.",
+    "lessingForm": "GENED-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -260721,11 +261724,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-1-04",
     "tradRom": "genege",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "GENEN pl. gened. Being unprepared against at attack. See Pt. I [SH/Mo. 1-338].",
-    "lessingForm": "GENEGE Illness [VI. 178 ].",
+    "explain": "Illness [VI. 178 ].",
+    "lessingForm": "GENEGE",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260733,22 +261735,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-1-05",
     "tradRom": "genen",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "GENY- To arrive.",
+    "explain": "pl. gened. Being unprepared against at attack. See Pt. I [SH/Mo. 1-338].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GENEN"
   },
   {
     "index": 24316,
     "sourceId": "L1204-1-06",
     "tradRom": "genü-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "GER yn kymyn. House slave or serf [Vl.].",
-    "lessingForm": "GENYGER Resentment [SH",
+    "explain": "To arrive.",
+    "lessingForm": "GENY-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260756,34 +261757,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-1-07",
     "tradRom": "genüger",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "naiman cayan -- . The Eight White Houses,",
+    "explain": "Resentment [SH/Mo. 3-305].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GENYGER"
   },
   {
     "index": 24318,
     "sourceId": "L1204-1-08",
     "tradRom": "ger",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "memorial buildings at the tomb of Genghis Khan [AT 48, pp. 145-6].",
+    "explain": "yn kymyn. House slave or serf [Vl.]. naiman cayan -- . The Eight White Houses, memorial buildings at the tomb of Genghis Khan",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GER"
   },
   {
     "index": 24319,
     "sourceId": "L1204-1-09",
     "tradRom": "gerel-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "GERGEI = GERGEN As special title wife of a said or",
-    "lessingForm": "GEREL- To fear (?).",
+    "explain": "To fear (?).",
+    "lessingForm": "GEREL-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260791,29 +261790,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-1-10",
     "tradRom": "gergei",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "\"dignitary.\"",
+    "explain": "As special title wife of a said or \"dignitary.\"",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GERGEI = GERGEN"
   },
   {
     "index": 24321,
     "sourceId": "L1204-1-11",
     "tradRom": "gergen",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "GERGEN See gergei.",
+    "explain": "See gergei.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GERGEN"
   },
   {
     "index": 24322,
     "sourceId": "L1204-1-12",
     "tradRom": "geriyes",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "Souvenir. See Pt. I [AT 110]. The \"dark\", north side of a mountain [SH/Mo.",
+    "lessingForm": "GERIJES",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24323,
@@ -260822,24 +261825,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1204.jpg",
     "explain": "2-335].",
     "cyrillic": "The \"dark\", north side of a mountain [SH/Mo.",
-    "lessingForm": "GERY"
+    "lessingForm": "GERY 2-335].",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24324,
     "sourceId": "L1204-1-14",
     "tradRom": "geske-",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "To smelt See. Pt I [SH/Mo. 3-327].",
+    "lessingForm": "GESKE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24325,
     "sourceId": "L1204-1-15",
     "tradRom": "getü",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "møren --. Across the riv er [AT 28].",
+    "explain": "Across. møren --. Across the riv er [AT 28]. I",
     "cyrillic": "Across.",
     "lessingForm": "GETY",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260847,22 +261858,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-1-16",
     "tradRom": "ibegegde-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "I IBEGEGDE- To be well treated [AT 103].",
+    "explain": "To be well treated [AT 103].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "IBEGEGDE-"
   },
   {
     "index": 24327,
     "sourceId": "L1204-1-17",
     "tradRom": "ibul-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "IBUL- / IBYL- To confuse, put in disorder.",
+    "explain": "To confuse, put in disorder.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "IBUL- / IBYL-"
   },
   {
     "index": 24328,
@@ -260872,7 +261883,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "--ky (attributively) . Bashful [AT 104].",
     "lessingForm": "ICE-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260880,50 +261891,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-1-19",
     "tradRom": "iču-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "ICU- To retreat, recede (from fear) [SH/Mo.1-326].",
+    "explain": "To retreat, recede (from fear) [SH/Mo.1-326].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ICU-"
   },
   {
     "index": 24330,
     "sourceId": "L1204-1-20",
     "tradRom": "ičuγda-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "ICUTDA- To be able to retreat or recede [SH/Mo.3-303].",
+    "explain": "To be able to retreat or recede [SH/Mo.3-303].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ICUTDA-"
   },
   {
     "index": 24331,
     "sourceId": "L1204-1-21",
     "tradRom": "idqa-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "IDXA- To hinder, stop [AT 15].",
+    "explain": "To hinder, stop [AT 15].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "IDXA-"
   },
   {
     "index": 24332,
     "sourceId": "L1204-1-22",
     "tradRom": "idqaγ_a",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "ILCI See elci.",
-    "lessingForm": "IDXAΓ-A Warning.",
+    "explain": "Warning.",
+    "lessingForm": "IDXAΓ-A",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24333,
     "sourceId": "L1204-1-23",
     "tradRom": "ilči",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "See elci.",
+    "lessingForm": "ILCI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24334,
@@ -260933,7 +261949,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "egyn y -- . In his presence [AT 68].",
     "lessingForm": "ILEDTE",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -260941,11 +261957,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-1-25",
     "tradRom": "ilegüü",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "ILEGYY See also ylegyj-e.",
+    "explain": "See also ylegyj-e. hILUXAD- To excite, stir up [SH/Mo. 2-340].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ILEGYY"
   },
   {
     "index": 24336,
@@ -260954,89 +261970,124 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1204.jpg",
     "explain": "hILUXAD- To excite, stir up [SH/Mo. 2-340].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24337,
     "sourceId": "L1204-1-27",
     "tradRom": "inaγ",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "INAΓ The friends (nøkyr) closest to the person of Genghis Khan, paladin, confidant. JAFUCI",
+    "explain": "The friends (nøkyr) closest to the person of Genghis Khan, paladin, confidant.",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "INAΓ"
   },
   {
     "index": 24338,
     "sourceId": "L1204-1-28",
     "tradRom": "inar",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "J",
+    "explain": "ter. J",
     "cyrillic": "ter.",
-    "lessingForm": "INARI"
+    "lessingForm": "INARI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24339,
     "sourceId": "L1204-1-29",
     "tradRom": "yabu-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "cerig --xu. To go on a military expeditioņ [SH/Mo. 2–394]; to go to war [SH/M0. 2-394]. dayun ygei --xu. To remain silent [AT 12]. ger te --xu. To serve in the house [SH/Mo. 2-373]. zoyuylan --xui. To be about to drink. [AT 63].",
+    "explain": "cerig --xu. To go on a military expeditioņ [SH/Mo. 2–394]; to go to war [SH/M0. 2-394]. dayun ygei --xu. To remain silent [AT 12]. ger te --xu. To serve in the house [SH/Mo. 2-373]. zoyuylan --xui. To be about to drink. [AT 63]. -1204-",
     "cyrillic": "д б боа",
     "lessingForm": "JABU--",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 24340,
     "sourceId": "L1204-2-01",
     "tradRom": "gički-",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "lessingForm": "JAFUCI",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 24341,
     "sourceId": "L1204-2-02",
     "tradRom": "gödülge-",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "giski-. See Pt. I [ET 59]. GøDYLGE- / GEDYLGE- To rout an enemy [SH/Mo. 3-309]. GøMERGE / GYMERGE /KØMERGE Chest which accord- ing to tradition contains the remains of Genghis Khan",
+    "lessingForm": "GICKI- =",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 24342,
     "sourceId": "L1204-2-02",
     "tradRom": "gedülge-",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "giski-. See Pt. I [ET 59]. GøDYLGE- / GEDYLGE- To rout an enemy [SH/Mo. 3-309]. GøMERGE / GYMERGE /KØMERGE Chest which accord- ing to tradition contains the remains of Genghis Khan",
+    "lessingForm": "GICKI- =",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 24343,
     "sourceId": "L1204-2-03",
     "tradRom": "gömerge",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24344,
     "sourceId": "L1204-2-03",
     "tradRom": "gümerge",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24345,
     "sourceId": "L1204-2-03",
     "tradRom": "kömerge",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24346,
     "sourceId": "L1204-2-04",
     "tradRom": "görüged",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "3-309].",
-    "lessingForm": "GøDYLGE-",
+    "explain": "GøRYGED Obs. plur. of gørygen [SH/Mo. 344].",
+    "lessingForm": "[ET 15].",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL",
+      "SUPPL_MISMATCH"
     ]
   },
   {
@@ -261044,10 +262095,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-2-05",
     "tradRom": "görüleldü-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "ing to tradition contains the remains of Genghis Khan [ET 15]. GøRYGED Obs. plur. of gørygen [SH/Mo. 344]. GØRYLELDY- To attack each other (?) [SH/Mo. 3-322].",
-    "lessingForm": "GøMERGE",
+    "explain": "To attack each other (?) [SH/Mo. 3-322].",
+    "lessingForm": "GØRYLELDY-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -261056,18 +262107,20 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "graγ",
     "imageName": "LessingDict_Page_1204.jpg",
     "explain": "γadasun -- = modun --. The planet Jupiter.",
-    "lessingForm": "GRAT"
+    "lessingForm": "GRAT",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24349,
     "sourceId": "L1204-2-07",
     "tradRom": "gübčin",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "-- bej-e. The whole body [ SH/Mo. 3-367 ].",
-    "lessingForm": "GYBCIN Whole.",
+    "explain": "Whole. -- bej-e. The whole body [ SH/Mo. 3-367 ].",
+    "lessingForm": "GYBCIN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261075,40 +262128,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-2-08",
     "tradRom": "gügi-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "GYGI- To fish with hook and line.",
+    "explain": "To fish with hook and line.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GYGI-"
   },
   {
     "index": 24351,
     "sourceId": "L1204-2-09",
     "tradRom": "gümerge",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "GYNZI See gyngzy.",
-    "lessingForm": "GYMERGE See gømerge.",
+    "explain": "See gømerge.",
+    "lessingForm": "GYMERGE",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24352,
     "sourceId": "L1204-2-10",
     "tradRom": "günǰi",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "See gyngzy.",
+    "lessingForm": "GYNZI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24353,
     "sourceId": "L1204-2-11",
     "tradRom": "gürgen",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "GYRY- To make by plaiting [AT 47].",
-    "lessingForm": "GYRGEN See kyrgen, Pt.I.",
+    "explain": "See kyrgen, Pt.I.",
+    "lessingForm": "GYRGEN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261116,56 +262172,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-2-12",
     "tradRom": "gürü-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "GYYSI (Ch. kuo-shih). Preceptor of the Nation. See",
+    "explain": "To make by plaiting [AT 47].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GYRY-"
   },
   {
     "index": 24355,
     "sourceId": "L1204-2-13",
     "tradRom": "güüsi",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "Pt. I, under gosi [ET l17].",
+    "explain": "(Ch. kuo-shih). Preceptor of the Nation. See Pt. I, under gosi [ET l17].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GYYSI"
   },
   {
     "index": 24356,
     "sourceId": "L1204-2-14",
     "tradRom": "ine-",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "INE- To sacrifice [SH/Mo. 301 ].",
+    "explain": "To sacrifice [SH/Mo. 301 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "INE-"
   },
   {
     "index": 24357,
     "sourceId": "L1204-2-15",
     "tradRom": "inerü",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "INERY See γazaru.",
+    "explain": "See γazaru.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "INERY"
   },
   {
     "index": 24358,
     "sourceId": "L1204-2-16",
     "tradRom": "inǰi",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "See ingzi, Pt. I [V1. 163, n. 11 ].",
+    "lessingForm": "INZI, INZA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24359,
     "sourceId": "L1204-2-16",
     "tradRom": "inǰa",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "See ingzi, Pt. I [V1. 163, n. 11 ].",
+    "lessingForm": "INZI, INZA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24360,
@@ -261175,7 +262241,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "jeke --. \"Great Melody,\" probably meaning: a sacrifice made to the ancestors. [SH/Mo. 300 ].",
     "lessingForm": "IRAΓU",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261183,23 +262249,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-2-18",
     "tradRom": "irekün",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "IREKYN Pl. of ireky(i).",
+    "explain": "Pl. of ireky(i).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "IREKYN"
   },
   {
     "index": 24362,
     "sourceId": "L1204-2-19",
     "tradRom": "irge",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "Tent flap [AT 78]. See irgen",
+    "lessingForm": "IRGE = ERYGE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24363,
     "sourceId": "L1204-2-19",
     "tradRom": "erüge",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "Tent flap [AT 78]. See irgen",
+    "lessingForm": "IRGE = ERYGE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24364,
@@ -261209,7 +262285,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "See irgen",
     "lessingForm": "IRGE",
     "ocrFlags": [
-      "EMPTY_BODY"
+      "SUPPL"
     ]
   },
   {
@@ -261217,32 +262293,45 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-2-21",
     "tradRom": "irgen",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "kegere jin --. Steppe people: cattle breaders. oi jin --. Forest people, hunters, trappers.",
+    "explain": "orya, -- oryo, --oryan. People [SH/Mo.3-360]. kegere jin --. Steppe people: cattle breaders. oi jin --. Forest people, hunters, trappers.",
     "cyrillic": "-- orya, -- oryo, --oryan. People [SH/Mo.3-360].",
-    "lessingForm": "IRGEN"
+    "lessingForm": "IRGEN --",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24366,
     "sourceId": "L1204-2-22",
     "tradRom": "iskelbüri",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "ITEGEL ygei. Without confidence [AT 23]. ITELGY Lanner falcon. See Pt. I [AT 22].",
-    "lessingForm": "ISKELBYRI Spur [AT 18].",
+    "explain": "Spur [AT 18].",
+    "lessingForm": "ISKELBYRI",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24367,
     "sourceId": "L1204-2-23",
     "tradRom": "itegel",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "ygei. Without confidence [AT 23].",
+    "lessingForm": "ITEGEL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24368,
     "sourceId": "L1204-2-24",
     "tradRom": "itelgü",
-    "imageName": "LessingDict_Page_1204.jpg"
+    "imageName": "LessingDict_Page_1204.jpg",
+    "explain": "Lanner falcon. See Pt. I [AT 22].",
+    "lessingForm": "ITELGY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24369,
@@ -261253,7 +262342,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "о",
     "lessingForm": "JATAKI-",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -261261,11 +262350,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-2-26",
     "tradRom": "yaγakin",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "JAIUCI What kind of?",
-    "lessingForm": "JATAKIN, JAKIN Why?",
+    "explain": "Why?",
+    "lessingForm": "JATAKIN, JAKIN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261273,21 +262361,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1204-2-27",
     "tradRom": "yaγuči",
     "imageName": "LessingDict_Page_1204.jpg",
-    "explain": "-- kymyn. What sort of a man? -- ulus. What (kind of) people [AT 7].",
+    "explain": "What kind of? -- kymyn. What sort of a man? -- ulus. What (kind of) people [AT 7].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "JAIUCI"
   },
   {
     "index": 24372,
     "sourceId": "L1205-1-01",
     "tradRom": "yaγun",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "JAIUN ber. Something. bolba? (at the end of sentence). What is the reason? Why? [AT 108]. bui ? (at the end of sentence). What ?What is the use? what does it mean? zebe. Whatever weapon.",
-    "lessingForm": "JAFUN",
+    "explain": "ber. Something. bolba? (at the end of sentence). What is the reason? Why? [AT 108]. bui ? (at the end of sentence). What ?What is the use? what does it mean? zebe. Whatever weapon.",
+    "lessingForm": "JAIUN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261295,23 +262383,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-1-02",
     "tradRom": "yakin",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "JAKIN See Jayakin.",
+    "explain": "See Jayakin.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "JAKIN"
   },
   {
     "index": 24374,
     "sourceId": "L1205-1-03",
     "tradRom": "yambutu",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "JAMBUTU Holding an office or rank.",
+    "explain": "Holding an office or rank. See xanaki.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "JAMBUTU"
   },
   {
     "index": 24375,
@@ -261321,7 +262408,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "See xanaki.",
     "lessingForm": "JANAKI",
     "ocrFlags": [
-      "EMPTY_BODY"
+      "SUPPL"
     ]
   },
   {
@@ -261329,10 +262416,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-1-05",
     "tradRom": "yasa-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "yar tur --n barixu. To control with one's hand [AT",
+    "explain": "yar tur --n barixu. To control with one's hand [AT 114].",
     "lessingForm": "JASA-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261340,22 +262427,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-1-06",
     "tradRom": "yasu",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "114]. JASU (h)ysy. Bones (hend.). [SH/Mo. 1-327].",
+    "explain": "(h)ysy. Bones (hend.). [SH/Mo. 1-327].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "JASU"
   },
   {
     "index": 24378,
     "sourceId": "L1205-1-07",
     "tradRom": "keb",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEB josun. Manner, habit, custom, usage [AT 28].",
+    "explain": "josun. Manner, habit, custom, usage [AT 28].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEB"
   },
   {
     "index": 24379,
@@ -261365,7 +262452,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "nigen -- jin. Uterine [AT 94].",
     "lessingForm": "KEBELI",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261373,78 +262460,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-1-09",
     "tradRom": "kebeli-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEBELI- To slip down to one side (as a blanket, etc.), incline, sink (sun) [SH/Mo. 2-335].",
+    "explain": "To slip down to one side (as a blanket, etc.), incline, sink (sun) [SH/Mo. 2-335].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEBELI-"
   },
   {
     "index": 24381,
     "sourceId": "L1205-1-10",
     "tradRom": "kebertei",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEBERTEI Having a (beautiful) form.",
+    "explain": "Having a (beautiful) form.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEBERTEI"
   },
   {
     "index": 24382,
     "sourceId": "L1205-1-11",
     "tradRom": "kebid",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEBID Obsol. for keid., See Pt.I.",
+    "explain": "Obsol. for keid., See Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEBID"
   },
   {
     "index": 24383,
     "sourceId": "L1205-1-12",
     "tradRom": "kebkerü-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEBKERY- To break into pieces [SH/Mo. 1-331].",
+    "explain": "To break into pieces [SH/Mo. 1-331].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEBKERY-"
   },
   {
     "index": 24384,
     "sourceId": "L1205-1-13",
     "tradRom": "kebtegüd",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEBTEGYD Name of Genghis Khan's nighttime bodyguard.",
+    "explain": "Name of Genghis Khan's nighttime bodyguard.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEBTEGYD"
   },
   {
     "index": 24385,
     "sourceId": "L1205-1-14",
     "tradRom": "kebtegül",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEBTEGYL Night watch, nocturnal bodyguard. See keb- tegyd [SH/Mo3-388].",
+    "explain": "Night watch, nocturnal bodyguard. See keb- tegyd [SH/Mo3-388].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEBTEGYL"
   },
   {
     "index": 24386,
     "sourceId": "L1205-1-15",
     "tradRom": "kedün",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "-- møsyn. How many strands (in a rope) ?",
-    "lessingForm": "KEDYN Pl. of kedyi. See KEDY(N), Pt. I.",
+    "explain": "Pl. of kedyi. See KEDY(N), Pt. I. -- møsyn. How many strands (in a rope) ?",
+    "lessingForm": "KEDYN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261452,11 +262537,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-1-16",
     "tradRom": "kegegči",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEGEGCI Fem. to keger(e).",
+    "explain": "Fem. to keger(e).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEGEGCI"
   },
   {
     "index": 24388,
@@ -261464,73 +262549,109 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "kegegülüged",
     "imageName": "LessingDict_Page_1205.jpg",
     "explain": "ein -- . \" Having been thus told or ordered.\" (Formula concluding a command, etc.) [SH/Mo.3-394].",
-    "lessingForm": "KEGEGYLYGED"
+    "lessingForm": "KEGEGYLYGED",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24389,
     "sourceId": "L1205-1-18",
     "tradRom": "kegelide-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEGEN = kegencer, Pt. I. KEGER Chestnut horse with black mane and tail [AT 47]. KEGER-E See keger. See above and Pt.I. KEGYL See køkyl (køkel). KEGYR See kygyr.",
-    "lessingForm": "KEGELIDE- See kegelite-, Pt. I.",
+    "explain": "See kegelite-, Pt. I.",
+    "lessingForm": "KEGELIDE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24390,
     "sourceId": "L1205-1-19",
     "tradRom": "kegen",
-    "imageName": "LessingDict_Page_1205.jpg"
+    "imageName": "LessingDict_Page_1205.jpg",
+    "explain": "kegencer, Pt. I.",
+    "lessingForm": "KEGEN =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24391,
     "sourceId": "L1205-1-20",
     "tradRom": "keger",
-    "imageName": "LessingDict_Page_1205.jpg"
+    "imageName": "LessingDict_Page_1205.jpg",
+    "explain": "Chestnut horse with black mane and tail [AT 47].",
+    "lessingForm": "KEGER",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24392,
     "sourceId": "L1205-1-21",
     "tradRom": "keger_e",
-    "imageName": "LessingDict_Page_1205.jpg"
+    "imageName": "LessingDict_Page_1205.jpg",
+    "explain": "See keger. See above and Pt.I.",
+    "lessingForm": "KEGER-E",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24393,
     "sourceId": "L1205-1-22",
     "tradRom": "kegül",
-    "imageName": "LessingDict_Page_1205.jpg"
+    "imageName": "LessingDict_Page_1205.jpg",
+    "explain": "See køkyl (køkel).",
+    "lessingForm": "KEGYL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24394,
     "sourceId": "L1205-1-23",
     "tradRom": "kegür",
-    "imageName": "LessingDict_Page_1205.jpg"
+    "imageName": "LessingDict_Page_1205.jpg",
+    "explain": "See kygyr.",
+    "lessingForm": "KEGYR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24395,
     "sourceId": "L1205-1-24",
     "tradRom": "kegǰigün",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEKE Amniotic fluid. KEKERI - = kekere-, See Pt. 1.",
-    "lessingForm": "KEGZIGYN = kegzegyn, See Pt. I.",
+    "explain": "kegzegyn, See Pt. I.",
+    "lessingForm": "KEGZIGYN =",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24396,
     "sourceId": "L1205-1-25",
     "tradRom": "keke",
-    "imageName": "LessingDict_Page_1205.jpg"
+    "imageName": "LessingDict_Page_1205.jpg",
+    "explain": "Amniotic fluid.",
+    "lessingForm": "KEKE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24397,
     "sourceId": "L1205-1-26",
     "tradRom": "kekeri-",
-    "imageName": "LessingDict_Page_1205.jpg"
+    "imageName": "LessingDict_Page_1205.jpg",
+    "explain": "kekere-, See Pt. 1.",
+    "lessingForm": "KEKERI - =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24398,
@@ -261540,7 +262661,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "--ky bygyde ulus. United people [AT 47].",
     "lessingForm": "KEL-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261548,45 +262669,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-1-28",
     "tradRom": "kelber",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KELBER = kelberi, See Pt. I.",
+    "explain": "kelberi, See Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KELBER ="
   },
   {
     "index": 24400,
     "sourceId": "L1205-1-29",
     "tradRom": "keldeng",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KELDENG xuldung. (Going) clip-clop [AT 89].",
+    "explain": "xuldung. (Going) clip-clop [AT 89].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KELDENG"
   },
   {
     "index": 24401,
     "sourceId": "L1205-1-30",
     "tradRom": "kele",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KELE(N) abxu. To deprive somebody of his tongue [SH/Mo.2-330]. ajalyu. Pronunciation, dialect. -- kiky. To give information [SH/Mo. 2~334]. kyrgeky. To bring word, report [AT 91]. KESIGTEN",
+    "explain": "abxu. To deprive somebody of his tongue [SH/Mo.2-330]. ajalyu. Pronunciation, dialect. -- kiky. To give information [SH/Mo. 2~334]. kyrgeky. To bring word, report [AT 91]. -1205-",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KELE(N)"
   },
   {
     "index": 24402,
     "sourceId": "L1205-1-30",
     "tradRom": "kelen",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KELE(N) abxu. To deprive somebody of his tongue [SH/Mo.2-330]. ajalyu. Pronunciation, dialect. -- kiky. To give information [SH/Mo. 2~334]. kyrgeky. To bring word, report [AT 91]. KESIGTEN",
+    "explain": "abxu. To deprive somebody of his tongue [SH/Mo.2-330]. ajalyu. Pronunciation, dialect. -- kiky. To give information [SH/Mo. 2~334]. kyrgeky. To bring word, report [AT 91]. -1205-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KELE(N)"
   },
   {
     "index": 24403,
@@ -261596,7 +262716,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "cayan --. Nobility.",
     "lessingForm": "JASUN",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -261604,10 +262724,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-2-02",
     "tradRom": "yegüdke-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "orun i --ky. To pass on the crown or throne [SH/ Mo. 2-352]. JEGYDGELDY- To shift, change, as sentinels, etc. [SH/ Mo. 390 ].",
+    "explain": "orun i --ky. To pass on the crown or throne [SH/ Mo. 2-352].",
     "lessingForm": "JEGYDKE-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261615,97 +262735,99 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-2-03",
     "tradRom": "yegüdgeldü-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "JEKE købegyn or kybegyn. The oldest son [AT 104] yge. Boast(ing words) [SH/Mo. 2-362].",
+    "explain": "To shift, change, as sentinels, etc. [SH/ Mo. 390 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "JEGYDGELDY-"
   },
   {
     "index": 24406,
     "sourceId": "L1205-2-04",
     "tradRom": "yeke köbegyn",
-    "explain": "The oldest son [AT 104]",
-    "imageName": "LessingDict_Page_1205.jpg"
+    "explain": "købegyn or kybegyn. The oldest son [AT 104] yge. Boast(ing words) [SH/Mo. 2-362].",
+    "imageName": "LessingDict_Page_1205.jpg",
+    "lessingForm": "JEKE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24407,
     "sourceId": "L1205-2-05",
     "tradRom": "yerü",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "JOSUN ygei. Contrary to the correct usage, against the rules, against good manners, unethical[AT 86].",
+    "explain": "bygyde jeke ulus. The whole great people [AT 54].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "JERY"
   },
   {
     "index": 24408,
     "sourceId": "L1205-2-06",
     "tradRom": "yosun",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "K",
+    "explain": "ygei. Contrary to the correct usage, against the rules, against good manners, unethical[AT 86]. K",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "JOSUN"
   },
   {
     "index": 24409,
     "sourceId": "L1205-2-07",
     "tradRom": "kelegei",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KELEGEI malayai. Dumb and mute (hend.).",
+    "explain": "malayai. Dumb and mute (hend.).",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KELEGEI"
   },
   {
     "index": 24410,
     "sourceId": "L1205-2-08",
     "tradRom": "kelekü",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KELEKY bygyde. All [ET 74].",
+    "explain": "bygyde. All [ET 74].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KELEKY"
   },
   {
     "index": 24411,
     "sourceId": "L1205-2-09",
     "tradRom": "keli-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KELI- To lead (?)",
+    "explain": "To lead (?)",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KELI-"
   },
   {
     "index": 24412,
     "sourceId": "L1205-2-10",
     "tradRom": "kelki-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KELKI- To prepare. ziruxai --ky. To prepare a map [ET 86].",
+    "explain": "To prepare. ziruxai --ky. To prepare a map [ET 86].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KELKI-"
   },
   {
     "index": 24413,
     "sourceId": "L1205-2-11",
     "tradRom": "kem",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEM yliger. Argument, syllogism.",
+    "explain": "yliger. Argument, syllogism. KEMEtygei. Although .. say or says.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEM"
   },
   {
     "index": 24414,
@@ -261714,54 +262836,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1205.jpg",
     "explain": "KEMEtygei. Although .. say or says.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24415,
     "sourceId": "L1205-2-13",
     "tradRom": "kemlegür",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEMLEGYR = kemnegyr.",
+    "explain": "kemnegyr.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEMLEGYR ="
   },
   {
     "index": 24416,
     "sourceId": "L1205-2-14",
     "tradRom": "kemǰi-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KEMZI- --n ziruxu. To measure and draw lines [AT 92].",
+    "explain": "--n ziruxu. To measure and draw lines [AT 92].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEMZI-"
   },
   {
     "index": 24417,
     "sourceId": "L1205-2-15",
     "tradRom": "kerčilge",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KERCILGE The act of cutting, mincing, slicing.",
+    "explain": "The act of cutting, mincing, slicing.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KERCILGE"
   },
   {
     "index": 24418,
     "sourceId": "L1205-2-16",
     "tradRom": "kerd",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KERD Sound made by a cutting instrument.",
+    "explain": "Sound made by a cutting instrument.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KERD"
   },
   {
     "index": 24419,
@@ -261771,7 +262893,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "nadur jayun --? What sort of affair would that be for me ? [AT 19].",
     "lessingForm": "KEREG",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -261779,10 +262901,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-2-18",
     "tradRom": "kermen",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KESEG busay yge. Random words [AT 177].",
-    "lessingForm": "KERMEN Squirrel.",
+    "explain": "Squirrel.",
+    "lessingForm": "KERMEN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261790,57 +262912,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-2-19",
     "tradRom": "keseg",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "doluyan -- ebedcin. Seven-part disease [AT 101].",
+    "explain": "busay yge. Random words [AT 177]. doluyan -- ebedcin. Seven-part disease [AT 101].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KESEG"
   },
   {
     "index": 24422,
     "sourceId": "L1205-2-20",
     "tradRom": "kesegde-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KESEGDE- To take as an example, imitate [ET 68].",
+    "explain": "To take as an example, imitate [ET 68]. cimayar --kyi. They should take you as an example",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KESEGDE-"
   },
   {
     "index": 24423,
     "sourceId": "L1205-2-21",
     "tradRom": "kesig",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "cimayar --kyi. They should take you as an example",
+    "explain": "See keseg, Pt. I [SH/Mo. 3-374].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KESIG"
   },
   {
     "index": 24424,
     "sourceId": "L1205-2-22",
     "tradRom": "kesig",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "[ET 68].",
+    "explain": "Shift, turn, guard; watch which is [ or serfs which are] on duty in shifts [SH/Mo. 3-371 ]. jegydkeldyn. (Working) in shifts or turns. -- mixa. Sacrificial meat [SH/Mo.3-379 ]. -- oruxu. To do one's assigned turn in serivce [SH/Mo.3-377]. jekes yn --. Portions of victuals offered to the ancestors which are later distributed to the assistants [SH/Mo. 1-305].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KESIG"
   },
   {
     "index": 24425,
     "sourceId": "L1205-2-23",
     "tradRom": "kesigle-",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KESIG Shift, turn, guard; watch which is [ or serfs which are] on duty in shifts [SH/Mo. 3-371 ]. jegydkeldyn. (Working) in shifts or turns. -- mixa. Sacrificial meat [SH/Mo.3-379 ]. -- oruxu. To do one's assigned turn in serivce [SH/Mo.3-377]. jekes yn --. Portions of victuals offered to the ancestors which are later distributed to the assistants [SH/Mo. 1-305].",
-    "lessingForm": "KESIG See keseg, Pt. I [SH",
+    "explain": "To work in turns or shifts [SH/Mo. 3-378].",
+    "lessingForm": "KESIGLE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261848,22 +262967,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1205-2-24",
     "tradRom": "kesigtei",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KESIGLE- To work in turns or shifts [SH/Mo. 3-378].",
+    "explain": "kymyn. Fortunate man [AT 81].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KESIGTEI, KESIGTY"
   },
   {
     "index": 24427,
     "sourceId": "L1205-2-25",
     "tradRom": "kesigten",
     "imageName": "LessingDict_Page_1205.jpg",
-    "explain": "KESIGTEN Servants, guards on duty by turns (Either an acoustic contamination between kesig \"favor\" and kesig \"turn\", or a semantic identifica- tion, the bodyguards being regarded as the most favored persons close to the ruler. See Part I) [SH/Mo. 3-377].",
-    "lessingForm": "KESIGTEI, KESIGTY kymyn. Fortunate man [AT 81].",
+    "explain": "Servants, guards on duty by turns (Either an acoustic contamination between kesig \"favor\" and kesig \"turn\", or a semantic identifica- tion, the bodyguards being regarded as the most favored persons close to the ruler. See Part I) [SH/Mo. 3-377].",
+    "lessingForm": "KESIGTEN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -261871,10 +262989,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1206-1-01",
     "tradRom": "kesigtü",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KESIGTY Person (guard, servant ) on duty by turns.",
+    "explain": "Person (guard, servant ) on duty by turns.",
     "lessingForm": "KESIGTY",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261882,22 +263000,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1206-1-02",
     "tradRom": "kesigüčin",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KESIGYCIN Servant who is on duty by turns [SH/Mo. 3-380]",
+    "explain": "Servant who is on duty by turns [SH/Mo. 3-380]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KESIGYCIN"
   },
   {
     "index": 24430,
     "sourceId": "L1206-1-03",
     "tradRom": "keǰiyede",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KEZIJEDE Some time, in the future.",
+    "explain": "Some time, in the future.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEZIJEDE"
   },
   {
     "index": 24431,
@@ -261907,8 +263025,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "jayun --nem? What has become of [AT 78].",
     "lessingForm": "KI-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261916,80 +263033,99 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1206-1-05",
     "tradRom": "kiyebügen",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KIJEBYGEN = købeng .See Pt. I. The translation of this word as \"linen\" is doubtful [AT 132, note 1 on chapter 27, p. 132].",
+    "explain": "købeng .See Pt. I. The translation of this word as \"linen\" is doubtful [AT 132, note 1 on chapter 27, p. 132].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KIJEBYGEN ="
   },
   {
     "index": 24433,
     "sourceId": "L1206-1-06",
     "tradRom": "kilbar",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KILBAR kymyn. \"Easy\" man (?) [AT 16].",
+    "explain": "kymyn. \"Easy\" man (?) [AT 16].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KILBAR"
   },
   {
     "index": 24434,
     "sourceId": "L1206-1-07",
     "tradRom": "kinǰi",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KINZI, etc. See ginzi, etc. [AT].",
+    "explain": "etc. See ginzi, etc. [AT].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KINZI,"
   },
   {
     "index": 24435,
     "sourceId": "L1206-1-08",
     "tradRom": "kirčeng",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "Penis.",
+    "lessingForm": "KIRCENG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24436,
     "sourceId": "L1206-1-09",
     "tradRom": "kirügetü",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KρBEGYN See kybegyn. KQDELKY ulus. Artisans, craftsmen [ET 70]. KQDYLEL ygei. Unshakable (courage ).",
-    "lessingForm": "KIRYGETY Serrate.",
+    "explain": "Serrate. KρBEGYN See kybegyn.",
+    "lessingForm": "KIRYGETY",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24437,
     "sourceId": "L1206-1-10",
     "tradRom": "köbegün",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24438,
     "sourceId": "L1206-1-11",
     "tradRom": "ködelkü",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "ulus. Artisans, craftsmen [ET 70].",
+    "lessingForm": "KQDELKY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24439,
     "sourceId": "L1206-1-12",
     "tradRom": "ködülel",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "ygei. Unshakable (courage ).",
+    "lessingForm": "KQDYLEL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24440,
     "sourceId": "L1206-1-13",
     "tradRom": "köge",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "ram to prevent mating.",
+    "explain": "xuca jin --. A guard fastened to the belly of a ram to prevent mating. KøGECIRGEN Leather strap for cradle (?) [AT 96]. KøGYBYR See køgebyr, Pt. I [AT 46]. KψKE. xalzin. Blue horse with white blaze [AT 67].",
     "cyrillic": "xuca jin --. A guard fastened to the belly of a",
     "lessingForm": "KQGE",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -261999,9 +263135,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1206.jpg",
     "explain": "KøGECIRGEN Leather strap for cradle (?) [AT 96].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24442,
@@ -262011,26 +263148,30 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "KψKE. xalzin. Blue horse with white blaze [AT 67].",
     "lessingForm": "KøGYBYR See køgebyr, Pt. I [AT 46].",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL",
+      "NO_LINE"
     ]
   },
   {
     "index": 24443,
     "sourceId": "L1206-1-16",
     "tradRom": "köke",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24444,
     "sourceId": "L1206-1-17",
     "tradRom": "kölgele-",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KφLGE(N) ba terged yaryaxu. To provide harness and",
-    "lessingForm": "KOLGELE- To harness.",
+    "explain": "To harness. KφLGE(N) ba terged yaryaxu. To provide harness and carriages [SH/Mo.3294]. oruyulxu. To put horses to a cart, harness [SH/ Mo. 3-293].",
+    "lessingForm": "KOLGELE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262040,10 +263181,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1206.jpg",
     "explain": "carriages [SH/Mo.3294]. oruyulxu. To put horses to a cart, harness [SH/ Mo. 3-293].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24446,
@@ -262052,20 +263193,20 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1206.jpg",
     "explain": "carriages [SH/Mo.3294]. oruyulxu. To put horses to a cart, harness [SH/ Mo. 3-293].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24447,
     "sourceId": "L1206-1-19",
     "tradRom": "kömerge",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KøNDE- To cut marks [AT 75].",
-    "lessingForm": "KOMERGE See gømerge.",
+    "explain": "See gømerge. KøNDE- To cut marks [AT 75]. KøRBE- To quiver, as a fish taken out of the water. See degyli-. KφRISYTEI See kørysyty, Pt. I [SH/Mo. 3-321]. KøTECI Master of the horses, equerry [Vl.].",
+    "lessingForm": "KOMERGE",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262075,9 +263216,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1206.jpg",
     "explain": "KøRBE- To quiver, as a fish taken out of the water. See degyli-.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24449,
@@ -262087,7 +263229,8 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "KøTECI Master of the horses, equerry [Vl.]. KØTEL Groom. See køtyl, Pt. I [AT 117]. KYCY ijen øgky. To assist [AT 15]. KYGELYYR Excrescence on the testicles of a wild boar.",
     "lessingForm": "KφRISYTEI See kørysyty, Pt. I [SH",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL",
+      "NO_LINE"
     ]
   },
   {
@@ -262098,63 +263241,96 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "LABAΓ- A A kind of white insect (larva) found in brooks during autumn.",
     "lessingForm": "KYGYR",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL",
+      "NO_LINE"
     ]
   },
   {
     "index": 24451,
     "sourceId": "L1206-1-23",
     "tradRom": "köteči",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24452,
     "sourceId": "L1206-1-24",
     "tradRom": "kötel",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "Groom. See køtyl, Pt. I [AT 117].",
+    "lessingForm": "KØTEL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24453,
     "sourceId": "L1206-1-25",
     "tradRom": "küčü",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "ijen øgky. To assist [AT 15].",
+    "lessingForm": "KYCY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24454,
     "sourceId": "L1206-1-26",
     "tradRom": "kügelüür",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "Excrescence on the testicles of a wild boar.",
+    "lessingForm": "KYGELYYR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24455,
     "sourceId": "L1206-1-27",
     "tradRom": "kügür",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "Talk , \"topic\" [AT 68].",
+    "lessingForm": "KYGYR / KEGYR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24456,
     "sourceId": "L1206-1-27",
     "tradRom": "kegür",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "Talk , \"topic\" [AT 68].",
+    "lessingForm": "KYGYR / KEGYR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24457,
     "sourceId": "L1206-1-28",
     "tradRom": "labaγ_a",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "kind of white insect (larva) found in brooks during autumn.",
+    "lessingForm": "LABAΓ- A A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24458,
     "sourceId": "L1206-1-29",
     "tradRom": "laramba",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "Highest ecclesiastic rank granted to students of canid in Lhasa.",
-    "lessingForm": "LARAMBA, LAREMBA, TARAMBA [ T. lha rams pa ]",
+    "explain": "lha rams pa ] Highest ecclesiastic rank granted to students of canid in Lhasa.",
+    "lessingForm": "LARAMBA, LAREMBA, TARAMBA [ T.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262162,11 +263338,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1206-1-29",
     "tradRom": "laremba",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "Highest ecclesiastic rank granted to students of canid in Lhasa.",
-    "lessingForm": "LARAMBA, LAREMBA, TARAMBA [ T. lha rams pa ]",
+    "explain": "lha rams pa ] Highest ecclesiastic rank granted to students of canid in Lhasa.",
+    "lessingForm": "LARAMBA, LAREMBA, TARAMBA [ T.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262174,79 +263349,110 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1206-1-30",
     "tradRom": "maγu",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "MAΓU ber jabuxu. To be on bad terms with [AT 23 ] kymyn i -- sedkiky. To plan evil against somebody. øcyken --. The minor or inferior part [AT 53].",
+    "explain": "ber jabuxu. To be on bad terms with [AT 23 ] kymyn i -- sedkiky. To plan evil against somebody. øcyken --. The minor or inferior part [AT 53].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MAΓU"
   },
   {
     "index": 24461,
     "sourceId": "L1206-1-31",
     "tradRom": "maγuila",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "MATUILA - To be displeased. See mayula-, Pt.I [SH/ Mo. 3-325]. MARTA KYISY(N) Depression in a fruit where the stem is attached to it. KYITESY Frozen droppings of cattle.",
+    "explain": "To be displeased. See mayula-, Pt.I [SH/ Mo. 3-325].",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MATUILA -"
   },
   {
     "index": 24462,
     "sourceId": "L1206-2-01",
     "tradRom": "küisü",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "Depression in a fruit where the stem is attached to it.",
+    "lessingForm": "KYISY(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24463,
     "sourceId": "L1206-2-01",
     "tradRom": "küisün",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "Depression in a fruit where the stem is attached to it.",
+    "lessingForm": "KYISY(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24464,
     "sourceId": "L1206-2-02",
     "tradRom": "küitesü",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "Frozen droppings of cattle.",
+    "lessingForm": "KYITESY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24465,
     "sourceId": "L1206-2-03",
     "tradRom": "kükür",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KYLCE- (?) To wait a little while (?) [AT 64].",
-    "lessingForm": "KYKYR Pot [AT 70].",
+    "explain": "Pot [AT 70].",
+    "lessingForm": "KYKYR",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24466,
     "sourceId": "L1206-2-04",
     "tradRom": "külče-",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "To wait a little while (?) [AT 64].",
+    "lessingForm": "KYLCE- (?)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24467,
     "sourceId": "L1206-2-05",
     "tradRom": "külčigüre-",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "See kølcygyre-, Pt. I [AT 36].",
+    "lessingForm": "KYLCIGYRE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24468,
     "sourceId": "L1206-2-06",
     "tradRom": "külčü-",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "See kølci-, Pt. I.",
+    "lessingForm": "KYLCY- / KYLCI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24469,
     "sourceId": "L1206-2-06",
     "tradRom": "külči-",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "See kølci-, Pt. I.",
+    "lessingForm": "KYLCY- / KYLCI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24470,
@@ -262254,24 +263460,31 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "küli-",
     "imageName": "LessingDict_Page_1206.jpg",
     "explain": "--zy talbixu. To fetter or bind [AT 39].",
-    "lessingForm": "KYLI-"
+    "lessingForm": "KYLI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24471,
     "sourceId": "L1206-2-08",
     "tradRom": "külil",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "Trigram.",
+    "lessingForm": "KYLIL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24472,
     "sourceId": "L1206-2-09",
     "tradRom": "külül",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KYMYLEGYL- To anthropomorphize.",
-    "lessingForm": "KYLYL Barrel [AT 18 ].",
+    "explain": "Barrel [AT 18 ].",
+    "lessingForm": "KYLYL",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262279,71 +263492,89 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1206-2-10",
     "tradRom": "kümülegül-",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KYMYN Sometimes \"slaves\" [Vl. 165]. dumda --. \"Middle class' people, lower than nojan. [V1.165]. sain --. Wealthy, prosperous, influential people of",
+    "explain": "To anthropomorphize.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KYMYLEGYL-"
   },
   {
     "index": 24474,
     "sourceId": "L1206-2-11",
     "tradRom": "kümün",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "the upper class.",
+    "explain": "Sometimes \"slaves\" [Vl. 165]. dumda --. \"Middle class' people, lower than nojan. [V1.165]. sain --. Wealthy, prosperous, influential people of the upper class.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KYMYN"
   },
   {
     "index": 24475,
     "sourceId": "L1206-2-12",
     "tradRom": "küne-",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KYNE- To threaten [AT 33].",
+    "explain": "To threaten [AT 33].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KYNE-"
   },
   {
     "index": 24476,
     "sourceId": "L1206-2-13",
     "tradRom": "kür",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "Tomb [AT 48].",
+    "lessingForm": "KYR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24477,
     "sourceId": "L1206-2-14",
     "tradRom": "kür-",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "word [AT 45].",
+    "explain": "ynen yge degen --ygsen. Not having broken one's word [AT 45].",
     "cyrillic": "ynen yge degen --ygsen. Not having broken one's",
-    "lessingForm": "KYR-"
+    "lessingForm": "KYR-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24478,
     "sourceId": "L1206-2-15",
     "tradRom": "kürče",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KYREN(G) erijen. Dark-brown striped [AT 40].",
-    "lessingForm": "KYRCE",
+    "explain": "Spade [AT 67].",
+    "lessingForm": "KYRCE / KYRCI",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24479,
     "sourceId": "L1206-2-16",
     "tradRom": "küren",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "erijen. Dark-brown striped [AT 40].",
+    "lessingForm": "KYREN(G)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24480,
     "sourceId": "L1206-2-16",
     "tradRom": "küreng",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "imageName": "LessingDict_Page_1206.jpg",
+    "explain": "erijen. Dark-brown striped [AT 40].",
+    "lessingForm": "KYREN(G)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24481,
@@ -262353,7 +263584,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "yar tur --ky. To deliver into a person's hand",
     "lessingForm": "KYRGE-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262361,51 +263592,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1206-2-18",
     "tradRom": "kürgen",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "[AT 101].",
+    "explain": "eriky. To look for a suitable daughter-in-law",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KYRGEN"
   },
   {
     "index": 24483,
     "sourceId": "L1206-2-19",
     "tradRom": "kürü-",
-    "explain": "to sharpen an arrow.",
-    "imageName": "LessingDict_Page_1206.jpg"
+    "explain": "To sharpen an arrow.",
+    "imageName": "LessingDict_Page_1206.jpg",
+    "lessingForm": "KYRY-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24484,
     "sourceId": "L1206-2-20",
     "tradRom": "kürü",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "[AT 12].",
+    "explain": "Rock [SH/Mo. 1-318].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KYRY"
   },
   {
     "index": 24485,
     "sourceId": "L1206-2-21",
     "tradRom": "kürül",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KYRY- To sharpen an arrow.",
+    "explain": "ygei. Without arriving at his destination.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KYRYL"
   },
   {
     "index": 24486,
     "sourceId": "L1206-2-22",
     "tradRom": "kürülče-",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KYRYL ygei. Without arriving at his destination.",
-    "lessingForm": "KYRY Rock [SH",
+    "explain": "To meet each other . See Pt.I. [SH/Mo.3- 323].",
+    "lessingForm": "KYRYLCE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262413,72 +263647,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1206-2-23",
     "tradRom": "küǰügüü",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KYRYLCE- To meet each other . See Pt.I. [SH/Mo.3- 323].",
+    "explain": "ber teberiky. To embrace the neck. xatun --. Epistropheus, the second cervical vertebra. L",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KYZYGYY"
   },
   {
     "index": 24488,
     "sourceId": "L1206-2-24",
     "tradRom": "lübčiten",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "KYZYGYY ber teberiky. To embrace the neck. xatun --. Epistropheus, the second cervical vertebra.",
+    "explain": "Armored horsemen [Vl. ]. M",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "LYBCITEN"
   },
   {
     "index": 24489,
     "sourceId": "L1206-2-25",
     "tradRom": "maha_a",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "L",
+    "explain": "cina [ S. Mahācína, Great China]. A name for China, used in Buddhist scriptures.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MAHA-A"
   },
   {
     "index": 24490,
     "sourceId": "L1206-2-26",
     "tradRom": "mariyalči",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "LYBCITEN Armored horsemen [Vl. ].",
+    "explain": "flowered rug, carpet [Ko. ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MARIJALCI A"
   },
   {
     "index": 24491,
     "sourceId": "L1206-2-27",
     "tradRom": "marta",
     "imageName": "LessingDict_Page_1206.jpg",
-    "explain": "M MAHA-A cina [ S. Mahācína, Great China]. A name for China, used in Buddhist scriptures. MARIJALCI A flowered rug, carpet [Ko. ]. MARTA jadazu. Being unable to forget [SH/Mo. 3-346].",
+    "explain": "jadazu. Being unable to forget [SH/Mo. 3-346]. -1206-",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MARTA"
   },
   {
     "index": 24492,
     "sourceId": "L1207-1-01",
     "tradRom": "maqabud",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "bej-e -- un. Physical, corporeal.",
+    "lessingForm": "MAXABUD",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24493,
     "sourceId": "L1207-1-02",
     "tradRom": "maqai",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "bej-e -- un. Physical, corporeal.",
-    "lessingForm": "MAXABUD",
+    "explain": "sir-a. Brown bear.",
+    "lessingForm": "MAXAI",
     "ocrFlags": [
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -262486,59 +263724,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1207-1-03",
     "tradRom": "mede-",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "MAXAI sir-a. Brown bear.",
+    "explain": "To observe (a custom) [AT 29 ]. --tygei. Let (him) decide [SH/Mo. 3-303]. alba --ky. To control the taxes [AT 36]. øber yn erke ygei --ky. To be conscious of one!s own unimportance. ulus i --ky. To govern a people [ AT 36]. zajayan --tygei. Let fate decide [AT 39].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MEDE-"
   },
   {
     "index": 24495,
     "sourceId": "L1207-1-04",
     "tradRom": "medel",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "MEDE- To observe (a custom) [AT 29 ]. --tygei. Let (him) decide [SH/Mo. 3-303]. alba --ky. To control the taxes [AT 36]. øber yn erke ygei --ky. To be conscious of one!s own unimportance. ulus i --ky. To govern a people [ AT 36]. zajayan --tygei. Let fate decide [AT 39]. MEDEL Jurisdiction. boyul. Slave (under someone's jurisdiction).",
+    "explain": "Jurisdiction. boyul. Slave (under someone's jurisdiction).",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MEDEL"
   },
   {
     "index": 24496,
     "sourceId": "L1207-1-05",
     "tradRom": "medeltü",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "MEDELTY Being under somebody's jursidiction, a subject [VI.]. -- kybegyn. A subject.",
+    "explain": "Being under somebody's jursidiction, a subject [VI.]. -- kybegyn. A subject.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MEDELTY"
   },
   {
     "index": 24497,
     "sourceId": "L1207-1-06",
     "tradRom": "megsi-",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "To sob.",
+    "lessingForm": "MEGSI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24498,
     "sourceId": "L1207-1-07",
     "tradRom": "metü",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "emijeky iceky -- . Frightening and shameful, as it were [AT 30].",
+    "explain": "As it were. emijeky iceky -- . Frightening and shameful, as it were [AT 30].",
     "cyrillic": "As it were.",
-    "lessingForm": "METY"
+    "lessingForm": "METY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24499,
     "sourceId": "L1207-1-08",
     "tradRom": "milaǰaγud",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "sacrificed to Genghis Khan on the 2lst day of the third month in spring [SH/Mo. 3-35 9].",
-    "lessingForm": "MILAZAIUD un xoni; MILAΓAIUD un xoni. Ram",
+    "explain": "un xoni; MILAΓAIUD un xoni. Ram sacrificed to Genghis Khan on the 2lst day of the third month in spring [SH/Mo. 3-35 9].",
+    "lessingForm": "MILAZAIUD",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -262546,10 +263791,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1207-1-09",
     "tradRom": "minaγ_a",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "MINGΓA(N) Body of a thousand men (military) [SH/Mo.",
-    "lessingForm": "MINAΓ-A Whip.",
+    "explain": "Whip.",
+    "lessingForm": "MINAΓ-A",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262557,55 +263802,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1207-1-10",
     "tradRom": "mingγa",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "3-384 ].",
+    "explain": "Body of a thousand men (military) [SH/Mo. 3-384 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MINGΓA(N)"
   },
   {
     "index": 24502,
     "sourceId": "L1207-1-10",
     "tradRom": "mingγan",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "3-384 ].",
+    "explain": "Body of a thousand men (military) [SH/Mo. 3-384 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MINGΓA(N)"
   },
   {
     "index": 24503,
     "sourceId": "L1207-1-11",
     "tradRom": "mingγala-",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "MINGΓALA- To divide into groups of a thousand each.",
+    "explain": "To divide into groups of a thousand each.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MINGΓALA-"
   },
   {
     "index": 24504,
     "sourceId": "L1207-1-12",
     "tradRom": "mongda-",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "MONGDA- To be exhausted, worn out.",
+    "explain": "To be exhausted, worn out.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MONGDA-"
   },
   {
     "index": 24505,
     "sourceId": "L1207-1-13",
     "tradRom": "morda-",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "--n bayuxu. To go on a campaign [AT 37]. dur cerig --xu. To go on à campaign against.",
+    "explain": "--n bayuxu. To go on a campaign [AT 37]. dur cerig --xu. To go on à campaign against. N",
     "lessingForm": "MORDA-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262613,56 +263857,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1207-1-14",
     "tradRom": "nabsa",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "N NABSA / NAMSA [ T. na bzah] Dress, garment (with reference to sacred statues and persons of rank).",
+    "explain": "na bzah] Dress, garment (with reference to sacred statues and persons of rank).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NABSA / NAMSA [ T."
   },
   {
     "index": 24507,
     "sourceId": "L1207-1-14",
     "tradRom": "namsa",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "N NABSA / NAMSA [ T. na bzah] Dress, garment (with reference to sacred statues and persons of rank).",
+    "explain": "na bzah] Dress, garment (with reference to sacred statues and persons of rank).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NABSA / NAMSA [ T."
   },
   {
     "index": 24508,
     "sourceId": "L1207-1-15",
     "tradRom": "naγ_a",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NAT-A Relatives on mother's side.",
+    "explain": "Relatives on mother's side.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NAT-A"
   },
   {
     "index": 24509,
     "sourceId": "L1207-1-16",
     "tradRom": "naγadu",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NAΓADU cayadu. Here and there [AT 22]",
+    "explain": "cayadu. Here and there [AT 22]",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NAΓADU"
   },
   {
     "index": 24510,
     "sourceId": "L1207-1-17",
     "tradRom": "nayičiγar",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NAICIFAR Coarse, thick.",
+    "explain": "Coarse, thick.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NAICIFAR"
   },
   {
     "index": 24511,
@@ -262672,7 +263915,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "nom i --xu. To be jealous of Buddhism,hold Bsm. in abomination.",
     "lessingForm": "NAIDA-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262680,39 +263923,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1207-1-19",
     "tradRom": "nayila-",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NAILA- To consort, mate [AT 63].",
+    "explain": "To consort, mate [AT 63].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NAILA-"
   },
   {
     "index": 24513,
     "sourceId": "L1207-1-20",
     "tradRom": "nayilǰaγur",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NAIRALTU sain. Harmonious; sympathetic.",
-    "lessingForm": "NAILZAIUR Scion.",
+    "explain": "Scion.",
+    "lessingForm": "NAILZAIUR",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24514,
     "sourceId": "L1207-1-21",
     "tradRom": "nayiraltu",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "sain. Harmonious; sympathetic.",
+    "lessingForm": "NAIRALTU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24515,
     "sourceId": "L1207-1-22",
     "tradRom": "nakšatar",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NaLDAN, NALA [ S.nalada ] The Indian spikenard;",
-    "lessingForm": "NAKŠATAR See nagšadar, Pt, I.",
+    "explain": "See nagšadar, Pt, I. NaLDAN, NALA [ S.nalada ] The Indian spikenard; the root of Andropogon; the blossom of Hibiscus Sinensis, etc.",
+    "lessingForm": "NAKŠATAR",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262722,9 +263969,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1207.jpg",
     "explain": "the root of Andropogon; the blossom of Hibiscus Sinensis, etc. NEBETEREN MORDAΓUL- To move soldiers, attack [AT 108].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24517,
@@ -262733,23 +263981,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1207.jpg",
     "explain": "the root of Andropogon; the blossom of Hibiscus Sinensis, etc. NEBETEREN MORDAΓUL- To move soldiers, attack [AT 108].",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24518,
     "sourceId": "L1207-1-24",
     "tradRom": "namaγ_a",
     "wIndex": "1",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "Barrel [AT 18]. -1207-",
+    "lessingForm": "NAMAΓ-A, 1.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24519,
     "sourceId": "L1207-2-01",
     "tradRom": "mordaγul-",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "To move soldiers, attack [AT 108].",
+    "lessingForm": "MORDAΓUL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24520,
@@ -262759,7 +264017,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "cerig --xu. To campaign [AT 93].",
     "lessingForm": "MORILA-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262767,34 +264025,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1207-2-03",
     "tradRom": "möd",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "MQD pl. of mør. Way (preclass.).",
+    "explain": "pl. of mør. Way (preclass.).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MQD"
   },
   {
     "index": 24522,
     "sourceId": "L1207-2-04",
     "tradRom": "moötele-",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "MOLTELE-, MQLTYLE- To dislocate, disjoint. duyuly-a ben --ky. To take off one's helmet.",
+    "explain": "To dislocate, disjoint. duyuly-a ben --ky. To take off one's helmet.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MOLTELE-, MQLTYLE-"
   },
   {
     "index": 24523,
     "sourceId": "L1207-2-05",
     "tradRom": "mön",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "MØN Same as before. -- deger-e. On that very spot [AT 71]. -- søni. (In)the same night. -- yge. The same words. ene -- ci. This art thou indeed.",
+    "explain": "Same as before. -- deger-e. On that very spot [AT 71]. -- søni. (In)the same night. -- yge. The same words. ene -- ci. This art thou indeed. MøNGKE γazar. Eternity, nirvana [AT]. MφRGY- To greet by touching the ground with one's forehead, kowtow. MøSELDY- To separate [SH/Mo. 2-375].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MØN"
   },
   {
     "index": 24524,
@@ -262803,9 +264060,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1207.jpg",
     "explain": "MøNGKE γazar. Eternity, nirvana [AT].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24525,
@@ -262814,25 +264072,31 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1207.jpg",
     "explain": "MφRGY- To greet by touching the ground with one's forehead, kowtow.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24526,
     "sourceId": "L1207-2-08",
     "tradRom": "möseldü-",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24527,
     "sourceId": "L1207-2-09",
     "tradRom": "mösün",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "γurba --. Threefold (cord).",
-    "lessingForm": "MOSYN Stick [AT 38].",
+    "explain": "Stick [AT 38]. γurba --. Threefold (cord).",
+    "lessingForm": "MOSYN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -262840,61 +264104,77 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1207-2-10",
     "tradRom": "mungqaγla-",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "--n boda basu. In my humble opinion [ ET 55]. MUXALI Slave, serf.",
-    "lessingForm": "MUNGXAΓLA-"
+    "explain": "--n boda basu. In my humble opinion [ ET 55].",
+    "lessingForm": "MUNGXAΓLA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24529,
     "sourceId": "L1207-2-11",
     "tradRom": "muqali",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "boduxu --. Bead of an abacus.",
+    "explain": "Slave, serf.",
     "cyrillic": "Г",
-    "lessingForm": "MUXALIT",
+    "lessingForm": "MUXALI",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24530,
     "sourceId": "L1207-2-12",
     "tradRom": "muqaliγ",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "boduxu --. Bead of an abacus.",
+    "lessingForm": "MUXALIT",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24531,
     "sourceId": "L1207-2-13",
     "tradRom": "muqur",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "nyke. Pit. See Pt. I.",
+    "lessingForm": "MUXUR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24532,
     "sourceId": "L1207-2-14",
     "tradRom": "mükei",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "MYKEI Malodorous [ ET II8]. See ømykei, Pt. I.",
-    "lessingForm": "MUXUR nyke. Pit. See Pt. I.",
+    "explain": "Malodorous [ ET II8]. See ømykei, Pt. I.",
+    "lessingForm": "MYKEI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 24533,
     "sourceId": "L1207-2-15",
     "tradRom": "müsün",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "See møsyn.",
+    "lessingForm": "MYSYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24534,
     "sourceId": "L1207-2-16",
     "tradRom": "namaγ_a",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NAMCI Obs. ferm of nabci. See Pt. I.",
-    "lessingForm": "NAMAΓ-A, 2. Foliage (?)",
+    "explain": "Foliage (?)",
+    "lessingForm": "NAMAΓ-A, 2.",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -262902,97 +264182,132 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1207-2-17",
     "tradRom": "namči",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NAMAΓATU airay. A bucketful of kumiss.",
+    "explain": "Obs. ferm of nabci. See Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NAMCI"
   },
   {
     "index": 24536,
     "sourceId": "L1207-2-18",
     "tradRom": "namaγatu",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NAMSA See nabsa.",
-    "lessingForm": "NAMLA- To shoot [AT 31 ].",
+    "explain": "airay. A bucketful of kumiss.",
+    "lessingForm": "NAMAΓATU",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24537,
     "sourceId": "L1207-2-19",
     "tradRom": "namla-",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "To shoot [AT 31 ].",
+    "lessingForm": "NAMLA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24538,
     "sourceId": "L1207-2-20",
     "tradRom": "namsa",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "See nabsa.",
+    "lessingForm": "NAMSA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24539,
     "sourceId": "L1207-2-21",
     "tradRom": "narad",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NARAN eke. Mother Sun.",
-    "lessingForm": "NARAD PL. of narasun [ET 73 ].",
+    "explain": "of narasun [ET 73 ].",
+    "lessingForm": "NARAD PL.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24540,
     "sourceId": "L1207-2-22",
     "tradRom": "naran",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "eke. Mother Sun.",
+    "lessingForm": "NARAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24541,
     "sourceId": "L1207-2-23",
     "tradRom": "narbai",
     "imageName": "LessingDict_Page_1207.jpg",
-    "explain": "NARIN okin. Chaste virgin. NASUN buyan. Life visualized under a karmic aspect. NEBCERE- To come forth, seep through, percolate. NEBSEGENE- To dangle, of tatters, etc. NEBTEREn ketyreky. To stand out, surpass.",
-    "lessingForm": "NARBAI See narmai, Pt. I.",
+    "explain": "See narmai, Pt. I.",
+    "lessingForm": "NARBAI",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 24542,
     "sourceId": "L1207-2-24",
     "tradRom": "narin",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "okin. Chaste virgin.",
+    "lessingForm": "NARIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24543,
     "sourceId": "L1207-2-25",
     "tradRom": "nasun",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "buyan. Life visualized under a karmic aspect.",
+    "lessingForm": "NASUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24544,
     "sourceId": "L1207-2-26",
     "tradRom": "nebčere-",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "To come forth, seep through, percolate.",
+    "lessingForm": "NEBCERE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24545,
     "sourceId": "L1207-2-27",
     "tradRom": "nebsegene-",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "explain": "To dangle, of tatters, etc. NEBTEREn ketyreky. To stand out, surpass.",
+    "lessingForm": "NEBSEGENE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24546,
     "sourceId": "L1207-2-28",
     "tradRom": "nebteren",
-    "imageName": "LessingDict_Page_1207.jpg"
+    "imageName": "LessingDict_Page_1207.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24547,
@@ -263002,86 +264317,85 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "NEBTERKEI-e aman abxu. To give a definite promise.",
     "lessingForm": "NEBTERKEI-",
     "ocrFlags": [
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 24548,
     "sourceId": "L1208-1-02",
     "tradRom": "negü-",
-    "explain": "to move over to or join another group.",
-    "imageName": "LessingDict_Page_1208.jpg"
+    "explain": "To move over to or join another group [AT 74]. --ky nøgciky. To nomadize [AT 46]. morilan --ky. To set out for war [ET 18].",
+    "imageName": "LessingDict_Page_1208.jpg",
+    "lessingForm": "NEGY-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24549,
     "sourceId": "L1208-1-03",
     "tradRom": "negüdel",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NEGYDEL A horde of homads,",
+    "explain": "horde of homads,",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NEGYDEL A"
   },
   {
     "index": 24550,
     "sourceId": "L1208-1-04",
     "tradRom": "negüri",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NEGYRI Overnight camp. See Pt. I. yurban --. Distance of a three days' march [AT 7].",
+    "explain": "Overnight camp. See Pt. I. yurban --. Distance of a three days' march [AT 7].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NEGYRI"
   },
   {
     "index": 24551,
     "sourceId": "L1208-1-05",
     "tradRom": "negǰi-",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NEGZI- To search.",
+    "explain": "To search.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NEGZI-"
   },
   {
     "index": 24552,
     "sourceId": "L1208-1-06",
     "tradRom": "neigem",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NEIGEM niyur. United front.",
+    "explain": "niyur. United front.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NEIGEM"
   },
   {
     "index": 24553,
     "sourceId": "L1208-1-07",
     "tradRom": "neile-",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NEILE- To reconcile oneself with. --ky ygei. Incompatible.",
+    "explain": "To reconcile oneself with. --ky ygei. Incompatible.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NEILE-"
   },
   {
     "index": 24554,
     "sourceId": "L1208-1-08",
     "tradRom": "neilelte",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NEILELTE Connection, joint [SH/Mo. 1-350].",
+    "explain": "Connection, joint [SH/Mo. 1-350].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NEILELTE"
   },
   {
     "index": 24555,
@@ -263089,43 +264403,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "neke-",
     "imageName": "LessingDict_Page_1208.jpg",
     "explain": ":-zy gyiceky. To chase after, pursue. øsij-e --ky. To pursue the vengeance [AT 120]",
-    "lessingForm": "NEKE-"
+    "lessingForm": "NEKE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24556,
     "sourceId": "L1208-1-10",
     "tradRom": "nekegülčin",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NEMEKYI bayuraxu. Growth and decline [ET 45]. NENGDE- To win, be victorious (?). -NI- Suffix reinforcing a verbal base. NIBEN [ J. Nippon ] Japan (now rare).",
-    "lessingForm": "NEKEGYLCIN Pursuer [AT 96].",
+    "explain": "Pursuer [AT 96].",
+    "lessingForm": "NEKEGYLCIN",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24557,
     "sourceId": "L1208-1-11",
     "tradRom": "nemeküi",
-    "imageName": "LessingDict_Page_1208.jpg"
+    "imageName": "LessingDict_Page_1208.jpg",
+    "explain": "bayuraxu. Growth and decline [ET 45].",
+    "lessingForm": "NEMEKYI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24558,
     "sourceId": "L1208-1-12",
     "tradRom": "nengde-",
-    "imageName": "LessingDict_Page_1208.jpg"
+    "imageName": "LessingDict_Page_1208.jpg",
+    "explain": "To win, be victorious (?).",
+    "lessingForm": "NENGDE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24559,
     "sourceId": "L1208-1-13",
     "tradRom": "-ni-",
-    "imageName": "LessingDict_Page_1208.jpg"
+    "imageName": "LessingDict_Page_1208.jpg",
+    "explain": "Suffix reinforcing a verbal base.",
+    "lessingForm": "-NI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24560,
     "sourceId": "L1208-1-14",
     "tradRom": "niben",
-    "imageName": "LessingDict_Page_1208.jpg"
+    "imageName": "LessingDict_Page_1208.jpg",
+    "explain": "Nippon ] Japan (now rare).",
+    "lessingForm": "NIBEN [ J.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24561,
@@ -263135,7 +264471,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "ebydyg yn -- . Kneecap [AT 41 ].",
     "lessingForm": "NIDYN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263143,22 +264479,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-1-16",
     "tradRom": "niγultai",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NIIULTAI Hidden, surreptitious [AT 68].",
+    "explain": "Hidden, surreptitious [AT 68].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NIIULTAI"
   },
   {
     "index": 24563,
     "sourceId": "L1208-1-17",
     "tradRom": "niγur",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "toli --. Surface of a miror.",
-    "lessingForm": "NIIUR Surface.",
+    "explain": "Surface. toli --. Surface of a miror.",
+    "lessingForm": "NIIUR",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -263166,11 +264501,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-1-18",
     "tradRom": "nige",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "-- tøry. The whole rule [AT 65]. b) Alone . -- bejetei. Unmarried (of women only ?). c) Only . kedyn. Some. d) Oneness . luy-a -- bolxu. To become one with. NIGSIGYRE- See zigsugyri-, Part I.",
-    "lessingForm": "NIGE(N) a) Whole .",
+    "explain": "a) Whole . -- tøry. The whole rule [AT 65]. b) Alone . -- bejetei. Unmarried (of women only ?). c) Only . kedyn. Some. d) Oneness . luy-a -- bolxu. To become one with.",
+    "lessingForm": "NIGE(N)",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263178,10 +264512,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-1-18",
     "tradRom": "nigen",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "-- tøry. The whole rule [AT 65]. b) Alone . -- bejetei. Unmarried (of women only ?). c) Only . kedyn. Some. d) Oneness . luy-a -- bolxu. To become one with. NIGSIGYRE- See zigsugyri-, Part I.",
-    "lessingForm": "NIGE(N) a) Whole .",
+    "explain": "a) Whole . -- tøry. The whole rule [AT 65]. b) Alone . -- bejetei. Unmarried (of women only ?). c) Only . kedyn. Some. d) Oneness . luy-a -- bolxu. To become one with.",
+    "lessingForm": "NIGE(N)",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263189,55 +264523,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-1-19",
     "tradRom": "nigsigüre-",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NIGED- To conspire; to combine. dere --yn xonuxu. To pass the night combining the pillow: to lie with a woman.",
+    "explain": "See zigsugyri-, Part I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NIGSIGYRE-"
   },
   {
     "index": 24567,
     "sourceId": "L1208-1-20",
     "tradRom": "niged-",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "0",
+    "explain": "To conspire; to combine. dere --yn xonuxu. To pass the night combining the pillow: to lie with a woman. 0",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NIGED-"
   },
   {
     "index": 24568,
     "sourceId": "L1208-1-21",
     "tradRom": "obaγ",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "OBAΓ Precl. for obuy, oboy [V1. 46].",
+    "explain": "Precl. for obuy, oboy [V1. 46].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OBAΓ"
   },
   {
     "index": 24569,
     "sourceId": "L1208-1-22",
     "tradRom": "obuγtan",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "OBUITAN bolxu. To become a member of a clan [AT8 ].",
+    "explain": "bolxu. To become a member of a clan [AT8 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OBUITAN"
   },
   {
     "index": 24570,
     "sourceId": "L1208-1-23",
     "tradRom": "oγčin",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "OFCIN Given to anger.",
+    "explain": "Given to anger.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OFCIN"
   },
   {
     "index": 24571,
@@ -263248,8 +264582,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "л",
     "lessingForm": "OITAL-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263257,60 +264590,67 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-1-25",
     "tradRom": "oγtul-",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "OITUL- To stalk game and shoot.",
+    "explain": "To stalk game and shoot.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OITUL-"
   },
   {
     "index": 24573,
     "sourceId": "L1208-1-26",
     "tradRom": "oi",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "OI jin irgen. Forest people, hunters.",
+    "explain": "jin irgen. Forest people, hunters.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OI"
   },
   {
     "index": 24574,
     "sourceId": "L1208-1-27",
     "tradRom": "oisulaldu-",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "OISULALDU- To harm each other [ET 73]. See oisulad- Pt.I. ORDU",
+    "explain": "To harm each other [ET 73]. See oisulad- Pt.I.",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OISULALDU-"
   },
   {
     "index": 24575,
     "sourceId": "L1208-1-28",
     "tradRom": "oitu",
-    "imageName": "LessingDict_Page_1208.jpg"
+    "imageName": "LessingDict_Page_1208.jpg",
+    "explain": "Spirited [AT 24].",
+    "lessingForm": "OITU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24576,
     "sourceId": "L1208-1-29",
     "tradRom": "oki",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "yile jin --xu. To summit, maximum of acts [AT45].",
+    "explain": "yile jin --xu. To summit, maximum of acts [AT45]. -1208-",
     "cyrillic": "нБлпл",
     "lessingForm": "OKI",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
     "index": 24577,
     "sourceId": "L1208-2-01",
     "tradRom": "nigemüsün",
-    "imageName": "LessingDict_Page_1208.jpg"
+    "imageName": "LessingDict_Page_1208.jpg",
+    "explain": "At one blow [AT 117]. To weaken.",
+    "lessingForm": "NIGEMYSYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24578,
@@ -263321,31 +264661,40 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "To weaken.",
     "lessingForm": "NILXARA-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24579,
     "sourceId": "L1208-2-03",
     "tradRom": "nirai",
-    "imageName": "LessingDict_Page_1208.jpg"
+    "imageName": "LessingDict_Page_1208.jpg",
+    "explain": "bej-e. Tender body [AT 45 ].",
+    "lessingForm": "NIRAI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24580,
     "sourceId": "L1208-2-04",
     "tradRom": "niskül",
-    "imageName": "LessingDict_Page_1208.jpg"
+    "imageName": "LessingDict_Page_1208.jpg",
+    "explain": "See niskel, Pt. I.",
+    "lessingForm": "NISKYL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24581,
     "sourceId": "L1208-2-05",
     "tradRom": "niǰed",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "toluyai. One per head.",
-    "lessingForm": "NIZE[GE]D One each",
+    "explain": "One each toluyai. One per head.",
+    "lessingForm": "NIZE[GE]D",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -263353,10 +264702,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-2-05",
     "tradRom": "niǰeged",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "toluyai. One per head.",
-    "lessingForm": "NIZE[GE]D One each",
+    "explain": "One each toluyai. One per head.",
+    "lessingForm": "NIZE[GE]D",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -263367,8 +264716,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "ger yn -- . The officials of the naiman cayan ger.",
     "lessingForm": "NOJAD",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263376,23 +264724,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-2-07",
     "tradRom": "nom",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NOM busu. Secular; profane. xayan [ S. dharma = justice ]. Lord of Justice, (epith. of Erlig Xayan as Judge of the Dead). [ S. dharma = Buddhist religion]. King of Religion (title given to secular rulers who patronized Buddhism, also title of high-ranking lamas). yiledky. To spread Buddhism, adhere to the Buddhist faith.",
+    "explain": "busu. Secular; profane. xayan [ S. dharma = justice ]. Lord of Justice, (epith. of Erlig Xayan as Judge of the Dead). [ S. dharma = Buddhist religion]. King of Religion (title given to secular rulers who patronized Buddhism, also title of high-ranking lamas). yiledky. To spread Buddhism, adhere to the Buddhist faith.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NOM"
   },
   {
     "index": 24585,
     "sourceId": "L1208-2-08",
     "tradRom": "nomčin",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NORMALA- To normalize, standardize.",
-    "lessingForm": "NOMCIN A Buddhist.",
+    "explain": "Buddhist.",
+    "lessingForm": "NOMCIN A",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263400,11 +264746,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-2-09",
     "tradRom": "normala-",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NøGYGE debter. The second book or volume of a work.",
+    "explain": "To normalize, standardize. NøGYGE debter. The second book or volume of a work. -- eke. The second mother [AT 94].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NORMALA-"
   },
   {
     "index": 24587,
@@ -263413,19 +264759,20 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1208.jpg",
     "explain": "-- eke. The second mother [AT 94].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24588,
     "sourceId": "L1208-2-11",
     "tradRom": "nöküče-",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "--je . Let us be friends [AT 20].",
-    "lessingForm": "NOKYCE- To unite. See Pt. I.",
+    "explain": "To unite. See Pt. I. --je . Let us be friends [AT 20].",
+    "lessingForm": "NOKYCE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -263434,7 +264781,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "nöküčeldü-",
     "imageName": "LessingDict_Page_1208.jpg",
     "explain": "ger --ky. To set up housekeeping [SH/Mo.2-358].",
-    "lessingForm": "NOKYCELDY-"
+    "lessingForm": "NOKYCELDY-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24590,
@@ -263445,8 +264795,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "б",
     "lessingForm": "NUTUS",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263454,22 +264803,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-2-14",
     "tradRom": "nuntuγ",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NUNTUΓ Obs. for nutuy. See Pt. I.",
+    "explain": "Obs. for nutuy. See Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NUNTUΓ"
   },
   {
     "index": 24592,
     "sourceId": "L1208-2-15",
     "tradRom": "nuta",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "NUTA Thoroughly [AT 125].",
+    "explain": "Thoroughly [AT 125].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NUTA"
   },
   {
     "index": 24593,
@@ -263480,7 +264829,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "Свбв",
     "lessingForm": "NUTUF",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -263490,11 +264839,9 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1208.jpg",
     "explain": "--n bayuxu. To encamp [ AT 20].",
     "cyrillic": "а",
-    "lessingForm": "NUTUFLA-",
+    "lessingForm": "NUTUFLA-/ NUTAΓLA-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263502,17 +264849,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-2-18",
     "tradRom": "ol-",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "OL- To earn a living.",
+    "explain": "To earn a living.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OL-"
   },
   {
     "index": 24596,
     "sourceId": "L1208-2-19",
     "tradRom": "olan",
-    "imageName": "LessingDict_Page_1208.jpg"
+    "imageName": "LessingDict_Page_1208.jpg",
+    "explain": "See ula.",
+    "lessingForm": "OLAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24597,
@@ -263523,9 +264875,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "вПблт сл",
     "lessingForm": "OLDA-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263533,56 +264883,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1208-2-21",
     "tradRom": "olunčuγ",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "OLUNCUΓ (orig. oloncoγ) Saddlebag [SH/Mo. 3-390].",
+    "explain": "(orig. oloncoγ) Saddlebag [SH/Mo. 3-390].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OLUNCUΓ"
   },
   {
     "index": 24599,
     "sourceId": "L1208-2-22",
     "tradRom": "olunki",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "OLUNKI The major part (of a group), majority.",
+    "explain": "The major part (of a group), majority.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OLUNKI"
   },
   {
     "index": 24600,
     "sourceId": "L1208-2-23",
     "tradRom": "ongγača",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "ONGΓACA Same as ongyuca.",
+    "explain": "Same as ongyuca.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ONGΓACA"
   },
   {
     "index": 24601,
     "sourceId": "L1208-2-24",
     "tradRom": "orai",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "ORAI Precl. for orui.",
+    "explain": "Precl. for orui.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORAI"
   },
   {
     "index": 24602,
     "sourceId": "L1208-2-25",
     "tradRom": "oran",
     "imageName": "LessingDict_Page_1208.jpg",
-    "explain": "ORAN Precl. for orun.",
+    "explain": "Precl. for orun.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORAN"
   },
   {
     "index": 24603,
@@ -263593,8 +264942,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "бос",
     "lessingForm": "ORDU",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -263605,7 +264953,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "name Pi-shu-shan-chuang. For Ch. characters see Giles 9663, 10065, 2760, or Mathew 3108, 5866, 5630, 1454.",
     "lessingForm": "ORDU",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263613,67 +264961,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1209-1-02",
     "tradRom": "orγa",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ORTA(N), oryo. See irgen.",
+    "explain": "oryo. See irgen.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORTA(N),"
   },
   {
     "index": 24606,
     "sourceId": "L1209-1-02",
     "tradRom": "orγan",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ORTA(N), oryo. See irgen.",
+    "explain": "oryo. See irgen.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORTA(N),"
   },
   {
     "index": 24607,
     "sourceId": "L1209-1-03",
     "tradRom": "orii-",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ORII -, orijata-. To call back hunting falcons, etc. with a lure.",
+    "explain": "orijata-. To call back hunting falcons, etc. with a lure.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORII -,"
   },
   {
     "index": 24608,
     "sourceId": "L1209-1-04",
     "tradRom": "orki-",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ORKI- To throw or turn somebody out [AT 69] alazu --xu. To do away by killing. See Pt I under orki-, b [AT 69].",
+    "explain": "To throw or turn somebody out [AT 69] alazu --xu. To do away by killing. See Pt I under orki-, b [AT 69].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORKI-"
   },
   {
     "index": 24609,
     "sourceId": "L1209-1-05",
     "tradRom": "orla-",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ORLA- To growl.",
+    "explain": "To growl.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORLA-"
   },
   {
     "index": 24610,
     "sourceId": "L1209-1-06",
     "tradRom": "oru",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "-- ece salaysan. Proceeded from the womb of.. takil un --. Priest (?).",
-    "lessingForm": "ORU(N) Womb.",
+    "explain": "Womb. -- ece salaysan. Proceeded from the womb of.. takil un --. Priest (?).",
+    "lessingForm": "ORU(N)",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263681,10 +265027,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1209-1-06",
     "tradRom": "orun",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "-- ece salaysan. Proceeded from the womb of.. takil un --. Priest (?).",
-    "lessingForm": "ORU(N) Womb.",
+    "explain": "Womb. -- ece salaysan. Proceeded from the womb of.. takil un --. Priest (?).",
+    "lessingForm": "ORU(N)",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263692,12 +265038,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1209-1-07",
     "tradRom": "oru-",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ORU- To join; to earn a living (?); to begin [AT 73]. singsin dyr --xu. To obey a prognostication [ATll6]. uxayan --xu. To begin to understand [SH/Mo. 3-368]. xubisxal dur --xu. To start a revolution. wen dyr --xu. To follow the words, take the advice [AT 31].",
+    "explain": "To join; to earn a living (?); to begin [AT 73]. singsin dyr --xu. To obey a prognostication [ATll6]. uxayan --xu. To begin to understand [SH/Mo. 3-368]. xubisxal dur --xu. To start a revolution. wen dyr --xu. To follow the words, take the advice",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORU-"
   },
   {
     "index": 24613,
@@ -263707,7 +265052,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "xan --. Viceroy.",
     "lessingForm": "ORUCI",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263715,100 +265060,98 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1209-1-09",
     "tradRom": "öber",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØBER zayur-a. Elsewhere, privately [AT 68, 77].",
+    "explain": "zayur-a. Elsewhere, privately [AT 68, 77].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØBER"
   },
   {
     "index": 24615,
     "sourceId": "L1209-1-10",
     "tradRom": "öber_e",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØBER-E bolxu. To separate from, abandon [AT 74]. -- busu. No(t) other (than); just that. segyder ece ---e nøkyr ygei, segyl ece -- -e cucay- a ygei. (You have) no other companion than (your) shadow; (you have) no other whip than (your) tail [AT 14].",
+    "explain": "bolxu. To separate from, abandon [AT 74]. -- busu. No(t) other (than); just that. segyder ece ---e nøkyr ygei, segyl ece -- -e cucay- a ygei. (You have) no other companion than (your) shadow; (you have) no other whip than (your) tail",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØBER-E"
   },
   {
     "index": 24616,
     "sourceId": "L1209-1-11",
     "tradRom": "öbesüben",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØBESYBEN tngri bolxu. To die a natural death .",
+    "explain": "tngri bolxu. To die a natural death .",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØBESYBEN"
   },
   {
     "index": 24617,
     "sourceId": "L1209-1-12",
     "tradRom": "öbür",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØBYR [ = ebyr ] tyr køl dyr oruysan. \"Entered into (my) bosom and legs\" -- being my wife [SH/Mo. 1-357].",
+    "explain": "ebyr ] tyr køl dyr oruysan. \"Entered into (my) bosom and legs\" -- being my wife [SH/Mo. 1-357].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØBYR [ ="
   },
   {
     "index": 24618,
     "sourceId": "L1209-1-13",
     "tradRom": "öčig",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØCIG øciky. To state one's case, recite one's plea [ATl04].",
+    "explain": "øciky. To state one's case, recite one's plea [ATl04].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØCIG"
   },
   {
     "index": 24619,
     "sourceId": "L1209-1-14",
     "tradRom": "ögede",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØGEDE bolyaxu. To cause people to come in stately pro- gress [AT 124]. -- bolxu. (hon). To move, as in imperial progress, or to nirvana [AT 46].",
+    "explain": "bolyaxu. To cause people to come in stately pro- gress [AT 124]. -- bolxu. (hon). To move, as in imperial progress, or to nirvana [AT 46].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØGEDE"
   },
   {
     "index": 24620,
     "sourceId": "L1209-1-15",
     "tradRom": "öger_e",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØGER-E kiky. To separate (physically, as head from chest) See øber-e [AT 08].",
+    "explain": "kiky. To separate (physically, as head from chest) See øber-e [AT 08].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØGER-E"
   },
   {
     "index": 24621,
     "sourceId": "L1209-1-16",
     "tradRom": "öglige",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØGLIGE Sacrificial dish [AT 65].",
+    "explain": "Sacrificial dish [AT 65].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØGLIGE"
   },
   {
     "index": 24622,
     "sourceId": "L1209-1-17",
     "tradRom": "ölčigen",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØLENG Green grass [SH/Mo. 3-298, note 2].",
-    "lessingForm": "ØLCIGEN Front (part) [AT 7].",
+    "explain": "Front (part) [AT 7].",
+    "lessingForm": "ØLCIGEN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263816,33 +265159,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1209-1-18",
     "tradRom": "öleng",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØLGY- To cross, go over.",
+    "explain": "Green grass [SH/Mo. 3-298, note 2].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØLENG"
   },
   {
     "index": 24624,
     "sourceId": "L1209-1-19",
     "tradRom": "ölgü-",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØLKE Sunny side of a mountain. Same as ølge,'Pt. I [ET 120]. ØLKELE- To cross, go over. See AT p. 142, note 7 ].",
+    "explain": "To cross, go over.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØLGY-"
   },
   {
     "index": 24625,
     "sourceId": "L1209-1-20",
     "tradRom": "ölke",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "∅NDYR deger-e yarxu. To go out \"on high\" (of emperor)",
-    "lessingForm": "ØLY Grey.",
+    "explain": "Sunny side of a mountain. Same as ølge,'Pt. I",
+    "lessingForm": "ØLKE",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263850,62 +265192,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1209-1-21",
     "tradRom": "ölkele-",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "[AT 57].",
+    "explain": "To cross, go over. See AT p. 142, note 7 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØLKELE-"
   },
   {
     "index": 24627,
     "sourceId": "L1209-1-22",
     "tradRom": "ölü",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "R",
+    "explain": "Grey.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØLY"
   },
   {
     "index": 24628,
     "sourceId": "L1209-1-23",
     "tradRom": "öndür",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "RABZAM See rabdam.",
+    "explain": "deger-e yarxu. To go out \"on high\" (of emperor)",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "∅NDYR"
   },
   {
     "index": 24629,
     "sourceId": "L1209-1-24",
     "tradRom": "rabǰam",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "RABZAMBA [ T. rab byams pa ] Lowest rank given to",
+    "explain": "See rabdam.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "RABZAM"
   },
   {
     "index": 24630,
     "sourceId": "L1209-1-25",
     "tradRom": "rabǰamba",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "students of canid.\" See B. 'Supplement and doramba, laramba in this Appendix. RINBOCE ORUΓ xiryal. White horse with black back [AT 18]. Infra.",
+    "explain": "rab byams pa ] Lowest rank given to students of canid.\" See B. 'Supplement and doramba, laramba in this Appendix. -1209-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "RABZAMBA [ T."
   },
   {
     "index": 24631,
     "sourceId": "L1209-2-01",
     "tradRom": "oruγ",
-    "imageName": "LessingDict_Page_1209.jpg"
+    "imageName": "LessingDict_Page_1209.jpg",
+    "explain": "xiryal. White horse with black back [AT 18]. Infra.",
+    "lessingForm": "ORUΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24632,
@@ -263915,7 +265261,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "zu jabuxu. To subdue. ulus i --xu. To subdue a people.",
     "lessingForm": "ORUTUL-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -263923,67 +265269,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1209-2-03",
     "tradRom": "orulča-",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ORULCA- To interfere.",
+    "explain": "To interfere.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORULCA-"
   },
   {
     "index": 24634,
     "sourceId": "L1209-2-04",
     "tradRom": "orusi-",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ORUSI- To abide; to inherit.",
+    "explain": "To abide; to inherit.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORUSI-"
   },
   {
     "index": 24635,
     "sourceId": "L1209-2-05",
     "tradRom": "oturila-",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "OTURILA- To hunt game in spring before it gets pregnant. See oturla-, Pt. I. OXUR (orig. [h]OXAR ) Having a short tail. See oxur, Pt. I.",
+    "explain": "To hunt game in spring before it gets pregnant. See oturla-, Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OTURILA-"
   },
   {
     "index": 24636,
     "sourceId": "L1209-2-06",
     "tradRom": "oqur",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "OXURA- To become short or scarce. idegen uyuxu ji --xu. To become short of food and drink. To have food and drink in short supply.",
+    "explain": "(orig. [h]OXAR ) Having a short tail. See oxur, Pt. I.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OXUR"
   },
   {
     "index": 24637,
     "sourceId": "L1209-2-07",
     "tradRom": "oqura-",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "φ",
+    "explain": "To become short or scarce. idegen uyuxu ji --xu. To become short of food and drink. To have food and drink in short supply. φ",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OXURA-"
   },
   {
     "index": 24638,
     "sourceId": "L1209-2-08",
     "tradRom": "öngge",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØNGGE Beauty, beautiful woman or women [AT 42].",
+    "explain": "Beauty, beautiful woman or women [AT 42].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØNGGE"
   },
   {
     "index": 24639,
@@ -263993,7 +265338,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "mergen y -- . Having the aspect or appearance of a sage.",
     "lessingForm": "ØNGGETY",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264001,64 +265346,89 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1209-2-10",
     "tradRom": "önür",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØNYR kymyn. Relatives [AT 23].",
+    "explain": "kymyn. Relatives [AT 23].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØNYR"
   },
   {
     "index": 24641,
     "sourceId": "L1209-2-11",
     "tradRom": "örgesün",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØRGESYN Pain, suffering [AT 85].",
+    "explain": "Pain, suffering [AT 85].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØRGESYN"
   },
   {
     "index": 24642,
     "sourceId": "L1209-2-12",
     "tradRom": "öri",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "kymyn dy nige morin u -- axu. To be indebted to somebody for one horse [AT 112 ]. ØRLYG Courageous, valorous [ET 75]. ØRLYGE manayar. Early in the morning [AT 57 ]. ØRLYGEDE In the morning, during the morning.",
+    "explain": "kymyn dy nige morin u -- axu. To be indebted to somebody for one horse [AT 112 ].",
     "lessingForm": "ØRI",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 24643,
     "sourceId": "L1209-2-13",
     "tradRom": "örlüg",
-    "imageName": "LessingDict_Page_1209.jpg"
+    "imageName": "LessingDict_Page_1209.jpg",
+    "explain": "Courageous, valorous [ET 75].",
+    "lessingForm": "ØRLYG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24644,
     "sourceId": "L1209-2-14",
     "tradRom": "örlüge",
-    "imageName": "LessingDict_Page_1209.jpg"
+    "imageName": "LessingDict_Page_1209.jpg",
+    "explain": "manayar. Early in the morning [AT 57 ].",
+    "lessingForm": "ØRLYGE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24645,
     "sourceId": "L1209-2-15",
     "tradRom": "örlügede",
-    "imageName": "LessingDict_Page_1209.jpg"
+    "imageName": "LessingDict_Page_1209.jpg",
+    "explain": "In the morning, during the morning.",
+    "lessingForm": "ØRLYGEDE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24646,
     "sourceId": "L1209-2-16",
     "tradRom": "örlügüd",
-    "imageName": "LessingDict_Page_1209.jpg"
+    "imageName": "LessingDict_Page_1209.jpg",
+    "explain": "Pl. of ørlyg.",
+    "lessingForm": "ØRLYGYD",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24647,
     "sourceId": "L1209-2-17",
     "tradRom": "örü-",
     "wIndex": "1",
-    "imageName": "LessingDict_Page_1209.jpg"
+    "imageName": "LessingDict_Page_1209.jpg",
+    "explain": "To hide [AT 15 ].",
+    "lessingForm": "ØRY-, 1.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24648,
@@ -264069,8 +265439,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "ysyg --ky. To set up in type. See Pt. I.",
     "lessingForm": "ØRY-, 2.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264078,51 +265447,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1209-2-19",
     "tradRom": "örüg",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "ØRYG [ fr. Turkish ] Quiet, in peace.",
+    "explain": "fr. Turkish ] Quiet, in peace.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ØRYG ["
   },
   {
     "index": 24650,
     "sourceId": "L1209-2-20",
     "tradRom": "örügesün",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "-- xocuraysan. Left behind as a widow. ØS-Hostility [AT 99 ].",
-    "lessingForm": "ØRYGESYN Widow.",
+    "explain": "Widow. -- xocuraysan. Left behind as a widow. ØS-Hostility [AT 99 ].",
+    "lessingForm": "ØRYGESYN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24651,
     "sourceId": "L1209-2-21",
     "tradRom": "ös-hostilitü",
-    "imageName": "LessingDict_Page_1209.jpg"
+    "imageName": "LessingDict_Page_1209.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24652,
     "sourceId": "L1209-2-22",
     "tradRom": "öslyetü",
-    "imageName": "LessingDict_Page_1209.jpg"
+    "imageName": "LessingDict_Page_1209.jpg",
+    "explain": "cinu --. A person who hates (hated ) you [AT 109].",
+    "lessingForm": "ØSIJETY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24653,
     "sourceId": "L1209-2-23",
     "tradRom": "ösür-",
-    "imageName": "LessingDict_Page_1209.jpg"
+    "imageName": "LessingDict_Page_1209.jpg",
+    "explain": "To sprinkle.",
+    "lessingForm": "ØSYR-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24654,
     "sourceId": "L1209-2-24",
     "tradRom": "rasiyan",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "cinu --. A person who hates (hated ) you [AT 109]. ØSYR- To sprinkle. RASIJAN u araki. The drink rasijan [AT 36].",
-    "lessingForm": "ØSIJETY",
+    "explain": "u araki. The drink rasijan [AT 36].",
+    "lessingForm": "RASIJAN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -264130,42 +265513,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1209-2-25",
     "tradRom": "rinboče",
     "imageName": "LessingDict_Page_1209.jpg",
-    "explain": "Great jewel, titfe of the highest Lamaist clergy. such as the Dalai Lama, Panchen Rinpoche, etc. S SABA zebseg. Tools, implements; weapons, arms.",
-    "lessingForm": "RINBOCE, RINBOCI [T. rin po che, S. mahāratna]",
+    "explain": "rin po che, S. mahāratna] Great jewel, titfe of the highest Lamaist clergy. such as the Dalai Lama, Panchen Rinpoche, etc.",
+    "lessingForm": "RINBOCE, RINBOCI [T.",
     "ocrFlags": [
-      "CROSS_PAGE",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
     "index": 24656,
     "sourceId": "L1210-1-01",
     "tradRom": "saba",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "zebseg. Tools, implements; weapons, arms.",
+    "lessingForm": "SABA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24657,
     "sourceId": "L1210-1-02",
     "tradRom": "sača-",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "caca-.",
+    "lessingForm": "SACA- =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24658,
     "sourceId": "L1210-1-03",
     "tradRom": "saγaldurγ_a",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SAΓAMSIRA- To be lonely, abandoned, deserted.",
-    "lessingForm": "SAΓALDURΓ-A Chin-strap. See Pt. I.",
+    "explain": "Chin-strap. See Pt. I.",
+    "lessingForm": "SAΓALDURΓ-A",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24659,
     "sourceId": "L1210-1-04",
     "tradRom": "saγamsira-",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "To be lonely, abandoned, deserted.",
+    "lessingForm": "SAΓAMSIRA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24660,
@@ -264175,8 +265571,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "cayan --. Light grey.",
     "lessingForm": "SATANAL",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264184,74 +265579,77 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1210-1-06",
     "tradRom": "saγar",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SAΓAR Rare for sayad.",
+    "explain": "Rare for sayad.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAΓAR"
   },
   {
     "index": 24662,
     "sourceId": "L1210-1-07",
     "tradRom": "saγu-",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SAIU- To reign, rule [AT 62].",
+    "explain": "To reign, rule [AT 62].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAIU-"
   },
   {
     "index": 24663,
     "sourceId": "L1210-1-08",
     "tradRom": "sayin",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SAIN bolxu. To recover from illness. -- kymyn. Nobleman AT 68 ]. abxu du bi -- buju. I am good or strong enough to take [AT 38].",
+    "explain": "bolxu. To recover from illness. -- kymyn. Nobleman AT 68 ]. abxu du bi -- buju. I am good or strong enough to take [AT 38].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAIN"
   },
   {
     "index": 24664,
     "sourceId": "L1210-1-09",
     "tradRom": "sala",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SALA modun The sal tree, Shoren robusta.",
+    "explain": "modun The sal tree, Shoren robusta.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SALA"
   },
   {
     "index": 24665,
     "sourceId": "L1210-1-10",
     "tradRom": "salbar",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SALBAR sibayun. Clawed bird, some bird of prey [AT 29]. SIIKIREN In parts, here and there (?)",
+    "explain": "sibayun. Clawed bird, some bird of prey [AT 29]. SIIKIREN In parts, here and there (?)",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SALBAR"
   },
   {
     "index": 24666,
     "sourceId": "L1210-1-11",
     "tradRom": "sali",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SALI (S. šali, ali) = salu. Rice.",
+    "explain": "šali, ali) = salu. Rice.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SALI (S."
   },
   {
     "index": 24667,
     "sourceId": "L1210-1-12",
     "tradRom": "saltar",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "Coloring [AT 38 ].",
+    "lessingForm": "SALTAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24668,
@@ -264259,7 +265657,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sana-",
     "imageName": "LessingDict_Page_1210.jpg",
     "explain": "aci ji --xu. To be grateful. camaiju axa gezy yly --m bi. I do not consider you my elder brother [AT 73].",
-    "lessingForm": "SANA-"
+    "lessingForm": "SANA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24669,
@@ -264267,7 +265668,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sanal",
     "imageName": "LessingDict_Page_1210.jpg",
     "explain": "arad bygyde jin -- abxu. Referendum.",
-    "lessingForm": "SANAL"
+    "lessingForm": "SANAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24670,
@@ -264277,7 +265681,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "--ysan ysyn. Disordered hair [AT l01] See sandurá- Part I.",
     "lessingForm": "SANTARA-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264285,189 +265689,199 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1210-1-16",
     "tradRom": "sartaγčin",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SARTAICIN Western nations.",
+    "explain": "Western nations.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SARTAICIN"
   },
   {
     "index": 24672,
     "sourceId": "L1210-1-17",
     "tradRom": "sasa",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SASA = saca, caca.",
+    "explain": "saca, caca.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SASA ="
   },
   {
     "index": 24673,
     "sourceId": "L1210-1-18",
     "tradRom": "sedkil",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SEDKIL barixu. To take courage. --. yn niyur i yzeky. \" To look into the face of one's mind' = to understand or know oneself.",
+    "explain": "barixu. To take courage. --. yn niyur i yzeky. \" To look into the face of one's mind' = to understand or know oneself.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEDKIL"
   },
   {
     "index": 24674,
     "sourceId": "L1210-1-19",
     "tradRom": "sedkisi",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SEDKISI ygei sym-e. Translation of T. Bsam yas (S. acintya - \"marvelous\"), name of the oldest monastery in Tibet.",
+    "explain": "ygei sym-e. Translation of T. Bsam yas (S. acintya - \"marvelous\"), name of the oldest monastery in Tibet.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEDKISI"
   },
   {
     "index": 24675,
     "sourceId": "L1210-1-20",
     "tradRom": "seger",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SEGER Arch of the foot.",
+    "explain": "Arch of the foot.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEGER"
   },
   {
     "index": 24676,
     "sourceId": "L1210-1-21",
     "tradRom": "segül",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SEGYL aday. Tail end [AT 74 ].",
+    "explain": "aday. Tail end [AT 74 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEGYL"
   },
   {
     "index": 24677,
     "sourceId": "L1210-1-22",
     "tradRom": "sekü-",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SEKY- / SEGY- To tuck up, turn up. See Pt, I under seky- [SH/Mo. 2-365].",
+    "explain": "To tuck up, turn up. See Pt, I under seky- [SH/Mo. 2-365].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEKY- / SEGY-"
   },
   {
     "index": 24678,
     "sourceId": "L1210-1-23",
     "tradRom": "senčin",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SENCIN [ Ch. hsien-sheng ] A sage [AT 55].",
+    "explain": "Ch. hsien-sheng ] A sage [AT 55].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SENCIN ["
   },
   {
     "index": 24679,
     "sourceId": "L1210-1-24",
     "tradRom": "sengtere-",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SENGTERE- To become clear (mind) [SH/Mo. 3-368].",
+    "explain": "To become clear (mind) [SH/Mo. 3-368].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SENGTERE-"
   },
   {
     "index": 24680,
     "sourceId": "L1210-1-25",
     "tradRom": "sere-",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SERE- To learn (the news) [AT 93].",
+    "explain": "To learn (the news) [AT 93].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SERE-"
   },
   {
     "index": 24681,
     "sourceId": "L1210-1-26",
     "tradRom": "sereltei",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SERELTEI Cautious, watchful [AT 23 ].",
+    "explain": "Cautious, watchful [AT 23 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SERELTEI"
   },
   {
     "index": 24682,
     "sourceId": "L1210-1-27",
     "tradRom": "serigün",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SERIGYN ynen yges. Hard and inconvenient words or advice.",
+    "explain": "ynen yges. Hard and inconvenient words or advice.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SERIGYN"
   },
   {
     "index": 24683,
     "sourceId": "L1210-1-28",
     "tradRom": "sermei",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SERMEI A worn-out fur coat (of deer or saiga fur ); worn-out fur.",
+    "explain": "worn-out fur coat (of deer or saiga fur ); worn-out fur.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SERMEI A"
   },
   {
     "index": 24684,
     "sourceId": "L1210-1-29",
     "tradRom": "seǰigle-",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SEZIGLE- To be in fear of [AT l14]. SIBELGER = sibilger String of hair knotted on each side behind the ears. SIBTUΓAR Angular (bird's tail) [AT 8'3 ].",
+    "explain": "To be in fear of [AT l14].",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEZIGLE-"
   },
   {
     "index": 24685,
     "sourceId": "L1210-1-30",
     "tradRom": "seǰigür",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "[ AT 116 ].",
+    "explain": "blow from the horns [ AT 116 ]. -1210-",
     "cyrillic": "в",
-    "lessingForm": "SEZIGYR, SECIGYR, SICIGYR A blow from the horns",
+    "lessingForm": "SEZIGYR, SECIGYR, SICIGYR A",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
     "index": 24686,
     "sourceId": "L1210-2-01",
     "tradRom": "sibelger",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "sibilger String of hair knotted on each side behind the ears.",
+    "lessingForm": "SIBELGER =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24687,
     "sourceId": "L1210-2-02",
     "tradRom": "sibtuγar",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "Angular (bird's tail) [AT 8'3 ].",
+    "lessingForm": "SIBTUΓAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24688,
     "sourceId": "L1210-2-03",
     "tradRom": "silbülgür",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "See sibelger. SICABALZA-To crawl.",
+    "lessingForm": "SILBYLGYR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24689,
@@ -264477,8 +265891,8 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "SICAXAN Kneecap [AT p. 140, note on ch. 41 ].",
     "lessingForm": "SICABALZA-To crawl.",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL",
+      "NO_LINE"
     ]
   },
   {
@@ -264486,44 +265900,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1210-2-05",
     "tradRom": "sičaqan",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SIDARLAL yiledky. To conduct a religious service",
+    "explain": "Kneecap [AT p. 140, note on ch. 41 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SICAXAN"
   },
   {
     "index": 24691,
     "sourceId": "L1210-2-06",
     "tradRom": "sidarlal",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "(loan transl. from T. bsnyen par byed pa ).",
+    "explain": "yiledky. To conduct a religious service (loan transl. from T. bsnyen par byed pa ).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIDARLAL"
   },
   {
     "index": 24692,
     "sourceId": "L1210-2-07",
     "tradRom": "sidi",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SIDI jin ecys. Doctrine, tenet (loan transl. fr. T. grub",
+    "explain": "jin ecys. Doctrine, tenet (loan transl. fr. T. grub mthah, S. siddhānta. degedy jin --. The higher grades of siddhi. jery jin --. The common siddhi(s).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIDI"
   },
   {
     "index": 24693,
     "sourceId": "L1210-2-08",
     "tradRom": "sigi",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "mthah, S. siddhānta. degedy jin --. The higher grades of siddhi. jery jin --. The common siddhi(s).",
+    "explain": "mixa. The flesh growing between the teeth (gums?). [SH/Mo. 3-330].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIGI"
   },
   {
     "index": 24694,
@@ -264532,62 +265946,86 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1210.jpg",
     "explain": "SIGI mixa. The flesh growing between the teeth (gums?). [SH/Mo. 3-330].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24695,
     "sourceId": "L1210-2-10",
     "tradRom": "siker",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SIKI mixa, See sigi mixa. SIL Exterior, appearance [SH/Mo. 3-383 ]. SILA Same as šayšabad. See B. suppl.",
-    "lessingForm": "SIKER Licorice [ ET 122].",
+    "explain": "Licorice [ ET 122].",
+    "lessingForm": "SIKER",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24696,
     "sourceId": "L1210-2-11",
     "tradRom": "siki",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "mixa, See sigi mixa.",
+    "lessingForm": "SIKI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24697,
     "sourceId": "L1210-2-12",
     "tradRom": "sil",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "Exterior, appearance [SH/Mo. 3-383 ].",
+    "lessingForm": "SIL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24698,
     "sourceId": "L1210-2-13",
     "tradRom": "sila",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "Same as šayšabad. See B. suppl.",
+    "lessingForm": "SILA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24699,
     "sourceId": "L1210-2-14",
     "tradRom": "silče-",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "To slip [AT 105 ].",
+    "lessingForm": "SILCE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24700,
     "sourceId": "L1210-2-15",
     "tradRom": "sile",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "See sili, Pt. I.",
+    "lessingForm": "SILE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24701,
     "sourceId": "L1210-2-16",
     "tradRom": "silegebüri",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "temyr --. Long iron poker-like tool for cleaning Chinese chimneys.",
-    "lessingForm": "SILEGEBYRI Crutch, stick (?). See Pt. I.",
+    "explain": "Crutch, stick (?). See Pt. I. temyr --. Long iron poker-like tool for cleaning Chinese chimneys.",
+    "lessingForm": "SILEGEBYRI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -264595,11 +266033,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1210-2-17",
     "tradRom": "silemde-",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SILEMELZE- To drivel, slobber [SH/Mo. 2-371 ].",
-    "lessingForm": "SILEMDE- See Pt. I, silemede- [SH",
+    "explain": "See Pt. I, silemede- [SH/Mo. 2-371 ].",
+    "lessingForm": "SILEMDE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264607,79 +266044,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1210-2-18",
     "tradRom": "silemelǰe-",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SILGI Mountain trail [SH/Mo. 3-390 ].",
+    "explain": "To drivel, slobber [SH/Mo. 2-371 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILEMELZE-"
   },
   {
     "index": 24704,
     "sourceId": "L1210-2-19",
     "tradRom": "silgi",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SILIMDEG [ Ch. yun-t'ai-ts'ai ] Acc. to Giles 13, 184: A vegetable found in Hupei, the stalks of which are eaten and the seeds furnish oil.",
+    "explain": "Mountain trail [SH/Mo. 3-390 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILGI"
   },
   {
     "index": 24705,
     "sourceId": "L1210-2-20",
     "tradRom": "silimdeg",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SILTEI Having a (beautiful,ugly) appearance [SH/Mo.",
+    "explain": "Ch. yun-t'ai-ts'ai ] Acc. to Giles 13, 184: A vegetable found in Hupei, the stalks of which are eaten and the seeds furnish oil.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILIMDEG ["
   },
   {
     "index": 24706,
     "sourceId": "L1210-2-21",
     "tradRom": "siltei",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "3-383].",
+    "explain": "Having a (beautiful,ugly) appearance [SH/Mo. 3-383].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILTEI"
   },
   {
     "index": 24707,
     "sourceId": "L1210-2-22",
     "tradRom": "siltesütei",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SILTESYTEI ger. Lattice work tent [SH/Mo. 2-386].",
+    "explain": "ger. Lattice work tent [SH/Mo. 2-386].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILTESYTEI"
   },
   {
     "index": 24708,
     "sourceId": "L1210-2-23",
     "tradRom": "silüglel",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SILYGLEL yn ajaly-a. Meter (in versification).",
+    "explain": "yn ajaly-a. Meter (in versification).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILYGLEL"
   },
   {
     "index": 24709,
     "sourceId": "L1210-2-24",
     "tradRom": "silüsü",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SILZIGE Illness which passes from one person to another;",
-    "lessingForm": "SILYSY Lynx (?)",
+    "explain": "Lynx (?)",
+    "lessingForm": "SILYSY",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264687,27 +266121,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1210-2-25",
     "tradRom": "silǰige",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "calamity which should have struck another person.",
+    "explain": "Illness which passes from one person to another; calamity which should have struck another person.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILZIGE"
   },
   {
     "index": 24711,
     "sourceId": "L1210-2-26",
     "tradRom": "sini",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "Dropsy(?).",
+    "lessingForm": "SINI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24712,
     "sourceId": "L1210-2-27",
     "tradRom": "sinǰi",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SIRA- To shake, tremble, shiver.",
-    "lessingForm": "SINZI",
+    "explain": "Prognostics [AT 116 ].",
+    "lessingForm": "SINZI / SINSI",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264715,23 +266154,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1210-2-28",
     "tradRom": "sira-",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "SIRBAΓADAI Having the habit of switching (swishing)",
+    "explain": "To shake, tremble, shiver.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIRA-"
   },
   {
     "index": 24714,
     "sourceId": "L1210-2-29",
     "tradRom": "sirbaγadai",
     "imageName": "LessingDict_Page_1210.jpg",
-    "explain": "its tail (horse) [ ET 122 ].",
+    "explain": "Having the habit of switching (swishing) its tail (horse) [ ET 122 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIRBAΓADAI"
   },
   {
     "index": 24715,
@@ -264739,79 +266177,120 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sirbil-",
     "imageName": "LessingDict_Page_1210.jpg",
     "explain": "ysy ben --geky. To ruffle one's hair [AT 98 ].",
-    "lessingForm": "SIRBIL-, SIRBE-"
+    "lessingForm": "SIRBIL-, SIRBE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24716,
     "sourceId": "L1210-2-31",
     "tradRom": "sire-",
-    "imageName": "LessingDict_Page_1210.jpg"
+    "imageName": "LessingDict_Page_1210.jpg",
+    "explain": "See siri-, Pt. I. [SH/Mo. 2-370 ].",
+    "lessingForm": "SIRE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24717,
     "sourceId": "L1211-1-01",
     "tradRom": "siregde-",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "lessingForm": "SIREGDE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24718,
     "sourceId": "L1211-1-02",
     "tradRom": "siregemel",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "367]. SIREGEMEL temyr. Wrought-iron; purified iron.",
-    "lessingForm": "SIREGDE- = SIRIGDE- To be cast, smelted [SH",
+    "explain": "To be cast, smelted [SH/Mo.2- 367].",
+    "lessingForm": "SIREGDE- = SIRIGDE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24719,
     "sourceId": "L1211-1-03",
     "tradRom": "siremü",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "temyr. Wrought-iron; purified iron.",
+    "lessingForm": "SIREGEMEL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24720,
     "sourceId": "L1211-1-03",
     "tradRom": "siremün",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "temyr. Wrought-iron; purified iron.",
+    "lessingForm": "SIREGEMEL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24721,
     "sourceId": "L1211-1-04",
     "tradRom": "sirγal",
     "wIndex": "1",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "Raw copper [SH/Mo. 2-370].",
+    "lessingForm": "SIREMY(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24722,
     "sourceId": "L1211-1-05",
     "tradRom": "sirγal",
     "wIndex": "2",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "See oruy, supra.",
+    "lessingForm": "SIRΓAL, 1.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24723,
     "sourceId": "L1211-1-06",
     "tradRom": "sirγuγul",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "Pale chestnut-colored (horse) [AT 39 ]. SIRΓUrUL Pale. See siryul, Pt. I [AT 38 ].",
+    "lessingForm": "SIRΓAL, 2.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24724,
     "sourceId": "L1211-1-07",
     "tradRom": "sirtü",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "ger. Lacquered tent (?) [ET 71].",
+    "lessingForm": "SIRTY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24725,
     "sourceId": "L1211-1-08",
     "tradRom": "sirtü-",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SIRΓAL, 1. See oruy, supra. SIRΓAL, 2. Pale chestnut-colored (horse) [AT 39 ]. SIRΓUrUL Pale. See siryul, Pt. I [AT 38 ]. SIRTY ger. Lacquered tent (?) [ET 71]. SIRTY- To give as a wedding gift [AT 20]. --n barildaxu. To be united (?). --n barildaxu. Situation, condition.",
-    "lessingForm": "SIREMY(N) Raw copper [SH",
+    "explain": "To give as a wedding gift [AT 20]. --n barildaxu. To be united (?). --n barildaxu. Situation, condition.",
+    "lessingForm": "SIRTY-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -264823,8 +266302,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "б",
     "lessingForm": "SITYGEN",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264832,58 +266310,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1211-1-10",
     "tradRom": "siu",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SIU biyu. . Small stag [AT 80].",
+    "explain": "biyu. . Small stag [AT 80].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIU"
   },
   {
     "index": 24728,
     "sourceId": "L1211-1-11",
     "tradRom": "siqa-",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SIXA- To fatten for slaughter.",
+    "explain": "To fatten for slaughter.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIXA-"
   },
   {
     "index": 24729,
     "sourceId": "L1211-1-12",
     "tradRom": "siqaγda-",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SIXAIDA- See sixayada-, Pt. I.",
+    "explain": "See sixayada-, Pt. I.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIXAIDA-"
   },
   {
     "index": 24730,
     "sourceId": "L1211-1-13",
     "tradRom": "sobila-",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SOBILA- To see which turn an illness takes [SH/Mo. 3-348].SYBE Entrance to a forest [AT 15]. See Pt.I.",
+    "explain": "To see which turn an illness takes [SH/Mo. 3-348].SYBE Entrance to a forest [AT 15]. See Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SOBILA-"
   },
   {
     "index": 24731,
     "sourceId": "L1211-1-14",
     "tradRom": "soγtuγa-",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "--zu unayaxu. To intoxicate somebody so that he falls down [AT 14].",
-    "lessingForm": "SOITUΓA- (orig. SUITAFA-).",
+    "explain": "(orig. SUITAFA-). --zu unayaxu. To intoxicate somebody so that he falls down [AT 14].",
+    "lessingForm": "SOITUΓA-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264891,11 +266365,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1211-1-15",
     "tradRom": "soyul",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SOJUL, SOJOL are now the generally accepted readings for sujul, Pt.I.",
+    "explain": "are now the generally accepted readings for sujul, Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SOJUL, SOJOL"
   },
   {
     "index": 24733,
@@ -264906,7 +266380,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "мт по",
     "lessingForm": "SOJURXA-",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -264914,11 +266388,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1211-1-17",
     "tradRom": "solanaγ_a",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "[SH/Mo. 1-320].",
-    "lessingForm": "SOLANAΓ-A Weasel. See Part I under SOLUNGΓ-A, 2.",
+    "explain": "Weasel. See Part I under SOLUNGΓ-A, 2. [SH/Mo. 1-320].",
+    "lessingForm": "SOLANAΓ-A",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264926,62 +266399,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1211-1-18",
     "tradRom": "sona",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SONA Gadfly, horse-fly [SH/Mo. 2-379 ].",
+    "explain": "Gadfly, horse-fly [SH/Mo. 2-379 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SONA"
   },
   {
     "index": 24736,
     "sourceId": "L1211-1-19",
     "tradRom": "sonas-",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SONAS- Prec. for sonus-.",
+    "explain": "Prec. for sonus-.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SONAS-"
   },
   {
     "index": 24737,
     "sourceId": "L1211-1-20",
     "tradRom": "songqur",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "See singyur, Pt. I [AT 22 ].",
+    "lessingForm": "SONGXUR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24738,
     "sourceId": "L1211-1-21",
     "tradRom": "sorung",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SýDYRGEN- To be an object of excitement. SØDYRTE- To be excited [SH/Mo. 3-301].",
-    "lessingForm": "SORUNG See Sorung.",
+    "explain": "See Sorung. SýDYRGEN- To be an object of excitement.",
+    "lessingForm": "SORUNG",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24739,
     "sourceId": "L1211-1-22",
     "tradRom": "södürgen-",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24740,
     "sourceId": "L1211-1-23",
     "tradRom": "södürte-",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "To be excited [SH/Mo. 3-301].",
+    "lessingForm": "SØDYRTE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24741,
     "sourceId": "L1211-1-24",
     "tradRom": "šabǰinatala",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "ŠAΓZAMUNI The Buddha Çākyamuni.",
-    "lessingForm": "ŠABZINATALA Swift.",
+    "explain": "Swift.",
+    "lessingForm": "ŠABZINATALA",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -264989,11 +266476,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1211-1-25",
     "tradRom": "šaγǰamuni",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "TALBI-",
+    "explain": "The Buddha Çākyamuni.",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ŠAΓZAMUNI"
   },
   {
     "index": 24743,
@@ -265001,13 +266488,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "tabčang",
     "imageName": "LessingDict_Page_1211.jpg",
     "explain": "naiman arslantu --. Throne carried by eight lions (Bsm., folklore).",
-    "lessingForm": "TABCANG"
+    "lessingForm": "TABCANG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24744,
     "sourceId": "L1211-1-27",
     "tradRom": "taγarčiγla-",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "To shed (blood) [SH/Mo. 3-330 ].",
+    "lessingForm": "TAΓARCIΓLA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24745,
@@ -265018,109 +266513,176 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "ой",
     "lessingForm": "TAIUL-",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
     "index": 24746,
     "sourceId": "L1211-1-29",
     "tradRom": "taγun",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "Jay. See tayu. Pt. I.",
+    "lessingForm": "TAIUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24747,
     "sourceId": "L1211-1-30",
     "tradRom": "tayidu",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "title (?) [AT 61, 90 and note p. 155].",
+    "lessingForm": "TAIDU / DAIDU A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24748,
     "sourceId": "L1211-2-01",
     "tradRom": "söyü-",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "To instruct. Cf. suju, Pt.I. --n suryaxu. Id. [SH/Mo. 3-372].",
+    "lessingForm": "SQJY- / SOJI-/ SYJI-/ SYJY-",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 24749,
     "sourceId": "L1211-2-01",
     "tradRom": "soyi-",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "To instruct. Cf. suju, Pt.I. --n suryaxu. Id. [SH/Mo. 3-372].",
+    "lessingForm": "SQJY- / SOJI-/ SYJI-/ SYJY-",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 24750,
     "sourceId": "L1211-2-01",
     "tradRom": "süyi-",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "To instruct. Cf. suju, Pt.I. --n suryaxu. Id. [SH/Mo. 3-372].",
+    "lessingForm": "SQJY- / SOJI-/ SYJI-/ SYJY-",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 24751,
     "sourceId": "L1211-2-01",
     "tradRom": "süyü-",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "To instruct. Cf. suju, Pt.I. --n suryaxu. Id. [SH/Mo. 3-372].",
+    "lessingForm": "SQJY- / SOJI-/ SYJI-/ SYJY-",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 24752,
     "sourceId": "L1211-2-02",
     "tradRom": "söyüger",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "--n suryaxu. Id. [SH/Mo. 3-372]. SØJYGER Instruction, admonition [ET 76]. SUDDANI [ S. Çuddhōdana ]. Name of father of Çakyamuni. SUΓU Bitch, female dog (?). SUTUM Cozy corner in a house [GO.]. SUJUL = SOJUL (SOYOL) which seems to be the most common reading.",
-    "lessingForm": "SQJY-",
+    "explain": "Instruction, admonition [ET 76].",
+    "lessingForm": "SØJYGER",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24753,
     "sourceId": "L1211-2-03",
     "tradRom": "suddani",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "Çuddhōdana ]. Name of father of Çakyamuni.",
+    "lessingForm": "SUDDANI [ S.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24754,
     "sourceId": "L1211-2-04",
     "tradRom": "suγu",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "Bitch, female dog (?).",
+    "lessingForm": "SUΓU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24755,
     "sourceId": "L1211-2-05",
     "tradRom": "suγum",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "Cozy corner in a house [GO.].",
+    "lessingForm": "SUTUM",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24756,
     "sourceId": "L1211-2-06",
     "tradRom": "suyul",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "which seems to be the most common reading.",
+    "lessingForm": "SUJUL = SOJUL (SOYOL)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24757,
     "sourceId": "L1211-2-07",
     "tradRom": "sultad",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "of sultan. See Pt. I . [SH/Mo. 2-378 ].",
+    "lessingForm": "SULTAD PI.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24758,
     "sourceId": "L1211-2-08",
     "tradRom": "sulqarnai",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "(fr. Ar. )\"The two-horned one,\" epithet of Alexander the Great (in folklore).",
+    "lessingForm": "SULXARNAI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24759,
     "sourceId": "L1211-2-09",
     "tradRom": "surγal",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": ".keleky. To instruct [AT 84]. yge. Words of instruction [AT 44].",
+    "lessingForm": "SURTAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24760,
     "sourceId": "L1211-2-10",
     "tradRom": "surta-",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SULXARNAI (fr. Ar. )\"The two-horned one,\" epithet of Alexander the Great (in folklore).",
-    "lessingForm": "SULTAD PI. of sultan. See Pt. I . [SH",
+    "explain": "To be worth studying [ET 46]. --xu jabudal. Something worth studying.",
+    "lessingForm": "SURTA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265128,33 +266690,35 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1211-2-11",
     "tradRom": "surul",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SURTAL .keleky. To instruct [AT 84]. yge. Words of instruction [AT 44].",
+    "explain": "The act of learning, interrogating.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SURUL"
   },
   {
     "index": 24762,
     "sourceId": "L1211-2-12",
     "tradRom": "sü",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SURTA- To be worth studying [ET 46]. --xu jabudal. Something worth studying. SURUL The act of learning, interrogating.",
+    "explain": "Soul, \" genius. See syr, Pt.I. and SYR, infra.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ],
+    "lessingForm": "SY, SYR \""
   },
   {
     "index": 24763,
     "sourceId": "L1211-2-12",
     "tradRom": "sür",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SURTA- To be worth studying [ET 46]. --xu jabudal. Something worth studying. SURUL The act of learning, interrogating.",
+    "explain": "Soul, \" genius. See syr, Pt.I. and SYR, infra.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ],
+    "lessingForm": "SY, SYR \""
   },
   {
     "index": 24764,
@@ -265163,9 +266727,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1211.jpg",
     "explain": "SY, SYR \" Soul, \" genius. See syr, Pt.I. and SYR, infra.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24765,
@@ -265175,8 +266740,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "nom i --ky. To abolish a religion or religious customs.",
     "lessingForm": "SYIDKE-",
     "ocrFlags": [
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -265184,91 +266748,87 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1211-2-15",
     "tradRom": "sümbüm",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SYMBYM [ T.gsung hbum. Hundred-thousand sayings or teachings ]. Collected religious works of a clerical author, extra-canonical miscellaneous writings.",
+    "explain": "T.gsung hbum. Hundred-thousand sayings or teachings ]. Collected religious works of a clerical author, extra-canonical miscellaneous writings.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYMBYM ["
   },
   {
     "index": 24767,
     "sourceId": "L1211-2-16",
     "tradRom": "sümes",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SYMES Pl. of sym-e: altan -- . Golden Buddha figures [SH/Mo. 3-35l ].",
+    "explain": "Pl. of sym-e: altan -- . Golden Buddha figures [SH/Mo. 3-35l ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYMES"
   },
   {
     "index": 24768,
     "sourceId": "L1211-2-17",
     "tradRom": "sünderle-",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SYNDERLE- To rise or tower.",
+    "explain": "To rise or tower.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYNDERLE-"
   },
   {
     "index": 24769,
     "sourceId": "L1211-2-18",
     "tradRom": "süng",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SYNG ulus. The Chinese Sung Dynasty ( 960 - 1279 ).",
+    "explain": "ulus. The Chinese Sung Dynasty ( 960 - 1279 ).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYNG"
   },
   {
     "index": 24770,
     "sourceId": "L1211-2-19",
     "tradRom": "sür",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SYR kycytei. Powerful, majestic, formidable. synesyn. Internal energy or power, \"soul\".",
+    "explain": "kycytei. Powerful, majestic, formidable. synesyn. Internal energy or power, \"soul\".",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYR"
   },
   {
     "index": 24771,
     "sourceId": "L1211-2-20",
     "tradRom": "sürkei",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SYRKEI Frightening, awe-inspiring; terrible.",
+    "explain": "Frightening, awe-inspiring; terrible.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYRKEI"
   },
   {
     "index": 24772,
     "sourceId": "L1211-2-21",
     "tradRom": "sürtei",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "SYRTEI Powerful, majestic, awe-inspiring.",
+    "explain": "Powerful, majestic, awe-inspiring.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYRTEI"
   },
   {
     "index": 24773,
     "sourceId": "L1211-2-22",
     "tradRom": "sürüg",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "kymyn y --. Community of men. nigen -- aduyu. One herd of horses. S SANG kesig. Reward.",
+    "explain": "kymyn y --. Community of men. nigen -- aduyu. One herd of horses. S",
     "lessingForm": "SYRYG",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265276,11 +266836,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1211-2-23",
     "tradRom": "šang",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "T",
+    "explain": "kesig. Reward. T",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SANG"
   },
   {
     "index": 24775,
@@ -265290,8 +266850,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "ayula -- . Mountains and forests [ AT 44].",
     "lessingForm": "TAITA",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265299,52 +266858,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1211-2-25",
     "tradRom": "tayiqu",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "TAIXU [ Ch. t'ai-hou, Giles Nos. 10573, 4027; Math. Nos. 6020, 2144 ] Empress [AT 64 ].",
+    "explain": "Ch. t'ai-hou, Giles Nos. 10573, 4027; Math. Nos. 6020, 2144 ] Empress [AT 64 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TAIXU ["
   },
   {
     "index": 24777,
     "sourceId": "L1211-2-26",
     "tradRom": "tala-",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "TALA- To bring in a prisoner [AT 12].",
+    "explain": "To bring in a prisoner [AT 12].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TALA-"
   },
   {
     "index": 24778,
     "sourceId": "L1211-2-27",
     "tradRom": "talaqa",
     "imageName": "LessingDict_Page_1211.jpg",
-    "explain": "TALBI- To leave behind [AT 13].",
-    "lessingForm": "TALAXA Prisoner [AT 12].",
+    "explain": "Prisoner [AT 12].",
+    "lessingForm": "TALAXA",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24779,
     "sourceId": "L1211-2-28",
     "tradRom": "talbi-",
-    "imageName": "LessingDict_Page_1211.jpg"
+    "imageName": "LessingDict_Page_1211.jpg",
+    "explain": "To leave behind [AT 13]. -1211-",
+    "lessingForm": "TALBI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24780,
     "sourceId": "L1212-1-02",
     "tradRom": "talqa",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "--zu ilegeky. To throw away, abandon [AT 57].",
+    "explain": "olza --. Booty [AT 102] See talaxa, Supra.",
     "cyrillic": "б",
-    "lessingForm": "TALBI-",
+    "lessingForm": "TALXA",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -265352,13 +266914,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-1-03",
     "tradRom": "tamaraγ",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "olza --. Booty [AT 102] See talaxa, Supra. TAMA RAΓ \"Echo word' to amaray.",
+    "explain": "\"Echo word' to amaray.",
     "cyrillic": "аП блтодабао",
-    "lessingForm": "TALXA",
+    "lessingForm": "TAMA RAΓ",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265366,12 +266926,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-1-04",
     "tradRom": "tamdurid-",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TAMDURID- To devastate, lay waste. samayun dur --xu.'To lay waste in the troubles of war.",
+    "explain": "To devastate, lay waste. samayun dur --xu.'To lay waste in the troubles of war.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TAMDURID-"
   },
   {
     "index": 24783,
@@ -265381,7 +266940,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "bej-e jin -- saizirayulxu.' Physical culture, athletics. TOrATAN",
     "lessingForm": "TAMIR",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -265393,8 +266952,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "Г",
     "lessingForm": "TANGSUT",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265402,22 +266960,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-1-07",
     "tradRom": "taramba",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TARAMBA See laramba.",
+    "explain": "See laramba.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TARAMBA"
   },
   {
     "index": 24786,
     "sourceId": "L1212-1-08",
     "tradRom": "targi",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TARGI Short-haired (?) [AT 18].",
+    "explain": "Short-haired (?) [AT 18].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TARGI"
   },
   {
     "index": 24787,
@@ -265427,7 +266985,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "muyusun. Grey duck.",
     "lessingForm": "TARMIN",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -265436,13 +266994,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "tarqaγa-",
     "imageName": "LessingDict_Page_1212.jpg",
     "explain": "--xu øgky. To distribute; to make known, as orders.",
-    "lessingForm": "TARXATA-"
+    "lessingForm": "TARXATA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24789,
     "sourceId": "L1212-1-11",
     "tradRom": "tasiγur",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "(met. ) Pain.",
+    "lessingForm": "TASIIUR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24790,
@@ -265452,7 +267018,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "ysy ben --xu. To pull one's hair [AT 64 ].",
     "lessingForm": "TASUL-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265460,24 +267026,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-1-13",
     "tradRom": "tasurqai",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TASURXAI kizayar. Remote frontier, marginal area.",
+    "explain": "kizayar. Remote frontier, marginal area.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TASURXAI"
   },
   {
     "index": 24792,
     "sourceId": "L1212-1-14",
     "tradRom": "tata-",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TATA- To use as a concubine; to purloin. bej-e dy --xu. To bring upon oneself, incur.",
+    "explain": "To use as a concubine; to purloin. bej-e dy --xu. To bring upon oneself, incur.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TATA-"
   },
   {
     "index": 24793,
@@ -265485,7 +267049,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "tegü-",
     "imageName": "LessingDict_Page_1212.jpg",
     "explain": "aryal --ky. To collect aryal.",
-    "lessingForm": "TEGY-"
+    "lessingForm": "TEGY-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24794,
@@ -265496,8 +267063,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "б",
     "lessingForm": "TEGY",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265505,72 +267071,110 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-1-17",
     "tradRom": "teli",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TELI That (middle Mong.) See ze teli. TEMDEGTEI-E Distinctly, clearly.",
+    "explain": "That (middle Mong.) See ze teli.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TELI"
   },
   {
     "index": 24796,
     "sourceId": "L1212-1-18",
     "tradRom": "temdegtei_e",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TEMTYL- * temtel-, temteri-, Pt. I. TEMTYL- To seize or lock with both arms. TENCIRDE- To be overwhelmed. See tencire-, Pt. I. TENGYLYL ygei = tengcel ygei (?) [ATp.182, note 2 on chapter 102 ]. TENGSELKILE- To find out by questioning, investigate. TERGE(N) y youl. Axle of a cart.",
-    "lessingForm": "TEMGY- To pick up [ET 76 ].",
+    "explain": "Distinctly, clearly.",
+    "lessingForm": "TEMDEGTEI-E",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 24797,
     "sourceId": "L1212-1-19",
     "tradRom": "temgü-",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "To pick up [ET 76 ].",
+    "lessingForm": "TEMGY-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24798,
     "sourceId": "L1212-1-20",
     "tradRom": "temtül-",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "temtel-, temteri-, Pt. I.",
+    "lessingForm": "TEMTYL- *",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24799,
     "sourceId": "L1212-1-21",
     "tradRom": "temtül-",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "To seize or lock with both arms.",
+    "lessingForm": "TEMTYL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24800,
     "sourceId": "L1212-1-22",
     "tradRom": "tenčirde-",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "To be overwhelmed. See tencire-, Pt. I.",
+    "lessingForm": "TENCIRDE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24801,
     "sourceId": "L1212-1-23",
     "tradRom": "tengülül",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "ygei = tengcel ygei (?) [ATp.182, note 2 on chapter 102 ].",
+    "lessingForm": "TENGYLYL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24802,
     "sourceId": "L1212-1-24",
     "tradRom": "tengselkile-",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "To find out by questioning, investigate.",
+    "lessingForm": "TENGSELKILE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24803,
     "sourceId": "L1212-1-25",
     "tradRom": "terge",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "y youl. Axle of a cart.",
+    "lessingForm": "TERGE(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24804,
     "sourceId": "L1212-1-25",
     "tradRom": "tergen",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "y youl. Axle of a cart.",
+    "lessingForm": "TERGE(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24805,
@@ -265578,7 +267182,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "terigüle-",
     "imageName": "LessingDict_Page_1212.jpg",
     "explain": "cay --ky. For the time to pass (?).",
-    "lessingForm": "TERIGYLE-"
+    "lessingForm": "TERIGYLE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24806,
@@ -265588,7 +267195,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "bej-e jin --. Autobiography.",
     "lessingForm": "TEYKE",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265596,57 +267203,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-1-28",
     "tradRom": "teünei",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TEYNEI Same as tegyn y.",
+    "explain": "Same as tegyn y.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TEYNEI"
   },
   {
     "index": 24808,
     "sourceId": "L1212-1-29",
     "tradRom": "teǰiyete",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TEZIJETE For a long time, for quite a while [AT 14].",
+    "explain": "For a long time, for quite a while [AT 14].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TEZIJETE"
   },
   {
     "index": 24809,
     "sourceId": "L1212-1-30",
     "tradRom": "tirti",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TIRTI, pl. tirtinar. [ S. tirthaka ] (Indian) heretic, non-Buddhist.",
+    "explain": "pl. tirtinar. [ S. tirthaka ] (Indian) heretic, non-Buddhist.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TIRTI,"
   },
   {
     "index": 24810,
     "sourceId": "L1212-1-31",
     "tradRom": "tngri",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TNGRI Archaic (Uigur spelling) for tengri. xan --. Khan-Heaven, His Majesty the Khan (cf. S. deva) [AT 103].",
+    "explain": "Archaic (Uigur spelling) for tengri. xan --. Khan-Heaven, His Majesty the Khan (cf. S. deva) [AT 103].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TNGRI"
   },
   {
     "index": 24811,
     "sourceId": "L1212-1-32",
     "tradRom": "tobčiγur",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TOBCIΓUR Little chain for fastening the door of a house, or the lid of a box, etc. Short string connecting the TURSIIUD peg in the nose of a camel with the leading-rein. Cf. tobcilayur. Pt. I.",
+    "explain": "Little chain for fastening the door of a house, or the lid of a box, etc. Short string connecting the",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TOBCIΓUR"
   },
   {
     "index": 24812,
@@ -265654,15 +267259,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "tobčila-",
     "imageName": "LessingDict_Page_1212.jpg",
     "explain": "--n jabuxu. To govern, rule over [AT 97].",
-    "lessingForm": "TOBCILA-"
+    "lessingForm": "TOBCILA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24813,
     "sourceId": "L1212-2-02",
     "tradRom": "toγa-",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "yly --xu. To ignore, leave out of consideration [AT 25].",
-    "lessingForm": "TOA-"
+    "explain": "yly --xu. To ignore, leave out of consideration",
+    "lessingForm": "TOA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24814,
@@ -265670,9 +267281,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "toγar",
     "imageName": "LessingDict_Page_1212.jpg",
     "explain": "edyge --. Just then [AT 11].",
-    "lessingForm": "TOTAR",
+    "lessingForm": "[AT 25].",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL",
+      "SUPPL_MISMATCH"
     ]
   },
   {
@@ -265680,34 +267292,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-2-04",
     "tradRom": "toγatan",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "eke toya-tan --. \"Supernumerary soldiers\" who are actually not part of the regular troops.",
+    "explain": "edyge --. Just then [AT 11]. eke toya-tan --. \"Supernumerary soldiers\" who are actually not part of the regular troops.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TOTAR"
   },
   {
     "index": 24816,
     "sourceId": "L1212-2-05",
     "tradRom": "toγuli-",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TOIULI- To seize the prey.",
+    "explain": "To seize the prey.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TOIULI-"
   },
   {
     "index": 24817,
     "sourceId": "L1212-2-06",
     "tradRom": "toγunalǰi",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TOIUNALZI A cross-shaped piece of wood put in a pot to keep its cooking contents in the water [AT p.131-2].",
+    "explain": "cross-shaped piece of wood put in a pot to keep its cooking contents in the water [AT p.131-2].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TOIUNALZI A"
   },
   {
     "index": 24818,
@@ -265717,7 +267328,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "--zu gyiceky. To run in circles [AT 54 ].",
     "lessingForm": "TOFURI-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265725,37 +267336,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-2-08",
     "tradRom": "toyiγ",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TOJIΓ Kneecap, patella [ET 123].",
+    "explain": "Kneecap, patella [ET 123].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TOJIΓ"
   },
   {
     "index": 24820,
     "sourceId": "L1212-2-09",
     "tradRom": "tokiyalduγul-",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "oi ji --un. At the occasion of the anniversary. TOKIRASI ygei. Disproportionate, incommensurate, disharmonious. TOLUΓ esegei. Felt rug [AT 78 ].",
-    "lessingForm": "TOKIJALDUTUL-"
+    "explain": "oi ji --un. At the occasion of the anniversary.",
+    "lessingForm": "TOKIJALDUTUL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24821,
     "sourceId": "L1212-2-10",
     "tradRom": "tokirasi",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "ygei. Disproportionate, incommensurate, disharmonious.",
+    "lessingForm": "TOKIRASI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24822,
     "sourceId": "L1212-2-11",
     "tradRom": "toluγ",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "esegei. Felt rug [AT 78 ].",
+    "lessingForm": "TOLUΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24823,
     "sourceId": "L1212-2-12",
     "tradRom": "tomγa-",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "See tomu-, Pt. I.",
+    "lessingForm": "TOMΓA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24824,
@@ -265763,17 +267392,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "tomγaγul-",
     "imageName": "LessingDict_Page_1212.jpg",
     "cyrillic": "tomya- = tomu-.",
-    "lessingForm": "TOMFAFUL- v. caus. of",
+    "lessingForm": "TOMFAFUL-",
     "ocrFlags": [
-      "EMPTY_BODY",
-      "HEADWORD_MISMATCH"
-    ]
+      "SUPPL"
+    ],
+    "explain": "v. caus. of tomya- = tomu-."
   },
   {
     "index": 24825,
     "sourceId": "L1212-2-14",
     "tradRom": "tomuγ_a",
-    "imageName": "LessingDict_Page_1212.jpg"
+    "imageName": "LessingDict_Page_1212.jpg",
+    "explain": "Crown.",
+    "lessingForm": "TOMUT-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24826,
@@ -265781,7 +267415,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "tomuγatu",
     "imageName": "LessingDict_Page_1212.jpg",
     "explain": "altan --. Those of the Golden Crown = the daughters- in -law of the Emperor (hist.).",
-    "lessingForm": "TOMUTATU"
+    "lessingForm": "TOMUTATU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24827,
@@ -265792,7 +267429,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "Пей",
     "lessingForm": "TOBSI-",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -265801,17 +267438,20 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "tölügesün",
     "imageName": "LessingDict_Page_1212.jpg",
     "explain": "øri --: Payment of a debt. [AT 43 ] See Pt. I.",
-    "lessingForm": "TOLYGESYN"
+    "lessingForm": "TOLYGESYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24829,
     "sourceId": "L1212-2-18",
     "tradRom": "törü-",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "--gsen. The born ones. Human beings [AT 123 ].",
+    "explain": "--gsen. The born ones. Human beings [AT 123 ]. ojutu --gsen. Born with wisdom [AT 13 ]. tøryty --gsen. Born of your generation.",
     "lessingForm": "TQRY-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265819,67 +267459,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-2-19",
     "tradRom": "törei",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "ojutu --gsen. Born with wisdom [AT 13 ].",
+    "explain": "Rare present tense of tøryky.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TØREI"
   },
   {
     "index": 24831,
     "sourceId": "L1212-2-20",
     "tradRom": "tuγ",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "tøryty --gsen. Born of your generation.",
+    "explain": "sylde. Flag inhabited by the \"soul\" of Genghis Khan as the protector of his people.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TUΓ"
   },
   {
     "index": 24832,
     "sourceId": "L1212-2-21",
     "tradRom": "tuγu",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TØREI Rare present tense of tøryky.",
+    "explain": "Plaque. møngyn -- . Silver plaque [AT 75 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TUFU"
   },
   {
     "index": 24833,
     "sourceId": "L1212-2-22",
     "tradRom": "tuyal",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TUΓ sylde. Flag inhabited by the \"soul\" of Genghis",
+    "explain": "Flock of birds [SH/Mo. 3-287 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TUJAL"
   },
   {
     "index": 24834,
     "sourceId": "L1212-2-23",
     "tradRom": "tulbas",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "Khan as the protector of his people.",
+    "explain": "odxu. To be overturned [SH / Mo. 3-286 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TULBAS"
   },
   {
     "index": 24835,
     "sourceId": "L1212-2-24",
     "tradRom": "tulγa",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "møngyn -- . Silver plaque [AT 75 ].",
-    "lessingForm": "TUFU Plaque.",
+    "explain": "Column, pillar [AT 48 ]. See Pt. I.",
+    "lessingForm": "TULΓA(N)",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265887,11 +267525,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-2-24",
     "tradRom": "tulγan",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "møngyn -- . Silver plaque [AT 75 ].",
-    "lessingForm": "TUFU Plaque.",
+    "explain": "Column, pillar [AT 48 ]. See Pt. I.",
+    "lessingForm": "TULΓA(N)",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265899,67 +267536,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1212-2-25",
     "tradRom": "tur-",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TUJAL Flock of birds [SH/Mo. 3-287 ]. TULBAS odxu. To be overturned [SH / Mo. 3-286 ].",
+    "explain": "See tura-, Pt, I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TUR-"
   },
   {
     "index": 24838,
     "sourceId": "L1212-2-26",
     "tradRom": "turγaγud",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TULΓA(N) Column, pillar [AT 48 ]. See Pt. I.",
+    "explain": "(pl. of turyayul ). Name of Genghis Khan's bodyguard.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TURΓAΓUD"
   },
   {
     "index": 24839,
     "sourceId": "L1212-2-27",
     "tradRom": "turγaγul",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TUR- See tura-, Pt, I. TURΓAΓUD (pl. of turyayul ). Name of Genghis Khan's bodyguard. TURΓAFUL Standing. See turyayud.",
+    "explain": "Standing. See turyayud.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TURΓAFUL"
   },
   {
     "index": 24840,
     "sourceId": "L1212-2-28",
     "tradRom": "tursi-",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TURSI- To experience.",
+    "explain": "To experience.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TURSI-"
   },
   {
     "index": 24841,
     "sourceId": "L1212-2-29",
     "tradRom": "tursiγud",
     "imageName": "LessingDict_Page_1212.jpg",
-    "explain": "TURSIRUD (pl. of tursiyul) Spies.",
+    "explain": "(pl. of tursiyul) Spies. -1212-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TURSIRUD"
   },
   {
     "index": 24842,
     "sourceId": "L1213-1-01",
     "tradRom": "üurqan",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "TURXAN See turaxan, Pt. I.",
+    "explain": "See turaxan, Pt. I.",
     "lessingForm": "TURXAN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265967,22 +267602,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1213-1-02",
     "tradRom": "tube-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "TUBE- To unite, be composed or compounded [ET 51]",
+    "explain": "To unite, be composed or compounded [ET 51]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TUBE-"
   },
   {
     "index": 24844,
     "sourceId": "L1213-1-03",
     "tradRom": "tülere-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "TYLI- To suffer, be in distress (?); to cover [SH/Mo.3-",
-    "lessingForm": "TYLERE - To burn (?).",
+    "explain": "To burn (?).",
+    "lessingForm": "TYLERE -",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -265990,55 +267624,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1213-1-04",
     "tradRom": "tüli-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "298].",
+    "explain": "To suffer, be in distress (?); to cover [SH/Mo.3- 298].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TYLI-"
   },
   {
     "index": 24846,
     "sourceId": "L1213-1-05",
     "tradRom": "tüligen",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "TYLIGEN Hardship, suffering, distress.",
+    "explain": "Hardship, suffering, distress.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TYLIGEN"
   },
   {
     "index": 24847,
     "sourceId": "L1213-1-06",
     "tradRom": "ubsang",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UB(A)SANG (T. bsang) Incense. Same as sang, Pt. I.",
+    "explain": "bsang) Incense. Same as sang, Pt. I. [SH/Mo. 2-387].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UB(A)SANG (T."
   },
   {
     "index": 24848,
     "sourceId": "L1213-1-06",
     "tradRom": "ubasang",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UB(A)SANG (T. bsang) Incense. Same as sang, Pt. I.",
+    "explain": "bsang) Incense. Same as sang, Pt. I. [SH/Mo. 2-387].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UB(A)SANG (T."
   },
   {
     "index": 24849,
     "sourceId": "L1213-1-07",
     "tradRom": "ubiskikü",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "[SH/Mo. 2-387]. UBIS kiky. To move with difficulty.",
+    "explain": "kiky. To move with difficulty.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UBIS"
   },
   {
     "index": 24850,
@@ -266049,9 +267683,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "бод",
     "lessingForm": "UCIRA-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266059,65 +267691,88 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1213-1-09",
     "tradRom": "učiraldu-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UCIRALDU- To meet each other (in various incarnations) [AT 47 ].",
+    "explain": "To meet each other (in various incarnations)",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UCIRALDU-"
   },
   {
     "index": 24852,
     "sourceId": "L1213-1-10",
     "tradRom": "uγuγsaγar",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UIUTSAΓAR Kiiping (it) in the mouth [AT 104].",
+    "explain": "Kiiping (it) in the mouth [AT 104].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UIUTSAΓAR"
   },
   {
     "index": 24853,
     "sourceId": "L1213-1-11",
     "tradRom": "uγuča-",
-    "explain": "To sip. See oγuči-",
-    "imageName": "LessingDict_Page_1213.jpg"
+    "explain": "To sip. See oyucixu. Pt. I [AT l10 ].",
+    "imageName": "LessingDict_Page_1213.jpg",
+    "lessingForm": "UTUCA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24854,
     "sourceId": "L1213-1-12",
     "tradRom": "uγulγači",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UTUR- To throw away. UIURCAΓ Relinquished, outcast. UIMRAΓ-A Confused, unreasonable, hare-brained (?). UJILSUN Quiver of birch bark.",
-    "lessingForm": "UIULFACI See uulyaci, Pt.I",
+    "explain": "See uulyaci, Pt.I",
+    "lessingForm": "UIULFACI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24855,
     "sourceId": "L1213-1-13",
     "tradRom": "uγur-",
-    "imageName": "LessingDict_Page_1213.jpg"
+    "imageName": "LessingDict_Page_1213.jpg",
+    "explain": "To throw away.",
+    "lessingForm": "UTUR-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24856,
     "sourceId": "L1213-1-14",
     "tradRom": "uγurčaγ",
-    "imageName": "LessingDict_Page_1213.jpg"
+    "imageName": "LessingDict_Page_1213.jpg",
+    "explain": "Relinquished, outcast.",
+    "lessingForm": "UIURCAΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24857,
     "sourceId": "L1213-1-15",
     "tradRom": "uimraγ_a",
-    "imageName": "LessingDict_Page_1213.jpg"
+    "imageName": "LessingDict_Page_1213.jpg",
+    "explain": "Confused, unreasonable, hare-brained (?).",
+    "lessingForm": "UIMRAΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24858,
     "sourceId": "L1213-1-16",
     "tradRom": "uyilsun",
-    "imageName": "LessingDict_Page_1213.jpg"
+    "imageName": "LessingDict_Page_1213.jpg",
+    "explain": "Quiver of birch bark.",
+    "lessingForm": "UJILSUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24859,
@@ -266128,8 +267783,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "ULA",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266137,23 +267791,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1213-1-18",
     "tradRom": "ulay_a",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "ULAJ-A kycy. Relay horse [SH/Mo. 1-327].",
+    "explain": "kycy. Relay horse [SH/Mo. 1-327].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ULAJ-A"
   },
   {
     "index": 24861,
     "sourceId": "L1213-1-19",
     "tradRom": "umai",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UMAI Blood relations [AT 73 ].",
+    "explain": "Blood relations [AT 73 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UMAI"
   },
   {
     "index": 24862,
@@ -266163,7 +267816,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "--cu jadaxu. To be dying from thirst.",
     "lessingForm": "UMDATAS-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266171,29 +267824,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1213-1-21",
     "tradRom": "unaγan",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UNAΓAN u sigir-a. Name of a plant (Asarum Sieboldii). (Ch. hsi-hsin. Giles Nos.4163, 4565; Math. 2467, 2740].",
+    "explain": "u sigir-a. Name of a plant (Asarum Sieboldii). (Ch. hsi-hsin. Giles Nos.4163, 4565; Math. 2467, 2740].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UNAΓAN"
   },
   {
     "index": 24864,
     "sourceId": "L1213-1-22",
     "tradRom": "unalda-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UNG (onomat.) Sound of a bell.",
-    "lessingForm": "UNALDA- To neigh (?).",
+    "explain": "To neigh (?).",
+    "lessingForm": "UNALDA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24865,
     "sourceId": "L1213-1-23",
     "tradRom": "ung",
-    "imageName": "LessingDict_Page_1213.jpg"
+    "imageName": "LessingDict_Page_1213.jpg",
+    "explain": "(onomat.) Sound of a bell. Woolen; loaded with wool.",
+    "lessingForm": "UNG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24866,
@@ -266203,26 +267860,30 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "Woolen; loaded with wool.",
     "lessingForm": "UNGTASUTU",
     "ocrFlags": [
-      "EMPTY_BODY"
+      "SUPPL"
     ]
   },
   {
     "index": 24867,
     "sourceId": "L1213-1-25",
     "tradRom": "untuqun",
-    "imageName": "LessingDict_Page_1213.jpg"
+    "imageName": "LessingDict_Page_1213.jpg",
+    "explain": "See untuyun, Pt. I [ET 25 ].",
+    "lessingForm": "UNTUXUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24868,
     "sourceId": "L1213-1-26",
     "tradRom": "vačir",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "malaya jin -- . \"Thunderbolt\" on top of hats worn by priests of rank [AT 22 ].",
+    "explain": "malaya jin -- . \"Thunderbolt\" on top of hats worn by priests of rank [AT 22 ]. Upper portion of the arm [AT 104]",
     "cyrillic": "п",
     "lessingForm": "VACIR",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -266234,7 +267895,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "Upper portion of the arm [AT 104]",
     "lessingForm": "XA",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266242,52 +267903,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1213-1-28",
     "tradRom": "qabirγ_a",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "HAD",
+    "explain": "ber unaxu. To fall on one's side [AT 41 ] -1213-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XABIRΓ-A"
   },
   {
     "index": 24871,
     "sourceId": "L1213-2-01",
     "tradRom": "tüligeten",
-    "imageName": "LessingDict_Page_1213.jpg"
+    "imageName": "LessingDict_Page_1213.jpg",
+    "explain": "Sufferers.",
+    "lessingForm": "TYLIGETEN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24872,
     "sourceId": "L1213-2-02",
     "tradRom": "tüsi-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "TYSIGYLIGCI Somebody who offers protection or asylum [VI.].",
-    "lessingForm": "TYSI- To accuse (?) [SH",
+    "explain": "To accuse (?) [SH/MO. 3-315].",
+    "lessingForm": "TYSI-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24873,
     "sourceId": "L1213-2-03",
     "tradRom": "tüsigüligči",
-    "imageName": "LessingDict_Page_1213.jpg"
+    "imageName": "LessingDict_Page_1213.jpg",
+    "explain": "Somebody who offers protection or asylum",
+    "lessingForm": "TYSIGYLIGCI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24874,
     "sourceId": "L1213-2-04",
     "tradRom": "tüsüge",
-    "imageName": "LessingDict_Page_1213.jpg"
+    "imageName": "LessingDict_Page_1213.jpg",
+    "explain": "Jug, pitcher [SH/Mo. 1-343 ].",
+    "lessingForm": "TYSYGE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24875,
     "sourceId": "L1213-2-05",
     "tradRom": "tüsür-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "TYSYR- To pour from one container into another, trans- fuse [SH/Mo. 1-310].",
-    "lessingForm": "TYSYGE Jug, pitcher [SH",
+    "explain": "To pour from one container into another, trans- fuse [SH/Mo. 1-310]. U",
+    "lessingForm": "TYSYR-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266295,33 +267969,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1213-2-06",
     "tradRom": "unaγ_a",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "U",
+    "explain": "Foal, colt [SH/Mo. 1-339 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UNAΓ-A(N)"
   },
   {
     "index": 24877,
     "sourceId": "L1213-2-06",
     "tradRom": "unaγan",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "U",
+    "explain": "Foal, colt [SH/Mo. 1-339 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UNAΓ-A(N)"
   },
   {
     "index": 24878,
     "sourceId": "L1213-2-07",
     "tradRom": "unuγul-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UNUΓUL— To offer a riding horse as a gift [SH/Mo.1-342].",
-    "lessingForm": "UNAΓ-A(N) Foal, colt [SH",
+    "explain": "To offer a riding horse as a gift [SH/Mo.1-342].",
+    "lessingForm": "UNUΓUL—",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266329,34 +268002,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1213-2-08",
     "tradRom": "unǰiγul-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UNZI[I]ΓUL- To hang (one's head) [SH/Mo. 3-330].",
+    "explain": "To hang (one's head) [SH/Mo. 3-330].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UNZI[I]ΓUL-"
   },
   {
     "index": 24880,
     "sourceId": "L1213-2-08",
     "tradRom": "unǰiiγul-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "UNZI[I]ΓUL- To hang (one's head) [SH/Mo. 3-330].",
+    "explain": "To hang (one's head) [SH/Mo. 3-330].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "UNZI[I]ΓUL-"
   },
   {
     "index": 24881,
     "sourceId": "L1213-2-09",
     "tradRom": "urad",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "URAD Pl. of uran. Artisans [SH/Mo. 3-385].",
+    "explain": "Pl. of uran. Artisans [SH/Mo. 3-385]. URATADAzu barixu. To catch with a snare.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "URAD"
   },
   {
     "index": 24882,
@@ -266365,20 +268037,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1213.jpg",
     "explain": "URATADAzu barixu. To catch with a snare. URTADA- To snare birds [AT 79].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24883,
     "sourceId": "L1213-2-11",
     "tradRom": "urγada-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "URIUysan Growing wild [AT 14].",
+    "explain": "To snare birds [AT 79]. URIUysan Growing wild [AT 14].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "URTADA-"
   },
   {
     "index": 24884,
@@ -266387,20 +268060,20 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1213.jpg",
     "explain": "URITALDA- To be utterly responsive (?).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24885,
     "sourceId": "L1213-2-13",
     "tradRom": "uriγalda-",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "URTAΓCIN Long (bow). See urtuycin, Pt. I [AT 25 ].",
-    "lessingForm": "URIΓALIU See uralyu, Pt. I [SH",
+    "explain": "To be utterly responsive (?).",
+    "lessingForm": "URITALDA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266408,43 +268081,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1213-2-14",
     "tradRom": "uriγalγu",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "URUΓ eligen. Relatives [AT 23 ].",
+    "explain": "See uralyu, Pt. I [SH/Mo. 2-387 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "URIΓALIU"
   },
   {
     "index": 24887,
     "sourceId": "L1213-2-15",
     "tradRom": "urtaγčin",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "-- tøryl. Relations, kith and kin [AT 23 ].",
+    "explain": "Long (bow). See urtuycin, Pt. I [AT 25 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "URTAΓCIN"
   },
   {
     "index": 24888,
     "sourceId": "L1213-2-16",
     "tradRom": "uruγ",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "altan -- . The clan of Genghis Khan.",
+    "explain": "eligen. Relatives [AT 23 ]. -- tøryl. Relations, kith and kin [AT 23 ]. altan -- . The clan of Genghis Khan.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "URUΓ"
   },
   {
     "index": 24889,
     "sourceId": "L1213-2-17",
     "tradRom": "uruγtan",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "altan --. Relatives of the emperor.",
+    "explain": "altan --. Relatives of the emperor. URUrULDU- To tie an \"unbroken\" horse. URULDUzu daruxu. To overcome [AT 26].",
     "lessingForm": "URUITAN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266454,9 +268127,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1213.jpg",
     "explain": "URUrULDU- To tie an \"unbroken\" horse.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24891,
@@ -266465,30 +268139,31 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1213.jpg",
     "explain": "URULDUzu daruxu. To overcome [AT 26].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 24892,
     "sourceId": "L1213-2-20",
     "tradRom": "urusqal",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "URUSXAL The (course of) history [ET 54]; bastard (invective ) [SH/Mo. 2-326, note 180].",
+    "explain": "The (course of) history [ET 54]; bastard (invective ) [SH/Mo. 2-326, note 180].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "URUSXAL"
   },
   {
     "index": 24893,
     "sourceId": "L1213-2-21",
     "tradRom": "urusqalang",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "Waters (hénds.) [AT 27 ]. USUN casun",
-    "lessingForm": "URUSXALANG Current.",
+    "explain": "Current. Waters (hénds.) [AT 27 ].",
+    "lessingForm": "URUSXALANG",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266496,45 +268171,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1213-2-22",
     "tradRom": "usun",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "V",
+    "explain": "casun V X",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "USUN"
   },
   {
     "index": 24895,
     "sourceId": "L1213-2-23",
     "tradRom": "qačir",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "X XACIR Eagle. See xacir, Pt. I [AT 85]. -- tas. Heron ? Black eagle ? [AT 38 ].",
+    "explain": "Eagle. See xacir, Pt. I [AT 85]. -- tas. Heron ? Black eagle ? [AT 38 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XACIR"
   },
   {
     "index": 24896,
     "sourceId": "L1213-2-24",
     "tradRom": "qad",
     "imageName": "LessingDict_Page_1213.jpg",
-    "explain": "XAD See bej-e -- (hend.) [SH/Mo. 2, 372 ].",
+    "explain": "See bej-e -- (hend.) [SH/Mo. 2, 372 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAD"
   },
   {
     "index": 24897,
     "sourceId": "L1214-1-01",
     "tradRom": "qaγ_a",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAΓ-A cabcixu. To cut about [AT l17]. yarbuxu. To shoot through with an arrow [AT 26].",
+    "explain": "cabcixu. To cut about [AT l17]. yarbuxu. To shoot through with an arrow [AT 26].",
     "cyrillic": "А",
     "lessingForm": "XAΓ-A",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266542,58 +268216,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1214-1-02",
     "tradRom": "qaγa-",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAΓA- To protect; to side with. umai ben --xu. To protect one's womb, i. e. blood relatives [ET 69]. uruy ben --xu. To protect, i.e. side with one's relatives by alliance [ET 69].",
+    "explain": "To protect; to side with. umai ben --xu. To protect one's womb, i. e. blood relatives [ET 69]. uruy ben --xu. To protect, i.e. side with one's relatives by alliance [ET 69].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAΓA-"
   },
   {
     "index": 24899,
     "sourceId": "L1214-1-03",
     "tradRom": "qaγas",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAΓAS Asemantic echo word in the cpd. \"neres xayas\": names [SH/Mo. 2-402, note ].",
+    "explain": "Asemantic echo word in the cpd. \"neres xayas\": names [SH/Mo. 2-402, note ].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAΓAS"
   },
   {
     "index": 24900,
     "sourceId": "L1214-1-04",
     "tradRom": "qaγun",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAIUN Testicles See xayunay.",
+    "explain": "Testicles See xayunay.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAIUN"
   },
   {
     "index": 24901,
     "sourceId": "L1214-1-05",
     "tradRom": "qayila-",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAILA- To call, shout.",
+    "explain": "To call, shout.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAILA-"
   },
   {
     "index": 24902,
     "sourceId": "L1214-1-06",
     "tradRom": "qayimuγur",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAIMUΓUR See xaimuyur and keibyr, Pt. I.",
+    "explain": "See xaimuyur and keibyr, Pt. I.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAIMUΓUR"
   },
   {
     "index": 24903,
@@ -266604,8 +268275,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "л",
     "lessingForm": "XALA-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266613,34 +268283,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1214-1-08",
     "tradRom": "qalaγar",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XALAΓAR Verily, surely.",
+    "explain": "Verily, surely.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XALAΓAR"
   },
   {
     "index": 24905,
     "sourceId": "L1214-1-09",
     "tradRom": "qalaγuči-",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XALAIUCI- To catch a fever. See xalayuca-, Pt.I [AT43].",
+    "explain": "To catch a fever. See xalayuca-, Pt.I [AT43].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XALAIUCI-"
   },
   {
     "index": 24906,
     "sourceId": "L1214-1-10",
     "tradRom": "qalγa-",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XALΓA- To let attack. [AT 86 ].",
+    "explain": "To let attack. [AT 86 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XALΓA-"
   },
   {
     "index": 24907,
@@ -266651,8 +268320,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "с",
     "lessingForm": "XAMAFALA-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266660,45 +268328,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1214-1-12",
     "tradRom": "qamiγasi",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAMIΓASI jayasi. In all directions [AT 12 ].",
+    "explain": "jayasi. In all directions [AT 12 ].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAMIΓASI"
   },
   {
     "index": 24909,
     "sourceId": "L1214-1-13",
     "tradRom": "qamiǰu",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAMIZU Completely (?) [AT 58 p. 153, note ].",
+    "explain": "Completely (?) [AT 58 p. 153, note ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAMIZU"
   },
   {
     "index": 24910,
     "sourceId": "L1214-1-14",
     "tradRom": "qanaki",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XANAKI janaki. From time to time (hend.) [AT 57 ].",
+    "explain": "janaki. From time to time (hend.) [AT 57 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XANAKI"
   },
   {
     "index": 24911,
     "sourceId": "L1214-1-15",
     "tradRom": "qangsiyartu",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "xar-a --. Black-nosed (dog). See xangsijar, Pt.I [AT 37 ].",
+    "explain": "xar-a --. Black-nosed (dog). See xangsijar, Pt.I",
     "cyrillic": "дсвтдпт",
     "lessingForm": "XANGSIJARTU",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -266706,67 +268373,99 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1214-1-16",
     "tradRom": "qaniči-",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "--n jabuxu. To 'have fun\" together. See Pt.I. [AT 22 ].",
-    "lessingForm": "XANICI-"
+    "explain": "--n jabuxu. To 'have fun\" together. See Pt.I.",
+    "lessingForm": "XANICI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24913,
     "sourceId": "L1214-1-17",
     "tradRom": "qanilqa-",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAR-A mør. A bad road [AT 102]. XARALIΓ Belonging to the common people.",
-    "lessingForm": "XANILXA- To compare.",
+    "explain": "To compare.",
+    "lessingForm": "XANILXA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24914,
     "sourceId": "L1214-1-18",
     "tradRom": "qar_a",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "mør. A bad road [AT 102].",
+    "lessingForm": "XAR-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24915,
     "sourceId": "L1214-1-19",
     "tradRom": "qaraliγ",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "Belonging to the common people.",
+    "lessingForm": "XARALIΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24916,
     "sourceId": "L1214-1-20",
     "tradRom": "qarangγun",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "Darkness.",
+    "lessingForm": "XARANGIUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24917,
     "sourceId": "L1214-1-21",
     "tradRom": "qari",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "Vassal. dørben -- ulus. People of the four foreign lands",
+    "lessingForm": "XARI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24918,
     "sourceId": "L1214-1-22",
     "tradRom": "qariya-",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "ykygylky. To kill with curses [AT 14 ].",
+    "lessingForm": "XARIJA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24919,
     "sourceId": "L1214-1-23",
     "tradRom": "qariyatan",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "Subjects, subordinates [AT p. 145 ].",
+    "lessingForm": "XARIJATAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24920,
     "sourceId": "L1214-1-24",
     "tradRom": "qaril",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "dørben -- ulus. People of the four foreign lands [AT 27 ]. XARIJA- ykygylky. To kill with curses [AT 14 ]. XARIJATAN Subjects, subordinates [AT p. 145 ]. XARIL bucal ygei jabuxu. To go to the land of no-return, die [AT 45 ].",
+    "explain": "bucal ygei jabuxu. To go to the land of no-return, die [AT 45 ].",
     "cyrillic": "у",
-    "lessingForm": "XARI Vassal.",
+    "lessingForm": "XARIL",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -266774,13 +268473,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1214-1-25",
     "tradRom": "qarmai",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "-- mongrul. All the Mongols [AT 31 ].",
+    "explain": "All ? -- mongrul. All the Mongols [AT 31 ].",
     "cyrillic": "в",
-    "lessingForm": "XARMAI All ?",
+    "lessingForm": "XARMAI",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -266788,11 +268485,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1214-1-26",
     "tradRom": "qas",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAS tøry. The precious rule : \"Your Majesty's rule\". [AT 44 ].",
+    "explain": "tøry. The precious rule : \"Your Majesty's rule\".",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XAS"
   },
   {
     "index": 24923,
@@ -266801,71 +268498,86 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1214.jpg",
     "explain": "XASUΓ Sharp (?) [AT 15 (p. 121, note 1)].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ],
+    "lessingForm": "[AT 44 ]."
   },
   {
     "index": 24924,
     "sourceId": "L1214-1-28",
     "tradRom": "qaškir",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XAŠKIR-cu xorixu. To call and enclose (flocks)[AT 69].",
+    "explain": "Sharp (?) [AT 15 (p. 121, note 1)]. XAŠKIR-cu xorixu. To call and enclose (flocks)[AT 69].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XASUΓ"
   },
   {
     "index": 24925,
     "sourceId": "L1214-1-29",
     "tradRom": "qatun",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XATUN Dalai. Yellow River * Xatun Møren or Xatun Toul.",
+    "explain": "Dalai. Yellow River * Xatun Møren or Xatun Toul.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XATUN"
   },
   {
     "index": 24926,
     "sourceId": "L1214-1-30",
     "tradRom": "qatund",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XATUND (crig. Xadund, obs. pl. of xatun ) Wives, spouses. XUSU- XAZIMAL un yr-e. Orphaned child [AT 83 ]. XOBXURAIUL- To divorce (a wife ).",
+    "explain": "(crig. Xadund, obs. pl. of xatun ) Wives, spouses. -1214-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XATUND"
   },
   {
     "index": 24927,
     "sourceId": "L1214-2-01",
     "tradRom": "qaǰimal",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "un yr-e. Orphaned child [AT 83 ].",
+    "lessingForm": "XAZIMAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24928,
     "sourceId": "L1214-2-02",
     "tradRom": "qobquraγul-",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "To divorce (a wife ).",
+    "lessingForm": "XOBXURAIUL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24929,
     "sourceId": "L1214-2-03",
     "tradRom": "qočid",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "Late [AT 72 ].",
+    "lessingForm": "XOCID",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24930,
     "sourceId": "L1214-2-04",
     "tradRom": "qočura-",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "ønycin --ysan. Left behind as an orphan [AT 45].",
-    "lessingForm": "XOCURA-= xocur-.",
+    "explain": "xocur-. ønycin --ysan. Left behind as an orphan [AT 45].",
+    "lessingForm": "XOCURA-=",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266873,55 +268585,77 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1214-2-05",
     "tradRom": "qodqur",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XODXUR See xotuyur, Pt.I.",
+    "explain": "See xotuyur, Pt.I.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XODXUR"
   },
   {
     "index": 24932,
     "sourceId": "L1214-2-06",
     "tradRom": "qoγusun",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XOJAR sedkil. Disloyal, treacherous [SH/M0. 2-358]. XOLA sanaysan, Distant thought, ulterior motive [AT34]. XONCIN (γoncin). Title of nobility [Vl. ]. XONΓUR xalzin. White blaze [AT 67 ]. XONINd Obs. pl. of xonin [SH/Mo. 2-359 ].",
-    "lessingForm": "XOIUSUN Empty-handed [AT 120].",
+    "explain": "Empty-handed [AT 120].",
+    "lessingForm": "XOIUSUN",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24933,
     "sourceId": "L1214-2-07",
     "tradRom": "qoyar",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "sedkil. Disloyal, treacherous [SH/M0. 2-358].",
+    "lessingForm": "XOJAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24934,
     "sourceId": "L1214-2-08",
     "tradRom": "qola",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "sanaysan, Distant thought, ulterior motive [AT34].",
+    "lessingForm": "XOLA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24935,
     "sourceId": "L1214-2-09",
     "tradRom": "qončin",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "(γoncin). Title of nobility [Vl. ].",
+    "lessingForm": "XONCIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24936,
     "sourceId": "L1214-2-10",
     "tradRom": "qonγur",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "xalzin. White blaze [AT 67 ]. XONINd Obs. pl. of xonin [SH/Mo. 2-359 ].",
+    "lessingForm": "XONΓUR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24937,
     "sourceId": "L1214-2-11",
     "tradRom": "qonind",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 24938,
@@ -266929,7 +268663,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "qorγan",
     "imageName": "LessingDict_Page_1214.jpg",
     "explain": "øndege jin --. Glaucoma.",
-    "lessingForm": "XORTAN"
+    "lessingForm": "XORTAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24939,
@@ -266940,7 +268677,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "со",
     "lessingForm": "XOSITU",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -266952,8 +268689,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "оаПдвбб Гл ос",
     "lessingForm": "XOSIFUL-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266961,22 +268697,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1214-2-15",
     "tradRom": "qotung",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XOTUNG Concave back of a horse (?) See AT p. ll6 and xotuyur, Pt. I.",
+    "explain": "Concave back of a horse (?) See AT p. ll6 and xotuyur, Pt. I.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XOTUNG"
   },
   {
     "index": 24942,
     "sourceId": "L1214-2-16",
     "tradRom": "qubačiγur",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "alban -- Taxes and tribute [AT 21].",
-    "lessingForm": "XUBACIIUR Taxes.",
+    "explain": "Taxes. alban -- Taxes and tribute [AT 21].",
+    "lessingForm": "XUBACIIUR",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -266984,23 +268719,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1214-2-17",
     "tradRom": "qubčiγur",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XUBCIIUR See yubciyur.",
+    "explain": "See yubciyur.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XUBCIIUR"
   },
   {
     "index": 24944,
     "sourceId": "L1214-2-18",
     "tradRom": "quγur",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XUΓUR Four-stringed fiddle [AT p. 135, note ].",
+    "explain": "Four-stringed fiddle [AT p. 135, note ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XUΓUR"
   },
   {
     "index": 24945,
@@ -267008,37 +268742,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "quγus",
     "imageName": "LessingDict_Page_1214.jpg",
     "explain": "yurban -- kizy ebkegsen. Triple-folded [AT 42].",
-    "lessingForm": "XUTUS"
+    "lessingForm": "XUTUS",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24946,
     "sourceId": "L1214-2-20",
     "tradRom": "quladu",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XULIUBCI Cap or hood which also protects the ears. XULISU(N) See xolisun.",
-    "lessingForm": "XULADU See xulatu, Pt. I.",
+    "explain": "See xulatu, Pt. I.",
+    "lessingForm": "XULADU",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24947,
     "sourceId": "L1214-2-21",
     "tradRom": "qulγubči",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "Cap or hood which also protects the ears.",
+    "lessingForm": "XULIUBCI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24948,
     "sourceId": "L1214-2-22",
     "tradRom": "qulisu",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "See xolisun.",
+    "lessingForm": "XULISU(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24949,
     "sourceId": "L1214-2-22",
     "tradRom": "qulisun",
-    "imageName": "LessingDict_Page_1214.jpg"
+    "imageName": "LessingDict_Page_1214.jpg",
+    "explain": "See xolisun.",
+    "lessingForm": "XULISU(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24950,
@@ -267049,8 +268800,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "со ат й",
     "lessingForm": "XUMI-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267058,89 +268808,132 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1214-2-24",
     "tradRom": "quruila-",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XURUILA- To brandish; to signal by waving [AT 102].",
+    "explain": "To brandish; to signal by waving [AT 102].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XURUILA-"
   },
   {
     "index": 24952,
     "sourceId": "L1214-2-25",
     "tradRom": "qusu-",
     "imageName": "LessingDict_Page_1214.jpg",
-    "explain": "XUSU- To scratch (= kisuxu ). See xusu-, Pt. I [SH/Mo. 2- 386 ].",
+    "explain": "To scratch (= kisuxu ). See xusu-, Pt. I [SH/Mo. 2- 386 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XUSU-"
   },
   {
     "index": 24953,
     "sourceId": "L1215-1-01",
     "tradRom": "übči-",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "To flay.",
+    "lessingForm": "YBCI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24954,
     "sourceId": "L1215-1-02",
     "tradRom": "üde",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "manayar. Evening and morning [SH/Mo. 3-302]. zilda. Late, evening [SH/Mo. 3-302 ].",
+    "lessingForm": "YDE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24955,
     "sourceId": "L1215-1-03",
     "tradRom": "üde-",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "To lure , allure game (?) [AT 38 ]",
+    "lessingForm": "YDE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24956,
     "sourceId": "L1215-1-04",
     "tradRom": "üdele",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "jabuxui. Ordinary actions [AT 22 ].",
+    "lessingForm": "YDELE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24957,
     "sourceId": "L1215-1-05",
     "tradRom": "üdesibür",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "At evenings = ydesi byri.",
+    "lessingForm": "YDESIBYR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24958,
     "sourceId": "L1215-1-06",
     "tradRom": "üdür",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "edyr [SH/Mo. 2-391 ]. - sira da. At the time when the day (=sun) is yellow, at sunset [SH/Mo. 3-296 ].",
+    "lessingForm": "YDYR =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24959,
     "sourceId": "L1215-1-07",
     "tradRom": "üge",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "dayu. Words. See Pt. I under yge [SH/Mo. 1-327 ].",
+    "lessingForm": "YGE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24960,
     "sourceId": "L1215-1-08",
     "tradRom": "ügegün",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "(pl. of yge(i)gy ). Not having, lacking, without. .. ygy. Particle used in a double question ... or",
+    "lessingForm": "YGEGYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24961,
     "sourceId": "L1215-1-09",
     "tradRom": "ügü",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "[SH/Mo. 2-352 ].",
+    "lessingForm": "YGY",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 24962,
     "sourceId": "L1215-1-10",
     "tradRom": "üile",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YDE manayar. Evening and morning [SH/Mo. 3-302]. zilda. Late, evening [SH/Mo. 3-302 ]. YDE- To lure , allure game (?) [AT 38 ] YDELE jabuxui. Ordinary actions [AT 22 ]. YDESIBYR At evenings = ydesi byri.",
-    "lessingForm": "YBCI- To flay.",
+    "explain": "Duty, obligation [SH/Mo. 2-351].",
+    "lessingForm": "YILE",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -267148,12 +268941,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1215-1-11",
     "tradRom": "üiledke-",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "- sira da. At the time when the day (=sun) is yellow, at sunset [SH/Mo. 3-296 ]. YGE dayu. Words. See Pt. I under yge [SH/Mo. 1-327 ]. YGEGYN (pl. of yge(i)gy ). Not having, lacking, without.",
-    "lessingForm": "YDYR = edyr [SH",
+    "explain": "jal-a. Hard labor (as a punishment).",
+    "lessingForm": "YILEDKE-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -267161,11 +268952,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1215-1-12",
     "tradRom": "üy_e",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "[SH/Mo. 2-352 ]. YILE Duty, obligation [SH/Mo. 2-351]. YILEDKE- jal-a. Hard labor (as a punishment). YJ-E jin bicimel. Genealogical record, family register.",
+    "explain": "jin bicimel. Genealogical record, family register.",
     "cyrillic": ".. ygy. Particle used in a double question ... or",
-    "lessingForm": "YGY",
+    "lessingForm": "YJ-E",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -267173,11 +268964,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1215-1-13",
     "tradRom": "üyegeled",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YJERGEGSEN Wanting food desperately (?) [AT 22 ].",
-    "lessingForm": "YJEGELED See YJELID, Pt. I.",
+    "explain": "See YJELID, Pt. I.",
+    "lessingForm": "YJEGELED",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267185,44 +268975,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1215-1-14",
     "tradRom": "üyergegsen",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YKEG Food safe [AT p. 174, note on 90 ].",
+    "explain": "Wanting food desperately (?) [AT 22 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YJERGEGSEN"
   },
   {
     "index": 24967,
     "sourceId": "L1215-1-15",
     "tradRom": "ükeg",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YKERTY cerig. Oxen troops [AT 101 ].",
+    "explain": "Food safe [AT p. 174, note on 90 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YKEG"
   },
   {
     "index": 24968,
     "sourceId": "L1215-1-16",
     "tradRom": "ükertü",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YKYDKY- To lose one's head. See ykydke-, Pt. I.",
+    "explain": "cerig. Oxen troops [AT 101 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YKERTY"
   },
   {
     "index": 24969,
     "sourceId": "L1215-1-17",
     "tradRom": "üküdkü-",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "[SH/Mo. 2-374 ].",
+    "explain": "To lose one's head. See ykydke-, Pt. I. [SH/Mo. 2-374 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YKYDKY-"
   },
   {
     "index": 24970,
@@ -267233,8 +269023,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "лт с",
     "lessingForm": "YLDE-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267242,204 +269031,220 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1215-1-19",
     "tradRom": "üldü",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YLDY Precl. for ildy.",
+    "explain": "Precl. for ildy.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YLDY"
   },
   {
     "index": 24972,
     "sourceId": "L1215-1-20",
     "tradRom": "ülege-",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YLEGE- Same as ylije-.",
+    "explain": "Same as ylije-.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YLEGE-"
   },
   {
     "index": 24973,
     "sourceId": "L1215-1-21",
     "tradRom": "ülegüy_e",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YLEGYJ-E Chiefly, mainly. See ilegyy.",
+    "explain": "Chiefly, mainly. See ilegyy.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YLEGYJ-E"
   },
   {
     "index": 24974,
     "sourceId": "L1215-1-22",
     "tradRom": "ülemǰi",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YLEMZI yge(n). Proverb [SH/Mo. 3-298 ].",
+    "explain": "yge(n). Proverb [SH/Mo. 3-298 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YLEMZI"
   },
   {
     "index": 24975,
     "sourceId": "L1215-1-23",
     "tradRom": "üli",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YLI Nest, ant hill.",
+    "explain": "Nest, ant hill.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YLI"
   },
   {
     "index": 24976,
     "sourceId": "L1215-1-24",
     "tradRom": "ǰa",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZA, ZE Particle expressing doubt, astonishment. ken zē axu. Who will, may, might (it) be? Who else may it be ? Who (else) is there ?",
+    "explain": "Particle expressing doubt, astonishment. ken zē axu. Who will, may, might (it) be? Who else may it be ? Who (else) is there ?",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZA, ZE"
   },
   {
     "index": 24977,
     "sourceId": "L1215-1-24",
     "tradRom": "ǰe",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZA, ZE Particle expressing doubt, astonishment. ken zē axu. Who will, may, might (it) be? Who else may it be ? Who (else) is there ?",
+    "explain": "Particle expressing doubt, astonishment. ken zē axu. Who will, may, might (it) be? Who else may it be ? Who (else) is there ?",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZA, ZE"
   },
   {
     "index": 24978,
     "sourceId": "L1215-1-25",
     "tradRom": "ǰabaγ_a",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZABAΓ-A(N) ølyng. Name of a grass growing on swamps. [Go.]. turyan-a. Poplar with small leaves.",
+    "explain": "ølyng. Name of a grass growing on swamps. [Go.]. turyan-a. Poplar with small leaves.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZABAΓ-A(N)"
   },
   {
     "index": 24979,
     "sourceId": "L1215-1-25",
     "tradRom": "ǰabaγan",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZABAΓ-A(N) ølyng. Name of a grass growing on swamps. [Go.]. turyan-a. Poplar with small leaves.",
+    "explain": "ølyng. Name of a grass growing on swamps. [Go.]. turyan-a. Poplar with small leaves.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZABAΓ-A(N)"
   },
   {
     "index": 24980,
     "sourceId": "L1215-1-26",
     "tradRom": "ǰad",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZAD Humans, humanity, foreigner.",
+    "explain": "Humans, humanity, foreigner.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAD"
   },
   {
     "index": 24981,
     "sourceId": "L1215-1-27",
     "tradRom": "ǰada",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZADA Rainstone. See Pt. I and cf. Laufer, Sino-Iranica, 527 f.",
+    "explain": "Rainstone. See Pt. I and cf. Laufer, Sino-Iranica, 527 f.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZADA"
   },
   {
     "index": 24982,
     "sourceId": "L1215-1-28",
     "tradRom": "ǰadaγai",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZADAΓAI See zidayai.",
+    "explain": "See zidayai.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZADAΓAI"
   },
   {
     "index": 24983,
     "sourceId": "L1215-1-29",
     "tradRom": "ǰaγaγ_a",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZAΓAΓ-A Testicle(s) [AT 95, p. 88 ].",
+    "explain": "Testicle(s) [AT 95, p. 88 ]. [SH/Mo.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAΓAΓ-A"
   },
   {
     "index": 24984,
     "sourceId": "L1215-1-30",
     "tradRom": "ǰaγu",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "[SH/Mo. ZAΓU(N) Body of one hundred men; a century 3-384]. ZALA- Y YLIDKE- To annihilate [ ET 76 ]. YLILE- To build or sit in a nest or an anthill. YLY boli. That will not or would not do [SH/Mo. 3-326 ]. YNDYSYN bariycid. Maintainers of a religious school tradition, disciples of a teacher (transl. of T. rgyud rnams). -- blama. S a m e.. YNEGELTEI Animal resembling the fox with scales on its back. YNEN(G) Ermine, polecat [S H/Mo. 1-321 ].",
+    "explain": "Body of one hundred men; a century 3-384].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAΓU(N)"
   },
   {
     "index": 24985,
     "sourceId": "L1215-1-30",
     "tradRom": "ǰaγun",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "[SH/Mo. ZAΓU(N) Body of one hundred men; a century 3-384]. ZALA- Y YLIDKE- To annihilate [ ET 76 ]. YLILE- To build or sit in a nest or an anthill. YLY boli. That will not or would not do [SH/Mo. 3-326 ]. YNDYSYN bariycid. Maintainers of a religious school tradition, disciples of a teacher (transl. of T. rgyud rnams). -- blama. S a m e.. YNEGELTEI Animal resembling the fox with scales on its back. YNEN(G) Ermine, polecat [S H/Mo. 1-321 ].",
+    "explain": "Body of one hundred men; a century 3-384].",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAΓU(N)"
   },
   {
     "index": 24986,
     "sourceId": "L1215-2-01",
     "tradRom": "ülidke-",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "To annihilate [ ET 76 ].",
+    "lessingForm": "YLIDKE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24987,
     "sourceId": "L1215-2-02",
     "tradRom": "ülile-",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "To build or sit in a nest or an anthill.",
+    "lessingForm": "YLILE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24988,
     "sourceId": "L1215-2-03",
     "tradRom": "ülü",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "boli. That will not or would not do [SH/Mo. 3-326 ].",
+    "lessingForm": "YLY",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 24989,
     "sourceId": "L1215-2-04",
     "tradRom": "ündüsün",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "bariycid. Maintainers of a religious school tradition, disciples of a teacher (transl. of T. rgyud rnams). -- blama. S a m e..",
+    "lessingForm": "YNDYSYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24990,
     "sourceId": "L1215-2-05",
     "tradRom": "ünegeltei",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YNI xoruxai. White dung or earth beetle.",
-    "lessingForm": "YNGGY- or YNGKY- To wallow [Go. ].",
+    "explain": "Animal resembling the fox with scales on its back.",
+    "lessingForm": "YNEGELTEI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -267447,87 +269252,120 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1215-2-06",
     "tradRom": "ünen",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YNICIN elige. Diaphragm.",
+    "explain": "Ermine, polecat [S H/Mo. 1-321 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YNEN(G)"
   },
   {
     "index": 24992,
     "sourceId": "L1215-2-06",
     "tradRom": "üneng",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YNICIN elige. Diaphragm.",
+    "explain": "Ermine, polecat [S H/Mo. 1-321 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YNEN(G)"
   },
   {
     "index": 24993,
     "sourceId": "L1215-2-07",
     "tradRom": "ünggü-",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YNYRCI One who has a keen sense of smell; sensitive to odor. YRE cøm-e. Seeds. YREZIL zimis. Pomegranate. YRISYN Suddenly, quickly [AT 49 ].",
-    "lessingForm": "YNYGYN Kid [SH",
+    "explain": "or YNGKY- To wallow [Go. ].",
+    "lessingForm": "YNGGY-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 24994,
     "sourceId": "L1215-2-08",
     "tradRom": "üni",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "xoruxai. White dung or earth beetle.",
+    "lessingForm": "YNI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24995,
     "sourceId": "L1215-2-09",
     "tradRom": "üničin",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "elige. Diaphragm.",
+    "lessingForm": "YNICIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24996,
     "sourceId": "L1215-2-10",
     "tradRom": "ünügün",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "Kid [SH/Mo. 1-339 ].",
+    "lessingForm": "YNYGYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24997,
     "sourceId": "L1215-2-11",
     "tradRom": "ünürči",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "One who has a keen sense of smell; sensitive to odor.",
+    "lessingForm": "YNYRCI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24998,
     "sourceId": "L1215-2-12",
     "tradRom": "üre",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "cøm-e. Seeds.",
+    "lessingForm": "YRE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 24999,
     "sourceId": "L1215-2-13",
     "tradRom": "üreǰil",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "zimis. Pomegranate.",
+    "lessingForm": "YREZIL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25000,
     "sourceId": "L1215-2-14",
     "tradRom": "ürisün",
-    "imageName": "LessingDict_Page_1215.jpg"
+    "imageName": "LessingDict_Page_1215.jpg",
+    "explain": "Suddenly, quickly [AT 49 ].",
+    "lessingForm": "YRISYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25001,
     "sourceId": "L1215-2-15",
     "tradRom": "ürübtüle-",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YRYS sar-a. Spring festival.",
-    "lessingForm": "YRYBTYLE- To grate.",
+    "explain": "To grate.",
+    "lessingForm": "YRYBTYLE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267535,44 +269373,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1215-2-16",
     "tradRom": "ürüs",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YSYG yn erike. Line (of writing or print ). -- yn yr-e. Letter (of the alphabet) T. yig hbru.",
+    "explain": "sar-a. Spring festival.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YRYS"
   },
   {
     "index": 25003,
     "sourceId": "L1215-2-17",
     "tradRom": "üsüg",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YSYLENG Dense (vegetation); fluffy. See ysykei, Pt.I.",
+    "explain": "yn erike. Line (of writing or print ). -- yn yr-e. Letter (of the alphabet) T. yig hbru.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YSYG"
   },
   {
     "index": 25004,
     "sourceId": "L1215-2-18",
     "tradRom": "üsüleng",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "YTYNG [ Ch. wu-t'ung. For characters see Giles No.",
+    "explain": "Dense (vegetation); fluffy. See ysykei, Pt.I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YSYLENG"
   },
   {
     "index": 25005,
     "sourceId": "L1215-2-19",
     "tradRom": "ütüng",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "12707, 12274, Math. 7191, 6619). -- modu. Sterculia platanifolia.",
+    "explain": "Ch. wu-t'ung. For characters see Giles No. 12707, 12274, Math. 7191, 6619). -- modu. Sterculia platanifolia.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YTYNG ["
   },
   {
     "index": 25006,
@@ -267582,7 +269420,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "--tele edyi zayur-a. In no time [SH/Mo.1-346]. jabuxu -- je. I shall try to march [AT 23 ].",
     "lessingForm": "YZE-",
     "ocrFlags": [
-      "GAMMA_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -267590,10 +269428,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1215-2-21",
     "tradRom": "üǰegde-",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "yaixamsiy-a --kyi. Wonderful looking. YZERI Appearance, phenomenon.",
+    "explain": "yaixamsiy-a --kyi. Wonderful looking.",
     "lessingForm": "YZEGDE-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267601,44 +269439,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1215-2-22",
     "tradRom": "üǰeri",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "Z",
+    "explain": "Appearance, phenomenon. Z",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YZERI"
   },
   {
     "index": 25009,
     "sourceId": "L1215-2-23",
     "tradRom": "ǰaγučin",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZAΓUCIN kij-a. Imperial guard officer who reports on Mongolian affairs to the emperor.",
+    "explain": "kij-a. Imperial guard officer who reports on Mongolian affairs to the emperor.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAΓUCIN"
   },
   {
     "index": 25010,
     "sourceId": "L1215-2-24",
     "tradRom": "ǰayilaγur",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZAILAIUR Goodfor nothing; rascally.",
+    "explain": "Goodfor nothing; rascally.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAILAIUR"
   },
   {
     "index": 25011,
     "sourceId": "L1215-2-25",
     "tradRom": "ǰayisang",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZAISANG Minister [Ch. tsai- hsiang. For characters see Giles 11490, 4249 or Math. 6675, 2562 ].",
+    "explain": "Minister [Ch. tsai- hsiang. For characters see Giles 11490, 4249 or Math. 6675, 2562 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAISANG"
   },
   {
     "index": 25012,
@@ -267648,7 +269486,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "tngri ece -- ber egydygsen. Born by Heaven's Decree [ET 54 ]. ygei. Not predestined [AT 36 ].",
     "lessingForm": "ZAJAΓ-A",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267656,41 +269494,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1215-2-27",
     "tradRom": "ǰayaγači",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZAJAΓACI Fortune teller.",
+    "explain": "Fortune teller.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAJAΓACI"
   },
   {
     "index": 25014,
     "sourceId": "L1215-2-28",
     "tradRom": "ǰaki-",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "ZAK- To proclaim.",
+    "explain": "To proclaim.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAK-"
   },
   {
     "index": 25015,
     "sourceId": "L1215-2-29",
     "tradRom": "ǰala-",
     "imageName": "LessingDict_Page_1215.jpg",
-    "explain": "--n xadxuxu. To plant upright (standard ) [AT 37 ].",
-    "lessingForm": "ZALA-"
+    "explain": "--n xadxuxu. To plant upright (standard ) [AT 37 ]. -1215-",
+    "lessingForm": "ZALA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25016,
     "sourceId": "L1216-1-01",
     "tradRom": "ǰalaγ_a",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZALAΓ-A The foremost.",
+    "explain": "The foremost. ziryuyan tymen -- bui ... Will be the foremost of the six myriads. See zayaly-a. Pt. I.",
     "cyrillic": "А",
     "lessingForm": "ZALAΓ-A",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267698,90 +269539,87 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-1-02",
     "tradRom": "ǰalγaγul-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ziryuyan tymen -- bui ... Will be the foremost of the six myriads. See zayaly-a. Pt. I.",
+    "explain": "To cause oneslef to be joined to somebody",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZALΓAΓUL-"
   },
   {
     "index": 25018,
     "sourceId": "L1216-1-03",
     "tradRom": "ǰam",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZALΓAΓUL- To cause oneslef to be joined to somebody",
+    "explain": "Postal relay (station) etc.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAM"
   },
   {
     "index": 25019,
     "sourceId": "L1216-1-04",
     "tradRom": "ǰanči",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "[AT 105].",
+    "explain": "Raincoat made of felt . See zangci. Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZANCI"
   },
   {
     "index": 25020,
     "sourceId": "L1216-1-05",
     "tradRom": "ǰandamani",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "[SH/Mo.3-384]. ZAM Postal relay (station) etc.",
+    "explain": "zindamani. . See cindamani, Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZANDAMANI ="
   },
   {
     "index": 25021,
     "sourceId": "L1216-1-06",
     "tradRom": "ǰanggidu-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZANCI Raincoat made of felt . See zangci. Pt. I.",
+    "explain": "To heap up, as stones; also = zanggid-, Pt.I",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZANGGIDU-"
   },
   {
     "index": 25022,
     "sourceId": "L1216-1-07",
     "tradRom": "ǰangtu",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZANDAMANI = zindamani. . See cindamani, Pt. I.",
+    "explain": "zangtai, Pt. I. tørygsen. Born with character.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZANGTU ="
   },
   {
     "index": 25023,
     "sourceId": "L1216-1-08",
     "tradRom": "ǰaraγ",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZANGGIDU- To heap up, as stones; also = zanggid-, Pt.I [AT 22].",
+    "explain": "What is necessary; requirement. See zarayi, Pt.I. kiky. To do what is necessary, make the necessary dispositions. See Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZARAΓ"
   },
   {
     "index": 25024,
     "sourceId": "L1216-1-09",
     "tradRom": "ǰaraγtai",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "tørygsen. Born with character.",
-    "lessingForm": "ZANGTU = zangtai, Pt. I.",
+    "explain": "That which is necessary, requirement.",
+    "lessingForm": "ZARAITAI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -267789,55 +269627,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-1-10",
     "tradRom": "ǰarbiyal",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZARAΓ What is necessary; requirement. See zarayi, Pt.I. kiky. To do what is necessary, make the necessary dispositions. See Pt. I. ZARAITAI That which is necessary, requirement.",
+    "explain": "modun. Wood of which cangues are made [SH/Mo. 1-347 ].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZARBIJAL"
   },
   {
     "index": 25026,
     "sourceId": "L1216-1-11",
     "tradRom": "ǰarγaγ",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZARBIJAL modun. Wood of which cangues are made [SH/Mo. 1-347 ].",
+    "explain": "zaryaray. Depilated skin.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZARΓAΓ,"
   },
   {
     "index": 25027,
     "sourceId": "L1216-1-12",
     "tradRom": "ǰarγu",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZARΓAΓ, zaryaray. Depilated skin.",
+    "explain": "Legal case [AT 93 ]. Law court [V1. ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZARΓU"
   },
   {
     "index": 25028,
     "sourceId": "L1216-1-13",
     "tradRom": "ǰarliγ",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZARΓU Legal case [AT 93 ]. Law court [V1. ]. ZARLIΓ Official document, writ.",
+    "explain": "Official document, writ.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZARLIΓ"
   },
   {
     "index": 25029,
     "sourceId": "L1216-1-14",
     "tradRom": "ǰaruγul-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "kybegyn i kymyn dyr --xu. To have the son",
+    "explain": "kybegyn i kymyn dyr --xu. To have the son employed by somebody.",
     "lessingForm": "ZARUTUL-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267845,35 +269682,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-1-15",
     "tradRom": "ǰasaγ",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "employed by somebody.",
+    "explain": "zarliy Utterance of xayan [AT 25 ].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZASAΓ"
   },
   {
     "index": 25031,
     "sourceId": "L1216-1-16",
     "tradRom": "ǰasaγla-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZASAΓ zarliy Utterance of xayan [AT 25 ].",
+    "explain": "To condemn [AT 115 ].",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZASAΓLA-"
   },
   {
     "index": 25032,
     "sourceId": "L1216-1-17",
     "tradRom": "ǰasaγul",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZASAIUL Steward, estate-manager.",
-    "lessingForm": "ZASAΓLA- To condemn [AT 115 ].",
+    "explain": "Steward, estate-manager.",
+    "lessingForm": "ZASAIUL",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267881,55 +269715,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-1-18",
     "tradRom": "ǰasaul",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZASAUL See za sayul. Commander of the flank.",
+    "explain": "See za sayul. Commander of the flank.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZASAUL"
   },
   {
     "index": 25034,
     "sourceId": "L1216-1-19",
     "tradRom": "ǰaqa",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZAXA Neighborhood [AT 98 ]; near to [AT 81 ].",
+    "explain": "Neighborhood [AT 98 ]; near to [AT 81 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAXA"
   },
   {
     "index": 25035,
     "sourceId": "L1216-1-20",
     "tradRom": "ǰe",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZE teli All right, then! Enough of words ! [SH/Mo. 3-303].",
+    "explain": "teli All right, then! Enough of words ! [SH/Mo. 3-303].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZE"
   },
   {
     "index": 25036,
     "sourceId": "L1216-1-21",
     "tradRom": "ǰebe",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZEBE Weapon(s). See Pt.I zebe. [AT 56, 70]. jin morin. War horse.",
+    "explain": "Weapon(s). See Pt.I zebe.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZEBE"
   },
   {
     "index": 25037,
     "sourceId": "L1216-1-22",
     "tradRom": "ǰegere",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZEKIR- To turn cold, lose affection [SH/Mo. 3-326 ].",
-    "lessingForm": "ZEGERE Wild goat .",
+    "explain": "Wild goat .",
+    "lessingForm": "ZEGERE",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267937,22 +269770,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-1-23",
     "tradRom": "ǰekir-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZENGGY- = zinggy-_or zingky-. To slander, calumni-",
+    "explain": "To turn cold, lose affection [SH/Mo. 3-326 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZEKIR-"
   },
   {
     "index": 25039,
     "sourceId": "L1216-1-24",
     "tradRom": "ǰenggü-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ate [ET 74 ].",
+    "explain": "zinggy-_or zingky-. To slander, calumni- ate [ET 74 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZENGGY- ="
   },
   {
     "index": 25040,
@@ -267962,8 +269795,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "--n sayuysan. Seated in the ranks of the impe- rial spouses.",
     "lessingForm": "ZERGELE-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267971,23 +269803,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-1-26",
     "tradRom": "ǰibsiyer-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZIBSIJER- To arrange, order; to give orders [SH/Mo. 3-311 ].",
+    "explain": "To arrange, order; to give orders [SH/Mo. 3-311 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZIBSIJER-"
   },
   {
     "index": 25042,
     "sourceId": "L1216-1-27",
     "tradRom": "ǰibtura-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZIDAΓAI = zadayai. Pool, pond [ ET 117].",
-    "lessingForm": "ZIBTURA- To diminish [SH",
+    "explain": "To diminish [SH/Mo. 3-304].",
+    "lessingForm": "ZIBTURA-",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -267995,75 +269825,77 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-1-28",
     "tradRom": "ǰidaγai",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZIΓSA Monk's cell; school (in a monastery or temple).",
+    "explain": "zadayai. Pool, pond [ ET 117].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZIDAΓAI ="
   },
   {
     "index": 25044,
     "sourceId": "L1216-1-29",
     "tradRom": "ǰiγsa",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZIIUD- To escape. See arai.",
+    "explain": "Monk's cell; school (in a monastery or temple).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZIΓSA"
   },
   {
     "index": 25045,
     "sourceId": "L1216-1-30",
     "tradRom": "ǰiγud-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "--un yarxu. To escape. See arai.",
+    "explain": "To escape. See arai. --un yarxu. To escape. See arai.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZIIUD-"
   },
   {
     "index": 25046,
     "sourceId": "L1216-1-31",
     "tradRom": "ǰig",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZIG buju. How strange ! [AT 27 ].",
+    "explain": "buju. How strange ! [AT 27 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZIG"
   },
   {
     "index": 25047,
     "sourceId": "L1216-1-32",
     "tradRom": "ǰigi",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZIGI Dwelling place, residence = nutuy [ ET 19 ]. ZUD ZIKERGE - To frighten.",
+    "explain": "Dwelling place, residence = nutuy [ ET 19 ]. -1216-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZIGI"
   },
   {
     "index": 25048,
     "sourceId": "L1216-2-01",
     "tradRom": "ǰikerge-",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "To frighten.",
+    "lessingForm": "ZIKERGE -",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25049,
     "sourceId": "L1216-2-02",
     "tradRom": "ǰil",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "oytaryui --. \"Year of the firmament\"( which with",
+    "explain": "oytaryui --. \"Year of the firmament\"( which with its celestial bodies governs the year ) [ET 50].",
     "cyrillic": "м",
     "lessingForm": "ZIL",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -268071,27 +269903,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-2-03",
     "tradRom": "ǰilčü-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "its celestial bodies governs the year ) [ET 50].",
+    "explain": "To search [AT 17 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZILCY-"
   },
   {
     "index": 25051,
     "sourceId": "L1216-2-04",
     "tradRom": "ǰilda",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "Late. See yde, Pt. I [SH/Mo. 3-302 ]. yde --, ydesi --. Evening.",
+    "lessingForm": "ZILDA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25052,
     "sourceId": "L1216-2-05",
     "tradRom": "ǰinlabči",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "yde --, ydesi --. Evening. ZINLABCI byin rlabs (pronounced jinlap ) Consecra- tion, blessing = adistid, Pt.I.",
-    "lessingForm": "ZILDA Late. See yde, Pt. I [SH",
+    "explain": "byin rlabs (pronounced jinlap ) Consecra- tion, blessing = adistid, Pt.I.",
+    "lessingForm": "ZINLABCI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -268099,53 +269936,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-2-06",
     "tradRom": "ǰiramai",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZIRAMUD Little fish. ZIREB ( Onom.). Adv. descriptive of rapid movement; briskly.",
-    "lessingForm": "ZIRAMAI = ziram-a.",
+    "explain": "ziram-a.",
+    "lessingForm": "ZIRAMAI =",
     "ocrFlags": [
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 25054,
     "sourceId": "L1216-2-07",
     "tradRom": "ǰiramud",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "Little fish.",
+    "lessingForm": "ZIRAMUD",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25055,
     "sourceId": "L1216-2-08",
     "tradRom": "ǰireb",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "Onom.). Adv. descriptive of rapid movement; briskly.",
+    "lessingForm": "ZIREB (",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25056,
     "sourceId": "L1216-2-09",
     "tradRom": "ǰiren",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "zirin, Pt. I [ET 74 ].",
+    "lessingForm": "ZIREN =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25057,
     "sourceId": "L1216-2-10",
     "tradRom": "ǰirγaγul-",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "To make happy [ET 68 ].",
+    "lessingForm": "ZIRΓAΓUL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25058,
     "sourceId": "L1216-2-11",
     "tradRom": "ǰirgira-",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "To groan . See zigire-, Pt. I. [AT 46 ].",
+    "lessingForm": "ZIRGIRA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25059,
     "sourceId": "L1216-2-12",
     "tradRom": "ǰirin",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZIRΓAΓUL- To make happy [ET 68 ]. ZIRGIRA- To groan . See zigire-, Pt. I. [AT 46 ]. ZIRIN sedkilty. Disloyal, treacherous [SH/Mo.2-358 ].",
-    "lessingForm": "ZIREN = zirin, Pt. I [ET 74 ].",
+    "explain": "sedkilty. Disloyal, treacherous [SH/Mo.2-358 ].",
+    "lessingForm": "ZIRIN",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -268157,8 +270017,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "б идд б л",
     "lessingForm": "ZO",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -268166,22 +270025,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-2-14",
     "tradRom": "ǰob",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZOB See zab, l in Pt. I.",
+    "explain": "See zab, l in Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZOB"
   },
   {
     "index": 25062,
     "sourceId": "L1216-2-15",
     "tradRom": "ǰobqura-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZOBXURA-- To be or get lost.",
+    "explain": "To be or get lost.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZOBXURA--"
   },
   {
     "index": 25063,
@@ -268189,19 +270048,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ǰoγuγla-",
     "imageName": "LessingDict_Page_1216.jpg",
     "explain": "bajarlazu --xu. To enjoy.",
-    "lessingForm": "ZOFUFLA-"
+    "lessingForm": "ZOFUFLA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25064,
     "sourceId": "L1216-2-17",
     "tradRom": "ǰoki-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "olan luy-a --xu. To adapt oneself to or suit the",
+    "explain": "olan luy-a --xu. To adapt oneself to or suit the many [AT 45 ].",
     "cyrillic": "свб м",
     "lessingForm": "ZOKI-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -268209,23 +270070,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-2-18",
     "tradRom": "ǰoliγ",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "many [AT 45 ].",
+    "explain": "amin --. See under anda boluysan.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZOLI Γ"
   },
   {
     "index": 25066,
     "sourceId": "L1216-2-19",
     "tradRom": "ǰoliγ",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "amin --. See under anda boluysan. ZOLIΓ Money paid to buy off services owed to the government [V1. ].",
+    "explain": "Money paid to buy off services owed to the government [V1. ].",
     "cyrillic": "С",
-    "lessingForm": "ZOLI Γ",
+    "lessingForm": "ZOLIΓ",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -268233,36 +270093,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-2-20",
     "tradRom": "ǰoluγa-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZOLUTA- Obs. for zolya-.",
+    "explain": "Obs. for zolya-.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZOLUTA-"
   },
   {
     "index": 25068,
     "sourceId": "L1216-2-21",
     "tradRom": "ǰon",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZøB boltuyai. Let it be all right.",
-    "lessingForm": "ZON People [AT 67 ].",
+    "explain": "People [AT 67 ]. ZøB boltuyai. Let it be all right.",
+    "lessingForm": "ZON",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25069,
     "sourceId": "L1216-2-22",
     "tradRom": "ǰöb",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 25070,
     "sourceId": "L1216-2-23",
     "tradRom": "ǰöbdeki",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "Left (hand ) [AT 24 ].",
+    "lessingForm": "ZØBDEKI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25071,
@@ -268270,13 +270138,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ǰöbsiye-",
     "imageName": "LessingDict_Page_1216.jpg",
     "explain": "ygen dyr --ky. To approve the words [AT 69).",
-    "lessingForm": "ZOBSIJE-"
+    "lessingForm": "ZOBSIJE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25072,
     "sourceId": "L1216-2-25",
     "tradRom": "ǰöbsiyel",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "Contentment [AT 89 ].",
+    "lessingForm": "ZØBSIJEL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25073,
@@ -268286,7 +270162,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "yker --. Bumblebee.",
     "lessingForm": "ZQGE1",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -268294,10 +270170,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-2-27",
     "tradRom": "ǰöge-",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "--gsen. Established ( of a people or a name) [AT 47 ]. xamurun --gsen. Brought together, assembled (people) [AT 44 ].",
+    "explain": "--gsen. Established ( of a people or a name)",
     "lessingForm": "ZQGE-",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -268305,53 +270181,67 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1216-2-28",
     "tradRom": "ǰölke",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZQLKE Large valley bisected by a river [SH/Mo. 2-346 ].",
+    "explain": "xamurun --gsen. Brought together, assembled (people) [AT 44 ].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ],
+    "lessingForm": "[AT 47 ]."
   },
   {
     "index": 25076,
     "sourceId": "L1216-2-29",
     "tradRom": "ǰötegergegči",
     "imageName": "LessingDict_Page_1216.jpg",
-    "explain": "ZRLIΓ (rare ). Uigur spelling for zarliγ. ZUD tur(a)xan. Famine, murrain, epizootic.",
-    "lessingForm": "ZøTEGERGEGCI Jealous (woman) [AT 22 ].",
+    "explain": "Large valley bisected by a river [SH/Mo. 2-346 ]. ZøTEGERGEGCI Jealous (woman) [AT 22 ].",
+    "lessingForm": "ZQLKE",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL",
+      "SUPPL_MISMATCH"
     ]
   },
   {
     "index": 25077,
     "sourceId": "L1216-2-30",
     "tradRom": "ǰrliγ",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "(rare ). Uigur spelling for zarliγ.",
+    "lessingForm": "ZRLIΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25078,
     "sourceId": "L1216-2-31",
     "tradRom": "ǰud",
-    "imageName": "LessingDict_Page_1216.jpg"
+    "imageName": "LessingDict_Page_1216.jpg",
+    "explain": "tur(a)xan. Famine, murrain, epizootic.",
+    "lessingForm": "ZUD",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25079,
     "sourceId": "L1217-1-01",
     "tradRom": "ǰuγ",
     "imageName": "LessingDict_Page_1217.jpg",
-    "explain": "ZUΓ Sometimes incorr. for zyg.",
-    "lessingForm": "ZUΓ"
+    "explain": "Sometimes incorr. for zyg.",
+    "lessingForm": "ZUΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25080,
     "sourceId": "L1217-1-02",
     "tradRom": "ǰulaγ",
     "imageName": "LessingDict_Page_1217.jpg",
-    "explain": "saculi. Aspersion of kumiss (offering).",
-    "lessingForm": "ZUL AΓ Kumiss.",
+    "explain": "Kumiss. saculi. Aspersion of kumiss (offering).",
+    "lessingForm": "ZUL AΓ",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -268359,11 +270249,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1217-1-03",
     "tradRom": "ǰulγa-",
     "imageName": "LessingDict_Page_1217.jpg",
-    "explain": "ZULΓA- To remove the hair. ysyn i --xu. To depilate.",
+    "explain": "To remove the hair. ysyn i --xu. To depilate.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZULΓA-"
   },
   {
     "index": 25082,
@@ -268373,7 +270263,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "erkety -- Sigamuni. The powerful Lord Căkyamuni [AT 125 ].",
     "lessingForm": "ZUN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -268381,18 +270271,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1217-1-05",
     "tradRom": "ǰusaγ",
     "imageName": "LessingDict_Page_1217.jpg",
-    "explain": "ZUSAΓ yzeskylengty. Long-tailed pheasant (?) ZYR ZYGYRI Sacrifice, offering [VI. ].",
+    "explain": "yzeskylengty. Long-tailed pheasant (?) -1217-",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZUSAΓ"
   },
   {
     "index": 25084,
     "sourceId": "L1217-2-01",
     "tradRom": "ǰügüri",
-    "imageName": "LessingDict_Page_1217.jpg"
+    "imageName": "LessingDict_Page_1217.jpg",
+    "explain": "Sacrifice, offering [VI. ].",
+    "lessingForm": "ZYGYRI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25085,
@@ -268402,8 +270296,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "ama --ky. To pant.",
     "lessingForm": "ZYILEGLE-",
     "ocrFlags": [
-      "MERGED_HEAD",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -268411,34 +270304,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1217-2-03",
     "tradRom": "ǰülge",
     "imageName": "LessingDict_Page_1217.jpg",
-    "explain": "ZYLGE Marshy soil covered with tufted grass [ET ll8].",
+    "explain": "Marshy soil covered with tufted grass [ET ll8].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZYLGE"
   },
   {
     "index": 25087,
     "sourceId": "L1217-2-04",
     "tradRom": "ǰülge",
     "imageName": "LessingDict_Page_1217.jpg",
-    "explain": "ZYLGE Islet, island in a river . See Pt. I.",
+    "explain": "Islet, island in a river . See Pt. I.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZYLGE"
   },
   {
     "index": 25088,
     "sourceId": "L1217-2-05",
     "tradRom": "ǰür",
     "imageName": "LessingDict_Page_1217.jpg",
-    "explain": "THIRD SUPPLEMENT New Listings, Additions and Corrections Form Location Type Definition, instruction and source",
-    "lessingForm": "ZYR Deer. See Pt. I.",
+    "explain": "Deer. See Pt. I. 1",
+    "lessingForm": "ZYR",
     "ocrFlags": [
-      "CROSS_PAGE",
-      "EMPTY_BODY",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -268447,7 +270338,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "abali",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "New anybody, whoever (GrWrMo 60)",
-    "lessingForm": "AB ALI"
+    "lessingForm": "AB ALI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25090,
@@ -268455,7 +270349,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "aγaruul",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "13-a end add a hard dry cheese",
-    "lessingForm": "AΓARUUL"
+    "lessingForm": "AΓARUUL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25091,
@@ -268463,7 +270360,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ayaγategimlig-ünsurγal",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "The Prātimokșa (Filchner 406) 23-a top add",
-    "lessingForm": "AJATA TEGIMLIG-YN SURTAL"
+    "lessingForm": "AJATA TEGIMLIG-YN SURTAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25092,
@@ -268471,7 +270371,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ayusi",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "25-b mid add [Skt. āyusa]",
-    "lessingForm": "AJUSI, 2"
+    "lessingForm": "AJUSI, 2",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25093,
@@ -268479,7 +270382,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "alaγdaγul",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "to cause to be killed (GrWrMo new 63)",
-    "lessingForm": "ALAÍDATUL-"
+    "lessingForm": "ALAÍDATUL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25094,
@@ -268490,7 +270396,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "В",
     "lessingForm": "ALI, AB",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268502,8 +270408,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "В",
     "lessingForm": "ALI, AB",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -268512,7 +270417,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "altangerel",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "[Tib. γser-'od; Skt. Suvarna- new prabhasa] The Golden Beam Sutra, a famous work ofBsm.",
-    "lessingForm": "ALTAN GEREL"
+    "lessingForm": "ALTAN GEREL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25097,
@@ -268520,7 +270428,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "altangürgüm",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "red arsenic (Aalto, AG 17) new",
-    "lessingForm": "ALTAN GYRGYM"
+    "lessingForm": "ALTAN GYRGYM",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25098,
@@ -268531,7 +270442,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "AMIDA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268543,7 +270454,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "AMINDIWA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268552,7 +270463,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "amiri",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "same as AMARA, mango new",
-    "lessingForm": "AMIRI"
+    "lessingForm": "AMIRI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25101,
@@ -268560,7 +270474,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "aradtümen",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "the masses new",
-    "lessingForm": "ARAD TYMEN"
+    "lessingForm": "ARAD TYMEN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25102,
@@ -268568,7 +270485,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "araki",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "48-a end add arrack",
-    "lessingForm": "ARAKI(N)"
+    "lessingForm": "ARAKI(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25103,
@@ -268576,19 +270496,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "arakin",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "48-a end add arrack",
-    "lessingForm": "ARAKI(N)"
+    "lessingForm": "ARAKI(N)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25104,
     "sourceId": "L1218-1-14",
     "tradRom": "arakisaγ",
     "imageName": "LessingDict_Page_1218.jpg",
-    "explain": "drunkard (GrWrMo 43) new 1",
+    "explain": "drunkard (GrWrMo 43) new 1218",
     "cyrillic": "Г",
     "lessingForm": "ARAKISAΓ",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268600,7 +270522,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "ARAMANA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268609,7 +270531,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "asanǰi",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "aysan azi(γu): was, had been new",
-    "lessingForm": "ASANZI"
+    "lessingForm": "ASANZI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25107,
@@ -268617,14 +270542,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "baγulγa-",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "71-b end . add to betrothe (i.e., make a bride descend at the new home)",
-    "lessingForm": "BAULΓA-"
+    "lessingForm": "BAULΓA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25108,
     "sourceId": "L1218-2-04",
     "tradRom": "bayima",
-    "explain": "place where something can be",
-    "imageName": "LessingDict_Page_1218.jpg"
+    "explain": "place where something can be new (GrWrMo 48)",
+    "imageName": "LessingDict_Page_1218.jpg",
+    "lessingForm": "BAIMA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25109,
@@ -268632,7 +270564,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bayarqaγ",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "boasting of wealth (GrWrMo 43) new",
-    "lessingForm": "BAJARXAΓ"
+    "lessingForm": "BAJARXAΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25110,
@@ -268640,7 +270575,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "balar",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "79-a mid add See the discussion at JAOS 79.303 (1959) about reading it BELER",
-    "lessingForm": "BALAR"
+    "lessingForm": "BALAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25111,
@@ -268648,7 +270586,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "balbu",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "·[Tib. dpal-behu] a mystic dia- new gram (Getty, Roman 48)",
-    "lessingForm": "BALBU"
+    "lessingForm": "BALBU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25112,
@@ -268656,7 +270597,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "barilduγači",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "wrestler (GrWrMo 45) new",
-    "lessingForm": "BARILDUTACI"
+    "lessingForm": "BARILDUTACI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25113,
@@ -268664,7 +270608,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bartaγčin",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "see BERTEGCIN, pt. I new",
-    "lessingForm": "BARTAΓCIN"
+    "lessingForm": "BARTAΓCIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25114,
@@ -268672,7 +270619,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "beyiǰing",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "same as BEGEZING, Peking new",
-    "lessingForm": "BEJIZING"
+    "lessingForm": "BEJIZING",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25115,
@@ -268680,7 +270630,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "beler",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "new reading for BALAR, see new above",
-    "lessingForm": "BELER"
+    "lessingForm": "BELER",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25116,
@@ -268688,7 +270641,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bertegčin",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "100-b top add [Skt. prtagjna]",
-    "lessingForm": "BERTEGCIN"
+    "lessingForm": "BERTEGCIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25117,
@@ -268696,7 +270652,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bičimel",
     "imageName": "LessingDict_Page_1218.jpg",
     "explain": "something written, manuscript new (GrWrMo 48)",
-    "lessingForm": "BICIMEL"
+    "lessingForm": "BICIMEL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25118,
@@ -268704,7 +270663,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bigermiǰid",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "Vikramaditya (story-cycle) new",
-    "lessingForm": "BIGERMIZID"
+    "lessingForm": "BIGERMIZID",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25119,
@@ -268712,7 +270674,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bikarmiǰid",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "Vikramaditya new",
-    "lessingForm": "BIKARMIZID"
+    "lessingForm": "BIKARMIZID",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25120,
@@ -268720,7 +270685,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "birbaγasun",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "ferry [Russ. perevoz] (Vlad. new Comp. Gr. 189, 218)",
-    "lessingForm": "BIRBAΓASUN"
+    "lessingForm": "BIRBAΓASUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25121,
@@ -268728,7 +270696,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "birman",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "same as BIRAMAN, Pt. I new",
-    "lessingForm": "BIRMAN"
+    "lessingForm": "BIRMAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25122,
@@ -268736,7 +270707,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "boγ",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "resin of the plant Boswellia new thurifera (Aalto, AG 17)",
-    "lessingForm": "BOΓ, 3"
+    "lessingForm": "BOΓ, 3",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25123,
@@ -268744,7 +270718,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bolda-",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "to be obliged to be (GrWrMo 62) new",
-    "lessingForm": "BOLDA-"
+    "lessingForm": "BOLDA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25124,
@@ -268752,7 +270729,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bolγaγda-",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "to be made (GrWrMo 63) new",
-    "lessingForm": "BOLΓAIDA-"
+    "lessingForm": "BOLΓAIDA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25125,
@@ -268760,7 +270740,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bolud",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "[Pers. pulad] 118-a end add",
-    "lessingForm": "BOLUD, 1"
+    "lessingForm": "BOLUD, 1",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25126,
@@ -268768,7 +270751,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "boruču",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "an ordinary man (GrWrMo 40) new",
-    "lessingForm": "BORUCU"
+    "lessingForm": "BORUCU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25127,
@@ -268776,7 +270762,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "busuγar",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "otherwise, in another way new (GrWrMo 58)",
-    "lessingForm": "BUSUTAR"
+    "lessingForm": "BUSUTAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25128,
@@ -268786,8 +270775,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "same as BYSEGYI woman new",
     "lessingForm": "BYSYGYI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -268796,7 +270784,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "čengtou",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "[Chinese] turbaned; a Dungan new",
-    "lessingForm": "CENGTOU"
+    "lessingForm": "CENGTOU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25130,
@@ -268804,15 +270795,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "činaru",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "after (GrWrMo 59) new",
-    "lessingForm": "CINARU"
+    "lessingForm": "CINARU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25131,
     "sourceId": "L1219-1-14",
     "tradRom": "čing",
     "imageName": "LessingDict_Page_1219.jpg",
-    "explain": "a minister (Mathews 1155) Vlad new",
-    "lessingForm": "CING, 4"
+    "explain": "a minister (Mathews 1155) Vlad new 411",
+    "lessingForm": "CING, 4",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25132,
@@ -268822,7 +270819,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "same as CINYKEI (GrWrMo 51) new",
     "lessingForm": "CINUQAI",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -268834,7 +270831,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "COLCANA, COLUCANA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268846,7 +270843,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "COLCANA, COLUCANA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268855,15 +270852,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "dayidu",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "old name of Peking new",
-    "lessingForm": "DAIDU"
+    "lessingForm": "DAIDU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25136,
     "sourceId": "L1219-1-18",
     "tradRom": "dalubči",
     "imageName": "LessingDict_Page_1219.jpg",
-    "explain": "wing (GrWrMo 40) 227-a top add",
-    "lessingForm": "DALUBCI"
+    "explain": "wing (GrWrMo 40) 227-a top add 1219",
+    "lessingForm": "DALUBCI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25137,
@@ -268874,7 +270877,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "Г",
     "lessingForm": "DANSIΓ, DANSUT",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268886,8 +270889,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "Г",
     "lessingForm": "DANSIΓ, DANSUT",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -268896,7 +270898,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "dašman",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "[Persian] Mohammedan clergy new",
-    "lessingForm": "DAŠMAN"
+    "lessingForm": "DAŠMAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25140,
@@ -268904,7 +270909,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "degedüegüden",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "Verkhneudinsk (now Ulan Ude) new",
-    "lessingForm": "DEGEDY EGYDEN"
+    "lessingForm": "DEGEDY EGYDEN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25141,
@@ -268914,7 +270922,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "inhabitants of the world new (GrWrMo 40)",
     "lessingForm": "DELEKEI-DEKI",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -268923,7 +270931,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "dil",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "255-a top add [Skt. tila]",
-    "lessingForm": "DIL[A]"
+    "lessingForm": "DIL[A]",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25143,
@@ -268931,7 +270942,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "dila",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "255-a top add [Skt. tila]",
-    "lessingForm": "DIL[A]"
+    "lessingForm": "DIL[A]",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25144,
@@ -268942,7 +270956,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "DINGBA, DINGVA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268954,7 +270968,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "DINGBA, DINGVA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268963,7 +270977,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "dungsiγur",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "[Tib. dun-hp'yar] 274-a mid add",
-    "lessingForm": "DUNGSIΓUR"
+    "lessingForm": "DUNGSIΓUR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25147,
@@ -268974,7 +270991,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "DUVAZA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268986,7 +271003,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "EGYDEN-Y XOTA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -268997,7 +271014,8 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "see definitions at INDU-, pt. I new",
     "lessingForm": "EJETY-, EJETYLDY-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL",
+      "SUPPL_MISMATCH"
     ]
   },
   {
@@ -269008,7 +271026,8 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "see definitions at INDU-, pt. I new",
     "lessingForm": "EJETY-, EJETYLDY-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL",
+      "SUPPL_MISMATCH"
     ]
   },
   {
@@ -269017,7 +271036,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ergeü",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "Irkutsk new",
-    "lessingForm": "ERGEY"
+    "lessingForm": "ERGEY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25152,
@@ -269028,7 +271050,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "ESRUA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -269040,7 +271062,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "TADURA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -269049,17 +271071,20 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "γonid",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "[Tib. go-snyod] 360-b end add",
-    "lessingForm": "FONID"
+    "lessingForm": "FONID",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25155,
     "sourceId": "L1219-2-15",
     "tradRom": "indu-",
     "imageName": "LessingDict_Page_1219.jpg",
-    "explain": "better: EJETY- (see JAOS 411-a top add 79.302) EJETYLDY- (see JAOS 79.302). The forms INDU- and INDULDU- are a mis-reading of script.",
-    "lessingForm": "INDU-, INDULDU-",
+    "explain": "and INDULDU- are a mis-reading of script.",
+    "lessingForm": "INDU-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -269067,8 +271092,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1219-2-15",
     "tradRom": "induldu-",
     "imageName": "LessingDict_Page_1219.jpg",
-    "explain": "better: EJETY- (see JAOS 411-a top add 79.302) EJETYLDY- (see JAOS 79.302). The forms INDU- and INDULDU- are a mis-reading of script.",
-    "lessingForm": "INDU-, INDULDU-"
+    "explain": "and INDULDU- are a mis-reading of script.",
+    "lessingForm": "INDU-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25157,
@@ -269076,7 +271104,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "yaγšas",
     "imageName": "LessingDict_Page_1219.jpg",
     "explain": "add Yaksha, see p. 1172-a",
-    "lessingForm": "JAΓŠAS"
+    "lessingForm": "JAΓŠAS",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25158,
@@ -269086,7 +271117,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "gate with a roof (GrWrMo 12) new",
     "lessingForm": "JAMPAI",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -269097,7 +271128,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "[Manchu] 438-b end add",
     "lessingForm": "KEBEI",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -269106,7 +271137,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "keregbisi",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "serious matter, significant new",
-    "lessingForm": "KEREG BISI"
+    "lessingForm": "KEREG BISI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25161,
@@ -269114,7 +271148,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "kerükü",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "gout new",
-    "lessingForm": "KERYKY"
+    "lessingForm": "KERYKY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25162,
@@ -269122,7 +271159,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "kilile-",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "to form a border new",
-    "lessingForm": "KILILE-"
+    "lessingForm": "KILILE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25163,
@@ -269133,7 +271173,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "А",
     "lessingForm": "KILUGRAMA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -269145,7 +271185,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "Г",
     "lessingForm": "KIRAΓ",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -269154,7 +271194,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "köbdü",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "new moss",
-    "lessingForm": "KQBDY"
+    "lessingForm": "KQBDY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25166,
@@ -269162,7 +271205,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "köngged-",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "488-b end add to lose face, lose respect",
-    "lessingForm": "KONGGED-"
+    "lessingForm": "KONGGED-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25167,
@@ -269170,7 +271216,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "kündüköl",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "502-a top add pregnant, 'heavy of foot'",
-    "lessingForm": "KYNDY KQL"
+    "lessingForm": "KYNDY KQL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25168,
@@ -269178,7 +271227,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "mad",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "[Persian] 519-a top add",
-    "lessingForm": "MAD"
+    "lessingForm": "MAD",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25169,
@@ -269186,7 +271238,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "mahi",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "522-a end add add MAHI entry from p. 527-b end, misfiled there.",
-    "lessingForm": "MAHI"
+    "lessingForm": "MAHI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25170,
@@ -269194,7 +271249,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "musaragi",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "opal or another precious stone new",
-    "lessingForm": "MUSARAGI"
+    "lessingForm": "MUSARAGI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25171,
@@ -269202,7 +271260,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "narimu",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "millet new",
-    "lessingForm": "NARIMU"
+    "lessingForm": "NARIMU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25172,
@@ -269210,7 +271271,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "neüle",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "mongoose new",
-    "lessingForm": "NEYLE"
+    "lessingForm": "NEYLE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25173,
@@ -269220,7 +271284,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "princess (GrWrMo 42) new",
     "lessingForm": "NOIXAN",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -269229,7 +271293,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "olaüulan",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "many at one time (GrWrMo 55) new",
-    "lessingForm": "OLAΓULAN"
+    "lessingForm": "OLAΓULAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25175,
@@ -269237,17 +271304,20 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "orislim",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "Jerusalem (Vlad. Comp. Gr. new 376)",
-    "lessingForm": "ORISLIM"
+    "lessingForm": "ORISLIM",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25176,
     "sourceId": "L1220-1-18",
     "tradRom": "ölgügür",
     "imageName": "LessingDict_Page_1220.jpg",
-    "explain": "clotheshook (GrWrMo 46) new",
+    "explain": "clotheshook (GrWrMo 46) new 1220",
     "lessingForm": "QLGYGYR",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -269256,7 +271326,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sačum",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "distance of throwing a grain new (GrWrMo 47)",
-    "lessingForm": "SACUM"
+    "lessingForm": "SACUM",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25178,
@@ -269264,14 +271337,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sibaγula-",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "to hunt birds (GrWrMo 65) new",
-    "lessingForm": "SIBAFULA-"
+    "lessingForm": "SIBAFULA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25179,
     "sourceId": "L1220-2-03",
     "tradRom": "sibege",
-    "explain": "as in “degedy sibege”",
-    "imageName": "LessingDict_Page_1220.jpg"
+    "explain": "as in DEGEDY SIBEGE Verkhneudinsk (now Ulan Ude) new",
+    "imageName": "LessingDict_Page_1220.jpg",
+    "lessingForm": "SIBEGE,",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25180,
@@ -269281,7 +271361,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "terra firma new",
     "lessingForm": "SITYGYLGCI SIRUI",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -269290,7 +271370,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "tayiluγda-",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "to be explained (GrWrMo 62) new",
-    "lessingForm": "TAILUTDA-"
+    "lessingForm": "TAILUTDA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25182,
@@ -269298,7 +271381,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "takimlig",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "See p. 23-a, 794-a, Pt. I new",
-    "lessingForm": "TAKIMLIG"
+    "lessingForm": "TAKIMLIG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25183,
@@ -269306,7 +271392,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "tedrü",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "[Uighur] to the contrary, on the new other hand (GrWrMo 59)",
-    "lessingForm": "TEDRY"
+    "lessingForm": "TEDRY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25184,
@@ -269314,7 +271403,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "tedün",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "as many as these (GrWrMo 57) new",
-    "lessingForm": "TEDYN"
+    "lessingForm": "TEDYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25185,
@@ -269324,7 +271416,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "to act in that manner (GrWrMo new 66)",
     "lessingForm": "TEI-",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -269333,7 +271425,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "titim",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "809-b mid add the initial alif in Uighur script",
-    "lessingForm": "TITIM"
+    "lessingForm": "TITIM",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25187,
@@ -269341,7 +271436,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "turγaγul",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "the day bodyguard of Chinggis new Khan (GrWrMo 71)",
-    "lessingForm": "TURFAFUL"
+    "lessingForm": "TURFAFUL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25188,
@@ -269352,7 +271450,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "а",
     "lessingForm": "UTUTATA",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
@@ -269363,7 +271461,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "sleepy (GrWrMo 48) new",
     "lessingForm": "UMTAXAI",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -269372,7 +271470,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ušira",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "a fragrant root (Aalto AG p. 17) new",
-    "lessingForm": "UŠIRA"
+    "lessingForm": "UŠIRA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25191,
@@ -269380,7 +271481,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "qongγuγčin",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "dark brown mare (GrWrMo 41) new",
-    "lessingForm": "XONGFUTCIN"
+    "lessingForm": "XONGFUTCIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25192,
@@ -269388,49 +271492,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "üǰi",
     "imageName": "LessingDict_Page_1220.jpg",
     "explain": "debauch, immorality new",
-    "lessingForm": "YZI"
+    "lessingForm": "YZI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25193,
     "sourceId": "L1220-2-17",
     "tradRom": "ǰandali",
-    "explain": "“z”underline",
-    "imageName": "LessingDict_Page_1220.jpg"
+    "explain": "[Skt. caāla] low-caste person, new half-caste",
+    "imageName": "LessingDict_Page_1220.jpg",
+    "lessingForm": "ZANDALI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25194,
     "sourceId": "L1221-1-01",
     "tradRom": "abasmari",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "Apasmara-demon [Skt.] = umartayuluyci.",
+    "lessingForm": "ABASMARI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25195,
     "sourceId": "L1221-1-02",
     "tradRom": "ablin",
-    "explain": "=albin",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "explain": "kind of demon.",
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "ABLIN = ALBIN A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25196,
     "sourceId": "L1221-1-03",
     "tradRom": "ayu-",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "AJUS: -- tamu. The Avīci [Skt.]",
+    "explain": "--xu mety. Fearful, frightful.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AJU-:"
   },
   {
     "index": 25197,
     "sourceId": "L1221-1-04",
     "tradRom": "ayus",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "Hell. [U.]",
+    "explain": "tamu. The Avīci [Skt.] Hell. [U.] ALBArUD Hero. [Llt]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "AJUS: --"
   },
   {
     "index": 25198,
@@ -269440,65 +271560,98 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "ALTAN, add: em-yn -- tobci.",
     "lessingForm": "ALBArUD Hero. [Llt]",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL",
+      "NO_LINE"
     ]
   },
   {
     "index": 25199,
     "sourceId": "L1221-1-06",
     "tradRom": "em-ünaltantobči",
-    "explain": "Chamomile.",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "explain": "add: em-yn -- tobci. Chamomile. -- uruy. The Golden Clan.",
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "ALTAN,",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25200,
     "sourceId": "L1221-1-06",
     "tradRom": "altanuruγ",
-    "explain": "The Golden Clan.",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "explain": "add: em-yn -- tobci. Chamomile. -- uruy. The Golden Clan.",
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "ALTAN,",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25201,
     "sourceId": "L1221-1-07",
     "tradRom": "arčimal",
-    "explain": "polished",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "explain": "Polished. -- toli A polished mirror.",
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "ARCIMAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25202,
     "sourceId": "L1221-1-08",
     "tradRom": "amanggal",
-    "explain": "evil. [Llt, Skt. amangala]",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "explain": "Evil. [Llt, Skt. a- mangala]",
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "AMANGGAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25203,
     "sourceId": "L1221-1-09",
     "tradRom": "amanusi",
     "explain": "Amanusya-demon. [Skt.]",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "AMANUSI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25204,
     "sourceId": "L1221-1-10",
     "tradRom": "aranüadan",
-    "explain": "hermitage [<<Skt.]",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "explain": "Hermitage. [<<Skt.] AšMAGARBI Cornelian, etc.,Skt. aśmagarbha.",
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "ARANYADAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25205,
     "sourceId": "L1221-1-11",
     "tradRom": "ašmagarbi",
     "explain": "cornelian, etc., Skt. asmagarbha.",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 25206,
     "sourceId": "L1221-1-12",
     "tradRom": "badman",
     "explain": "measure of weight. [U.]",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "BADMAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25207,
@@ -269506,11 +271659,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "baγ",
     "wIndex": "3",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "men). BAI, 4. Orchard, garden.",
+    "explain": "add: Team (of sports- men).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BAI, 3.,"
   },
   {
     "index": 25208,
@@ -269518,11 +271671,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "baγ",
     "wIndex": "4",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "-- borluy. Orchards and",
+    "explain": "Orchard, garden. -- borluy. Orchards and vineyards. [U.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BAI, 4."
   },
   {
     "index": 25209,
@@ -269530,33 +271683,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "baγ",
     "wIndex": "5",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "vineyards. [U.] BAΓ, 5. Magic (potion), as in:",
+    "explain": "Magic (potion), as in: -- idegen. [Gsr]",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BAΓ, 5."
   },
   {
     "index": 25210,
     "sourceId": "L1221-1-16",
     "tradRom": "banǰid",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "-- idegen. [Gsr] BANZID Flag, curtain. [U.<Ch.]",
+    "explain": "Flag, curtain. [U.<Ch.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BANZID"
   },
   {
     "index": 25211,
     "sourceId": "L1221-1-17",
     "tradRom": "barimǰiy_aayalγu",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "barimjaa ailag) Standard",
-    "lessingForm": "BARIMZIJ-A AJALΓU (Inner Mong.:",
+    "explain": "(Inner Mong.: barimjaa ailag) Standard pronunciation/dialect.",
+    "lessingForm": "BARIMZIJ-A AJALΓU",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -269564,11 +271716,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1221-1-18",
     "tradRom": "begereg",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "pronunciation/dialect. BEGEREG Susceptible to cold.",
+    "explain": "Susceptible to cold.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BEGEREG"
   },
   {
     "index": 25213,
@@ -269576,51 +271728,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bel",
     "wIndex": "1",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BEL, 1. instead of \"straps,\"",
+    "explain": "instead of \"straps,\" etc. read: Ornamented, disk-shape silver button for fastening the flint pouch and the knife to the sash/belt.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BEL, 1."
   },
   {
     "index": 25214,
     "sourceId": "L1221-1-20",
     "tradRom": "belgetey_e",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "etc. read: Ornamented, disk-shape silver button for fastening the flint pouch and the knife to the",
+    "explain": "Notably; properly.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BELGETEJ-E"
   },
   {
     "index": 25215,
     "sourceId": "L1221-1-21",
     "tradRom": "bengse",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "sash/belt. BELGETEJ-E Notably; properly. BENGSE(N) Book [Chin. benzi] --n-y yliger. Popular story of Chinese origin.",
+    "explain": "Book [Chin. benzi] --n-y yliger. Popular story of Chinese origin.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BENGSE(N)"
   },
   {
     "index": 25216,
     "sourceId": "L1221-1-21",
     "tradRom": "bengsen",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "sash/belt. BELGETEJ-E Notably; properly. BENGSE(N) Book [Chin. benzi] --n-y yliger. Popular story of Chinese origin.",
+    "explain": "Book [Chin. benzi] --n-y yliger. Popular story of Chinese origin.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BENGSE(N)"
   },
   {
     "index": 25217,
     "sourceId": "L1221-1-22",
     "tradRom": "bileǰüg",
-    "explain": "=  bilycyg",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "explain": "Ring.",
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "BILEZYG = BILYCYG, JI3, J",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25218,
@@ -269628,36 +271784,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "bilegür",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BILEGYR, 2. Sacrificial food.",
+    "explain": "Sacrificial food.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BILEGYR, 2."
   },
   {
     "index": 25219,
     "sourceId": "L1221-1-24",
     "tradRom": "bilgebilig",
-    "explain": "=  belge  bilig  ",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "explain": "Wisdom, Skt. prajñā.",
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "BILGE BILIG = BELGE BILIG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25220,
     "sourceId": "L1221-1-25",
     "tradRom": "bili-",
-    "explain": "=  ili-  =  ilbi  =  to  rub  to  caress",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "explain": "To rub, to caress.",
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "BILI- = ILI- = ILBI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25221,
     "sourceId": "L1221-1-26",
     "tradRom": "bilir",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "caress. BILIR Fife, flute. [U.]",
-    "lessingForm": "BILI- = ILI- = ILBI- To rub, to",
+    "explain": "Fife, flute. [U.]",
+    "lessingForm": "BILIR",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -269665,59 +271828,88 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1221-1-27",
     "tradRom": "bilu_a",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BILU-A Bilva-tree. [Skt.] BlLZlGYR Sparrow,lark, a small bird. [Srn, cf. bilzuuxai, MNT bilji'ur, bildu'ur] BIMAN: -- xarsi. Palace, Skt. vimana. BISXARI- To overflow, to be too full, to bubble forth. BIŠACI Pisāca-demon. [Skt.] = mixan idesity. BODA(/O) RALDU- To make friends with each other.[Srn;1362]",
+    "explain": "Bilva-tree. [Skt.] 1221",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BILU-A"
   },
   {
     "index": 25223,
     "sourceId": "L1221-2-01",
     "tradRom": "bilǰigür",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "bilji'ur, bildu'ur]",
+    "lessingForm": "MNT",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25224,
     "sourceId": "L1221-2-02",
     "tradRom": "biman",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "xarsi. Palace, Skt. vimana.",
+    "lessingForm": "BIMAN: --",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25225,
     "sourceId": "L1221-2-03",
     "tradRom": "bisqari-",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "To overflow, to be too full, to bubble forth.",
+    "lessingForm": "BISXARI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25226,
     "sourceId": "L1221-2-04",
     "tradRom": "bišači",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "Pisāca-demon. [Skt.] = mixan idesity.",
+    "lessingForm": "BIŠACI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25227,
     "sourceId": "L1221-2-05",
     "tradRom": "bodaraldu-",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "To make friends with each other.[Srn;1362]",
+    "lessingForm": "BODA(/O) RALDU-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25228,
     "sourceId": "L1221-2-05",
     "tradRom": "bodoraldu-",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "To make friends with each other.[Srn;1362]",
+    "lessingForm": "BODA(/O) RALDU-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25229,
     "sourceId": "L1221-2-06",
     "tradRom": "bodisug",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "of BODISTV = BODISADU-A.",
-    "lessingForm": "BODISUG, BODISUNG: distortion",
+    "explain": "distortion of BODISTV = BODISADU-A.",
+    "lessingForm": "BODISUG, BODISUNG:",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -269725,11 +271917,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1221-2-06",
     "tradRom": "bodisung",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "of BODISTV = BODISADU-A.",
-    "lessingForm": "BODISUG, BODISUNG: distortion",
+    "explain": "distortion of BODISTV = BODISADU-A.",
+    "lessingForm": "BODISUG, BODISUNG:",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -269737,42 +271928,55 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1221-2-07",
     "tradRom": "bol-",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BOL-: yly --un. Disagreeing.",
+    "explain": "yly --un. Disagreeing.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BOL-:"
   },
   {
     "index": 25232,
     "sourceId": "L1221-2-08",
     "tradRom": "bolda-",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BOLDA-: passive of BOL-.",
+    "explain": "passive of BOL-.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BOLDA-:"
   },
   {
     "index": 25233,
     "sourceId": "L1221-2-09",
     "tradRom": "bolui",
     "explain": "=  boluyu  bolai",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "BOLUI, BOLU = BOLUYU, BOLAI.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25234,
     "sourceId": "L1221-2-09",
     "tradRom": "bolu",
     "explain": "=  boluyu  bolai",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "BOLUI, BOLU = BOLUYU, BOLAI.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25235,
     "sourceId": "L1221-2-10",
     "tradRom": "borči",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "Vine-grower. BøGERELZEGENE Raspberry. BøGI Knife or dagger. [Llt]",
+    "lessingForm": "BORCI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25236,
@@ -269782,7 +271986,8 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "explain": "BøGI Knife or dagger. [Llt]",
     "lessingForm": "BøGERELZEGENE Raspberry.",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL",
+      "NO_LINE"
     ]
   },
   {
@@ -269792,76 +271997,75 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1221.jpg",
     "explain": "BOGTYRGE Load, burden. [Srn]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 25238,
     "sourceId": "L1221-2-13",
     "tradRom": "bögtürge",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BUDAΓU, BUDUΓU Foolish, stupid.",
+    "explain": "Load, burden. [Srn]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BOGTYRGE"
   },
   {
     "index": 25239,
     "sourceId": "L1221-2-14",
     "tradRom": "budaöu",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BULBAI- To be soft or weak.",
+    "explain": "Foolish, stupid.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BUDAΓU, BUDUΓU"
   },
   {
     "index": 25240,
     "sourceId": "L1221-2-15",
     "tradRom": "bulbai-",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BULBARAI Soft; weak; of tender",
+    "explain": "To be soft or weak.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BULBAI-"
   },
   {
     "index": 25241,
     "sourceId": "L1221-2-16",
     "tradRom": "bulbarai",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "age, baby (-- keyked).",
+    "explain": "Soft; weak; of tender age, baby (-- keyked).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BULBARAI"
   },
   {
     "index": 25242,
     "sourceId": "L1221-2-17",
     "tradRom": "bulγa",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BULΓA, add: Hostile,rebellious.",
+    "explain": "add: Hostile,rebellious.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BULΓA,"
   },
   {
     "index": 25243,
     "sourceId": "L1221-2-18",
     "tradRom": "bundarig",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "Skt. pundarīka. BURAL- To roam, to run about.",
-    "lessingForm": "BUNDARIG White lotus,",
+    "explain": "White lotus, Skt. pundarīka.",
+    "lessingForm": "BUNDARIG",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -269869,44 +272073,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1221-2-19",
     "tradRom": "bural-",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BURΓA- To fall/swirl",
+    "explain": "To roam, to run about.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BURAL-"
   },
   {
     "index": 25245,
     "sourceId": "L1221-2-20",
     "tradRom": "burγa-",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "(of fluffy snow). BURZANG Mouthpiece (of pipe,",
+    "explain": "To fall/swirl (of fluffy snow).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BURΓA-"
   },
   {
     "index": 25246,
     "sourceId": "L1221-2-21",
     "tradRom": "burǰang",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "horn).",
+    "explain": "Mouthpiece (of pipe, horn).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BURZANG"
   },
   {
     "index": 25247,
     "sourceId": "L1221-2-22",
     "tradRom": "busi",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "-- bolya- To alter.",
-    "lessingForm": "BUSI = BISI, BUSU Else than.",
+    "explain": "Else than. -- bolya- To alter.",
+    "lessingForm": "BUSI = BISI, BUSU",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -269914,67 +272117,100 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1221-2-23",
     "tradRom": "buti",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "BUTI Bhūta-demon. [Skt.]",
+    "explain": "Bhūta-demon. [Skt.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "BUTI"
   },
   {
     "index": 25249,
     "sourceId": "L1221-2-24",
     "tradRom": "büilesün",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "Almond.",
+    "lessingForm": "BYILESYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25250,
     "sourceId": "L1221-2-25",
     "tradRom": "bülüsüg",
     "explain": "=  bylycyg  =bilycyg",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "BYLYSYG = BYLYCYG = BILYCYG",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25251,
     "sourceId": "L1221-2-26",
     "tradRom": "bütegei",
     "explain": "=  bitegei  ",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "BYTEGEI/BYTYGEI = BITEGEI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25252,
     "sourceId": "L1221-2-26",
     "tradRom": "bütügei",
     "explain": "=  bitegei  ",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "BYTEGEI/BYTYGEI = BITEGEI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25253,
     "sourceId": "L1221-2-27",
     "tradRom": "čab",
     "wIndex": "6",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "Renown, fame. Cf. CAU.",
+    "lessingForm": "CAB, 6.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25254,
     "sourceId": "L1221-2-28",
     "tradRom": "čadigamal",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "Jātakamāla [Skt.]",
+    "lessingForm": "CADIGAMAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25255,
     "sourceId": "L1221-2-29",
     "tradRom": "čaγuraγulčin",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "Potter. [Llt]",
+    "lessingForm": "CAΓURAΓULCIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25256,
     "sourceId": "L1221-2-30",
     "tradRom": "čaγurγalaγčin",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "CAJ-A Chāyā-demon [Skt.] =",
-    "lessingForm": "CAΓURΓALAΓCIN Potter.",
+    "explain": "Potter.",
+    "lessingForm": "CAΓURΓALAΓCIN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -269982,29 +272218,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1221-2-31",
     "tradRom": "čay_a",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "segyder-i daruyci.",
+    "explain": "Chāyā-demon [Skt.] = segyder-i daruyci.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CAJ-A"
   },
   {
     "index": 25258,
     "sourceId": "L1221-2-32",
     "tradRom": "čakim",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "explain": "Electron.",
+    "lessingForm": "CAKIM IAXIM",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25259,
     "sourceId": "L1221-2-33",
     "tradRom": "čakimlaγur",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "Computer. CAKIRAVAD Cakravartin [Skt.] -- xayan Wheel-Turning",
+    "explain": "Computer.",
     "lessingForm": "CAKIMLAΓUR, CAXIMLUUR IAXIMIYYP",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270012,59 +272251,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1221-2-33",
     "tradRom": "čaqimluur",
     "imageName": "LessingDict_Page_1221.jpg",
-    "explain": "Computer. CAKIRAVAD Cakravartin [Skt.] -- xayan Wheel-Turning",
+    "explain": "Computer.",
     "lessingForm": "CAKIMLAΓUR, CAXIMLUUR IAXIMIYYP",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25261,
     "sourceId": "L1221-2-34",
     "tradRom": "čakiravad",
-    "explain": "Cakravartin [Skt.]",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "explain": "Cakravartin [Skt.] -- xayan Wheel-Turning [= Universal] Ruler",
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "CAKIRAVAD",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25262,
     "sourceId": "L1221-2-35",
     "tradRom": "čakravard",
     "explain": "= cakiravad",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "CAK(I) RAVAR(D/TI) = CAKIRAVAD",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25263,
     "sourceId": "L1221-2-35",
     "tradRom": "čakiravard",
     "explain": "= cakiravad",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "CAK(I) RAVAR(D/TI) = CAKIRAVAD",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25264,
     "sourceId": "L1221-2-35",
     "tradRom": "čakravarti",
     "explain": "= cakiravad",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "CAK(I) RAVAR(D/TI) = CAKIRAVAD",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25265,
     "sourceId": "L1221-2-35",
     "tradRom": "čakiravarti",
     "explain": "= cakiravad",
-    "imageName": "LessingDict_Page_1221.jpg"
+    "imageName": "LessingDict_Page_1221.jpg",
+    "lessingForm": "CAK(I) RAVAR(D/TI) = CAKIRAVAD",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25266,
     "sourceId": "L1222-1-01",
     "tradRom": "čakr_a",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "amulet, Skt. cakra.",
-    "lessingForm": "CAKR-A, ZAGR-A Magic circle;",
+    "explain": "Magic circle; amulet, Skt. cakra.",
+    "lessingForm": "CAKR-A, ZAGR-A",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270072,112 +272328,155 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1222-1-01",
     "tradRom": "ǰagr_a",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "amulet, Skt. cakra.",
-    "lessingForm": "CAKR-A, ZAGR-A Magic circle;",
+    "explain": "Magic circle; amulet, Skt. cakra.",
+    "lessingForm": "CAKR-A, ZAGR-A",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25268,
     "sourceId": "L1222-1-02",
     "tradRom": "čal",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "Whitish grey.",
+    "lessingForm": "CAL BUΓURAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25269,
     "sourceId": "L1222-1-02",
     "tradRom": "buγural",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "Whitish grey.",
+    "lessingForm": "CAL BUΓURAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25270,
     "sourceId": "L1222-1-03",
     "tradRom": "čamγuγ",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "CAMΓUΓ A musical instrument. cinggil -- [Llt], cf. U. čimyuq [Insadi ed. Tezcan]",
-    "lessingForm": "CAL BUΓURAL Whitish grey.",
+    "explain": "musical instrument. cinggil -- [Llt], cf. U. čimyuq [Insadi ed. Tezcan]",
+    "lessingForm": "CAMΓUΓ A",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
     "index": 25271,
     "sourceId": "L1222-1-04",
     "tradRom": "časi",
-    "explain": "caγaγsi / cinaγsi",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Thither. CEš/CIš erdeni Turquoise. [U.]",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "CASI: CAΓAΓSI/CINAΓSI",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25272,
     "sourceId": "L1222-1-05",
     "tradRom": "češ",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 25273,
     "sourceId": "L1222-1-05",
     "tradRom": "čiš",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 25274,
     "sourceId": "L1222-1-06",
     "tradRom": "čese",
     "wIndex": "2",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "Eggplant. [Ch.]",
+    "lessingForm": "CESE, 2.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25275,
     "sourceId": "L1222-1-07",
     "tradRom": "čidungǰe",
-    "explain": "  =  sidungze",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Matches. [Ch. dial. qudengze]",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "CIDÜNGZE = SIDÜNGZE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25276,
     "sourceId": "L1222-1-08",
     "tradRom": "čiγan_a",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "CIRAN-A Beyond/thither.",
+    "explain": "Beyond/thither.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CIRAN-A"
   },
   {
     "index": 25277,
     "sourceId": "L1222-1-09",
     "tradRom": "čiγulultuqaγalγ_a",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "the city of Kalgan.",
-    "lessingForm": "CIΓULULTU XAΓALΓ-A Zhangjiakou,"
+    "explain": "Zhangjiakou, the city of Kalgan.",
+    "lessingForm": "CIΓULULTU XAΓALΓ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25278,
     "sourceId": "L1222-1-10",
     "tradRom": "čimγuγ",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "See CAMΓUΓ.",
+    "lessingForm": "CIMUΓ:",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25279,
     "sourceId": "L1222-1-11",
     "tradRom": "čindan",
-    "explain": "=  candan  /  zandan",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Sandal- wood, Skt. candana.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "CINDAN = CANDAN/ZANDAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25280,
     "sourceId": "L1222-1-12",
     "tradRom": "činü-",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "wood, Skt. candana. CINY- To swell or get swollen.",
-    "lessingForm": "CINDAN = CANDAN",
+    "explain": "To swell or get swollen.",
+    "lessingForm": "CINY-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270185,22 +272484,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1222-1-13",
     "tradRom": "činüre-",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "CINYRE- To swell up and ache.",
+    "explain": "To swell up and ache.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CINYRE-"
   },
   {
     "index": 25282,
     "sourceId": "L1222-1-14",
     "tradRom": "čivačivag",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "CIVACIVAG Jīvajīvaka-bird.",
+    "explain": "Jīvajīvaka-bird. [U.<<Skt.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CIVACIVAG"
   },
   {
     "index": 25283,
@@ -270208,22 +272507,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "čola",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "[U.<<Skt.] COLA, 2. Occasion, opportunity.",
+    "explain": "Occasion, opportunity.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "COLA, 2."
   },
   {
     "index": 25284,
     "sourceId": "L1222-1-16",
     "tradRom": "čöčüge",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "COKY The Chikoi River. CULUIDA- To be zealous. [Llt]",
-    "lessingForm": "COCYGE Whip. [ET; MNT čiču'a]",
+    "explain": "Whip. [ET; MNT čiču'a]",
+    "lessingForm": "COCYGE",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270231,56 +272529,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1222-1-17",
     "tradRom": "čökü",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "CURM-A Scorched grass; the new",
+    "explain": "The Chikoi River.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "COKY"
   },
   {
     "index": 25286,
     "sourceId": "L1222-1-18",
     "tradRom": "čuluida-",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "grass grown on burnt spot. DALDA: -- jin malayai. Hat",
+    "explain": "To be zealous. [Llt]",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CULUIDA-"
   },
   {
     "index": 25287,
     "sourceId": "L1222-1-19",
     "tradRom": "čurm_a",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "which makes one invisible",
+    "explain": "Scorched grass; the new grass grown on burnt spot.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "CURM-A"
   },
   {
     "index": 25288,
     "sourceId": "L1222-1-20",
     "tradRom": "dalda",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "(folkl.).",
+    "explain": "jin malayai. Hat which makes one invisible (folkl.).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DALDA: --"
   },
   {
     "index": 25289,
     "sourceId": "L1222-1-21",
     "tradRom": "darasučin",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "DARGI Intense (color). See Bur.",
-    "lessingForm": "DARASUCIN Drunkard. [Llt]",
+    "explain": "Drunkard. [Llt]",
+    "lessingForm": "DARASUCIN",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270288,84 +272584,109 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1222-1-22",
     "tradRom": "dargi",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "darxi, MNT dargi.",
+    "explain": "Intense (color). See Bur. darxi, MNT dargi.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DARGI"
   },
   {
     "index": 25291,
     "sourceId": "L1222-1-23",
     "tradRom": "darudeger_e",
-    "explain": "=  darui_dur  ",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Immediately.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "DARU(I) DEGER-E = DARUI-DUR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25292,
     "sourceId": "L1222-1-23",
     "tradRom": "daruideger_e",
-    "explain": "=  darui_dur  ",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Immediately.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "DARU(I) DEGER-E = DARUI-DUR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25293,
     "sourceId": "L1222-1-24",
     "tradRom": "darumtatu",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "[Pcr] See OSTARAKI",
+    "explain": "kind of demon. [Pcr] See OSTARAKI",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DARUMTATU A"
   },
   {
     "index": 25294,
     "sourceId": "L1222-1-25",
     "tradRom": "debserküi",
-    "explain": "=  zøbsijerkyi  ",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Turning right/clockwise.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "DEBSE(GE) RKYI = ZØBSIJERKYI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25295,
     "sourceId": "L1222-1-25",
     "tradRom": "debsegerküi",
-    "explain": "=  zøbsijerkyi  ",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Turning right/clockwise.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "DEBSE(GE) RKYI = ZØBSIJERKYI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25296,
     "sourceId": "L1222-1-26",
     "tradRom": "debseri-",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "DEGDE Bluebell.",
+    "explain": "To turn right.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DEBSERI-"
   },
   {
     "index": 25297,
     "sourceId": "L1222-1-27",
     "tradRom": "degde",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "Bluebell.",
+    "lessingForm": "DEGDE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25298,
     "sourceId": "L1222-1-28",
     "tradRom": "degü",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "old for DEGYY.",
+    "lessingForm": "DEGY:",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25299,
     "sourceId": "L1222-1-29",
     "tradRom": "degürge",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "DENG Scales [Chin.].",
-    "lessingForm": "DEGYRGE: see TEGYRGE suburb.",
+    "explain": "see TEGYRGE suburb.",
+    "lessingForm": "DEGYRGE:",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270373,22 +272694,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1222-1-30",
     "tradRom": "deng",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "denggyn modun Wooden scales. Cf. teng.",
+    "explain": "Scales [Chin.]. denggyn modun Wooden scales. Cf. teng.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DENG"
   },
   {
     "index": 25301,
     "sourceId": "L1222-1-31",
     "tradRom": "dengse",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "DIBA Regent, Tib. sde-pa.",
-    "lessingForm": "DENGSE Scales. [Chin.]",
+    "explain": "Scales. [Chin.]",
+    "lessingForm": "DENGSE",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270396,11 +272716,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1222-1-32",
     "tradRom": "diba",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "DøI Younger sister. [Llt]",
+    "explain": "Regent, Tib. sde-pa. DøI Younger sister. [Llt] DøRYME Refined (metall). Refined gold. altan. -- temyr. Refined iron. 1222",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "DIBA"
   },
   {
     "index": 25303,
@@ -270409,10 +272729,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1222.jpg",
     "explain": "DøRYME Refined (metall).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 25304,
@@ -270421,36 +272741,56 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1222.jpg",
     "explain": "Refined gold. altan. -- temyr. Refined iron. DYLED(TE) More, even more. DYLEI, 2: tngri-jin --. Puff- ball [fungus; Lycoperdon and Calvatia species]. (Delete \"raincoat.\")",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 25305,
     "sourceId": "L1222-2-01",
     "tradRom": "düled",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "More, even more.",
+    "lessingForm": "DYLED(TE)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25306,
     "sourceId": "L1222-2-01",
     "tradRom": "düledte",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "More, even more.",
+    "lessingForm": "DYLED(TE)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25307,
     "sourceId": "L1222-2-02",
     "tradRom": "dülei",
     "wIndex": "2",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "tngri-jin --. Puff- ball [fungus; Lycoperdon and Calvatia species]. (Delete \"raincoat.\")",
+    "lessingForm": "DYLEI, 2:",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25308,
     "sourceId": "L1222-2-03",
     "tradRom": "düles",
     "explain": "=  dyled  dyledte",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "DYLES = DYLED, DYLEDTE",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25309,
@@ -270458,49 +272798,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "eber",
     "wIndex": "3",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "-- car. Ailments.",
+    "explain": "Disease. -- car. Ailments.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EBER, 3."
   },
   {
     "index": 25310,
     "sourceId": "L1222-2-05",
     "tradRom": "edgü",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "liyso[Tib.] Good. (Text final phrase.)",
-    "lessingForm": "EDGY Good. [U.]"
+    "explain": "Good. [U.] liyso[Tib.] Good. (Text final phrase.)",
+    "lessingForm": "EDGY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25311,
     "sourceId": "L1222-2-06",
     "tradRom": "edügüi",
-    "explain": "=  ydygyi  =  edyi  ",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Not yet.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "EDYGYI = YDYGYI = EDYI",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25312,
     "sourceId": "L1222-2-07",
     "tradRom": "egel",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "add: Layman. [U.]",
+    "lessingForm": "EGEL,",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25313,
     "sourceId": "L1222-2-08",
     "tradRom": "egüsiye-",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "To dislike. [1335]",
+    "lessingForm": "EGYSIJE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25314,
     "sourceId": "L1222-2-09",
     "tradRom": "embüle",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "EMZEG MB3T Too sensitive; sus-",
-    "lessingForm": "EMBYLE: -- ger Hut.[MNT,LuAT.]",
+    "explain": "ger Hut.[MNT,LuAT.]",
+    "lessingForm": "EMBYLE: --",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270508,52 +272865,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1222-2-10",
     "tradRom": "emǰeg",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "ceptible; sore spot. [U.]",
+    "explain": "Too sensitive; sus- ceptible; sore spot. [U.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EMZEG MB3T"
   },
   {
     "index": 25316,
     "sourceId": "L1222-2-11",
     "tradRom": "erdini",
-    "explain": "=  erdeni",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Skt.]",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "ERDINI = ERDENI [U.<<",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25317,
     "sourceId": "L1222-2-12",
     "tradRom": "erekei",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "Tom Thumb (folkl.) ERKEY (the city of) Irkutsk; the Irkut River. (Delete",
+    "explain": "-jin cinege key. Tom Thumb (folkl.)",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EREKEI: --"
   },
   {
     "index": 25318,
     "sourceId": "L1222-2-13",
     "tradRom": "erkeü",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "ERGEY.)",
+    "explain": "(the city of) Irkutsk; the Irkut River. (Delete",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ERKEY"
   },
   {
     "index": 25319,
     "sourceId": "L1222-2-14",
     "tradRom": "etege-",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "EZIJ-E At this time, now.",
-    "lessingForm": "ETEGE- To scratch. [Lu.AT]",
+    "explain": "To scratch. [Lu.AT]",
+    "lessingForm": "ETEGE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270561,21 +272920,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1222-2-15",
     "tradRom": "eǰiy_e",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "- kyrtele up to now.",
+    "explain": "At this time, now. - kyrtele up to now.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "EZIJ-E"
   },
   {
     "index": 25321,
     "sourceId": "L1222-2-16",
     "tradRom": "γalburγasunmodun",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "for GALBARAVARS/°BAVARAGS,",
-    "lessingForm": "ΓAL BURΓASUN MODUN, folkl.:",
+    "explain": "folkl.: for GALBARAVARS/°BAVARAGS, Skt. Kalpavrksā.",
+    "lessingForm": "ΓAL BURΓASUN MODUN,",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270583,117 +272942,165 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1222-2-17",
     "tradRom": "γarin",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "Skt. Kalpavrksā. ΓARIN Hoofprint: [Srn]",
+    "explain": "Hoofprint: [Srn]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ΓARIN"
   },
   {
     "index": 25323,
     "sourceId": "L1222-2-18",
     "tradRom": "γodosun",
-    "explain": "=  γutul",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Boot, footwear.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "FODOSUN = ΓUTUL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25324,
     "sourceId": "L1222-2-19",
     "tradRom": "γoyooγoeo",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "asitic Gobi plant with a sweet, edible stem.",
+    "explain": "Cynomorium: a par- asitic Gobi plant with a sweet, edible stem.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "FOJOO TOEO"
   },
   {
     "index": 25325,
     "sourceId": "L1222-2-20",
     "tradRom": "γulǰa",
-    "explain": "= uγulza",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Kulja. GABURCILAn buruyud-. To escape like camphor = To vanish in the thin air. [Srn]",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "ΓULZA = UΓULZA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25326,
     "sourceId": "L1222-2-21",
     "tradRom": "gaburčilan",
     "explain": "“g”underline",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 25327,
     "sourceId": "L1222-2-22",
     "tradRom": "gadali",
-    "explain": "“g”underline",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Banana. [<<Skt.]",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "GADALI, ΓADIL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25328,
     "sourceId": "L1222-2-22",
     "tradRom": "γadil",
-    "explain": "“g”underline",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Banana. [<<Skt.]",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "GADALI, ΓADIL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25329,
     "sourceId": "L1222-2-23",
     "tradRom": "gadira",
-    "explain": "“g”underline",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Quince. [<<Skt.]",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "GADIRA, ΓADIR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25330,
     "sourceId": "L1222-2-23",
     "tradRom": "γadir",
-    "explain": "“g”underline",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Quince. [<<Skt.]",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "GADIRA, ΓADIR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25331,
     "sourceId": "L1222-2-24",
     "tradRom": "gandari",
-    "explain": "“g”underline",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Gandharva. [<<Skt.] = ynyr idesity.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "GANDAR(V)I",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25332,
     "sourceId": "L1222-2-24",
     "tradRom": "gandarvi",
-    "explain": "“g”underline",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Gandharva. [<<Skt.] = ynyr idesity.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "GANDAR(V)I",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25333,
     "sourceId": "L1222-2-25",
     "tradRom": "gargata",
-    "explain": "“g”underline",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Cancer; crab. Skr. karkata.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "GARGATA(/I)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25334,
     "sourceId": "L1222-2-25",
     "tradRom": "gargata",
-    "explain": "“g”underline",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Cancer; crab. Skr. karkata.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "GARGATA(/I)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25335,
     "sourceId": "L1222-2-25",
     "tradRom": "gargati",
-    "explain": "“g”underline",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "explain": "Cancer; crab. Skr. karkata.",
+    "imageName": "LessingDict_Page_1222.jpg",
+    "lessingForm": "GARGATA(/I)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25336,
     "sourceId": "L1222-2-26",
     "tradRom": "gegesün",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "Spoke of a wheel.",
-    "lessingForm": "GEGESYN: read KEGESYN XITC",
+    "explain": "read KEGESYN XITC Spoke of a wheel.",
+    "lessingForm": "GEGESYN:",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270701,82 +273108,109 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1222-2-27",
     "tradRom": "gele",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "GELE J3 = kemelüge.",
+    "explain": "kemelüge.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GELE J3 ="
   },
   {
     "index": 25338,
     "sourceId": "L1222-2-28",
     "tradRom": "gemsigüri",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "GEMYR CIMUR Worry, worriment.",
-    "lessingForm": "GEMSIGYRI Sorrow.",
+    "explain": "Sorrow.",
+    "lessingForm": "GEMSIGYRI",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25339,
     "sourceId": "L1222-2-29",
     "tradRom": "gemürčimur",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "Worry, worriment.",
+    "lessingForm": "GEMYR CIMUR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25340,
     "sourceId": "L1222-2-30",
     "tradRom": "genül",
     "imageName": "LessingDict_Page_1222.jpg",
-    "explain": "GER: -- tergen. Household.",
-    "lessingForm": "GENYL Regret. [Srn]",
+    "explain": "Regret. [Srn]",
+    "lessingForm": "GENYL",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25341,
     "sourceId": "L1222-2-31",
     "tradRom": "ger",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "tergen. Household.",
+    "lessingForm": "GER: --",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25342,
     "sourceId": "L1222-2-32",
     "tradRom": "gerisge",
-    "imageName": "LessingDict_Page_1222.jpg"
+    "imageName": "LessingDict_Page_1222.jpg",
+    "explain": "Fence. [1362]",
+    "lessingForm": "GERISGE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25343,
     "sourceId": "L1223-1-01",
     "tradRom": "gesel",
-    "explain": "=  gedesyn",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "Belly; bowels.",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "GESEL = GEDESYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25344,
     "sourceId": "L1223-1-02",
     "tradRom": "getegül",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "Scout, sentry, spy.",
+    "lessingForm": "GETEGYL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25345,
     "sourceId": "L1223-1-03",
     "tradRom": "geüeg-",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "To be frightened. [Llt]",
+    "lessingForm": "GEYEG-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25346,
     "sourceId": "L1223-1-04",
     "tradRom": "gički-",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "GYMBIRA Skt. kumbhira, in: --",
-    "lessingForm": "GICKI- = GISKI- To tread.",
+    "explain": "To tread.",
+    "lessingForm": "GICKI- = GISKI-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270784,32 +273218,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-1-05",
     "tradRom": "gümbira",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "matar. Crocodile. GYREL The neck arteries. [Llt]",
+    "explain": "Skt. kumbhira, in: -- matar. Crocodile.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GYMBIRA"
   },
   {
     "index": 25348,
     "sourceId": "L1223-1-06",
     "tradRom": "gürel",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "sudal --; cf. GYREGE.",
+    "explain": "The neck arteries. [Llt] sudal --; cf. GYREGE.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "GYREL"
   },
   {
     "index": 25349,
     "sourceId": "L1223-1-07",
     "tradRom": "güǰigün",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "thrax. [Srn, Suv; HY]",
-    "lessingForm": "GYZIGYN, GYZYGYN Leprosy, an-",
+    "explain": "Leprosy, an- thrax. [Srn, Suv; HY]",
+    "lessingForm": "GYZIGYN, GYZYGYN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -270817,53 +273251,65 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-1-07",
     "tradRom": "güǰügün",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "thrax. [Srn, Suv; HY]",
-    "lessingForm": "GYZIGYN, GYZYGYN Leprosy, an-",
+    "explain": "Leprosy, an- thrax. [Srn, Suv; HY]",
+    "lessingForm": "GYZIGYN, GYZYGYN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
     "index": 25351,
     "sourceId": "L1223-1-08",
     "tradRom": "hindkeg",
-    "explain": "=  en(e)dkeg  ",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "India(n).",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "HINDKEG = EN(E) DKEG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25352,
     "sourceId": "L1223-1-09",
     "tradRom": "ibaγu",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "ICIREG Confidential, intimate. IΓ IΓ: The sounds of coughing.",
-    "lessingForm": "IBAΓU HOBYY Cowry.",
+    "explain": "Cowry.",
+    "lessingForm": "IBAΓU HOBYY",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25353,
     "sourceId": "L1223-1-10",
     "tradRom": "ičireg",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "Confidential, intimate.",
+    "lessingForm": "ICIREG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25354,
     "sourceId": "L1223-1-11",
     "tradRom": "iγiγ",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "The sounds of coughing.",
+    "lessingForm": "IΓ IΓ:",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25355,
     "sourceId": "L1223-1-12",
     "tradRom": "iligečin",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "ILTASU AJITAC Thin sheet; floppy",
-    "lessingForm": "ILIGECIN, ILEWJIYWH MaSSeur.",
+    "explain": "MaSSeur.",
+    "lessingForm": "ILIGECIN, ILEWJIYWH",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270871,11 +273317,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-1-12",
     "tradRom": "ile",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "ILTASU AJITAC Thin sheet; floppy",
-    "lessingForm": "ILIGECIN, ILEWJIYWH MaSSeur.",
+    "explain": "MaSSeur.",
+    "lessingForm": "ILIGECIN, ILEWJIYWH",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270883,33 +273328,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-1-13",
     "tradRom": "iltasu",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "disk, diskette.",
+    "explain": "Thin sheet; floppy disk, diskette.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ILTASU AJITAC"
   },
   {
     "index": 25358,
     "sourceId": "L1223-1-14",
     "tradRom": "imadača",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "IMADACA From him/her. [Pre-Cl.]",
+    "explain": "From him/her. [Pre-Cl.] [Pre-Cl.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "IMADACA"
   },
   {
     "index": 25359,
     "sourceId": "L1223-1-15",
     "tradRom": "imayi",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "IMALUΓ-A With him/her.[Pre-Cl.] IMITI The berry of a shrub",
+    "explain": "Him/her.",
     "cyrillic": "[Pre-Cl.]",
-    "lessingForm": "IMAJI Him",
+    "lessingForm": "IMAJI",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270917,33 +273362,32 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-1-16",
     "tradRom": "imaluγ_a",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "like hawthorn or black-",
+    "explain": "With him/her.[Pre-Cl.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "IMALUΓ-A"
   },
   {
     "index": 25361,
     "sourceId": "L1223-1-17",
     "tradRom": "imiti",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "thorn. [U.; Srn]",
+    "explain": "The berry of a shrub like hawthorn or black- thorn. [U.; Srn]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "IMITI"
   },
   {
     "index": 25362,
     "sourceId": "L1223-1-18",
     "tradRom": "imitiken",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "IRΓAI XOTA Egrigaya (of Marco Polo), Yinchuan on the",
-    "lessingForm": "IMITIKEN: dimin. < IMITI",
+    "explain": "dimin. < IMITI",
+    "lessingForm": "IMITIKEN:",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270951,23 +273395,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-1-19",
     "tradRom": "irγaiqota",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "Yellow River (Xatun yool).",
+    "explain": "Egrigaya (of Marco Polo), Yinchuan on the Yellow River (Xatun yool). People.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "IRΓAI XOTA"
   },
   {
     "index": 25364,
     "sourceId": "L1223-1-20",
     "tradRom": "irgen",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "ISKANDI Skandha-demon [Skt.]",
+    "explain": "oryon.",
     "cyrillic": "oryon. People.",
     "lessingForm": "IRGEN:",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -270975,42 +273418,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-1-21",
     "tradRom": "iskandi",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "= xatairtayuluyci.",
+    "explain": "Skandha-demon [Skt.] = xatairtayuluyci.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ISKANDI"
   },
   {
     "index": 25366,
     "sourceId": "L1223-1-22",
     "tradRom": "ingqalǰiγa-",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "ISY- [?] To tousle (hair).",
-    "lessingForm": "INGXALZIΓA- To neigh. [Llt]",
+    "explain": "To neigh. [Llt]",
+    "lessingForm": "INGXALZIΓA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25367,
     "sourceId": "L1223-1-23",
     "tradRom": "isü-",
-    "explain": "〔?〕To tousle (hair)",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "To tousle (hair).",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "ISY- [?]",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25368,
     "sourceId": "L1223-1-24",
     "tradRom": "iršibatan",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "Grove near Vārānasī. -- nerety gørøgesyn-y oi.",
-    "lessingForm": "IRSIBATAN The Rsipatana [Skt.]",
+    "explain": "The Rsipatana [Skt.] Grove near Vārānasī. -- nerety gørøgesyn-y oi.",
+    "lessingForm": "IRSIBATAN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271018,12 +273462,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-1-25",
     "tradRom": "yamarmai",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "JAMARMAI any, whatever [Ord]",
+    "explain": "any, whatever [Ord]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "JAMARMAI"
   },
   {
     "index": 25370,
@@ -271031,9 +273474,9 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "yogačari",
     "imageName": "LessingDict_Page_1223.jpg",
     "explain": "Yogācārin-ascetic. [Skt.]",
-    "lessingForm": "JOGACARI",
+    "lessingForm": "JOGACARI/JOGAZARI EΓ (0O)3OP",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271042,9 +273485,9 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "yögaǰari",
     "imageName": "LessingDict_Page_1223.jpg",
     "explain": "Yogācārin-ascetic. [Skt.]",
-    "lessingForm": "JOGACARI",
+    "lessingForm": "JOGACARI/JOGAZARI EΓ (0O)3OP",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271052,11 +273495,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-1-27",
     "tradRom": "yoγurγa",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "JOΓURRA Mud wall of defense.",
+    "explain": "Mud wall of defense. Joo Ouch, ugh, woe.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "JOΓURRA"
   },
   {
     "index": 25373,
@@ -271065,59 +273508,76 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1223.jpg",
     "explain": "Joo Ouch, ugh, woe.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 25374,
     "sourceId": "L1223-1-29",
     "tradRom": "yoola-",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "KASARI Buffalo. [Skt. kâsara]",
-    "lessingForm": "JOOLA- To wail.",
+    "explain": "To wail.",
+    "lessingForm": "JOOLA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25375,
     "sourceId": "L1223-1-30",
     "tradRom": "kasari",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "Buffalo. [Skt. kâsara] Katapūtana-demon.",
+    "lessingForm": "KASARI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25376,
     "sourceId": "L1223-1-31",
     "tradRom": "katabutani",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "Katapūtana-demon. [Skt.] = nebterkei bejety.",
-    "lessingForm": "KATABUTANI"
+    "explain": "[Skt.] = nebterkei bejety.",
+    "lessingForm": "KATABUTANI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25377,
     "sourceId": "L1223-1-32",
     "tradRom": "kebid",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "Shop. Cf. KEID",
+    "lessingForm": "KEBID",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25378,
     "sourceId": "L1223-1-33",
     "tradRom": "kekügei",
-    "explain": "=køkyge ",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "CuckOO. [PCr]",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "KEKYGEI = KOKYGE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25379,
     "sourceId": "L1223-1-34",
     "tradRom": "kelber",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "miserable, distressful.",
+    "explain": "Calamity; misery; miserable, distressful.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KELBER"
   },
   {
     "index": 25380,
@@ -271125,11 +273585,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "kem",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "KEM, 2. The Upper Yenisei.",
+    "explain": "The Upper Yenisei. KILΓo The Khilok River.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KEM, 2."
   },
   {
     "index": 25381,
@@ -271138,30 +273598,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1223.jpg",
     "explain": "KILΓo The Khilok River. KITAD, add: Slave, thrall.[Gsr] KOROš Measure of length, Skt. krośa.",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 25382,
     "sourceId": "L1223-1-37",
     "tradRom": "king",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "Measure, reason. --ygei. Immoderately.[ET]",
-    "lessingForm": "KING"
+    "explain": "Measure, reason. --ygei. Immoderately.[ET] 1223",
+    "lessingForm": "KING",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25383,
     "sourceId": "L1223-2-01",
     "tradRom": "kitad",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "add: Slave, thrall.[Gsr] KOROš Measure of length, Skt. krośa. Child-like.",
+    "lessingForm": "KITAD,",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25384,
     "sourceId": "L1223-2-02",
     "tradRom": "koroš",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "NO_LINE"
+    ]
   },
   {
     "index": 25385,
@@ -271171,8 +273644,7 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "cyrillic": "Child-like.",
     "lessingForm": "KOBEGYMERKYI",
     "ocrFlags": [
-      "EMPTY_BODY",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -271180,130 +273652,178 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-2-04",
     "tradRom": "köbseg",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "KOKE: -- terigy(n/ty). Gadfly.",
-    "lessingForm": "KOBSEG Soft. [Llt]",
+    "explain": "Soft. [Llt]",
+    "lessingForm": "KOBSEG",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25387,
     "sourceId": "L1223-2-05",
     "tradRom": "köke",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "terigy(n/ty). Gadfly.",
+    "lessingForm": "KOKE: --",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25388,
     "sourceId": "L1223-2-06",
     "tradRom": "kökörmeg",
-    "explain": "(?køgyrmeg)",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "Cilayun. Pebble, gravel. [ET] Cf. kiyurmay. [Llt]",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "KOKORMEG (?KØGYRMEG)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25389,
     "sourceId": "L1223-2-07",
     "tradRom": "kölčin",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "kiyurmay. [Llt] KOLCIN An evil spirit.",
+    "explain": "An evil spirit.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KOLCIN"
   },
   {
     "index": 25390,
     "sourceId": "L1223-2-08",
     "tradRom": "kömögel",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "KOMOGEL Melting ice. [Srn]",
+    "explain": "Melting ice. [Srn]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "KOMOGEL"
   },
   {
     "index": 25391,
     "sourceId": "L1223-2-09",
     "tradRom": "könörge",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "KORBEMTEGY Changeable, fickle. KUMBANDI Kumbhānda-demon.[Skt.] KYCIJ-E Turtledove. Cf. kytege. KYCY(N), ADD: kycy øg- to be in service,to do service.",
-    "lessingForm": "KONORGE Yeast. [Srn] = KORYNGGE",
+    "explain": "Yeast. [Srn] = KORYNGGE",
+    "lessingForm": "KONORGE",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
     "index": 25392,
     "sourceId": "L1223-2-10",
     "tradRom": "körbemtegü",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "Changeable, fickle.",
+    "lessingForm": "KORBEMTEGY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25393,
     "sourceId": "L1223-2-11",
     "tradRom": "kumbandi",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "Kumbhānda-demon.[Skt.]",
+    "lessingForm": "KUMBANDI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25394,
     "sourceId": "L1223-2-12",
     "tradRom": "küčiy_e",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "LAB, 3. Alms, donation. [U.] -- bari-. To give alms. LAΓŠA = LAΓŠAN Skt. laksana",
-    "lessingForm": "KYRY Stone. Cf. GYRY.",
+    "explain": "Turtledove. Cf. kytege.",
+    "lessingForm": "KYCIJ-E",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25395,
     "sourceId": "L1223-2-13",
     "tradRom": "küčü",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "kycy øg- to be in service,to do service.",
+    "lessingForm": "KYCY(N), ADD:",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25396,
     "sourceId": "L1223-2-13",
     "tradRom": "küčün",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "kycy øg- to be in service,to do service.",
+    "lessingForm": "KYCY(N), ADD:",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25397,
     "sourceId": "L1223-2-14",
     "tradRom": "küri",
     "wIndex": "3",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "Bushel. [U.] Cf. GYRI.",
+    "lessingForm": "KYRI, 3.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25398,
     "sourceId": "L1223-2-15",
     "tradRom": "kürü",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "Stone. Cf. GYRY.",
+    "lessingForm": "KYRY",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25399,
     "sourceId": "L1223-2-16",
     "tradRom": "lab",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "Alms, donation. [U.] -- bari-. To give alms.",
+    "lessingForm": "LAB, 3.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25400,
     "sourceId": "L1223-2-17",
     "tradRom": "laγša",
-    "explain": "=laγšan",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "Skt. laksana",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "LAΓŠA = LAΓŠAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25401,
     "sourceId": "L1223-2-18",
     "tradRom": "laγša",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "LICAVI The Licchavi-clan.[Skt.]",
-    "lessingForm": "LAΓŠA",
+    "explain": "[SKt.]",
+    "lessingForm": "LAΓŠA/LAΓCA 100,OOO",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271311,10 +273831,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-2-18",
     "tradRom": "laγča",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "LICAVI The Licchavi-clan.[Skt.]",
-    "lessingForm": "LAΓŠA",
+    "explain": "[SKt.]",
+    "lessingForm": "LAΓŠA/LAΓCA 100,OOO",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271322,45 +273842,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-2-19",
     "tradRom": "ličavi",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "LINXUA (Plur. -- nuyud,linxus):",
+    "explain": "The Licchavi-clan.[Skt.]",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "LICAVI"
   },
   {
     "index": 25404,
     "sourceId": "L1223-2-20",
     "tradRom": "linqua",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "old form of LINGXUA Lotus. LYNGDEN(G) Prophecy, preaching.",
+    "explain": "(Plur. -- nuyud,linxus): old form of LINGXUA Lotus.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "LINXUA"
   },
   {
     "index": 25405,
     "sourceId": "L1223-2-21",
     "tradRom": "lüngden",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "[Tib. lun-bstan]",
+    "explain": "Prophecy, preaching. [Tib. lun-bstan]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "LYNGDEN(G)"
   },
   {
     "index": 25406,
     "sourceId": "L1223-2-21",
     "tradRom": "lüngdeng",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "[Tib. lun-bstan]",
+    "explain": "Prophecy, preaching. [Tib. lun-bstan]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "LYNGDEN(G)"
   },
   {
     "index": 25407,
@@ -271368,81 +273887,98 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "lai",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "LAI 2., add: Karma, Tib. las.",
+    "explain": "add: Karma, Tib. las.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "LAI 2.,"
   },
   {
     "index": 25408,
     "sourceId": "L1223-2-23",
     "tradRom": "maγus",
-    "explain": "=mangγus",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "Ogre, monster.",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "MAΓUS = MANGΓUS",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25409,
     "sourceId": "L1223-2-24",
     "tradRom": "mag",
-    "explain": "=mig",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "The constellation Māgha [U.<< Skt.] with some stars of the Lion.",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "MAG = MIG",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25410,
     "sourceId": "L1223-2-25",
     "tradRom": "mayidari",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "of the shoulderblade;",
+    "explain": "Love, Skt. maitreya.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MAIDARI"
   },
   {
     "index": 25411,
     "sourceId": "L1223-2-26",
     "tradRom": "mayaγ_a",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "nozzle. MAKI = MAHI Water buffalo,",
+    "explain": "The coracoid process of the shoulderblade; nozzle.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MAJAI-A"
   },
   {
     "index": 25412,
     "sourceId": "L1223-2-27",
     "tradRom": "maki",
-    "explain": "=mahi",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "Water buffalo, Skt. mahe.",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "MAKI = MAHI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25413,
     "sourceId": "L1223-2-28",
     "tradRom": "malika",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "flower [Skt.], jasmine.",
-    "lessingForm": "MALIKA"
+    "explain": "ceceg Mallika- flower [Skt.], jasmine.",
+    "lessingForm": "MALIKA/MALIGA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25414,
     "sourceId": "L1223-2-28",
     "tradRom": "maliga",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "flower [Skt.], jasmine.",
-    "lessingForm": "MALIKA"
+    "explain": "ceceg Mallika- flower [Skt.], jasmine.",
+    "lessingForm": "MALIKA/MALIGA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25415,
     "sourceId": "L1223-2-29",
     "tradRom": "mandarig",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "etc., Skt. mandāraka. MANGGAL Prosperity; benedic-",
-    "lessingForm": "MANDARIG",
+    "explain": "Coral-tree, etc., Skt. mandāraka.",
+    "lessingForm": "MANDARIG/MANDARIV",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271450,10 +273986,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-2-29",
     "tradRom": "mandariv",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "etc., Skt. mandāraka. MANGGAL Prosperity; benedic-",
-    "lessingForm": "MANDARIG",
+    "explain": "Coral-tree, etc., Skt. mandāraka.",
+    "lessingForm": "MANDARIG/MANDARIV",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271461,170 +273997,243 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1223-2-30",
     "tradRom": "manggal",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "tion, Skt. mangala.",
+    "explain": "Prosperity; benedic- tion, Skt. mangala.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "MANGGAL"
   },
   {
     "index": 25418,
     "sourceId": "L1223-2-31",
     "tradRom": "manǰi",
     "imageName": "LessingDict_Page_1223.jpg",
-    "explain": "MARUTI Wind-spirit. [<<Skt.]",
-    "lessingForm": "MANZI Male elk.",
+    "explain": "Male elk.",
+    "lessingForm": "MANZI",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25419,
     "sourceId": "L1223-2-32",
     "tradRom": "maruti",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "explain": "Wind-spirit. [<<Skt.]",
+    "lessingForm": "MARUTI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25420,
     "sourceId": "L1223-2-33",
     "tradRom": "maq-a-bodi",
-    "explain": "Mahabodhi. [<<Skt.]",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "Mahābodhi. [<<Skt.]",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "MAX-A-BODI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25421,
     "sourceId": "L1223-2-34",
     "tradRom": "maqasung",
-    "explain": "< maxastv Mahasattva. also maha-sadu-a [Skt.]",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "Mahāsattva. also MAHA-SADU-A [<<Skt.]",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "MAXASUNG < MAXASTV",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25422,
     "sourceId": "L1223-2-35",
     "tradRom": "maqoragi",
-    "explain": "Mahoraga-demon. [Skt.]",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "explain": "Mahoraga-demon.[Skt.]",
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "MAXORAGI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25423,
     "sourceId": "L1223-2-36",
     "tradRom": "maǰalai",
     "explain": "Gobi-bear.",
-    "imageName": "LessingDict_Page_1223.jpg"
+    "imageName": "LessingDict_Page_1223.jpg",
+    "lessingForm": "MAZALAI MA3AAJIAI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25424,
     "sourceId": "L1224-1-01",
     "tradRom": "miničinikemenbuliyaldu-",
-    "explain": "To wrangle over ownership.",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "wrangle over ownership.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "MINI CINI KEMEN BULIJALDU- TO",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25425,
     "sourceId": "L1224-1-02",
     "tradRom": "minǰi",
-    "explain": "beaver",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "Beaver.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "MINZI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25426,
     "sourceId": "L1224-1-03",
     "tradRom": "mis",
-    "explain": "= miγui  mi  muur  ; cat.",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "Cat.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "MIS = MIIUI, MI, MUUR",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25427,
     "sourceId": "L1224-1-04",
     "tradRom": "möčki-",
-    "explain": "= møški-  ",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "To trail.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "MØCKI- = MØŠKI-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25428,
     "sourceId": "L1224-1-05",
     "tradRom": "munda",
-    "explain": "moreover",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "Moreover.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "MUNDA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25429,
     "sourceId": "L1224-1-06",
     "tradRom": "musaragi",
-    "explain": "agate, etc., Skt. musaragalva.",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "Agate, etc., Skt. mu- saragalva.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "MUSARAGI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25430,
     "sourceId": "L1224-1-07",
     "tradRom": "nabnarintoγosun",
-    "explain": "=  baramanu(s); atom, Skt. paramanu.",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "Atom, Skt. paramānu.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "NAB NARIN TOΓOSUN = BARAMANU(S)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25431,
     "sourceId": "L1224-1-08",
     "tradRom": "naγǰaγar",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "NAΓZAΓAR Sturdy, thick.",
+    "explain": "Sturdy, thick.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NAΓZAΓAR"
   },
   {
     "index": 25432,
     "sourceId": "L1224-1-09",
     "tradRom": "naγursi-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "NAIURSI- To become a lake.",
+    "explain": "To become a lake.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NAIURSI-"
   },
   {
     "index": 25433,
     "sourceId": "L1224-1-10",
     "tradRom": "nalerdeni",
-    "explain": "ruby",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "erdeni. Ruby.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "NAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25434,
     "sourceId": "L1224-1-11",
     "tradRom": "narbai",
     "explain": "= narmai = naγarbai  ",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "NARBAI = NARMAI = NAΓARBAI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25435,
     "sourceId": "L1224-1-12",
     "tradRom": "nargil",
-    "explain": "coconut palm",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "Coconut palm.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "NARGIL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25436,
     "sourceId": "L1224-1-13",
     "tradRom": "nasu",
-    "explain": "= nasuda; always",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "Always.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "NASU = NASUDA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25437,
     "sourceId": "L1224-1-14",
     "tradRom": "naǰir",
-    "explain": "summer [Bur., Dagur]",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "Summer. [Bur., Dagur] -- xalayun. Very hot.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "NAZIR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25438,
     "sourceId": "L1224-1-15",
     "tradRom": "negüle",
     "explain": "trunk of a fallen tree",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "NEGYLE",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25439,
@@ -271632,63 +274241,66 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ni",
     "wIndex": "2",
     "explain": "Sentence final emphatical particle [Llt].",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "NI 2.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25440,
     "sourceId": "L1224-1-17",
     "tradRom": "nidte",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "nidyn-y -- Before (one's)",
+    "explain": "In sight/front of. nidyn-y -- Before (one's) eyes.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NIDTE/NITE"
   },
   {
     "index": 25441,
     "sourceId": "L1224-1-17",
     "tradRom": "nite",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "nidyn-y -- Before (one's)",
+    "explain": "In sight/front of. nidyn-y -- Before (one's) eyes.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NIDTE/NITE"
   },
   {
     "index": 25442,
     "sourceId": "L1224-1-18",
     "tradRom": "niγurqa-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "eyes. NIΓURQA- To flatter. [Toyin guiši's Üliger-ün dalai]",
+    "explain": "To flatter. [Toyin guiši's Üliger-ün dalai]",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NIΓURQA-"
   },
   {
     "index": 25443,
     "sourceId": "L1224-1-19",
     "tradRom": "niyagroda",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "NIJAG(O) RODA Nyagrodha-tree.",
+    "explain": "Nyagrodha-tree. [Skt.] NIšAN Seal, stamp. [<<Pers.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NIJAG(O) RODA"
   },
   {
     "index": 25444,
     "sourceId": "L1224-1-19",
     "tradRom": "niyagoroda",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "NIJAG(O) RODA Nyagrodha-tree.",
+    "explain": "Nyagrodha-tree. [Skt.] NIšAN Seal, stamp. [<<Pers.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NIJAG(O) RODA"
   },
   {
     "index": 25445,
@@ -271697,34 +274309,44 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1224.jpg",
     "explain": "[Skt.] NIšAN Seal, stamp. [<<Pers.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 25446,
     "sourceId": "L1224-1-21",
     "tradRom": "nisqalaǰiγul-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "sway. [ET, Lu.AT]",
+    "explain": "To let hang and sway. [ET, Lu.AT]",
     "cyrillic": "а",
-    "lessingForm": "NISXALAZIIUL- To let hang and",
+    "lessingForm": "NISXALAZIIUL-",
     "ocrFlags": [
-      "CYR_LOW_CONF",
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
     "index": 25447,
     "sourceId": "L1224-1-22",
     "tradRom": "noiqan",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "explain": "read NOJAXAN Princess.",
+    "lessingForm": "NOIXAN:",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25448,
     "sourceId": "L1224-1-23",
     "tradRom": "noyaγtai",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "explain": "LadY.",
+    "lessingForm": "NOJAΓTAI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25449,
@@ -271732,10 +274354,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "nörüge",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "NUΓU(S Plur.) Direction, re-",
-    "lessingForm": "NORYGE, 2. Fawn.",
+    "explain": "Fawn.",
+    "lessingForm": "NORYGE, 2.",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271743,11 +274365,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1224-1-25",
     "tradRom": "nuγu",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "gion, corner. OrocI, 1. A mouthful of liquid.",
+    "explain": "Plur.) Direction, re- gion, corner. OrocI, 1. A mouthful of liquid. OrOCI, 2. The inner side of the cheek. [Lu.AT; cf. Kalm.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "NUΓU(S"
   },
   {
     "index": 25451,
@@ -271757,9 +274379,10 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1224.jpg",
     "explain": "OrOCI, 2. The inner side of the",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 25452,
@@ -271769,46 +274392,54 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1224.jpg",
     "explain": "cheek. [Lu.AT; cf. Kalm.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 25453,
     "sourceId": "L1224-1-28",
     "tradRom": "oin",
     "wIndex": "3",
-    "explain": "= ojun = oi",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "mind.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "OIN = OJUN = OI 3.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25454,
     "sourceId": "L1224-1-29",
     "tradRom": "ooiooi",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "kemeky dayun. Sounds of woe. [Pcr]",
-    "lessingForm": "OOI OOI Alas.",
+    "explain": "Alas. kemeky dayun. Sounds of woe. [Pcr]",
+    "lessingForm": "OOI OOI",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 25455,
     "sourceId": "L1224-1-30",
     "tradRom": "olǰin",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "explain": "Cloth. [Llt, HY, ZY]",
+    "lessingForm": "OLZIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25456,
     "sourceId": "L1224-1-31",
     "tradRom": "orliyasun",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "ORI 3. young, youth. -- (boluysan) Manzuširi =",
-    "lessingForm": "ORLIJASUN Bandage. [Llt]",
+    "explain": "Bandage. [Llt]",
+    "lessingForm": "ORLIJASUN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271817,79 +274448,110 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ori",
     "wIndex": "3",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "zalayu M., kumārajiva Mañjuśrī, the youthful M. OROΓ Gray with black tint.",
+    "explain": "young, youth. -- (boluysan) Manzuširi = zalayu M., kumārajiva Mañjuśrī, the youthful M.",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ORI 3."
   },
   {
     "index": 25458,
     "sourceId": "L1224-1-33",
     "tradRom": "oroγ",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "-- zusay. A field mouse. ORONGGI Curl, coil, ringlet. Cf. ORIJA- and ORIJANGΓU OSTARAKI Ostāraka-demon [Skr.] = darumtatu. [Pcr] OCIGCI: yekede --. Great Cor- rector, Tib. žu-čhen.",
+    "explain": "Gray with black tint. -- zusay. A field mouse.",
     "ocrFlags": [
-      "CROSS_COLUMN",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OROΓ"
   },
   {
     "index": 25459,
     "sourceId": "L1224-1-34",
     "tradRom": "orongγ_a",
     "wIndex": "3",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "ORONGΓ-A, 3. = ORONGGI 1224",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25460,
     "sourceId": "L1224-2-01",
     "tradRom": "oronggi",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "explain": "Curl, coil, ringlet. Cf. ORIJA- and ORIJANGΓU",
+    "lessingForm": "ORONGGI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25461,
     "sourceId": "L1224-2-02",
     "tradRom": "ostaraki",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "explain": "Ostāraka-demon [Skr.] = darumtatu. [Pcr]",
+    "lessingForm": "OSTARAKI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25462,
     "sourceId": "L1224-2-03",
     "tradRom": "öčigči",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "explain": "yekede --. Great Cor- rector, Tib. žu-čhen.",
+    "lessingForm": "OCIGCI:",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25463,
     "sourceId": "L1224-2-04",
     "tradRom": "öküi",
-    "explain": "aunt. [Gsr; ord.]",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "Aunt. [Gsr; Ord.]",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "OKYI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25464,
     "sourceId": "L1224-2-05",
     "tradRom": "önggür",
     "wIndex": "3",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "explain": "Cave, hollow.",
+    "lessingForm": "ONGGYR, 3.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25465,
     "sourceId": "L1224-2-06",
     "tradRom": "örörke-",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "explain": "To have pity. [Llt]",
+    "lessingForm": "ORORKE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25466,
     "sourceId": "L1224-2-07",
     "tradRom": "örömequlaγayiči",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "OSKYLENG Growing, young.",
-    "lessingForm": "OROME XULAΓAICI, add: Bat.",
+    "explain": "add: Bat.",
+    "lessingForm": "OROME XULAΓAICI,",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271897,11 +274559,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1224-2-08",
     "tradRom": "ösküleng",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "RAGšAS Raksasa-demon [Skt.]",
+    "explain": "Growing, young. RAGšAS Raksasa-demon [Skt.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "OSKYLENG"
   },
   {
     "index": 25468,
@@ -271910,80 +274572,86 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1224.jpg",
     "explain": "SADU Good. [Skt. sadhu]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 25469,
     "sourceId": "L1224-2-10",
     "tradRom": "sadu",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "-- edgy liyso [Tib. legs- so] (Book-ending formula.)",
+    "explain": "Good. [Skt. sadhu] -- edgy liyso [Tib. legs- so] (Book-ending formula.)",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SADU"
   },
   {
     "index": 25470,
     "sourceId": "L1224-2-11",
     "tradRom": "sabdaγ",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "SABDAΓ Local deity. [Tib.]",
+    "explain": "Local deity. [Tib.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SABDAΓ"
   },
   {
     "index": 25471,
     "sourceId": "L1224-2-12",
     "tradRom": "sayiǰid-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "SAIZID- To become better.",
+    "explain": "To become better.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAIZID-"
   },
   {
     "index": 25472,
     "sourceId": "L1224-2-13",
     "tradRom": "sambarda-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "SAMBARDA- To write on the",
+    "explain": "To write on the (black) board.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAMBARDA-"
   },
   {
     "index": 25473,
     "sourceId": "L1224-2-14",
     "tradRom": "samur-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "(black) board. SAMUR- To swim. To seize/fight with the hands/claws/paws. To stir.",
+    "explain": "To swim. To seize/fight with the hands/claws/paws. To stir.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAMUR-"
   },
   {
     "index": 25474,
     "sourceId": "L1224-2-15",
     "tradRom": "samurada-",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "imageName": "LessingDict_Page_1224.jpg",
+    "explain": "[Oir.] = SAMBARDA-",
+    "lessingForm": "SAMURADA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25475,
     "sourceId": "L1224-2-16",
     "tradRom": "sariγmunga",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "A yellow plant. Turmeric? [Srn]. Cf. U.",
-    "lessingForm": "SARIΓ MUNGA",
+    "explain": "yellow plant. Turmeric? [Srn]. Cf. U. munga Phaseolus mungo.",
+    "lessingForm": "SARIΓ MUNGA A",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -271991,141 +274659,154 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1224-2-17",
     "tradRom": "sartavaki",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "munga Phaseolus mungo. SARTAVAKI Merchant, caravan-",
+    "explain": "Merchant, caravan- leader, Skt. sārthavāha.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SARTAVAKI"
   },
   {
     "index": 25477,
     "sourceId": "L1224-2-18",
     "tradRom": "sebsüi-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "leader, Skt. sārthavāha. SEBSYI- To bristle up (hair).",
+    "explain": "To bristle up (hair).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEBSYI-"
   },
   {
     "index": 25478,
     "sourceId": "L1224-2-19",
     "tradRom": "sedkü-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "SEDKY- To clean out.",
+    "explain": "To clean out.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEDKY-"
   },
   {
     "index": 25479,
     "sourceId": "L1224-2-20",
     "tradRom": "sedkügür",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "SEDKYGYR Pipe-cleaner. SIBAΓULA- To hunt with a bird",
+    "explain": "Pipe-cleaner.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SEDKYGYR"
   },
   {
     "index": 25480,
     "sourceId": "L1224-2-21",
     "tradRom": "sibaγula-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "of prey. SIBAΓUN alsO: Bird of prey,",
+    "explain": "To hunt with a bird of prey.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIBAΓULA-"
   },
   {
     "index": 25481,
     "sourceId": "L1224-2-22",
     "tradRom": "sibaγun",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "falcon. [Suv, Dagur]",
+    "explain": "alsO: Bird of prey, falcon. [Suv, Dagur]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SIBAΓUN"
   },
   {
     "index": 25482,
     "sourceId": "L1224-2-23",
     "tradRom": "silbelǰe-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "SILBELZE- To lose temper.",
+    "explain": "To lose temper.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SILBELZE-"
   },
   {
     "index": 25483,
     "sourceId": "L1224-2-24",
     "tradRom": "simlu",
-    "explain": "= silmu = šimnu",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "The Māra(s), devil(s); witch(es)",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "SIMLU(S) = SILMU(S) = ŠIMNU(S)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25484,
     "sourceId": "L1224-2-24",
     "tradRom": "simlus",
-    "explain": "= silmus = šimnus",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "The Māra(s), devil(s); witch(es)",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "SIMLU(S) = SILMU(S) = ŠIMNU(S)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25485,
     "sourceId": "L1224-2-25",
     "tradRom": "sini",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "witch(es) SINI: old or dial. for SINE",
+    "explain": "old or dial. for SINE",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SINI:"
   },
   {
     "index": 25486,
     "sourceId": "L1224-2-26",
     "tradRom": "siru_a",
-    "explain": "= esru_a  ",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "Brahma. [U.]",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "SIRU-A = ESRU-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25487,
     "sourceId": "L1224-2-27",
     "tradRom": "sitaranǰa",
-    "explain": "= sitara  ",
-    "imageName": "LessingDict_Page_1224.jpg"
+    "explain": "CheSs.",
+    "imageName": "LessingDict_Page_1224.jpg",
+    "lessingForm": "SITARANZA = SITARA",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25488,
     "sourceId": "L1224-2-28",
     "tradRom": "soibun",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "SOJOMBU The svayambhū emblem, symbol of self-dependence",
+    "explain": "Monk assistant of a high priest. [Tib.]",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SOIBUN."
   },
   {
     "index": 25489,
     "sourceId": "L1224-2-29",
     "tradRom": "soyombu",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "and independence.",
+    "explain": "The svayambhū emblem, symbol of self-dependence and independence.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SOJOMBU"
   },
   {
     "index": 25490,
@@ -272133,22 +274814,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sono",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "SONO, 2. Wild duck.",
+    "explain": "Wild duck. borcin --. Melodious,",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SONO, 2."
   },
   {
     "index": 25491,
     "sourceId": "L1224-2-31",
     "tradRom": "sonos-",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "borcin --. Melodious, SONOS-: --xu mety.1",
+    "explain": "--xu mety.1 well-sounding.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SONOS-:"
   },
   {
     "index": 25492,
@@ -272156,153 +274837,167 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "sorbi",
     "wIndex": "2",
     "imageName": "LessingDict_Page_1224.jpg",
-    "explain": "well-sounding. SORBI, 2. Walking stick, staff.  Ryiytij\"Maglet. Cf. SORUNZAN gyry SøJYGER Advice, instruction.",
+    "explain": "Walking stick, staff.",
     "ocrFlags": [
-      "CROSS_PAGE",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SORBI, 2."
   },
   {
     "index": 25493,
     "sourceId": "L1225-1-01",
     "tradRom": "söyüger",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "Ryiytij\"Maglet. Cf. SORUNZAN gyry SøJYGER Advice, instruction.",
+    "lessingForm": "",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25494,
     "sourceId": "L1225-1-02",
     "tradRom": "sučala-",
-    "explain": "= cucala-",
+    "explain": "To undo; to cancel.",
     "imageName": "LessingDict_Page_1225.jpg",
     "cyrillic": "н",
     "lessingForm": "SUCALA- = CUCALA-",
     "ocrFlags": [
-      "CYR_LOW_CONF"
+      "SUPPL"
     ]
   },
   {
     "index": 25495,
     "sourceId": "L1225-1-03",
     "tradRom": "suγuraγul-",
-    "explain": "[Llt] = suγul-  ",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "[L1t] = SUTUL- To draw, to soothe.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "SUTURATUL-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25496,
     "sourceId": "L1225-1-04",
     "tradRom": "sülbe-",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "SYLBE- To pierce, to stab.",
+    "explain": "To pierce, to stab.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYLBE-"
   },
   {
     "index": 25497,
     "sourceId": "L1225-1-05",
     "tradRom": "sükečau",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "SYKE CAU Yuan monetary unit.",
+    "explain": "Yuan monetary unit.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYKE CAU"
   },
   {
     "index": 25498,
     "sourceId": "L1225-1-06",
     "tradRom": "sülbeger",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "SYLBEGE(/Y)R An awl-like tool.",
+    "explain": "An awl-like tool.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYLBEGE(/Y)R"
   },
   {
     "index": 25499,
     "sourceId": "L1225-1-06",
     "tradRom": "sülbegeür",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "SYLBEGE(/Y)R An awl-like tool.",
+    "explain": "An awl-like tool.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SYLBEGE(/Y)R"
   },
   {
     "index": 25500,
     "sourceId": "L1225-1-07",
     "tradRom": "süm_e",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "SYM-E: -- (jin) ger Shrine.",
+    "explain": "(jin) ger Shrine.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ],
+    "lessingForm": "SYM-E: --"
   },
   {
     "index": 25501,
     "sourceId": "L1225-1-08",
     "tradRom": "šagti",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "SAGTI, add: Sword.",
+    "explain": "add: Sword.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SAGTI,"
   },
   {
     "index": 25502,
     "sourceId": "L1225-1-09",
     "tradRom": "šaγu",
-    "explain": "=šuu",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "šUU: -- oyoli. Hatchet.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "ŠAΓU =",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25503,
     "sourceId": "L1225-1-10",
     "tradRom": "šakiliγ",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "ŠAKILIΓ A member of the Śākya-",
+    "explain": "member of the Śākya- clan, or Buddhas follower.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ŠAKILIΓ A"
   },
   {
     "index": 25504,
     "sourceId": "L1225-1-11",
     "tradRom": "šarika",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "clan, or Buddhas follower. SARIKA Magpie, Skt. śārika.",
+    "explain": "Magpie, Skt. śārika.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "SARIKA"
   },
   {
     "index": 25505,
     "sourceId": "L1225-1-12",
     "tradRom": "tana",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "TANA, add: [MNT, Oir] pearl.",
+    "explain": "add: [MNT, Oir] pearl.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TANA,"
   },
   {
     "index": 25506,
     "sourceId": "L1225-1-13",
     "tradRom": "tanagar_i",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "Borax.",
-    "lessingForm": "TANAGAR-I [Srn], TENIGER [MVY]",
+    "explain": "[Srn], TENIGER [MVY] Borax.",
+    "lessingForm": "TANAGAR-I",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -272310,256 +275005,330 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1225-1-14",
     "tradRom": "tegüdesiye-",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "TEICILE- To keep on kicking. TEL kelety. Bilingual.",
-    "lessingForm": "TEGYDESIJE- To hesitate. [Llt]",
+    "explain": "To hesitate. [Llt]",
+    "lessingForm": "TEGYDESIJE-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25508,
     "sourceId": "L1225-1-15",
     "tradRom": "teičile-",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "To keep on kicking.",
+    "lessingForm": "TEICILE-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25509,
     "sourceId": "L1225-1-16",
     "tradRom": "tel",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "kelety. Bilingual.",
+    "lessingForm": "TEL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25510,
     "sourceId": "L1225-1-17",
     "tradRom": "teli",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "That, such. [Llt, MNT]",
+    "lessingForm": "TELI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25511,
     "sourceId": "L1225-1-18",
     "tradRom": "temdegtey_e",
     "explain": "=  belgetej_e",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "TEMDEGTEJ-E = BELGETEJ-E.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25512,
     "sourceId": "L1225-1-19",
     "tradRom": "tenggel",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "TETYRY Contrary, wrong. [U.;",
+    "explain": "ygei Incomparable.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TENGGEL: --"
   },
   {
     "index": 25513,
     "sourceId": "L1225-1-20",
     "tradRom": "tetürü",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "delete TADURU and TEDRY.] TEZIJ-E At that time, then.",
+    "explain": "Contrary, wrong. [U.; delete TADURU and TEDRY.]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TETYRY"
   },
   {
     "index": 25514,
     "sourceId": "L1225-1-21",
     "tradRom": "teǰiy_e",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "TILER, add: Scorpion (in the",
+    "explain": "At that time, then.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TEZIJ-E"
   },
   {
     "index": 25515,
     "sourceId": "L1225-1-22",
     "tradRom": "tiler",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "zodiac).",
+    "explain": "add: Scorpion (in the zodiac).",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TILER,"
   },
   {
     "index": 25516,
     "sourceId": "L1225-1-23",
     "tradRom": "timinggil",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "TIMINGGIL A sea-monster, Skt. timingala. [Pcr]",
+    "explain": "sea-monster, Skt. timingala. [Pcr]",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TIMINGGIL A"
   },
   {
     "index": 25517,
     "sourceId": "L1225-1-24",
     "tradRom": "tngrilig",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "TNGRILIG Divine, celestial.",
+    "explain": "Divine, celestial.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TNGRILIG"
   },
   {
     "index": 25518,
     "sourceId": "L1225-1-25",
     "tradRom": "toγosun",
     "wIndex": "2",
-    "explain": "=  tømøsyn  ,  temysyn  ",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Edible bulbs. tariyan --. Crops & bulbs.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "TOSUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25519,
     "sourceId": "L1225-1-26",
     "tradRom": "tulgarča",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "tariyan --. Crops & bulbs. TULGARCA From the beginning [ET] Cf. tulyur-aca.",
+    "explain": "From the beginning",
     "ocrFlags": [
-      "GAMMA_CHECK",
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "TULGARCA"
   },
   {
     "index": 25520,
     "sourceId": "L1225-1-27",
     "tradRom": "turaγun",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "Crow. [Srn]",
+    "lessingForm": "TURAΓUN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25521,
     "sourceId": "L1225-1-28",
     "tradRom": "turlaki",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "add: TYPJIAAXb, TYPJIMAX",
+    "lessingForm": "TURLAKI,",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25522,
     "sourceId": "L1225-1-29",
     "tradRom": "turqaru",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "nasu --. Id.",
-    "lessingForm": "TURXARU Always. [U.]"
+    "explain": "Always. [U.] nasu --. Id.",
+    "lessingForm": "TURXARU",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25523,
     "sourceId": "L1225-1-30",
     "tradRom": "tüligen",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "ada --. Harm.",
+    "lessingForm": "TYLIGEN:",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25524,
     "sourceId": "L1225-1-31",
     "tradRom": "tün",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "UDMA(N) DI Unmāda-demon [Skt.] =",
-    "lessingForm": "TYN Forest. [MNT, Pcr]",
+    "explain": "Forest. [MNT, Pcr]",
+    "lessingForm": "TYN",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25525,
     "sourceId": "L1225-1-32",
     "tradRom": "udmadi",
-    "explain": "Unmada-demon [Skt.]",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Unmāda-demon [Skt.] = yalzayurayuluyci.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "UDMA(N) DI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25526,
     "sourceId": "L1225-1-32",
     "tradRom": "udmandi",
-    "explain": "Unmada-demon [Skt.]",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Unmāda-demon [Skt.] = yalzayurayuluyci.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "UDMA(N) DI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25527,
     "sourceId": "L1225-1-33",
     "tradRom": "γulǰa",
-    "explain": "(The city of) Kulja",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "add: (The city of) Kulja.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "(U)ΓULZA,",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25528,
     "sourceId": "L1225-1-33",
     "tradRom": "uγulǰa",
-    "explain": "(The city of) Kulja",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "add: (The city of) Kulja.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "(U)ΓULZA,",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25529,
     "sourceId": "L1225-1-34",
     "tradRom": "urγumalsilta",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "URIUMALSILTA. Vegetation,flora.",
+    "explain": "Vegetation,flora.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "URIUMALSILTA."
   },
   {
     "index": 25530,
     "sourceId": "L1225-1-35",
     "tradRom": "urugasaričindan",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "sandalwood. [U. <<Skt.]",
-    "lessingForm": "URUGASARI CINDAN Urugasāra-"
+    "explain": "Urugasāra- sandalwood. [U. <<Skt.]",
+    "lessingForm": "URUGASARI CINDAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25531,
     "sourceId": "L1225-1-36",
     "tradRom": "urul",
-    "explain": "= uruγul",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Lip. 1225",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "URUL = URUTUL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25532,
     "sourceId": "L1225-2-01",
     "tradRom": "vid",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "[U., Tib. < Skt. vaidūrya] VID: -- šastir The Vedas. The Books of Knowledge. [Skt.]",
-    "lessingForm": "VAIDURI = VIDURI Lapis Iazuli.",
+    "explain": "šastir The Vedas. The Books of Knowledge. [Skt.]",
+    "lessingForm": "VID: --",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
     "index": 25533,
     "sourceId": "L1225-2-02",
     "tradRom": "vidar",
-    "explain": "= bitar  ",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "bewitched corpse. [U. <<Skt. vetāla]",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "VIDAR = BITAR A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25534,
     "sourceId": "L1225-2-03",
     "tradRom": "vidyadari",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "Vidyadharā [Skt.]",
+    "lessingForm": "VIDJADARI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25535,
     "sourceId": "L1225-2-04",
     "tradRom": "viiduriy_a",
-    "explain": "=  viduri  ,  biduri",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Lapis lazuli. [Tib. <Skt. vaidūrya]",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "BINDURIJ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25536,
     "sourceId": "L1225-2-05",
     "tradRom": "viyakrid",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "phecy, instruction. [U. <<Skt.| vyākrta].",
-    "lessingForm": "VIJAKRID > VIVANGGIRID PrO-",
+    "explain": "PrO- phecy, instruction. [U. <<Skt.| vyākrta].",
+    "lessingForm": "VIJAKRID > VIVANGGIRID",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -272567,108 +275336,144 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1225-2-06",
     "tradRom": "viman",
     "explain": "=  biman",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "VIMAN = BIMAN.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25538,
     "sourceId": "L1225-2-07",
     "tradRom": "qab",
     "wIndex": "2",
-    "explain": "=  ab",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Witchcraft.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "XAB = AB, 2.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25539,
     "sourceId": "L1225-2-08",
     "tradRom": "qabaγ",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "Pumpkin.",
+    "lessingForm": "XABAΓ",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25540,
     "sourceId": "L1225-2-09",
     "tradRom": "qabsa-",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "To beat cymbals. [Llt]",
+    "lessingForm": "XABSA-",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25541,
     "sourceId": "L1225-2-10",
     "tradRom": "qaγarqay_a",
-    "explain": "In detail",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "In detail.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "XAΓAR(A) XAJ-A",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25542,
     "sourceId": "L1225-2-10",
     "tradRom": "qaγaraqay_a",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "XAΓURΓAL Moat, canal. [Llt] XALAΓAR Inevitably.",
-    "lessingForm": "XAΓAR(A) XAJ-A In detail.",
+    "explain": "In detail.",
+    "lessingForm": "XAΓAR(A) XAJ-A",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25543,
     "sourceId": "L1225-2-11",
     "tradRom": "qaγurγal",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "Moat, canal. [Llt]",
+    "lessingForm": "XAΓURΓAL",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25544,
     "sourceId": "L1225-2-12",
     "tradRom": "qalaγar",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "Inevitably.",
+    "lessingForm": "XALAΓAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25545,
     "sourceId": "L1225-2-13",
     "tradRom": "qarangγus-",
     "explain": "=  xarangγud-",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "XARANGTUS- = XARANGΓUD-.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25546,
     "sourceId": "L1225-2-14",
     "tradRom": "qarbum",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "the) Nitraria-shrub.",
+    "explain": "distance of a shot.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XARBUM A"
   },
   {
     "index": 25547,
     "sourceId": "L1225-2-15",
     "tradRom": "qarmaγ",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "XOBSU Hypnosis.",
+    "explain": "(The edible berry of the) Nitraria-shrub.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XARMAΓ"
   },
   {
     "index": 25548,
     "sourceId": "L1225-2-16",
     "tradRom": "qobsu",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "XOBSULA- To hypnotize.",
+    "explain": "Hypnosis.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XOBSU"
   },
   {
     "index": 25549,
     "sourceId": "L1225-2-17",
     "tradRom": "qobsula-",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "XoroCA A distance of an arrow-",
+    "explain": "To hypnotize. XoroCA A distance of an arrow- [shot, Llt; MNT go'očag].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "XOBSULA-"
   },
   {
     "index": 25550,
@@ -272677,19 +275482,20 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "imageName": "LessingDict_Page_1225.jpg",
     "explain": "[shot, Llt; MNT go'očag].",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL",
+      "NO_LINE"
+    ],
+    "lessingForm": ""
   },
   {
     "index": 25551,
     "sourceId": "L1225-2-19",
     "tradRom": "qoi",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "dalai-jin --. [Srn]",
-    "lessingForm": "XOI",
+    "explain": "Island. Cf. XOIΓ. dalai-jin --. [Srn]",
+    "lessingForm": "XOI/XUI",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
@@ -272697,34 +275503,43 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1225-2-19",
     "tradRom": "qui",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "dalai-jin --. [Srn]",
-    "lessingForm": "XOI",
+    "explain": "Island. Cf. XOIΓ. dalai-jin --. [Srn]",
+    "lessingForm": "XOI/XUI",
     "ocrFlags": [
-      "VOWEL_I_CHECK"
+      "SUPPL"
     ]
   },
   {
     "index": 25553,
     "sourceId": "L1225-2-20",
     "tradRom": "qoro",
-    "explain": "=  xoor, xoor_a",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Harm. Poison.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "XORO = XOOR(-A)",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25554,
     "sourceId": "L1225-2-21",
     "tradRom": "qoru",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "read XURU Grouse.",
+    "lessingForm": "XORU:",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25555,
     "sourceId": "L1225-2-22",
     "tradRom": "quladu",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "YDE The Uda River in Siberia. Degedy --. Verkhneudinsk. Dooradu --. Nizhneudinsk.",
-    "lessingForm": "XULADU Hen-harrier [MNT, Bur]",
+    "explain": "Hen-harrier [MNT, Bur]",
+    "lessingForm": "XULADU",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
@@ -272732,90 +275547,123 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1225-2-23",
     "tradRom": "üde",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "YGECI Messanger.",
-    "lessingForm": "YDY(GY)I = EDY(GY)I Not yet.",
+    "explain": "The Uda River in Siberia. Degedy --. Verkhneudinsk. Dooradu --. Nizhneudinsk.",
+    "lessingForm": "YDE",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25557,
     "sourceId": "L1225-2-24",
     "tradRom": "üdüi",
-    "explain": "=  edy(gy)i",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Not yet.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "YDY(GY)I = EDY(GY)I",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25558,
     "sourceId": "L1225-2-24",
     "tradRom": "üdügüi",
-    "explain": "=  edy(gy)i",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Not yet.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "YDY(GY)I = EDY(GY)I",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25559,
     "sourceId": "L1225-2-25",
     "tradRom": "ügeči",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "Messanger.",
+    "lessingForm": "YGECI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25560,
     "sourceId": "L1225-2-26",
     "tradRom": "üy_e qay_a",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "Both.",
+    "lessingForm": "YJ-E XAJ-A/XOJAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25561,
     "sourceId": "L1225-2-26",
     "tradRom": "üy_e qoyar",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "Both.",
+    "lessingForm": "YJ-E XAJ-A/XOJAR",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25562,
     "sourceId": "L1225-2-27",
     "tradRom": "ükeger",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "imageName": "LessingDict_Page_1225.jpg",
+    "explain": "bosqayci = VIDAR.",
+    "lessingForm": "YKEGER",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25563,
     "sourceId": "L1225-2-28",
     "tradRom": "ürübdesün",
-    "explain": "=  yredesyn   ",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Sawdust.",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "YRYBDESYN = YREDESYN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25564,
     "sourceId": "L1225-2-29",
     "tradRom": "ürümči",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "YZE-, add: --ky mety.",
+    "explain": "(The city of) Ürümchi.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YRYMCI"
   },
   {
     "index": 25565,
     "sourceId": "L1225-2-30",
     "tradRom": "üǰe-",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "Beautiful. ZAD Alien. [Srn]",
+    "explain": "add: --ky mety. Beautiful.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "YZE-,"
   },
   {
     "index": 25566,
     "sourceId": "L1225-2-31",
     "tradRom": "ǰad",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "-- aran/kymyn. Stranger.",
+    "explain": "Alien. [Srn] -- aran/kymyn. Stranger.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAD"
   },
   {
     "index": 25567,
@@ -272823,12 +275671,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ǰai",
     "wIndex": "1",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "ZAI, 1., add: Battery.",
+    "explain": "add: Battery.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAI, 1.,"
   },
   {
     "index": 25568,
@@ -272836,30 +275683,33 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ǰai",
     "wIndex": "3",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "ZAI, 3. The Ural River.",
+    "explain": "The Ural River.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS",
-      "VOWEL_I_CHECK"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZAI, 3."
   },
   {
     "index": 25569,
     "sourceId": "L1225-2-34",
     "tradRom": "ǰančirqai ilǰirqai",
-    "explain": "rubbish, trash, refuse. [PCR]",
-    "imageName": "LessingDict_Page_1225.jpg"
+    "explain": "Rubbish, trash, refuse. [Pcr]",
+    "imageName": "LessingDict_Page_1225.jpg",
+    "lessingForm": "ZANCIRXAI ILZIRXAI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25570,
     "sourceId": "L1225-2-35",
     "tradRom": "ǰarlaγ",
     "imageName": "LessingDict_Page_1225.jpg",
-    "explain": "ZARLAΓ: a 17th-century form for Command, Word. ZARLII",
+    "explain": "a 17th-century form for Command, Word.",
     "ocrFlags": [
-      "NO_HEADWORD",
-      "SPLIT_GUESS"
-    ]
+      "SUPPL"
+    ],
+    "lessingForm": "ZARLAΓ:"
   },
   {
     "index": 25571,
@@ -272867,10 +275717,11 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ǰedküger",
     "imageName": "LessingDict_Page_1226.jpg",
     "cyrillic": "Estrade. [Llt]",
-    "lessingForm": "ZEDKY(",
+    "lessingForm": "ZEDKY(/E)GER",
     "ocrFlags": [
-      "EMPTY_BODY"
-    ]
+      "SUPPL"
+    ],
+    "explain": "ygei"
   },
   {
     "index": 25572,
@@ -272878,21 +275729,22 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "tradRom": "ǰedkeger",
     "imageName": "LessingDict_Page_1226.jpg",
     "cyrillic": "Estrade. [Llt]",
-    "lessingForm": "ZEDKY(",
+    "lessingForm": "ZEDKY(/E)GER",
     "ocrFlags": [
-      "EMPTY_BODY"
-    ]
+      "SUPPL"
+    ],
+    "explain": "ygei"
   },
   {
     "index": 25573,
     "sourceId": "L1226-1-02",
     "tradRom": "ǰiγa",
     "imageName": "LessingDict_Page_1226.jpg",
-    "explain": "ZIGDE, 2. Oleaster.",
+    "explain": "Impossible.",
     "cyrillic": "ygei Impossible.",
     "lessingForm": "ZIΓA:",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -272900,85 +275752,123 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1226-1-03",
     "tradRom": "ǰigde",
     "wIndex": "2",
-    "imageName": "LessingDict_Page_1226.jpg"
+    "imageName": "LessingDict_Page_1226.jpg",
+    "explain": "Oleaster.",
+    "lessingForm": "ZIGDE, 2.",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25575,
     "sourceId": "L1226-1-04",
     "tradRom": "ǰigege",
     "imageName": "LessingDict_Page_1226.jpg",
-    "explain": "Glutton, wolverine.",
+    "explain": "read ZIGEKE Glutton, wolverine.",
     "cyrillic": "ЗЭЭХ",
-    "lessingForm": "ZIGEGE: read ZIGEKE",
+    "lessingForm": "ZIGEGE:",
     "ocrFlags": [
-      "HEADWORD_MISMATCH"
+      "SUPPL"
     ]
   },
   {
     "index": 25576,
     "sourceId": "L1226-1-05",
     "tradRom": "ǰigür_e",
-    "imageName": "LessingDict_Page_1226.jpg"
+    "imageName": "LessingDict_Page_1226.jpg",
+    "explain": "Quickly.",
+    "lessingForm": "ZIGYR-E",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25577,
     "sourceId": "L1226-1-06",
     "tradRom": "ǰilabalǰa-",
     "imageName": "LessingDict_Page_1226.jpg",
-    "explain": "ZILMAΓAN Smooth, even. ZIRKI Earth squirrel.",
-    "lessingForm": "ZILABALZA- To sparkle. [Llt]",
+    "explain": "To sparkle. [Llt]",
+    "lessingForm": "ZILABALZA-",
     "ocrFlags": [
-      "HEADWORD_MISMATCH",
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25578,
     "sourceId": "L1226-1-07",
     "tradRom": "ǰilmaγan",
-    "imageName": "LessingDict_Page_1226.jpg"
+    "imageName": "LessingDict_Page_1226.jpg",
+    "explain": "Smooth, even.",
+    "lessingForm": "ZILMAΓAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25579,
     "sourceId": "L1226-1-08",
     "tradRom": "ǰirki",
-    "imageName": "LessingDict_Page_1226.jpg"
+    "imageName": "LessingDict_Page_1226.jpg",
+    "explain": "Earth squirrel.",
+    "lessingForm": "ZIRKI",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25580,
     "sourceId": "L1226-1-09",
     "tradRom": "ǰiron",
-    "explain": "=  ziran  ",
-    "imageName": "LessingDict_Page_1226.jpg"
+    "explain": "Sixty.",
+    "imageName": "LessingDict_Page_1226.jpg",
+    "lessingForm": "ZIRON = ZIRAN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25581,
     "sourceId": "L1226-1-10",
     "tradRom": "ǰöbsiyerküi",
-    "explain": "=  debsegerkyi  ",
-    "imageName": "LessingDict_Page_1226.jpg"
+    "explain": "oronggi-tu Having curls turning right (like Buddha's hair).",
+    "imageName": "LessingDict_Page_1226.jpg",
+    "lessingForm": "ZOBSIJERKYI = DEBSEGERKYI --",
+    "ocrFlags": [
+      "SUPPL",
+      "SUPPL_MISMATCH"
+    ]
   },
   {
     "index": 25582,
     "sourceId": "L1226-1-11",
     "tradRom": "ǰögen",
-    "imageName": "LessingDict_Page_1226.jpg"
+    "imageName": "LessingDict_Page_1226.jpg",
+    "explain": "Moist(ure), damp.",
+    "lessingForm": "ZOGEN/ZOGIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25583,
     "sourceId": "L1226-1-11",
     "tradRom": "ǰögin",
-    "imageName": "LessingDict_Page_1226.jpg"
+    "imageName": "LessingDict_Page_1226.jpg",
+    "explain": "Moist(ure), damp.",
+    "lessingForm": "ZOGEN/ZOGIN",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   },
   {
     "index": 25584,
     "sourceId": "L1226-1-12",
     "tradRom": "ǰukin",
     "imageName": "LessingDict_Page_1226.jpg",
-    "explain": "ZYRCID Jurchin, Manchu. [ET]",
-    "lessingForm": "ZUKIN",
+    "explain": "read ZØGIN Moist.",
+    "lessingForm": "ZUKIN/ZYKIN:",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
@@ -272986,16 +275876,21 @@ export const LESSING_DICT: readonly LessingDictEntry[] =
     "sourceId": "L1226-1-12",
     "tradRom": "ǰükin",
     "imageName": "LessingDict_Page_1226.jpg",
-    "explain": "ZYRCID Jurchin, Manchu. [ET]",
-    "lessingForm": "ZUKIN",
+    "explain": "read ZØGIN Moist.",
+    "lessingForm": "ZUKIN/ZYKIN:",
     "ocrFlags": [
-      "MERGED_HEAD"
+      "SUPPL"
     ]
   },
   {
     "index": 25586,
     "sourceId": "L1226-1-13",
     "tradRom": "ǰürčid",
-    "imageName": "LessingDict_Page_1226.jpg"
+    "imageName": "LessingDict_Page_1226.jpg",
+    "explain": "Jurchin, Manchu. [ET] 1226",
+    "lessingForm": "ZYRCID",
+    "ocrFlags": [
+      "SUPPL"
+    ]
   }
 ] as const;

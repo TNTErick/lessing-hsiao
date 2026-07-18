@@ -42,6 +42,20 @@ for entry in data:
         if oc["flags"]:
             entry["ocrFlags"] = oc["flags"]; stats["flagged"] += 1
 
+# supplement pass: overwrite the tail-section entries (Buddhist Terms / Additions / Third
+# Supplement) with the dedicated inline-layout parser output (these are not manual data).
+suppl_path = os.path.join(BUILD, "entries_suppl.json")
+if os.path.exists(suppl_path):
+    suppl = {e["index"]: e for e in json.load(open(suppl_path))}
+    by_i = {e["index"]: e for e in data}
+    for idx, s in suppl.items():
+        entry = by_i.get(idx)
+        if entry is None: continue
+        if s["explain"]:
+            entry["explain"] = s["explain"]; stats["suppl_filled"] = stats.get("suppl_filled", 0) + 1
+        entry["lessingForm"] = s["lessingForm"] or entry.get("lessingForm", "")
+        entry["ocrFlags"] = s["flags"]
+
 # interface: add the two new optional fields (once)
 if "lessingForm?" not in head:
     head = head.replace("  examples?: string;\n",
