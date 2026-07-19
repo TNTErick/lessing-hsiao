@@ -15,7 +15,8 @@ def pg(e):
 
 rows = [{"i": e["index"], "p": pg(e), "s": e["sourceId"], "r": e.get("tradRom", ""),
          "l": e.get("lessingForm", ""), "c": e.get("cyrillic", ""),
-         "e": e.get("explain", ""), "f": list(e.get("ocrFlags") or [])} for e in data]
+         "e": e.get("explain", ""), "f": list(e.get("ocrFlags") or []),
+         "n": e.get("imageName", "")} for e in data]
 n_cru = sum(1 for r in rows if set(r["f"]) & {"NO_HEADWORD","EMPTY_BODY","MERGED_HEAD","HEADWORD_MISMATCH","SPLIT_GUESS","NO_LINE","SUPPL_MISMATCH"})
 n_any = sum(1 for r in rows if r["f"])
 payload = json.dumps(rows, ensure_ascii=False, separators=(",", ":"))
@@ -42,10 +43,17 @@ PAGE = """<!doctype html><html><head><meta charset="utf-8">
  .flag.g{background:#fff3cf;color:#8a6500}
  tr.ok{background:#eafaea}
  tr.fix{background:#fff0f0}
+ tr.edited{background:#eef6ff}
  textarea{width:100%;font:inherit;min-height:34px;border:1px solid #ccc;border-radius:4px}
+ td.ex textarea{min-height:48px}
+ input.edc{font:inherit;width:130px;border:1px solid #ccc;border-radius:4px;padding:2px 4px}
+ .edc.chg,textarea.chg{border-color:#1a4b8c;background:#eef6ff}
  .pager{padding:12px 16px;text-align:center}
  .mk{cursor:pointer;font-size:16px;margin-right:4px;opacity:.4}
  .mk.act{opacity:1}
+ .zoom{cursor:pointer;font-size:15px;margin-left:2px;opacity:.55}
+ .imgrow td{background:#f4f4f4;padding:8px}
+ .imgrow img{max-width:100%;border:1px solid #ccc;border-radius:6px}
 </style></head><body>
 <header>
  <h1>Lessing dictionary — OCR proofreading &nbsp;<span id=stat></span></h1>
@@ -57,14 +65,17 @@ PAGE = """<!doctype html><html><head><meta charset="utf-8">
  &nbsp;<span style="color:#666">page <span id=pg>1</span></span>
  <button id=prev>&larr;</button><button id=next>&rarr;</button>
 </header>
-<table><thead><tr><th></th><th>page</th><th>sourceId</th><th>romanised</th><th>Lessing</th><th>cyrillic</th><th>english (OCR)</th><th>flags</th><th>correction</th></tr></thead>
+<table><thead><tr><th></th><th>page</th><th>sourceId</th><th>romanised</th><th>Lessing</th><th>cyrillic (edit)</th><th>english / definition (edit)</th><th>flags</th></tr></thead>
 <tbody id=tb></tbody></table>
 <div class=pager><button id=prev2>&larr; prev</button> &nbsp; <button id=next2>next &rarr;</button></div>
 <script>
 const DATA=__PAYLOAD__;
+const IMG="https://raw.githubusercontent.com/TNTErick/lessing-hsiao/assets/lessing-images/";
 const CRU=new Set(["NO_HEADWORD","EMPTY_BODY","MERGED_HEAD","HEADWORD_MISMATCH","SPLIT_GUESS","NO_LINE","SUPPL_MISMATCH"]);
 const GEN=new Set(["CYR_LOW_CONF","GAMMA_CHECK","VOWEL_I_CHECK","CROSS_PAGE","CROSS_COLUMN","SUPPL"]);
 const tier=f=>f.some(x=>CRU.has(x))?"crucial":f.length?"general":"clean";
+const ORIG={}; for(const r of DATA)ORIG[r.i]={e:r.e,c:r.c};
+const dirtyM=m=>!!(m&&(m.v||m.e!==undefined||m.c!==undefined));
 const PS=150; let mode="crucial", q="", page=0, marks=JSON.parse(localStorage.getItem("ocrmarks")||"{}");
 function filt(){
  let a=DATA;
@@ -73,24 +84,27 @@ function filt(){
  if(q){const s=q.toLowerCase();a=a.filter(r=>(r.r+" "+r.l+" "+r.c+" "+r.e+" "+r.s).toLowerCase().includes(s));}
  return a;
 }
-function esc(s){return (s||"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
+function esc(s){return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
 function flagHtml(f){return f.map(x=>`<span class="flag ${CRU.has(x)?'c':'g'}">${x}</span>`).join("");}
 function render(){
  const a=filt(); const pages=Math.max(1,Math.ceil(a.length/PS));
  if(page>=pages)page=pages-1; if(page<0)page=0;
  const slice=a.slice(page*PS,page*PS+PS);
- document.getElementById("stat").textContent=`${a.length} items · ${Object.keys(marks).length} marked`;
+ document.getElementById("stat").textContent=`${a.length} items · ${Object.values(marks).filter(dirtyM).length} marked/edited`;
  document.getElementById("pg").textContent=(page+1)+"/"+pages;
  const tb=document.getElementById("tb"); tb.innerHTML="";
  for(const r of slice){
   const t=tier(r.f), ic=t==="crucial"?'<span class=cru>[!]</span>':t==="general"?'<span class=gen>&#9432;</span>':'';
   const m=marks[r.i]||{}; const tr=document.createElement("tr");
-  tr.className=m.v==="ok"?"ok":m.v==="fix"?"fix":"";
+  const cv=m.c!==undefined?m.c:r.c, ev=m.e!==undefined?m.e:r.e;
+  tr.className=m.v==="ok"?"ok":m.v==="fix"?"fix":((m.e!==undefined||m.c!==undefined)?"edited":"");
   tr.innerHTML=`<td>${ic}<span class="mk ${m.v==='ok'?'act':''}" data-i=${r.i} data-v=ok title=correct>&#10003;</span>`
-   +`<span class="mk ${m.v==='fix'?'act':''}" data-i=${r.i} data-v=fix title="needs fix">&#9998;</span></td>`
-   +`<td>${r.p}</td><td style=color:#888>${r.s}</td><td class=rom>${esc(r.r)}</td><td>${esc(r.l)}</td>`
-   +`<td>${esc(r.c)}</td><td class=ex>${esc(r.e)}</td><td>${flagHtml(r.f)}</td>`
-   +`<td><textarea data-i=${r.i} placeholder="fix...">${esc(m.corr||"")}</textarea></td>`;
+   +`<span class="mk ${m.v==='fix'?'act':''}" data-i=${r.i} data-v=fix title="needs fix">&#9998;</span>`
+   +`<span class=zoom data-n="${esc(r.n)}" title="show page scan">&#128269;</span></td>`
+   +`<td><a href="${IMG}${esc(r.n)}" target=_blank title="open page image">${r.p}</a></td><td style=color:#888>${r.s}</td><td class=rom>${esc(r.r)}</td><td>${esc(r.l)}</td>`
+   +`<td><input class="edc${m.c!==undefined?' chg':''}" data-i=${r.i} data-k=c value="${esc(cv)}"></td>`
+   +`<td class=ex><textarea class="${m.e!==undefined?'chg':''}" data-i=${r.i} data-k=e>${esc(ev)}</textarea></td>`
+   +`<td>${flagHtml(r.f)}</td>`;
   tb.appendChild(tr);
  }
 }
@@ -103,17 +117,32 @@ const nxt=()=>{page++;render();window.scrollTo(0,0);}, prv=()=>{page--;render();
 ["next","next2"].forEach(id=>document.getElementById(id).onclick=nxt);
 ["prev","prev2"].forEach(id=>document.getElementById(id).onclick=prv);
 document.getElementById("tb").addEventListener("click",e=>{
+ const z=e.target.closest(".zoom");
+ if(z){const row=z.closest("tr"), nx=row.nextElementSibling;
+  if(nx&&nx.classList.contains("imgrow")){nx.remove();return;}
+  const ir=document.createElement("tr"); ir.className="imgrow";
+  ir.innerHTML=`<td colspan=8><img loading=lazy src="${IMG}${z.dataset.n}" alt="${z.dataset.n}"></td>`;
+  row.after(ir); return;}
  const mk=e.target.closest(".mk"); if(!mk)return;
  const i=mk.dataset.i, v=mk.dataset.v; marks[i]=marks[i]||{};
  marks[i].v=marks[i].v===v?null:v; localStorage.setItem("ocrmarks",JSON.stringify(marks)); render();
 });
 document.getElementById("tb").addEventListener("input",e=>{
- if(e.target.tagName!=="TEXTAREA")return; const i=e.target.dataset.i;
- marks[i]=marks[i]||{}; marks[i].corr=e.target.value; localStorage.setItem("ocrmarks",JSON.stringify(marks));
+ const el=e.target, k=el.dataset&&el.dataset.k; if(!k)return;
+ const i=el.dataset.i, orig=(ORIG[i]||{})[k]||""; marks[i]=marks[i]||{};
+ if(el.value===orig) delete marks[i][k]; else marks[i][k]=el.value;
+ el.classList.toggle("chg", el.value!==orig);
+ const m=marks[i], tr=el.closest("tr");
+ tr.className=m.v==="ok"?"ok":m.v==="fix"?"fix":((m.e!==undefined||m.c!==undefined)?"edited":"");
+ localStorage.setItem("ocrmarks",JSON.stringify(marks));
 });
 document.getElementById("exp").onclick=()=>{
- let csv="index,verdict,correction\\n";
- for(const [i,m] of Object.entries(marks)){if(m.v||m.corr)csv+=`${i},${m.v||""},"${(m.corr||"").replace(/"/g,'""')}"\\n`;}
+ let csv="index,verdict,cyrillic,explain\\n";
+ for(const [i,m] of Object.entries(marks)){
+  if(!dirtyM(m))continue; const o=ORIG[i]||{e:"",c:""};
+  const cy=(m.c!==undefined?m.c:o.c)||"", ex=(m.e!==undefined?m.e:o.e)||"";
+  csv+=`${i},${m.v||""},"${cy.replace(/"/g,'""')}","${ex.replace(/"/g,'""')}"\\n`;
+ }
  const b=new Blob([csv],{type:"text/csv"});const u=URL.createObjectURL(b);
  const a=document.createElement("a");a.href=u;a.download="ocr_corrections.csv";a.click();
 };

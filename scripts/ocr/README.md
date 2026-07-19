@@ -76,3 +76,12 @@ headword, kept for record), `cyrillicRaw`, `bodyLines`, `matchRatio`, and `flags
 
 Flags mark rows for manual review; nothing is written back to `lessing-dict.ts`
 automatically.
+
+## Proofreading workflow
+
+1. `python gen_review_html.py` → `build/review.html` (self-contained; open in a browser).
+2. Filter **Crucial / Any flag / All**, search, click 🔍 to view the page scan inline.
+3. Edit the **cyrillic** and **english/definition** cells directly; mark rows ✓/✎. Edits persist in the browser (localStorage).
+4. **Export my marks (CSV)** → `ocr_corrections.csv` (columns: index, verdict, cyrillic, explain).
+5. `python apply_corrections.py ocr_corrections.csv --write` → writes fixes into `src/data/lessing-dict.ts` and clears the OCR flag on resolved rows.
+6. Commit the data change. (Two reviewers: split by page range, each export a CSV, apply both.)
