@@ -171,7 +171,7 @@ export function DetailModal({
                     onWheel={onWheel}
                   >
                     <img
-                      src={`https://raw.githubusercontent.com/TNTErick/lessing-hsiao/assets/lessing-images/${selectedTerm.imageName}`}
+                      src={`https://raw.githubusercontent.com/TNTErick/lessing-hsiao-assets/main/lessing-images/${selectedTerm.imageName}`}
                       alt={`Dictionary page for ${selectedTerm.tradRom}`}
                       className="block"
                       style={{ width: `${imageZoom * 100}%`, maxWidth: 'none' }}

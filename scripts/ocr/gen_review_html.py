@@ -70,7 +70,7 @@ PAGE = """<!doctype html><html><head><meta charset="utf-8">
 <div class=pager><button id=prev2>&larr; prev</button> &nbsp; <button id=next2>next &rarr;</button></div>
 <script>
 const DATA=__PAYLOAD__;
-const IMG="https://raw.githubusercontent.com/TNTErick/lessing-hsiao/assets/lessing-images/";
+const IMG="https://raw.githubusercontent.com/TNTErick/lessing-hsiao-assets/main/lessing-images/";
 const CRU=new Set(["NO_HEADWORD","EMPTY_BODY","MERGED_HEAD","HEADWORD_MISMATCH","SPLIT_GUESS","NO_LINE","SUPPL_MISMATCH"]);
 const GEN=new Set(["CYR_LOW_CONF","GAMMA_CHECK","VOWEL_I_CHECK","CROSS_PAGE","CROSS_COLUMN","SUPPL"]);
 const tier=f=>f.some(x=>CRU.has(x))?"crucial":f.length?"general":"clean";
