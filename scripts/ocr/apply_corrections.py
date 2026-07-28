@@ -10,14 +10,12 @@ Usage: python apply_corrections.py path/to/ocr_corrections.csv [--write]
 import json, os, re, sys, csv
 
 HERE = os.path.dirname(__file__)
-TS = os.path.normpath(os.path.join(HERE, "..", "..", "src", "data", "lessing-dict.ts"))
+DATA = os.path.normpath(os.path.join(HERE, "..", "..", "src", "data", "lessing-dict.json"))
 args = [a for a in sys.argv[1:] if not a.startswith("--")]
 WRITE = "--write" in sys.argv
 csv_path = args[0] if args else os.path.join(HERE, "build", "ocr_corrections.csv")
 
-t = open(TS, encoding="utf-8").read()
-head = t[:t.index("[\n")]
-data = json.loads(t[t.index("[\n"):t.rindex("]")+1])
+data = json.load(open(DATA, encoding="utf-8"))
 by_i = {e["index"]: e for e in data}
 
 rows = list(csv.DictReader(open(csv_path, encoding="utf-8-sig")))
@@ -41,7 +39,7 @@ for r in rows:
 
 print("STATS:", stats)
 if WRITE:
-    open(TS, "w", encoding="utf-8").write(head + json.dumps(data, ensure_ascii=False, indent=2) + " as const;\n")
-    print("WROTE", TS)
+    json.dump(data, open(DATA, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+    print("WROTE", DATA)
 else:
     print("(dry run — pass --write to apply)")

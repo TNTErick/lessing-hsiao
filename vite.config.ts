@@ -5,11 +5,13 @@ import tailwindcss from '@tailwindcss/vite'
 import eslint from 'vite-plugin-eslint'
 
 // https://vite.dev/config/
-export default defineConfig({
+export default defineConfig(({ command }) => ({
   base: '/lessing-hsiao/',
   plugins: [
     react(),
     tailwindcss(),
-    eslint(),
+    // Lint only during `vite build`; skip in dev so edits recompile fast.
+    // (Use `yarn lint` / the editor for live linting.)
+    ...(command === 'build' ? [eslint()] : []),
   ],
-})
+}))

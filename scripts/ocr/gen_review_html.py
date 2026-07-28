@@ -4,11 +4,10 @@ Reads src/data/lessing-dict.ts, embeds all entries inline, no external deps."""
 import json, os, re, html
 
 HERE = os.path.dirname(__file__)
-TS = os.path.normpath(os.path.join(HERE, "..", "..", "src", "data", "lessing-dict.ts"))
+DATA = os.path.normpath(os.path.join(HERE, "..", "..", "src", "data", "lessing-dict.json"))
 OUT = os.path.join(HERE, "build", "review.html")
 
-t = open(TS, encoding="utf-8").read()
-data = json.loads(t[t.index("[\n"):t.rindex("]")+1])
+data = json.load(open(DATA, encoding="utf-8"))
 
 def pg(e):
     m = re.match(r'L(\d+)', e["sourceId"]); return int(m.group(1)) if m else 0

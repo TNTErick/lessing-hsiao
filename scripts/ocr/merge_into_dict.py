@@ -7,7 +7,7 @@ import re, json, os, sys
 
 HERE = os.path.dirname(__file__)
 BUILD = os.path.join(HERE, "build")
-TS = os.path.normpath(os.path.join(HERE, "..", "..", "src", "data", "lessing-dict.ts"))
+DATA = os.path.normpath(os.path.join(HERE, "..", "..", "src", "data", "lessing-dict.json"))
 WRITE = "--write" in sys.argv
 
 ents = json.load(open(os.path.join(BUILD, "entries_out.json")))
@@ -20,9 +20,7 @@ for a, e in zip(flat, ents):
     assert a["sourceId"] == e["sourceId"], f"order mismatch {a['sourceId']} vs {e['sourceId']}"
 by_index = {a["index"]: e for a, e in zip(flat, ents)}
 
-t = open(TS, encoding="utf-8").read()
-head = t[:t.index("[\n")]
-data = json.loads(t[t.index("[\n"):t.rindex("]")+1])
+data = json.load(open(DATA, encoding="utf-8"))
 
 stats = {"explain_filled": 0, "cyr_filled": 0, "flagged": 0, "skipped_has_explain": 0, "no_ocr": 0}
 for entry in data:
@@ -56,15 +54,9 @@ if os.path.exists(suppl_path):
         entry["lessingForm"] = s["lessingForm"] or entry.get("lessingForm", "")
         entry["ocrFlags"] = s["flags"]
 
-# interface: add the two new optional fields (once)
-if "lessingForm?" not in head:
-    head = head.replace("  examples?: string;\n",
-                        "  examples?: string;\n  lessingForm?: string;\n  ocrFlags?: readonly string[];\n")
-
-out = head + json.dumps(data, ensure_ascii=False, indent=2) + " as const;\n"
 print("STATS:", stats)
 if WRITE:
-    open(TS, "w", encoding="utf-8").write(out)
-    print("WROTE", TS)
+    json.dump(data, open(DATA, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+    print("WROTE", DATA)
 else:
     print("(dry run — pass --write to apply)")
