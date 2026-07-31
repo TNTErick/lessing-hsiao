@@ -26,3 +26,5 @@ output
 *.sw?
 
 .legacy
+
+.vite/*
