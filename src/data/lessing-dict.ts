@@ -8,6 +8,7 @@ export interface LessingDictEntry {
   examples?: string;
   lessingForm?: string;
   ocrFlags?: readonly string[];
+  appendix?: boolean; // true = supplement/appendix entry (page >= 1159), not the main dictionary
   imageName: string;
 }
 

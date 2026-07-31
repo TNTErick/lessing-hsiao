@@ -103,6 +103,7 @@ export default function DictionaryApp() {
   const [language, setLanguage] = useState<langType>('en');
   const [romanisationScheme, setRomanisationScheme] = useState<RomanizationScheme>('hsiao');
   const [searchField, setSearchField] = useState<SearchField>('romanisation');
+  const [mainOnly, setMainOnly] = useState<boolean>(true); // hide appendix/supplement entries by default
 
   const dynamicRowHeight = useDynamicRowHeight({
     defaultRowHeight: 100,
@@ -154,6 +155,11 @@ export default function DictionaryApp() {
   const filteredData = useMemo(() => {
     let result: LessingDictEntry[] = [...data];
 
+    // 0. Hide appendix/supplement entries unless the user opts in
+    if (mainOnly) {
+      result = result.filter(item => !item.appendix);
+    }
+
     // 1. Filter by Favorites
     // if (showFavoritesOnly) {
     //   result = result.filter(item => favorites.includes(item.id));
@@ -183,7 +189,7 @@ export default function DictionaryApp() {
 
     // 4. Sort Alphabetically (by tradRom)
     return result.sort((a, b) => a.tradRom.localeCompare(b.tradRom));
-  }, [data, searchQuery, selectedLetter, searchField, romanisationScheme
+  }, [data, searchQuery, selectedLetter, searchField, romanisationScheme, mainOnly
     // , showFavoritesOnly, favorites
   ]);
 
@@ -204,6 +210,8 @@ export default function DictionaryApp() {
         setRomanisationScheme={setRomanisationScheme}
         searchField={searchField}
         setSearchField={setSearchField}
+        mainOnly={mainOnly}
+        setMainOnly={setMainOnly}
       />
 
       {/* MAIN CONTENT */}

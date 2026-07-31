@@ -1,7 +1,8 @@
-import { Globe, Search, Info, ChevronDown, X } from "lucide-react";
+import { Search, Info, ChevronDown, X } from "lucide-react";
 import { useState, type JSX } from "react";
 import { LANGUAGES, type langType, type SearchField, SEARCH_FIELD_LABELS } from "../interface";
 import { romanisationSchemes, type RomanizationScheme } from "../utils/script-conversion";
+import { Logo } from "./Logo";
 
 export interface HeaderProps {
     searchQuery: string;
@@ -18,6 +19,9 @@ export interface HeaderProps {
 
     searchField: SearchField;
     setSearchField: (field: SearchField) => void;
+
+    mainOnly: boolean;
+    setMainOnly: (v: boolean) => void;
 }
 
 export function Header({
@@ -35,6 +39,9 @@ export function Header({
 
     searchField,
     setSearchField,
+
+    mainOnly,
+    setMainOnly,
 }: HeaderProps): JSX.Element {
     
     const [isLangOpen, setIsLangOpen] = useState(false);
@@ -49,10 +56,10 @@ export function Header({
                     {/* Brand Section */}
                     <div className="flex items-center space-x-3">
                         <div className="bg-white/10 p-2 rounded-lg backdrop-blur-sm shadow-inner border border-white/5">
-                            <Globe className="w-6 h-6 text-indigo-100" />
+                            <Logo className="w-6 h-6 text-indigo-100" />
                         </div>
                         <div>
-                            <h1 className="text-xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-white to-indigo-200">Mongolian Dictionary</h1>
+                            <h1 className="text-xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-white to-indigo-200">Lessing Mongolian Dictionary</h1>
                             <p className="text-xs text-indigo-300/80 font-medium">Монгол хэлний толь бичиг</p>
                         </div>
                     </div>
@@ -182,6 +189,26 @@ export function Header({
                             </div>
                         )}
                     </div>
+
+                    <div className="h-6 w-px bg-gray-300 mx-2"></div>
+
+                    {/* Main-only toggle: hide the appendix/supplement entries */}
+                    <button
+                        onClick={() => setMainOnly(!mainOnly)}
+                        role="switch"
+                        aria-checked={mainOnly}
+                        title={mainOnly ? 'Showing main dictionary only — click to include the appendix' : 'Showing main + appendix — click to show main entries only'}
+                        className={`flex items-center space-x-1.5 border px-2 py-1 rounded-md text-sm font-medium transition shadow-sm whitespace-nowrap ${
+                            mainOnly
+                                ? 'border-indigo-300 bg-indigo-50 text-indigo-700'
+                                : 'border-gray-300 text-gray-600 hover:bg-gray-50'
+                        }`}
+                    >
+                        <span className={`relative inline-block w-7 h-4 rounded-full transition-colors ${mainOnly ? 'bg-indigo-600' : 'bg-gray-300'}`}>
+                            <span className={`absolute top-0.5 left-0.5 w-3 h-3 rounded-full bg-white shadow transition-transform ${mainOnly ? 'translate-x-3' : ''}`}></span>
+                        </span>
+                        <span>Main only</span>
+                    </button>
 
                     <div className="h-6 w-px bg-gray-300 mx-2"></div>
 

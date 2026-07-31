@@ -15,7 +15,7 @@ def pg(e):
 rows = [{"i": e["index"], "p": pg(e), "s": e["sourceId"], "r": e.get("tradRom", ""),
          "l": e.get("lessingForm", ""), "c": e.get("cyrillic", ""),
          "e": e.get("explain", ""), "f": list(e.get("ocrFlags") or []),
-         "n": e.get("imageName", "")} for e in data]
+         "a": bool(e.get("appendix")), "n": e.get("imageName", "")} for e in data]
 n_cru = sum(1 for r in rows if set(r["f"]) & {"NO_HEADWORD","EMPTY_BODY","MERGED_HEAD","HEADWORD_MISMATCH","SPLIT_GUESS","NO_LINE","SUPPL_MISMATCH"})
 n_any = sum(1 for r in rows if r["f"])
 payload = json.dumps(rows, ensure_ascii=False, separators=(",", ":"))
@@ -53,6 +53,7 @@ PAGE = """<!doctype html><html><head><meta charset="utf-8">
  .zoom{cursor:pointer;font-size:15px;margin-left:2px;opacity:.55}
  .imgrow td{background:#f4f4f4;padding:8px}
  .imgrow img{max-width:100%;border:1px solid #ccc;border-radius:6px}
+ .app{font-size:10px;background:#ede9fe;color:#5b21b6;border-radius:4px;padding:1px 4px;font-weight:700}
 </style></head><body>
 <header>
  <h1>Lessing dictionary — OCR proofreading &nbsp;<span id=stat></span></h1>
@@ -100,7 +101,7 @@ function render(){
   tr.innerHTML=`<td>${ic}<span class="mk ${m.v==='ok'?'act':''}" data-i=${r.i} data-v=ok title=correct>&#10003;</span>`
    +`<span class="mk ${m.v==='fix'?'act':''}" data-i=${r.i} data-v=fix title="needs fix">&#9998;</span>`
    +`<span class=zoom data-n="${esc(r.n)}" title="show page scan">&#128269;</span></td>`
-   +`<td><a href="${IMG}${esc(r.n)}" target=_blank title="open page image">${r.p}</a></td><td style=color:#888>${r.s}</td><td class=rom>${esc(r.r)}</td><td>${esc(r.l)}</td>`
+   +`<td><a href="${IMG}${esc(r.n)}" target=_blank title="open page image">${r.p}</a>${r.a?' <span class=app title="appendix / supplement entry">APP</span>':''}</td><td style=color:#888>${r.s}</td><td class=rom>${esc(r.r)}</td><td>${esc(r.l)}</td>`
    +`<td><input class="edc${m.c!==undefined?' chg':''}" data-i=${r.i} data-k=c value="${esc(cv)}"></td>`
    +`<td class=ex><textarea class="${m.e!==undefined?'chg':''}" data-i=${r.i} data-k=e>${esc(ev)}</textarea></td>`
    +`<td>${flagHtml(r.f)}</td>`;
