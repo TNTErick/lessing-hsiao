@@ -74,11 +74,16 @@ export default function DictionaryApp() {
         // modal (which holds a reference) fills in too, then trigger a re-render.
         fetch(`${base}dict-detail.json`)
           .then((r) => r.json())
-          .then((detail: Record<string, { explain?: string; examples?: string }>) => {
+          .then((detail: Record<string, { explain?: string; examples?: string; sourceId?: string; imageName?: string }>) => {
             if (!alive) return;
             for (const e of idx) {
               const d = detail[e.index];
-              if (d) { if (d.explain) e.explain = d.explain; if (d.examples) e.examples = d.examples; }
+              if (d) {
+                if (d.explain) e.explain = d.explain;
+                if (d.examples) e.examples = d.examples;
+                if (d.sourceId) e.sourceId = d.sourceId;
+                if (d.imageName) e.imageName = d.imageName;
+              }
             }
             setData([...idx]);
             setDetailLoaded(true);

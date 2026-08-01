@@ -88,7 +88,9 @@ export function DetailModal({
                     {selectedTerm.cyrillic && (
                       <span className="text-xl text-slate-600 font-medium">{selectedTerm.cyrillic}</span>
                     )}
-                    <span className="font-mono text-xs text-slate-400">({selectedTerm.sourceId})</span>
+                    {selectedTerm.sourceId && (
+                      <span className="font-mono text-xs text-slate-400">({selectedTerm.sourceId})</span>
+                    )}
                   </div>
                 </div>
                 <button onClick={() => setSelectedTerm(null)} className="text-gray-400 hover:text-gray-600 bg-white p-1 rounded-full shadow-sm mt-2">
@@ -146,6 +148,7 @@ export function DetailModal({
                 )}
 
                 {/* Dictionary Page Image */}
+                {selectedTerm.imageName && (
                 <div>
                   <div className="flex items-center justify-between mb-2">
                     <h3 className="text-xs font-semibold text-amber-600 uppercase tracking-wider flex items-center">
@@ -180,6 +183,7 @@ export function DetailModal({
                     />
                   </div>
                 </div>
+                )}
 
               </div>
             </div>
