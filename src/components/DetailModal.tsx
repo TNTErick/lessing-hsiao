@@ -2,6 +2,7 @@ import { BookOpen, Image as ImageIcon, Info, X, ZoomIn, ZoomOut } from "lucide-r
 import type { LessingDictEntry } from "../data/lessing-dict";
 import { useCallback, useRef, useState, type JSX } from "react";
 import { convertToRomanised, convertToTraditional, type RomanizationScheme } from "../utils/script-conversion";
+import { CRUCIAL_FLAGS, FLAG_LABELS } from "../utils/ocr-flags";
 
 
 interface DetailModalProps {
@@ -73,7 +74,7 @@ export function DetailModal({
                   fontFamily: '"MongolianScript", "Mongolian Script", "Classic Mongolian Dashtseden", "Mongolian Baiti", "Noto Sans Mongolian", serif'
                 }}
               >
-                {convertToTraditional(selectedTerm.dicForm)}
+                {convertToTraditional(selectedTerm.tradRom)}
               </div>
             </div>
 
@@ -82,12 +83,14 @@ export function DetailModal({
               {/* Modal Header */}
               <div className="px-6 py-4 flex justify-between items-start border-b border-slate-100">
                 <div className="pt-2">
-                  {selectedTerm.cyrillic && (
-                    <h2 className="text-3xl font-bold text-slate-900 mb-1">{selectedTerm.cyrillic}</h2>
-                  )}
                   <div className="flex flex-col space-y-1">
-                    <span className="text-xl text-slate-600 font-medium">{convertToRomanised(selectedTerm.dicForm, romanisationScheme)}</span>
-                    <span className="font-mono text-xs text-slate-400">({selectedTerm.sourceId})</span>
+                    <h2 className="text-3xl font-bold text-slate-900 mb-1 romanised">{convertToRomanised(selectedTerm.tradRom, romanisationScheme)}</h2>
+                    {selectedTerm.cyrillic && (
+                      <span className="text-xl text-slate-600 font-medium">{selectedTerm.cyrillic}</span>
+                    )}
+                    {selectedTerm.sourceId && (
+                      <span className="font-mono text-xs text-slate-400">({selectedTerm.sourceId})</span>
+                    )}
                   </div>
                 </div>
                 <button onClick={() => setSelectedTerm(null)} className="text-gray-400 hover:text-gray-600 bg-white p-1 rounded-full shadow-sm mt-2">
@@ -97,6 +100,28 @@ export function DetailModal({
 
               {/* Modal Body */}
               <div className="px-6 py-6 space-y-6 flex-1 overflow-y-auto">
+
+                {/* OCR review flags */}
+                {selectedTerm.ocrFlags && selectedTerm.ocrFlags.length > 0 && (
+                  <div className="rounded-lg border border-amber-200 bg-amber-50 p-3">
+                    <h3 className="text-xs font-semibold text-amber-700 uppercase tracking-wider mb-2">
+                      OCR review flags
+                    </h3>
+                    <ul className="space-y-1">
+                      {selectedTerm.ocrFlags.map((f) => {
+                        const crucial = CRUCIAL_FLAGS.has(f);
+                        return (
+                          <li key={f} className="text-sm flex items-start gap-2">
+                            <span className={crucial ? "font-bold text-amber-600" : "text-blue-500"}>
+                              {crucial ? "[!]" : "ⓘ"}
+                            </span>
+                            <span className="text-slate-700">{FLAG_LABELS[f] ?? f}</span>
+                          </li>
+                        );
+                      })}
+                    </ul>
+                  </div>
+                )}
 
                 {/* Explanation */}
                 {selectedTerm.explain && (
@@ -123,6 +148,7 @@ export function DetailModal({
                 )}
 
                 {/* Dictionary Page Image */}
+                {selectedTerm.imageName && (
                 <div>
                   <div className="flex items-center justify-between mb-2">
                     <h3 className="text-xs font-semibold text-amber-600 uppercase tracking-wider flex items-center">
@@ -148,8 +174,8 @@ export function DetailModal({
                     onWheel={onWheel}
                   >
                     <img
-                      src={`/lessing-images/${selectedTerm.imageName}`}
-                      alt={`Dictionary page for ${selectedTerm.dicForm}`}
+                      src={`https://raw.githubusercontent.com/TNTErick/lessing-hsiao-assets/main/lessing-images/${selectedTerm.imageName}`}
+                      alt={`Dictionary page for ${selectedTerm.tradRom}`}
                       className="block"
                       style={{ width: `${imageZoom * 100}%`, maxWidth: 'none' }}
                       loading="lazy"
@@ -157,6 +183,7 @@ export function DetailModal({
                     />
                   </div>
                 </div>
+                )}
 
               </div>
             </div>

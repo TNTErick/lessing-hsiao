@@ -6,7 +6,7 @@ import type { langType, SearchField } from './interface';
 import { Header } from './components/Header';
 import type { RomanizationScheme } from './utils/script-conversion';
 
-import { LESSING_DICT, type LessingDictEntry } from './data/lessing-dict';
+import type { LessingDictEntry } from './data/lessing-dict';
 import { DetailModal } from './components/DetailModal';
 import { NotificationToast } from './components/NotificationToast';
 import DictionaryCard from './components/DictionaryCard';
@@ -54,7 +54,45 @@ function DictionaryListRow({
 
 export default function DictionaryApp() {
   // --- STATE ---
-  const data = LESSING_DICT;
+  // Two-phase load (kept out of the JS bundle so the shell paints instantly):
+  //  1. dict-index.json — light (no explain/examples): list + romanised/cyrillic search.
+  //  2. dict-detail.json — heavy definitions, merged in afterwards (English search + modal
+  //     text light up once it arrives). See scripts/gen_web_data.py.
+  const [data, setData] = useState<LessingDictEntry[]>([]);
+  const [dataLoading, setDataLoading] = useState<boolean>(true);
+  const [detailLoaded, setDetailLoaded] = useState<boolean>(false);
+  useEffect(() => {
+    let alive = true;
+    const base = import.meta.env.BASE_URL;
+    fetch(`${base}dict-index.json`)
+      .then((r) => r.json())
+      .then((idx: LessingDictEntry[]) => {
+        if (!alive) return;
+        setData(idx);
+        setDataLoading(false);
+        // Phase 2: definitions, in the background. Mutate the same objects so an already-open
+        // modal (which holds a reference) fills in too, then trigger a re-render.
+        fetch(`${base}dict-detail.json`)
+          .then((r) => r.json())
+          .then((detail: Record<string, { explain?: string; examples?: string; sourceId?: string; imageName?: string }>) => {
+            if (!alive) return;
+            for (const e of idx) {
+              const d = detail[e.index];
+              if (d) {
+                if (d.explain) e.explain = d.explain;
+                if (d.examples) e.examples = d.examples;
+                if (d.sourceId) e.sourceId = d.sourceId;
+                if (d.imageName) e.imageName = d.imageName;
+              }
+            }
+            setData([...idx]);
+            setDetailLoaded(true);
+          })
+          .catch(() => { if (alive) setDetailLoaded(true); });
+      })
+      .catch(() => { if (alive) setDataLoading(false); });
+    return () => { alive = false; };
+  }, []);
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [selectedLetter, setSelectedLetter] = useState<string>('All');
   const [selectedTerm, setSelectedTerm] = useState<LessingDictEntry | null>(null); // For the modal
@@ -70,6 +108,7 @@ export default function DictionaryApp() {
   const [language, setLanguage] = useState<langType>('en');
   const [romanisationScheme, setRomanisationScheme] = useState<RomanizationScheme>('hsiao');
   const [searchField, setSearchField] = useState<SearchField>('romanisation');
+  const [mainOnly, setMainOnly] = useState<boolean>(true); // hide appendix/supplement entries by default
 
   const dynamicRowHeight = useDynamicRowHeight({
     defaultRowHeight: 100,
@@ -121,6 +160,11 @@ export default function DictionaryApp() {
   const filteredData = useMemo(() => {
     let result: LessingDictEntry[] = [...data];
 
+    // 0. Hide appendix/supplement entries unless the user opts in
+    if (mainOnly) {
+      result = result.filter(item => !item.appendix);
+    }
+
     // 1. Filter by Favorites
     // if (showFavoritesOnly) {
     //   result = result.filter(item => favorites.includes(item.id));
@@ -136,21 +180,21 @@ export default function DictionaryApp() {
       } else {
         // romanisation: match against the converted form for the active scheme
         result = result.filter(item =>
-          convertToRomanised(item.dicForm, romanisationScheme).toLowerCase().includes(lowerQuery)
+          convertToRomanised(item.tradRom, romanisationScheme).toLowerCase().includes(lowerQuery)
         );
       }
     }
 
-    // 3. Filter by Letter (Based on dicForm for alphabet filtering)
+    // 3. Filter by Letter (Based on tradRom for alphabet filtering)
     if (selectedLetter !== 'All' && !searchQuery) {
       result = result.filter(item =>
-        item.dicForm.charAt(0).toUpperCase() === selectedLetter
+        item.tradRom.charAt(0).toUpperCase() === selectedLetter
       );
     }
 
-    // 4. Sort Alphabetically (by dicForm)
-    return result.sort((a, b) => a.dicForm.localeCompare(b.dicForm));
-  }, [data, searchQuery, selectedLetter, searchField, romanisationScheme
+    // 4. Sort Alphabetically (by tradRom)
+    return result.sort((a, b) => a.tradRom.localeCompare(b.tradRom));
+  }, [data, searchQuery, selectedLetter, searchField, romanisationScheme, mainOnly
     // , showFavoritesOnly, favorites
   ]);
 
@@ -171,6 +215,8 @@ export default function DictionaryApp() {
         setRomanisationScheme={setRomanisationScheme}
         searchField={searchField}
         setSearchField={setSearchField}
+        mainOnly={mainOnly}
+        setMainOnly={setMainOnly}
       />
 
       {/* MAIN CONTENT */}
@@ -179,12 +225,21 @@ export default function DictionaryApp() {
         {/* Results Count */}
         <div className="mb-2 flex items-center justify-between text-sm text-gray-500">
           <p>Showing {filteredData.length} result{filteredData.length !== 1 && 's'}</p>
-          {searchQuery && <p>Filtering by "{searchQuery}"</p>}
+          {searchField === 'english' && searchQuery && !detailLoaded
+            ? <p className="text-amber-600">Loading definitions…</p>
+            : searchQuery && <p>Filtering by "{searchQuery}"</p>}
         </div>
 
         {/* List of Terms */}
         <div className="flex-1 min-h-0">
-          {filteredData.length > 0 ? (
+          {dataLoading ? (
+            <div className="text-center py-20 text-slate-500">
+              <div className="bg-slate-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 animate-pulse">
+                <Search className="w-8 h-8 text-slate-400" />
+              </div>
+              <h3 className="text-lg font-medium text-slate-900">Loading dictionary…</h3>
+            </div>
+          ) : filteredData.length > 0 ? (
             <List
               style={{ height: '100%' }}
               rowCount={filteredData.length}

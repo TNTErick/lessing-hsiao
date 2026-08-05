@@ -2,6 +2,7 @@ import { ChevronRight } from "lucide-react";
 import type { LessingDictEntry } from "../data/lessing-dict";
 import type { JSX } from "react";
 import { convertToRomanised, convertToTraditional, type RomanizationScheme } from "../utils/script-conversion";
+import { flagTier, flagTitle } from "../utils/ocr-flags";
 
 interface DictionaryCardProps {
   item: LessingDictEntry;
@@ -15,8 +16,9 @@ export default function DictionaryCard({
   setSelectedTerm,
   romanisationScheme,
   }: DictionaryCardProps): JSX.Element {
-  const displayRomanisation = convertToRomanised(item.dicForm, romanisationScheme);
-  const traditionalScript = convertToTraditional(item.dicForm);
+  const displayRomanisation = convertToRomanised(item.tradRom, romanisationScheme);
+  const traditionalScript = convertToTraditional(item.tradRom);
+  const tier = flagTier(item.ocrFlags);
   return (
     <div
       onClick={() => setSelectedTerm(item)}
@@ -41,8 +43,14 @@ export default function DictionaryCard({
           {/* Horizontal Text Stack */}
           <div className="flex flex-col justify-center">
             <div className="flex items-baseline space-x-2">
-              <h2 className="text-xl font-bold text-slate-900">{displayRomanisation}</h2>
+              <h2 className="text-xl font-bold text-slate-900 romanised">{displayRomanisation}</h2>
               {item.cyrillic && <span className="text-sm text-slate-500 font-medium">({item.cyrillic})</span>}
+              {tier === "crucial" && (
+                <span title={flagTitle(item.ocrFlags!)} className="text-sm font-bold text-amber-600 cursor-help select-none">[!]</span>
+              )}
+              {tier === "general" && (
+                <span title={flagTitle(item.ocrFlags!)} className="text-sm text-blue-500 cursor-help select-none">&#9432;</span>
+              )}
             </div>
 
             {item.explain && (
