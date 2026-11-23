@@ -6,7 +6,7 @@ import eslint from 'vite-plugin-eslint'
 
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
-  base: '/lessing-hsiao/',
+  base: '/',
   plugins: [
     react(),
     tailwindcss(),

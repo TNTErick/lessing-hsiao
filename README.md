@@ -2,7 +2,7 @@
 
 An interactive web interface for **Lessing's Mongolian-English Dictionary** (1960), supporting romanised, Cyrillic, and traditional Mongolian script.
 
-Live at: **https://tnterick.github.io/lessing-hsiao/**
+Live at: **https://lessing.chunkil.im/**
 
 ---
 
